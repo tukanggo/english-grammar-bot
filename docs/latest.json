@@ -4,247 +4,283 @@
   "questions": [
     {
       "id": 1,
-      "question": "Neither the teacher nor the students _____ aware of the sudden schedule change yesterday.",
+      "question": "Neither of the boys ________ willing to admit that he had broken the vase.",
       "options": {
-        "A": "was",
+        "A": "are",
         "B": "were",
-        "C": "is",
-        "D": "are"
+        "C": "was",
+        "D": "have been"
       },
-      "answer": "B",
-      "explanation": "由 neither... nor... 连接两个主语时，谓语动词遵循“就近原则”。此处与靠近谓语的主语 the students（复数）保持一致，且时间状语为 yesterday（过去时），故选 were。"
+      "answer": "C",
+      "explanation": "“Neither of + 复数名词”作主语时，谓语动词通常用单数形式。句中根据过去完成时“had broken”可知语境为过去时，故选 was。"
     },
     {
       "id": 2,
-      "question": "The captain, along with his crew members, _____ praised for their bravery after rescuing the passengers.",
+      "question": "Mrs Lee, together with her twin daughters, ________ for London tomorrow night.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "has",
-        "D": "have"
+        "A": "is leaving",
+        "B": "are leaving",
+        "C": "leave",
+        "D": "have left"
       },
       "answer": "A",
-      "explanation": "当主语后面带有 along with, together with, as well as 等短语时，谓语动词的人称和数只由前面的真正主语决定。本题主语为单数 The captain，且为被动语态（过去时），故选 was。"
+      "explanation": "当主语后接“together with / as well as / along with”等介词短语时，谓语动词的数取决于前面的主语 Mrs Lee（单数），故用单数形式 is leaving。"
     },
     {
       "id": 3,
-      "question": "Grandfather rarely watches television in the evening, _____?",
+      "question": "He seldom goes to the cinema on weekdays, ________ he?",
       "options": {
-        "A": "doesn't he",
-        "B": "does he",
-        "C": "isn't he",
-        "D": "is he"
+        "A": "doesn't",
+        "B": "does",
+        "C": "isn't",
+        "D": "is"
       },
       "answer": "B",
-      "explanation": "陈述句中含有否定副词 rarely（罕见、极少），整个句子视为否定句，反义疑问句的附加问句部分应用肯定形式。主语是 Grandfather，时态为一般现在时，故用 does he。"
+      "explanation": "陈述句中含有否定副词 seldom，反义疑问句的疑问部分需用肯定形式；时态为一般现在时，主语是 he，助动词用 does。"
     },
     {
       "id": 4,
-      "question": "The fire alarm went off while the pupils _____ their science experiment in the laboratory.",
+      "question": "The students are looking forward to ________ the Science Centre next Friday.",
       "options": {
-        "A": "conducted",
-        "B": "were conducting",
-        "C": "have conducted",
-        "D": "are conducting"
+        "A": "visit",
+        "B": "visited",
+        "C": "visiting",
+        "D": "be visited"
       },
-      "answer": "B",
-      "explanation": "while 引导的时间状语从句通常强调过去某个动作正在发生时另一短暂动作突然发生（went off），从句应用过去进行时（were conducting）。"
+      "answer": "C",
+      "explanation": "“look forward to”中的 to 为介词，后面须接动名词（V-ing），故选 visiting。"
     },
     {
       "id": 5,
-      "question": "The girl _____ project won first prize was interviewed by the school reporter.",
-      "options": {
-        "A": "who",
-        "B": "whom",
-        "C": "whose",
-        "D": "which"
-      },
-      "answer": "C",
-      "explanation": "定语从句中修饰先行词 The girl，且在从句中作名词 project 的定语，表示“……的项目”（所属关系），应使用关系代词 whose。"
-    },
-    {
-      "id": 6,
-      "question": "There is only _____ milk left in the fridge, so we need to buy a fresh carton today.",
+      "question": "There was ________ water left in the kettle, so we could not make any tea.",
       "options": {
         "A": "a few",
         "B": "a little",
-        "C": "many",
-        "D": "several"
+        "C": "little",
+        "D": "few"
       },
-      "answer": "B",
-      "explanation": "milk 是不可数名词，不能用修饰可数名词的 a few, many 或 several。修饰不可数名词且表示“有一点”应使用 a little。"
+      "answer": "C",
+      "explanation": "water 是不可数名词，排除 few 和 a few；根据后半句“could not make any tea”可知表示几乎没有，表否定含义，故用 little。"
+    },
+    {
+      "id": 6,
+      "question": "If you ________ your homework early, you will be allowed to play computer games.",
+      "options": {
+        "A": "finish",
+        "B": "will finish",
+        "C": "finished",
+        "D": "had finished"
+      },
+      "answer": "A",
+      "explanation": "在含有 if 引导的条件状语从句中，遵循“主将从现”原则，主句用一般将来时，从句用一般现在时表示将来，故选 finish。"
     },
     {
       "id": 7,
-      "question": "If it _____ tomorrow, the outdoor sports carnival will be postponed to next week.",
+      "question": "The boy ________ bicycle was stolen reported the incident to the police.",
       "options": {
-        "A": "rains",
-        "B": "will rain",
-        "C": "rained",
-        "D": "has rained"
+        "A": "who",
+        "B": "which",
+        "C": "whom",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "在 if 引导的第一条件状语从句（真实条件句）中，遵循“主将从现”原则，即主句用一般将来时，从句用一般现在时表将来。主语 it 为第三人称单数，故用 rains。"
+      "answer": "D",
+      "explanation": "先行词为 The boy，在定语从句中充当 bicycle 的定语，表示“那个男孩的自行车”，关系代词应使用所有格 whose。"
     },
     {
       "id": 8,
-      "question": "Lucas is looking forward to _____ his pen pal from Australia during the school holidays.",
+      "question": "The heavy rain caused the soccer match to be ________ until next week.",
       "options": {
-        "A": "meet",
-        "B": "meets",
-        "C": "met",
-        "D": "meeting"
+        "A": "put on",
+        "B": "put off",
+        "C": "put out",
+        "D": "put up"
       },
-      "answer": "D",
-      "explanation": "短语 look forward to 中的 to 是介词，后面必须接动名词（V-ing）或名词，因此正确答案为 meeting。"
+      "answer": "B",
+      "explanation": "“put off”表示推迟、延期；“put on”穿上/上演；“put out”熄灭；“put up”张贴/搭建。根据句意，比赛推迟到下周，故选 put off。"
     },
     {
       "id": 9,
-      "question": "The coach made the players _____ ten laps around the track for arriving late at practice.",
+      "question": "Our teacher made all of us ________ the classroom before leaving for home.",
       "options": {
-        "A": "run",
-        "B": "running",
-        "C": "to run",
-        "D": "ran"
+        "A": "swept",
+        "B": "sweeping",
+        "C": "sweep",
+        "D": "to sweep"
       },
-      "answer": "A",
-      "explanation": "使役动词 make 的常见用法为 make someone do something（使某人做某事），宾语后接不带 to 的动词不定式（即动词原形），故选 run。"
+      "answer": "C",
+      "explanation": "使役动词 make 的常见用法为 make somebody do something（省略 to 的不定式），故选原形 sweep。"
     },
     {
       "id": 10,
-      "question": "_____ feeling exhausted after the long hike, the scouts continued pitching their tents.",
+      "question": "Let's go for a cycle along the East Coast Park, ________ we?",
+      "options": {
+        "A": "shall",
+        "B": "will",
+        "C": "don't",
+        "D": "aren't"
+      },
+      "answer": "A",
+      "explanation": "以“Let's...”开头的祈使句，其反义疑问句固定用“shall we?”。"
+    },
+    {
+      "id": 11,
+      "question": "Either Mr Tan or his colleagues ________ responsible for setting up the stage.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "“Either... or...”连接两个主语时，谓语动词遵循就近原则。离谓语最近的主语是复数 his colleagues，故使用 are。"
+    },
+    {
+      "id": 12,
+      "question": "My grandfather ________ in this neighbourhood for over thirty years.",
+      "options": {
+        "A": "lives",
+        "B": "is living",
+        "C": "has lived",
+        "D": "lived"
+      },
+      "answer": "C",
+      "explanation": "句中有持续时间短语“for over thirty years”，表示从过去持续到现在的动作，应用现在完成时 has lived。"
+    },
+    {
+      "id": 13,
+      "question": "________ the heavy traffic, we managed to arrive at the airport on time.",
       "options": {
         "A": "Although",
         "B": "Despite",
         "C": "Even though",
-        "D": "In spite"
+        "D": "Because"
       },
       "answer": "B",
-      "explanation": "Although 和 Even though 后面需要接完整的句子；In spite 必须与 of 连用（In spite of）；Despite 是介词，后接名词、代词或动名词短语（feeling exhausted），表示“尽管”，故选 Despite。"
-    },
-    {
-      "id": 11,
-      "question": "The children managed to assemble the complicated robot model all by _____.",
-      "options": {
-        "A": "themselves",
-        "B": "theirselves",
-        "C": "himself",
-        "D": "ourselves"
-      },
-      "answer": "A",
-      "explanation": "主语是 The children（第三人称复数），对应的反身代词是 themselves。by oneself 表示“独自、靠自己”。英语中没有 theirselves 这个词。"
-    },
-    {
-      "id": 12,
-      "question": "Each of the participants _____ given a certificate of participation at the end of the workshop.",
-      "options": {
-        "A": "are",
-        "B": "were",
-        "C": "is",
-        "D": "have been"
-      },
-      "answer": "C",
-      "explanation": "“Each of + 复数名词”作主语时，谓语动词通常用单数形式，表示“每一个”。结合语境选择单数被动语态 is given。"
-    },
-    {
-      "id": 13,
-      "question": "By the time the ambulance arrived at the scene, the injured cyclist _____ first aid from a bystander.",
-      "options": {
-        "A": "had received",
-        "B": "received",
-        "C": "has received",
-        "D": "receives"
-      },
-      "answer": "A",
-      "explanation": "by the time 引导过去时间状语从句（arrived）时，主句动作发生在“过去的过去”，表示在救护车到达之前就已经接受了急救，因此主句应用过去完成时（had + 过去分词）。"
+      "explanation": "“the heavy traffic”是名词短语，需用介词。Although 和 Even though 后面接句子，Despite 是介词，意为“尽管”，故选 Despite。"
     },
     {
       "id": 14,
-      "question": "Due to the torrential downpour, the organizers had no choice but to _____ the soccer match.",
+      "question": "Everyone in the audience ________ amazed by the magician's final trick.",
       "options": {
-        "A": "call on",
-        "B": "call off",
-        "C": "call out",
-        "D": "call in"
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
       },
-      "answer": "B",
-      "explanation": "短语动词辨析：call off 意为“取消”；call on 意为“号召/拜访”；call out 意为“大声叫喊”；call in 意为“召来/收回”。根据语境由于大雨只能取消比赛，选 call off。"
+      "answer": "A",
+      "explanation": "不定代词 everyone 作主语时视作单数，结合过去语境，谓语动词应选用 was。"
     },
     {
       "id": 15,
-      "question": "Between the two twin brothers, Kenneth is clearly the _____ runner.",
+      "question": "By the time the firefighter arrived, the fire ________ by the neighbours.",
+      "options": {
+        "A": "is put out",
+        "B": "has been put out",
+        "C": "had been put out",
+        "D": "was putting out"
+      },
+      "answer": "C",
+      "explanation": "由“By the time + 一般过去时”引导的时间状语从句可知，主句动作发生在过去某个时间之前，属于“过去的过去”，且主语 the fire 与 put out 是被动关系，用过去完成时的被动语态 had been put out。"
+    },
+    {
+      "id": 16,
+      "question": "You ________ carry an umbrella; the weather forecast says it will be sunny all day.",
+      "options": {
+        "A": "mustn't",
+        "B": "needn't",
+        "C": "can't",
+        "D": "shouldn't"
+      },
+      "answer": "B",
+      "explanation": "根据天气预报全天晴天可知，没有必要带伞。needn't 表示“不必”；mustn't 表示“禁止”，故选 needn't。"
+    },
+    {
+      "id": 17,
+      "question": "The librarian told the children to stop ________ and listen to instructions.",
+      "options": {
+        "A": "to chatter",
+        "B": "chattered",
+        "C": "chattering",
+        "D": "chatter"
+      },
+      "answer": "C",
+      "explanation": "stop doing sth 表示“停止正在做的事情”，stop to do sth 表示“停下来去开始做另一件事”。管理员让孩子们停止聊天，故选 chattering。"
+    },
+    {
+      "id": 18,
+      "question": "Of the two runners, Ken is definitely the ________ one.",
       "options": {
         "A": "fast",
         "B": "faster",
         "C": "fastest",
-        "D": "more fast"
+        "D": "most fast"
       },
       "answer": "B",
-      "explanation": "两者之间进行比较时，应用比较级；在特指两者中较……的一个时，常用结构为“the + 比较级”，故选 faster。"
-    },
-    {
-      "id": 16,
-      "question": "The annual school concert will be held _____ Saturday morning at nine o'clock.",
-      "options": {
-        "A": "in",
-        "B": "on",
-        "C": "at",
-        "D": "by"
-      },
-      "answer": "B",
-      "explanation": "具体某一天的上午、下午或晚上，介词一律用 on（如 on Saturday morning）。"
-    },
-    {
-      "id": 17,
-      "question": "The antique vase _____ accidentally broken by the mischievous kitten an hour ago.",
-      "options": {
-        "A": "was",
-        "B": "is",
-        "C": "were",
-        "D": "has"
-      },
-      "answer": "A",
-      "explanation": "时间状语 an hour ago 表示一般过去时，主语 The antique vase 为单数可数名词，且花瓶是被打碎的，应用单数被动语态 was broken。"
-    },
-    {
-      "id": 18,
-      "question": "Let's tidy up the art room before the bell rings, _____?",
-      "options": {
-        "A": "shall we",
-        "B": "will you",
-        "C": "don't we",
-        "D": "can we"
-      },
-      "answer": "A",
-      "explanation": "以 Let's 开头的祈使句，其反义疑问句的附加问句固定使用 shall we；若是 Let us 则通常用 will you。"
+      "explanation": "两者之间进行比较，应用比较级，且特指两者中“更……”的一个时，需用“the + 比较级”，故选 faster。"
     },
     {
       "id": 19,
-      "question": "The elderly gentleman to _____ I gave up my seat thanked me warmly.",
+      "question": "Each of the winners ________ a certificate and a medal during the ceremony.",
       "options": {
-        "A": "who",
-        "B": "whom",
-        "C": "whose",
-        "D": "which"
+        "A": "receive",
+        "B": "receives",
+        "C": "are receiving",
+        "D": "have received"
       },
       "answer": "B",
-      "explanation": "定语从句先行词是人（The elderly gentleman），且关系代词紧跟在介词 to 之后作介词宾语，必须使用宾格形式 whom。"
+      "explanation": "“Each of + 复数名词”作主语时，谓语动词用单数形式 receives。"
     },
     {
       "id": 20,
-      "question": "Look at the damp pavement and puddles everywhere. It _____ rained heavily last night.",
+      "question": "Lucas was used to ________ up at six o'clock every morning to catch the school bus.",
       "options": {
-        "A": "must have",
-        "B": "should have",
-        "C": "could have",
-        "D": "might"
+        "A": "wake",
+        "B": "wakes",
+        "C": "woke",
+        "D": "waking"
       },
-      "answer": "A",
-      "explanation": "由地上的水坑可以极有把握地推测昨晚必定下过大雨。表示对过去事实非常有把握的肯定推测，应用 must have + 过去分词。"
+      "answer": "D",
+      "explanation": "“be used to doing sth”表示“习惯于做某事”，其中的 to 是介词，后面跟动名词 waking；“used to do sth”表示“过去常常”。"
     },
     {
       "id": 21,
-      "question": "None of the luggage _____ damaged during the turbulent flight across the Pacific.",
+      "question": "She could ________ hear what the speaker said because the microphone was broken.",
+      "options": {
+        "A": "hard",
+        "B": "hardly",
+        "C": "almost",
+        "D": "nearly"
+      },
+      "answer": "B",
+      "explanation": "麦克风坏了，所以她“几乎听不到”。hardly 是具有否定意义的副词，意为“几乎不”。"
+    },
+    {
+      "id": 22,
+      "question": "This is the very museum ________ we visited during our school excursion last year.",
+      "options": {
+        "A": "which",
+        "B": "that",
+        "C": "where",
+        "D": "what"
+      },
+      "answer": "B",
+      "explanation": "先行词 museum 前有 the very（正是、恰恰是）修饰时，关系代词只能用 that，而不用 which。"
+    },
+    {
+      "id": 23,
+      "question": "I don't enjoy horror movies, and ________ does my sister.",
+      "options": {
+        "A": "so",
+        "B": "too",
+        "C": "either",
+        "D": "neither"
+      },
+      "answer": "D",
+      "explanation": "表示“某人也不……”且前句为否定句时，使用“neither + 助动词 + 主语”结构，故选 neither。"
+    },
+    {
+      "id": 24,
+      "question": "A swarm of bees ________ hovering over the colourful flowers in the garden.",
       "options": {
         "A": "was",
         "B": "were",
@@ -252,115 +288,79 @@
         "D": "have been"
       },
       "answer": "A",
-      "explanation": "luggage（行李）是不可数名词，当 none of 修饰不可数名词时，谓语动词必须使用单数形式；结合 past flight 语境，应用一般过去时 was。"
-    },
-    {
-      "id": 22,
-      "question": "Having lived in London for five years, Mrs Tan is used to _____ an umbrella everywhere she goes.",
-      "options": {
-        "A": "carry",
-        "B": "carries",
-        "C": "carrying",
-        "D": "carried"
-      },
-      "answer": "C",
-      "explanation": "短语 be used to doing something 表示“习惯于做某事”，其中的 to 为介词，后接动名词形式 carrying。区别于 used to do（过去常常做）。"
-    },
-    {
-      "id": 23,
-      "question": "You will not pass the advanced swimming test _____ you practice consistently every week.",
-      "options": {
-        "A": "if",
-        "B": "unless",
-        "C": "although",
-        "D": "since"
-      },
-      "answer": "B",
-      "explanation": "unless 意为“除非……否则不”（相当于 if not）。句意为“除非你每周坚持练习，否则你无法通过高阶游泳测试”。"
-    },
-    {
-      "id": 24,
-      "question": "Many aspiring young badminton players _____ Loh Kean Yew as their inspiring role model.",
-      "options": {
-        "A": "look up to",
-        "B": "look down on",
-        "C": "look out for",
-        "D": "look into"
-      },
-      "answer": "A",
-      "explanation": "短语动词辨析：look up to 表示“尊敬、敬佩、视……为偶像”；look down on 表示“轻视”；look out for 表示“当心”；look into 表示“调查”。"
+      "explanation": "“A swarm of...”表示一群蜜蜂，作为单数集合名词短语，谓语动词应选用单数形式 was。"
     },
     {
       "id": 25,
-      "question": "The disciplinary committee _____ decided to implement stricter rules regarding smartphone usage in school.",
+      "question": "Nobody called while I was out, ________?",
       "options": {
-        "A": "has",
-        "B": "have",
-        "C": "are",
-        "D": "were"
+        "A": "did he",
+        "B": "did they",
+        "C": "didn't they",
+        "D": "didn't he"
       },
-      "answer": "A",
-      "explanation": "committee（委员会）为集体名词，此处强调委员会作为一个整体做出统一决策，谓语动词用单数 has decided。"
+      "answer": "B",
+      "explanation": "陈述句主语是不定代词 nobody 时，疑问尾句的主语通常用 they 代替；nobody 表达否定概念，故疑问部分用肯定式 did they。"
     },
     {
       "id": 26,
-      "question": "Mr Lim saw a suspicious man _____ over the school fence into the compound yesterday evening.",
+      "question": "The chef was accused ________ using expired ingredients in his signature dish.",
       "options": {
-        "A": "climb",
-        "B": "to climb",
-        "C": "climbed",
-        "D": "climbs"
+        "A": "for",
+        "B": "with",
+        "C": "of",
+        "D": "to"
       },
-      "answer": "A",
-      "explanation": "感官动词 see 的用法为 see somebody do/doing something。此处强调看到了爬墙的全过程，用不带 to 的不定式 climb（或强调正在进行的 climbing，但选项中无 climbing，只有 climb 原形）。"
+      "answer": "C",
+      "explanation": "固定短语“be accused of (doing) sth”表示“被指控/被指责做某事”，故介词选 of。"
     },
     {
       "id": 27,
-      "question": "Hardly had the movie started _____ a patron's mobile phone rang shrilly in the cinema.",
+      "question": "The parcel ________ to the wrong address because the label was torn.",
       "options": {
-        "A": "when",
-        "B": "than",
-        "C": "then",
-        "D": "while"
+        "A": "delivered",
+        "B": "was delivered",
+        "C": "delivering",
+        "D": "has delivered"
       },
-      "answer": "A",
-      "explanation": "固定句型 Hardly... when...（一……就……），表示电影刚一开始，观众的手机就响了。与之对应的 No sooner 则与 than 搭配。"
+      "answer": "B",
+      "explanation": "主语 parcel（包裹）与 deliver（递送）是被动关系，且事情发生在过去，应用一般过去时的被动语态 was delivered。"
     },
     {
       "id": 28,
-      "question": "The school counselor gave the distressed pupil several useful _____ on coping with exam anxiety.",
+      "question": "You will not pass the swimming test ________ you practise regularly.",
       "options": {
-        "A": "pieces of advice",
-        "B": "advices",
-        "C": "pieces of advices",
-        "D": "advises"
+        "A": "if",
+        "B": "unless",
+        "C": "since",
+        "D": "although"
       },
-      "answer": "A",
-      "explanation": "advice 是不可数名词，没有复数形式 advices；表示几条建议时，应用 pieces of advice；advises 是动词第三人称单数形式。"
+      "answer": "B",
+      "explanation": "unless 意为“除非；如果不”，相当于 if... not。全句意为“除非你经常练习，否则你无法通过游泳测试”。"
     },
     {
       "id": 29,
-      "question": "Ethan wished he _____ tall enough to reach the top shelf in the library without using a ladder.",
+      "question": "My father advised me ________ too much time playing online games.",
       "options": {
-        "A": "is",
-        "B": "was",
-        "C": "were",
-        "D": "has been"
+        "A": "not spend",
+        "B": "not to spend",
+        "C": "to not spend",
+        "D": "don't spend"
       },
-      "answer": "C",
-      "explanation": "wish 后面引导的宾语从句表示与现在事实相反的虚拟语气，be 动词一律用 were（在正式英语规范及新加坡/剑桥语法考试中要求使用 were）。"
+      "answer": "B",
+      "explanation": "固定句型“advise sb (not) to do sth”表示“建议某人（不要）做某事”，动词不定式的否定形式是在 to 前加 not，故选 not to spend。"
     },
     {
       "id": 30,
-      "question": "Either of the two routes _____ straight to the national museum downtown.",
+      "question": "The newly opened shopping mall has ________ parking lots than the old one.",
       "options": {
-        "A": "lead",
-        "B": "leads",
-        "C": "leading",
-        "D": "have led"
+        "A": "less",
+        "B": "fewer",
+        "C": "much",
+        "D": "little"
       },
       "answer": "B",
-      "explanation": "“Either of + 复数名词”表示“两者中的任何一个”，作主语时谓语动词用第三人称单数形式，叙述客观事实用一般现在时，故选 leads。"
+      "explanation": "parking lots 是可数名词复数，结合比较级标志词 than，修饰可数名词复数应使用 fewer（few 的比较级），不可用 less（修饰不可数名词）。"
     }
   ]
 }
