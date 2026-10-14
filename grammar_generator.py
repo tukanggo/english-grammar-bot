@@ -36,9 +36,9 @@ def generate_daily_grammar():
 
     print("正在向 Gemini API 发送请求...")
     try:
-        # 使用最稳定的 gemini-2.0-flash 模型
+        # 强制更新为官方要求的 gemini-3.8-flash 模型
         response = client.models.generate_content(
-            model='gemini-2.0-flash',
+            model='gemini-3.8-flash',
             contents=prompt
         )
         grammar_content = response.text
