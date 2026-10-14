@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>P4-P5 English Grammar Daily Quiz</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-slate-50 min-h-screen py-8 px-4">
+    <div class="max-w-3xl mx-auto bg-white rounded-2xl shadow-xl p-6 md:p-10">
+        <header class="text-center mb-8">
+            <span class="bg-indigo-100 text-indigo-700 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">AI Daily Practice</span>
+            <h1 id="quiz-title" class="text-2xl md:text-3xl font-bold text-slate-800 mt-2">Primary 4-5 English Grammar</h1>
+            <p id="quiz-date" class="text-slate-500 text-sm mt-1">加载中...</p>
+        </header>
+
+        <div id="quiz-container" class="space-y-6">
+            <p class="text-center text-slate-400">正在从云端加载今日题目...</p>
+        </div>
+
+        <div id="submit-section" class="mt-8 text-center hidden">
+            <button onclick="submitQuiz()" class="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-8 rounded-xl shadow-lg transition duration-200">
+                提交答案并查看解析
+            </button>
+        </div>
+
+        <div id="result-section" class="mt-8 hidden p-6 bg-indigo-50 rounded-xl text-center">
+            <h2 class="text-xl font-bold text-indigo-900">测验结果</h2>
+            <p id="score-text" class="text-3xl font-extrabold text-indigo-600 mt-2"></p>
+        </div>
+    </div>
+
+    <script>
+        let quizData = null;
+
+        async function loadQuiz() {
+            try {
+                const response = await fetch('latest.json');
+                quizData = await response.json();
+                
+                document.getElementById('quiz-title').innerText = quizData.topic || "English Grammar Quiz";
+                document.getElementById('quiz-date').innerText = "日期: " + (quizData.date || "Today");
+                
+                renderQuiz(quizData.questions);
+            } catch (error) {
+                document.getElementById('quiz-container').innerHTML = '<p class="text-center text-red-500">加载题目失败，请稍后再试。</p>';
+            }
+        }
+
+        function renderQuiz(questions) {
+            const container = document.getElementById('quiz-container');
+            container.innerHTML = '';
+            
+            questions.forEach((q, index) => {
+                let optionsHtml = '';
+                for (let key in q.options) {
+                    optionsHtml += `
+                        <label class="flex items-center space-x-3 p-3 rounded-lg border border-slate-200 hover:bg-slate-50 cursor-pointer transition">
+                            <input type="radio" name="question_${index}" value="${key}" class="w-4 h-4 text-indigo-600 focus:ring-indigo-500">
+                            <span class="font-medium text-slate-700">${key}. ${q.options[key]}</span>
+                        </label>
+                    `;
+                }
+
+                container.innerHTML += `
+                    <div class="bg-white border border-slate-100 rounded-xl p-5 shadow-sm space-y-3" id="q-block-${index}">
+                        <p class="font-semibold text-slate-800">${index + 1}. ${q.question}</p>
+                        <div class="space-y-2">${optionsHtml}</div>
+                        <div id="explanation-${index}" class="hidden mt-3 p-3 bg-amber-50 border-l-4 border-amber-400 text-sm text-amber-900 rounded"></div>
+                    </div>
+                `;
+            });
+
+            document.getElementById('submit-section').classList.remove('hidden');
+        }
+
+        function submitQuiz() {
+            let score = 0;
+            quizData.questions.forEach((q, index) => {
+                const selected = document.querySelector(`input[name="question_${index}"]:checked`);
+                const expDiv = document.getElementById(`explanation-${index}`);
+                expDiv.classList.remove('hidden');
+                
+                if (selected && selected.value === q.answer) {
+                    score++;
+                    expDiv.innerHTML = `<span class="font-bold text-green-700">回答正确！</span> 正确答案: ${q.answer}。<br>解析: ${q.explanation}`;
+                    expDiv.className = "mt-3 p-3 bg-green-50 border-l-4 border-green-500 text-sm text-green-900 rounded";
+                } else {
+                    const userAns = selected ? selected.value : '未作答';
+                    expDiv.innerHTML = `<span class="font-bold text-red-700">回答错误。</span> 你的选择: ${userAns}，正确答案: ${q.answer}。<br>解析: ${q.explanation}`;
+                    expDiv.className = "mt-3 p-3 bg-red-50 border-l-4 border-red-500 text-sm text-red-900 rounded";
+                }
+            });
+
+            const resultSection = document.getElementById('result-section');
+            resultSection.classList.remove('hidden');
+            document.getElementById('score-text').innerText = `${score} / ${quizData.questions.length} 分`;
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        }
+
+        loadQuiz();
+    </script>
+</body>
+</html>
