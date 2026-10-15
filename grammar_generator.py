@@ -1,7 +1,9 @@
 import os
 import datetime
 import json
+import time
 from google import genai
+from google.genai.errors import ServerError
 
 def generate_daily_grammar():
     print("开始执行语法生成任务 (JSON 格式)...")
@@ -14,7 +16,6 @@ def generate_daily_grammar():
     client = genai.Client(api_key=api_key)
     today = datetime.date.today().strftime("%Y-%m-%d")
     
-    # 提示 Gemini 严格输出合法的 JSON 格式
     prompt = """
     你是一位优秀的小学英语高级教师。请为新加坡或国际学校 4-5 年级（Primary 4-5）学生设计 30 道英语语法单选题。
     
@@ -37,15 +38,27 @@ def generate_daily_grammar():
         }
       ]
     }
-    确保必须刚好有 30 道题，且 JSON 格式必须完全正确，可被直接解析。
+    确保必须刚好有 30 道题，且 JSON 格式必须完全正确。
     """
 
-    print("正在请求 Gemini API...")
-    response = client.models.generate_content(
-        model='gemini-3.8-flash',
-        contents=prompt
-    )
+    # 设置最多重试 3 次，应对 503 拥堵
+    max_retries = 3
+    response = None
     
+    for attempt in range(1, max_retries + 1):
+        try:
+            print(f"正在请求 Gemini API (尝试第 {attempt} 次)...")
+            response = client.models.generate_content(
+                model='gemini-3.8-flash',
+                contents=prompt
+            )
+            break # 成功则跳出循环
+        except ServerError as e:
+            print(f"遇到服务器拥堵 (503)，等待 5 秒后重试... (错误: {e})")
+            if attempt == max_retries:
+                raise e
+            time.sleep(5) # 等待 5 秒再试
+
     raw_text = response.text.strip()
     
     # 清理可能带有的 markdown 符号
@@ -55,14 +68,12 @@ def generate_daily_grammar():
             raw_text = raw_text[4:]
     raw_text = raw_text.strip()
 
-    # 验证是否为合法 JSON
     try:
         data = json.loads(raw_text)
     except Exception as e:
         print(f"JSON 解析失败，保存原始内容。错误: {e}")
         data = {"raw_content": raw_text}
 
-    # 保存为统一的 latest.json 文件（供网页随时调用）
     folder_name = "docs"
     os.makedirs(folder_name, exist_ok=True)
     
