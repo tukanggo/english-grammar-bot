@@ -1,214 +1,10 @@
 {
-  "date": "2026-10-15",
-  "topic": "专项练习 - 动名词与动词不定式 (Gerunds and Infinitives)",
+  "date": "2026-10-16",
+  "topic": "专项练习 - 动名词与动词不定式辨析 (Gerunds and Infinitives)",
   "questions": [
     {
       "id": 1,
-      "question": "My younger sister really enjoys ______ mysteries before going to bed.",
-      "options": {
-        "A": "to read",
-        "B": "reading",
-        "C": "reads",
-        "D": "read"
-      },
-      "answer": "B",
-      "explanation": "enjoy 后面必须接动名词作宾语，即 enjoy doing sth.，因此选择 reading。"
-    },
-    {
-      "id": 2,
-      "question": "After discussing for an hour, our team decided ______ the science project together.",
-      "options": {
-        "A": "to complete",
-        "B": "completing",
-        "C": "completed",
-        "D": "complete"
-      },
-      "answer": "A",
-      "explanation": "decide 后面通常接不定式作宾语，固定搭配为 decide to do sth.，因此选 to complete。"
-    },
-    {
-      "id": 3,
-      "question": "All the students are looking forward to ______ the natural history museum next Friday.",
-      "options": {
-        "A": "visit",
-        "B": "visited",
-        "C": "visiting",
-        "D": "to visit"
-      },
-      "answer": "C",
-      "explanation": "look forward to 中的 to 是介词，后面必须跟名词或动名词（doing），因此选 visiting。"
-    },
-    {
-      "id": 4,
-      "question": "Leo was exhausted after the marathon, so he stopped ______ under a big oak tree.",
-      "options": {
-        "A": "resting",
-        "B": "to rest",
-        "C": "rest",
-        "D": "rested"
-      },
-      "answer": "B",
-      "explanation": "stop to do 表示“停下手中的事去做另一件事”；stop doing 表示“停止正在做的事”。句意是他太累了，所以停下来去休息，故用 to rest。"
-    },
-    {
-      "id": 5,
-      "question": "The library is quiet. Please stop ______ loudly with your classmates.",
-      "options": {
-        "A": "talking",
-        "B": "to talk",
-        "C": "talk",
-        "D": "talked"
-      },
-      "answer": "A",
-      "explanation": "图书馆需要安静，因此是要求“停止正在大声说话的行为”，stop doing sth. 表示停止正在做的事，选 talking。"
-    },
-    {
-      "id": 6,
-      "question": "If you want to play the piano well, you must practise ______ scales every single day.",
-      "options": {
-        "A": "play",
-        "B": "to play",
-        "C": "playing",
-        "D": "played"
-      },
-      "answer": "C",
-      "explanation": "practise 后面固定接动名词作宾语，即 practise doing sth.，故选 playing。"
-    },
-    {
-      "id": 7,
-      "question": "The naughty puppy refused ______ into the bathtub for a wash.",
-      "options": {
-        "A": "jump",
-        "B": "jumping",
-        "C": "to jump",
-        "D": "jumped"
-      },
-      "answer": "C",
-      "explanation": "refuse 后接动词不定式做宾语，构成 refuse to do sth.（拒绝做某事），故选 to jump。"
-    },
-    {
-      "id": 8,
-      "question": "Emily is extremely good at ______ chess and has won several school trophies.",
-      "options": {
-        "A": "play",
-        "B": "playing",
-        "C": "to play",
-        "D": "played"
-      },
-      "answer": "B",
-      "explanation": "be good at 结构中 at 为介词，介词后接动词必须使用动名词形式（-ing），故选 playing。"
-    },
-    {
-      "id": 9,
-      "question": "Please remember ______ off the classroom lights before leaving for the weekend.",
-      "options": {
-        "A": "turning",
-        "B": "turn",
-        "C": "to turn",
-        "D": "turned"
-      },
-      "answer": "C",
-      "explanation": "remember to do sth. 表示“记着去做某事（事情尚未做）”；remember doing sth. 表示“记得做过某事”。此处是提醒离校前记得关灯，故选 to turn。"
-    },
-    {
-      "id": 10,
-      "question": "I clearly remember ______ the front door this morning; I definitely turned the key twice.",
-      "options": {
-        "A": "locking",
-        "B": "to lock",
-        "C": "lock",
-        "D": "locked"
-      },
-      "answer": "A",
-      "explanation": "根据后半句“我确实转了两圈钥匙”，说明关门锁门是已经发生过的事。remember doing sth. 表示记得做过某事，故选 locking。"
-    },
-    {
-      "id": 11,
-      "question": "______ regularly is one of the healthiest habits a person can develop.",
-      "options": {
-        "A": "Exercise",
-        "B": "Exercising",
-        "C": "Exercised",
-        "D": "Exercises"
-      },
-      "answer": "B",
-      "explanation": "动名词短语可在句中作主语，表示一种经常性的抽象行为。此处 Exercising regularly 作主语，故选 B。"
-    },
-    {
-      "id": 12,
-      "question": "Sophia hopes ______ an astronaut and travel to Mars in the future.",
-      "options": {
-        "A": "becoming",
-        "B": "to become",
-        "C": "become",
-        "D": "became"
-      },
-      "answer": "B",
-      "explanation": "hope 后面只能接不定式作宾语，即 hope to do sth.，不能接 hope sb. to do 或 hope doing，故选 to become。"
-    },
-    {
-      "id": 13,
-      "question": "You should avoid ______ sweet beverages right before going to sleep.",
-      "options": {
-        "A": "drinking",
-        "B": "to drink",
-        "C": "drink",
-        "D": "drank"
-      },
-      "answer": "A",
-      "explanation": "avoid 意为“避免”，后面只能接动名词作宾语，即 avoid doing sth.，故选 drinking。"
-    },
-    {
-      "id": 14,
-      "question": "Jack promised ______ me with my math homework as soon as he finished his dinner.",
-      "options": {
-        "A": "help",
-        "B": "helping",
-        "C": "to help",
-        "D": "helped"
-      },
-      "answer": "C",
-      "explanation": "promise 后面接动词不定式作宾语，固定搭配 promise to do sth.（答应做某事），故选 to help。"
-    },
-    {
-      "id": 15,
-      "question": "Our art teacher suggested ______ recycled cardboard to build the model city.",
-      "options": {
-        "A": "use",
-        "B": "using",
-        "C": "to use",
-        "D": "used"
-      },
-      "answer": "B",
-      "explanation": "suggest 后面接动词时，必须使用动名词形式 suggest doing sth.（严禁使用 suggest to do），故选 using。"
-    },
-    {
-      "id": 16,
-      "question": "Don't forget ______ your student ID card tomorrow morning; the security guard will check it.",
-      "options": {
-        "A": "bring",
-        "B": "bringing",
-        "C": "to bring",
-        "D": "brought"
-      },
-      "answer": "C",
-      "explanation": "forget to do sth. 表示“忘记去做某事（事情还没做）”；forget doing sth. 表示“忘记曾经做过某事”。此处提醒明天不要忘记带证件，故选 to bring。"
-    },
-    {
-      "id": 17,
-      "question": "Grandpa will never forget ______ the giant panda in the wild when he was young.",
-      "options": {
-        "A": "seeing",
-        "B": "to see",
-        "C": "see",
-        "D": "saw"
-      },
-      "answer": "A",
-      "explanation": "这里指年轻时亲眼见过大熊猫的难忘经历，表示已经经历过的事，用 forget doing sth.，故选 seeing。"
-    },
-    {
-      "id": 18,
-      "question": "Would you like ______ the robotics club with me this semester?",
+      "question": "Emma decided _______ the school robotics club after visiting their science exhibition.",
       "options": {
         "A": "join",
         "B": "joining",
@@ -216,151 +12,355 @@
         "D": "joined"
       },
       "answer": "C",
-      "explanation": "固定句型 would like to do sth. 意为“想要做某事”，注意与 like doing（常规爱好）区分，故选 to join。"
+      "explanation": "动词 decide 后面固定接动词不定式做宾语，即 decide to do sth.，意为“决定做某事”。"
+    },
+    {
+      "id": 2,
+      "question": "Do you mind _______ the classroom window? It is getting quite chilly inside.",
+      "options": {
+        "A": "close",
+        "B": "closing",
+        "C": "to close",
+        "D": "closed"
+      },
+      "answer": "B",
+      "explanation": "mind 后面接动名词形式，即 mind doing sth.，表示“介意做某事”。"
+    },
+    {
+      "id": 3,
+      "question": "The young pianist practiced _______ the sonata until she could play it perfectly from memory.",
+      "options": {
+        "A": "perform",
+        "B": "to perform",
+        "C": "performed",
+        "D": "performing"
+      },
+      "answer": "D",
+      "explanation": "practice 后接动名词作宾语，即 practice doing sth.，表示“练习做某事”。"
+    },
+    {
+      "id": 4,
+      "question": "We are all really looking forward to _______ the National Space Museum this Friday.",
+      "options": {
+        "A": "visit",
+        "B": "visiting",
+        "C": "visited",
+        "D": "to visit"
+      },
+      "answer": "B",
+      "explanation": "look forward to 中的 to 是介词，后面必须接动名词形式 doing，意为“期待做某事”。"
+    },
+    {
+      "id": 5,
+      "question": "During the long hike, Mr. Davies told the students to stop _______ some fresh mountain water.",
+      "options": {
+        "A": "drinking",
+        "B": "drank",
+        "C": "to drink",
+        "D": "drink"
+      },
+      "answer": "C",
+      "explanation": "stop to do sth. 表示“停下当前做的事情去开始做另一件事”；stop doing sth. 表示“停止正在做的事”。此处指停下徒步去喝水，故选 to drink。"
+    },
+    {
+      "id": 6,
+      "question": "The library is a quiet zone, so please stop _______ so loudly.",
+      "options": {
+        "A": "to talk",
+        "B": "talking",
+        "C": "talked",
+        "D": "talk"
+      },
+      "answer": "B",
+      "explanation": "stop doing sth. 意为“停止做某事”。在图书馆应停止大声说话，故用 talking。"
+    },
+    {
+      "id": 7,
+      "question": "Please remember _______ off the projector before you leave the lecture hall.",
+      "options": {
+        "A": "turn",
+        "B": "turning",
+        "C": "to turn",
+        "D": "turned"
+      },
+      "answer": "C",
+      "explanation": "remember to do sth. 表示“记住去做某事（事情尚未做）”；remember doing sth. 表示“记得曾经做过某事”。此处是提醒离开前别忘了关投影仪，用 to turn。"
+    },
+    {
+      "id": 8,
+      "question": "I clearly remember _______ my art project on Mrs. Green's desk yesterday morning.",
+      "options": {
+        "A": "putting",
+        "B": "to put",
+        "C": "put",
+        "D": "have put"
+      },
+      "answer": "A",
+      "explanation": "remember doing sth. 表示“记得做过某事”。句意为“我清楚地记得昨天早上把美术作业放在了格林老师的桌上”。"
+    },
+    {
+      "id": 9,
+      "question": "He refused _______ any responsibility for breaking the antique vase.",
+      "options": {
+        "A": "accepting",
+        "B": "to accept",
+        "C": "accept",
+        "D": "accepted"
+      },
+      "answer": "B",
+      "explanation": "refuse 后接动词不定式，即 refuse to do sth.，意为“拒绝做某事”。"
+    },
+    {
+      "id": 10,
+      "question": "_______ trees is one of the most effective ways to combat global warming.",
+      "options": {
+        "A": "Plant",
+        "B": "Planted",
+        "C": "Planting",
+        "D": "Plants"
+      },
+      "answer": "C",
+      "explanation": "动名词短语 Planting trees 放在句首充当句子的主语，谓语动词用单数 is。"
+    },
+    {
+      "id": 11,
+      "question": "My elder brother avoided _______ during rush hour because the traffic was dreadful.",
+      "options": {
+        "A": "driving",
+        "B": "to drive",
+        "C": "drive",
+        "D": "driven"
+      },
+      "answer": "A",
+      "explanation": "avoid 后接动名词作宾语，即 avoid doing sth.，意为“避免做某事”。"
+    },
+    {
+      "id": 12,
+      "question": "Our family cannot afford _______ on an overseas vacation this winter.",
+      "options": {
+        "A": "go",
+        "B": "going",
+        "C": "to go",
+        "D": "went"
+      },
+      "answer": "C",
+      "explanation": "afford 通常与 can/could 连用，后面接不定式，即 afford to do sth.，意为“担负得起做某事”。"
+    },
+    {
+      "id": 13,
+      "question": "Sophia is remarkably good at _______ complex mathematical riddles.",
+      "options": {
+        "A": "solve",
+        "B": "solving",
+        "C": "to solve",
+        "D": "solved"
+      },
+      "answer": "B",
+      "explanation": "介词 at 后面必须接动名词作宾语，be good at doing sth. 意为“擅长做某事”。"
+    },
+    {
+      "id": 14,
+      "question": "The coach promised _______ the squad an extra break if they completed the drills well.",
+      "options": {
+        "A": "give",
+        "B": "giving",
+        "C": "to give",
+        "D": "gave"
+      },
+      "answer": "C",
+      "explanation": "promise 后接动词不定式做宾语，即 promise to do sth.，意为“承诺/答应做某事”。"
+    },
+    {
+      "id": 15,
+      "question": "Have you finished _______ your personal reflective essay for English class?",
+      "options": {
+        "A": "to write",
+        "B": "writing",
+        "C": "write",
+        "D": "written"
+      },
+      "answer": "B",
+      "explanation": "finish 后固定接动名词形式作宾语，即 finish doing sth.，意为“完成做某事”。"
+    },
+    {
+      "id": 16,
+      "question": "My parents never allow us _______ television until all homework is completed.",
+      "options": {
+        "A": "to watch",
+        "B": "watching",
+        "C": "watch",
+        "D": "watched"
+      },
+      "answer": "A",
+      "explanation": "allow sb. to do sth. 意为“允许某人做某事”，接带 to 的不定式作宾语补足语。"
+    },
+    {
+      "id": 17,
+      "question": "The sign clearly states that the museum does not allow _______ with flash.",
+      "options": {
+        "A": "photograph",
+        "B": "to photograph",
+        "C": "photographing",
+        "D": "photographed"
+      },
+      "answer": "C",
+      "explanation": "allow 后面若没有接人作宾语，直接接动词时要用动名词，即 allow doing sth.，表示“允许做某事”。"
+    },
+    {
+      "id": 18,
+      "question": "After several attempts, Oliver finally managed _______ the difficult puzzle.",
+      "options": {
+        "A": "solving",
+        "B": "to solve",
+        "C": "solve",
+        "D": "solved"
+      },
+      "answer": "B",
+      "explanation": "manage 后接动词不定式，即 manage to do sth.，意为“设法成功完成某事”。"
     },
     {
       "id": 19,
-      "question": "Would you mind ______ the window? It is getting rather windy outside.",
+      "question": "The teacher suggested _______ a brainstorming session before writing the draft.",
       "options": {
-        "A": "closing",
-        "B": "to close",
-        "C": "close",
-        "D": "closed"
+        "A": "having",
+        "B": "to have",
+        "C": "have",
+        "D": "had"
       },
       "answer": "A",
-      "explanation": "mind 作为动词表示“介意”，后面只能接动名词做宾语，即 would you mind doing sth.?，故选 closing。"
+      "explanation": "suggest 后面直接接动词时必须用动名词形式，即 suggest doing sth.，意为“建议做某事”，不能接 suggest to do。"
     },
     {
       "id": 20,
-      "question": "As soon as Maya finished ______ the essay, she handed it to the teacher.",
+      "question": "I would like _______ you to my birthday celebration next Saturday.",
       "options": {
-        "A": "write",
-        "B": "wrote",
-        "C": "writing",
-        "D": "to write"
+        "A": "invite",
+        "B": "inviting",
+        "C": "to invite",
+        "D": "invited"
       },
       "answer": "C",
-      "explanation": "finish 后面必须接动名词作宾语，即 finish doing sth.（完成做某事），故选 writing。"
+      "explanation": "would like 意为“想要”，后接动词不定式，即 would like to do sth.。"
     },
     {
       "id": 21,
-      "question": "During the summer camp, we learned how ______ a safe campfire.",
+      "question": "Don't forget _______ your umbrella; the weather forecast predicts heavy showers.",
       "options": {
-        "A": "build",
-        "B": "to build",
-        "C": "building",
-        "D": "built"
+        "A": "bringing",
+        "B": "to bring",
+        "C": "bring",
+        "D": "brought"
       },
       "answer": "B",
-      "explanation": "“疑问词 + 不定式”（how to do sth.）在句中作宾语，表示“如何搭建”，故选 to build。"
+      "explanation": "forget to do sth. 意为“忘记去做某事（事情还没做）”；forget doing sth. 意为“忘记做过某事”。此处是提醒带伞，用 to bring。"
     },
     {
       "id": 22,
-      "question": "Even though it started raining heavily, the gardeners kept ______ the hedges.",
+      "question": "I'll never forget _______ the Northern Lights for the first time in Norway.",
       "options": {
-        "A": "trimmed",
-        "B": "to trim",
-        "C": "trimming",
-        "D": "trim"
+        "A": "see",
+        "B": "seeing",
+        "C": "to see",
+        "D": "saw"
       },
-      "answer": "C",
-      "explanation": "keep doing sth. 是固定用法，意为“继续/一直做某事”，表示动作的持续性，故选 trimming。"
+      "answer": "B",
+      "explanation": "forget doing sth. 表示“忘记做过某件事”。句意指“我永远不会忘记第一次在挪威看极光的经历”。"
     },
     {
       "id": 23,
-      "question": "Seeing that the old lady had heavy groceries, kind David offered ______ them for her.",
+      "question": "Liam spent nearly three hours _______ his messy bedroom over the weekend.",
       "options": {
-        "A": "carrying",
-        "B": "to carry",
-        "C": "carry",
-        "D": "carried"
+        "A": "to tidy",
+        "B": "tidy",
+        "C": "tidying",
+        "D": "tidied"
       },
-      "answer": "B",
-      "explanation": "offer 后面接动词不定式，构成 offer to do sth.，表示“主动提出做某事”，故选 to carry。"
+      "answer": "C",
+      "explanation": "spend + 时间 + (in) doing sth. 是固定句型，表示“花费时间做某事”，接动名词 tidying。"
     },
     {
       "id": 24,
-      "question": "The soup tastes a bit bland. You can try ______ a pinch of salt and black pepper.",
+      "question": "The doctor advised my uncle to give up _______ sugary beverages.",
       "options": {
-        "A": "to add",
-        "B": "adding",
-        "C": "add",
-        "D": "added"
+        "A": "drinking",
+        "B": "to drink",
+        "C": "drink",
+        "D": "drank"
       },
-      "answer": "B",
-      "explanation": "try doing sth. 表示“尝试一下某种方法/试试看”；try to do sth. 表示“尽力、努力去做某事”。此处指尝试放点盐看看味道如何，故选 adding。"
+      "answer": "A",
+      "explanation": "give up 是动词短语，up 是介词，介词后面必须接动名词形式，give up doing sth. 意为“放弃/戒掉做某事”。"
     },
     {
       "id": 25,
-      "question": "Thank you so much for ______ such an inspiring presentation about marine biology.",
+      "question": "If your throat feels sore, try _______ warm water with honey.",
       "options": {
-        "A": "give",
-        "B": "to give",
-        "C": "giving",
-        "D": "given"
+        "A": "drinking",
+        "B": "to drink",
+        "C": "drank",
+        "D": "drink"
       },
-      "answer": "C",
-      "explanation": "介词 for 后面要跟动名词作宾语，Thank you for doing sth. 是标准用法，故选 giving。"
+      "answer": "A",
+      "explanation": "try doing sth. 意为“尝试一下某种方法/试验某事”；try to do sth. 意为“尽力/努力去做某事”。此处指尝试喝蜂蜜温水缓解嗓子痛，故用 drinking。"
     },
     {
       "id": 26,
-      "question": "It is not easy ______ fluent in a foreign language in just six months.",
+      "question": "We tried our best _______ the steep cliff, but the rocks were too slippery.",
       "options": {
-        "A": "become",
-        "B": "to become",
-        "C": "becoming",
-        "D": "became"
+        "A": "climbing",
+        "B": "to climb",
+        "C": "climb",
+        "D": "climbed"
       },
       "answer": "B",
-      "explanation": "It is + adj. + to do sth. 为固定句型，其中 It 为形式主语，真正的主语是后面的动词不定式短语 to become...，故选 B。"
+      "explanation": "try to do sth. / try one's best to do sth. 意为“尽力做某事、努力克服困难去做某事”，因此用 to climb。"
     },
     {
       "id": 27,
-      "question": "We cannot afford ______ a new laptop until we save more money.",
+      "question": "Instead of _______ television all afternoon, why don't we ride our bikes outside?",
       "options": {
-        "A": "buying",
-        "B": "to buy",
-        "C": "buy",
-        "D": "bought"
+        "A": "watch",
+        "B": "to watch",
+        "C": "watching",
+        "D": "watched"
       },
-      "answer": "B",
-      "explanation": "afford 后面通常与 can/cannot 连用，接动词时用不定式，即 afford to do sth.（负担得起做某事），故选 to buy。"
+      "answer": "C",
+      "explanation": "instead of 中的 of 是介词，介词后必须接动名词 doing 做宾语。"
     },
     {
       "id": 28,
-      "question": "The comedian was so hilarious that the audience couldn't help ______ throughout the show.",
+      "question": "Although the homework was tough, Lucas refused _______ for help.",
       "options": {
-        "A": "laugh",
-        "B": "to laugh",
-        "C": "laughing",
-        "D": "laughed"
+        "A": "ask",
+        "B": "asking",
+        "C": "to ask",
+        "D": "asked"
       },
       "answer": "C",
-      "explanation": "can't help doing sth. 是固定短语，意为“忍不住/禁不住做某事”，后面必须接动名词，故选 laughing。"
+      "explanation": "refuse to do sth. 意为“拒绝做某事”，后面接动词不定式。"
     },
     {
       "id": 29,
-      "question": "Instead of ______ computer games all afternoon, Tim chose to ride his bike in the park.",
+      "question": "My grandmother taught me how _______ a knitted winter scarf.",
       "options": {
-        "A": "play",
-        "B": "playing",
-        "C": "to play",
-        "D": "played"
+        "A": "make",
+        "B": "making",
+        "C": "to make",
+        "D": "made"
       },
-      "answer": "B",
-      "explanation": "instead of 是介词短语，意为“代替，而不是”，其后必须接动名词形式 doing，故选 playing。"
+      "answer": "C",
+      "explanation": "“疑问词 (how/what/where) + 不定式 (to do)”构成不定式短语，常充当宾语，此处意为“如何制作”。"
     },
     {
       "id": 30,
-      "question": "Little Ben tried ______ the jar of strawberry jam on the top shelf, but he was not tall enough.",
+      "question": "Our English teacher encouraged all students _______ part in the annual debate competition.",
       "options": {
-        "A": "to reach",
-        "B": "reaching",
-        "C": "reach",
-        "D": "reached"
+        "A": "take",
+        "B": "taking",
+        "C": "took",
+        "D": "to take"
       },
-      "answer": "A",
-      "explanation": "try to do sth. 强调“努力、设法做某事（通常面临困难或未能达成）”；根据后半句“不够高”，说明他努力尝试去够但够不着，故选 to reach。"
+      "answer": "D",
+      "explanation": "encourage sb. to do sth. 意为“鼓励某人做某事”，动词不定式作宾语补足语。"
     }
   ]
 }
