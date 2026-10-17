@@ -1,366 +1,366 @@
 {
-  "date": "2026-10-16",
-  "topic": "专项练习 - 动名词与动词不定式辨析 (Gerunds and Infinitives)",
+  "date": "2026-10-17",
+  "topic": "专项练习 - 现在完成时与一般过去时的辨析及时间状语 (Present Perfect vs. Past Simple)",
   "questions": [
     {
       "id": 1,
-      "question": "Emma decided _______ the school robotics club after visiting their science exhibition.",
+      "question": "Emma ______ her keys this morning, so she cannot unlock the front door now.",
       "options": {
-        "A": "join",
-        "B": "joining",
-        "C": "to join",
-        "D": "joined"
+        "A": "loses",
+        "B": "lost",
+        "C": "has lost",
+        "D": "is losing"
       },
       "answer": "C",
-      "explanation": "动词 decide 后面固定接动词不定式做宾语，即 decide to do sth.，意为“决定做某事”。"
+      "explanation": "句中虽然提到了钥匙丢失的动作，但后半句强调该动作对现在造成的影响（现在无法开门），应用现在完成时强调对现在的结果影响。"
     },
     {
       "id": 2,
-      "question": "Do you mind _______ the classroom window? It is getting quite chilly inside.",
+      "question": "Our class ______ the Natural History Museum two days ago.",
       "options": {
-        "A": "close",
-        "B": "closing",
-        "C": "to close",
-        "D": "closed"
+        "A": "visited",
+        "B": "has visited",
+        "C": "visits",
+        "D": "had visited"
       },
-      "answer": "B",
-      "explanation": "mind 后面接动名词形式，即 mind doing sth.，表示“介意做某事”。"
+      "answer": "A",
+      "explanation": "“two days ago”（两天前）是明确的过去时间状语，必须使用一般过去时，动词 visit 变为 visited。"
     },
     {
       "id": 3,
-      "question": "The young pianist practiced _______ the sonata until she could play it perfectly from memory.",
+      "question": "— Where is Toby?\n— He ______ to the school library to return some books. He will be back soon.",
       "options": {
-        "A": "perform",
-        "B": "to perform",
-        "C": "performed",
-        "D": "performing"
+        "A": "has been",
+        "B": "has gone",
+        "C": "went",
+        "D": "goes"
       },
-      "answer": "D",
-      "explanation": "practice 后接动名词作宾语，即 practice doing sth.，表示“练习做某事”。"
+      "answer": "B",
+      "explanation": "“have/has gone to” 表示“去了某地，尚未返回”；“have/has been to” 表示“去过某地，现已回来”。根据“He will be back soon”可知人还在图书馆，故选 has gone。"
     },
     {
       "id": 4,
-      "question": "We are all really looking forward to _______ the National Space Museum this Friday.",
+      "question": "I ______ this exciting adventure novel yet. I am still on chapter four.",
       "options": {
-        "A": "visit",
-        "B": "visiting",
-        "C": "visited",
-        "D": "to visit"
+        "A": "didn't finish",
+        "B": "haven't finished",
+        "C": "don't finish",
+        "D": "won't finish"
       },
       "answer": "B",
-      "explanation": "look forward to 中的 to 是介词，后面必须接动名词形式 doing，意为“期待做某事”。"
+      "explanation": "“yet” 常用于现在完成时的否定句或疑问句句末，表示“尚，还”，因此选用否定形式 haven't finished。"
     },
     {
       "id": 5,
-      "question": "During the long hike, Mr. Davies told the students to stop _______ some fresh mountain water.",
+      "question": "Mr. Harrison has taught Science in this international school ______ ten years.",
       "options": {
-        "A": "drinking",
-        "B": "drank",
-        "C": "to drink",
-        "D": "drink"
+        "A": "since",
+        "B": "for",
+        "C": "in",
+        "D": "during"
       },
-      "answer": "C",
-      "explanation": "stop to do sth. 表示“停下当前做的事情去开始做另一件事”；stop doing sth. 表示“停止正在做的事”。此处指停下徒步去喝水，故选 to drink。"
+      "answer": "B",
+      "explanation": "在现在完成时中，表示一段时间的持续长度（a period of time，如 ten years）应使用介词 “for”；若为时间起点则用 “since”。"
     },
     {
       "id": 6,
-      "question": "The library is a quiet zone, so please stop _______ so loudly.",
+      "question": "Chloe has played the cello ______ she was six years old.",
       "options": {
-        "A": "to talk",
-        "B": "talking",
-        "C": "talked",
-        "D": "talk"
+        "A": "for",
+        "B": "since",
+        "C": "when",
+        "D": "before"
       },
       "answer": "B",
-      "explanation": "stop doing sth. 意为“停止做某事”。在图书馆应停止大声说话，故用 talking。"
+      "explanation": "“she was six years old” 表示动作开始的过去具体时间点，引导从句作时间起点时应使用 “since”。"
     },
     {
       "id": 7,
-      "question": "Please remember _______ off the projector before you leave the lecture hall.",
+      "question": "— ______ you ever ______ a giant panda in person?\n— Yes, I saw one in Chengdu last summer.",
       "options": {
-        "A": "turn",
-        "B": "turning",
-        "C": "to turn",
-        "D": "turned"
+        "A": "Did; see",
+        "B": "Do; see",
+        "C": "Have; seen",
+        "D": "Were; seeing"
       },
       "answer": "C",
-      "explanation": "remember to do sth. 表示“记住去做某事（事情尚未做）”；remember doing sth. 表示“记得曾经做过某事”。此处是提醒离开前别忘了关投影仪，用 to turn。"
+      "explanation": "句中含有标志词 “ever”（曾经），常用于现在完成时询问人生经历，结构为 “Have/Has + 主语 + 过去分词”。"
     },
     {
       "id": 8,
-      "question": "I clearly remember _______ my art project on Mrs. Green's desk yesterday morning.",
+      "question": "Lucas ______ an email to his pen pal in Canada yesterday evening.",
       "options": {
-        "A": "putting",
-        "B": "to put",
-        "C": "put",
-        "D": "have put"
+        "A": "has sent",
+        "B": "sends",
+        "C": "sent",
+        "D": "is sending"
       },
-      "answer": "A",
-      "explanation": "remember doing sth. 表示“记得做过某事”。句意为“我清楚地记得昨天早上把美术作业放在了格林老师的桌上”。"
+      "answer": "C",
+      "explanation": "“yesterday evening”（昨天傍晚）是具体的过去时间，句子动作已经结束，应使用一般过去时 sent。"
     },
     {
       "id": 9,
-      "question": "He refused _______ any responsibility for breaking the antique vase.",
+      "question": "— Would you like some apple pie?\n— No, thanks. I have ______ had my lunch.",
       "options": {
-        "A": "accepting",
-        "B": "to accept",
-        "C": "accept",
-        "D": "accepted"
+        "A": "already",
+        "B": "yet",
+        "C": "ever",
+        "D": "ago"
       },
-      "answer": "B",
-      "explanation": "refuse 后接动词不定式，即 refuse to do sth.，意为“拒绝做某事”。"
+      "answer": "A",
+      "explanation": "“already” 意为“已经”，常用于现在完成时的肯定陈述句中，位于助动词 have/has 与过去分词之间。"
     },
     {
       "id": 10,
-      "question": "_______ trees is one of the most effective ways to combat global warming.",
+      "question": "When ______ your family ______ to this green neighborhood?",
       "options": {
-        "A": "Plant",
-        "B": "Planted",
-        "C": "Planting",
-        "D": "Plants"
+        "A": "has; moved",
+        "B": "did; move",
+        "C": "have; moved",
+        "D": "do; moved"
       },
-      "answer": "C",
-      "explanation": "动名词短语 Planting trees 放在句首充当句子的主语，谓语动词用单数 is。"
+      "answer": "B",
+      "explanation": "疑问词 “when” 针对具体的过去时间点提问，通常与一般过去时连用，不能与现在完成时连用，因此用 did ... move。"
     },
     {
       "id": 11,
-      "question": "My elder brother avoided _______ during rush hour because the traffic was dreadful.",
+      "question": "Look at the floor! The puppy ______ a glass bottle and spilled milk everywhere.",
       "options": {
-        "A": "driving",
-        "B": "to drive",
-        "C": "drive",
-        "D": "driven"
+        "A": "breaks",
+        "B": "has broken",
+        "C": "broke",
+        "D": "is breaking"
       },
-      "answer": "A",
-      "explanation": "avoid 后接动名词作宾语，即 avoid doing sth.，意为“避免做某事”。"
+      "answer": "B",
+      "explanation": "“Look at the floor!” 提示看现在的现场，打碎瓶子的动作对现在的地面造成了影响，强调动作的现状与后果，使用现在完成时 has broken。"
     },
     {
       "id": 12,
-      "question": "Our family cannot afford _______ on an overseas vacation this winter.",
+      "question": "My grandparents ______ Paris three times. They know the city very well.",
       "options": {
-        "A": "go",
-        "B": "going",
-        "C": "to go",
-        "D": "went"
+        "A": "have gone to",
+        "B": "have been to",
+        "C": "went to",
+        "D": "have been in"
       },
-      "answer": "C",
-      "explanation": "afford 通常与 can/could 连用，后面接不定式，即 afford to do sth.，意为“担负得起做某事”。"
+      "answer": "B",
+      "explanation": "“have been to + 地点” 表示“曾经去过某地”，强调去过并已回来，后接表示频次的 “three times” 说明经历。"
     },
     {
       "id": 13,
-      "question": "Sophia is remarkably good at _______ complex mathematical riddles.",
+      "question": "The painter ______ this portrait back in 1895.",
       "options": {
-        "A": "solve",
-        "B": "solving",
-        "C": "to solve",
-        "D": "solved"
+        "A": "completed",
+        "B": "has completed",
+        "C": "had complete",
+        "D": "completes"
       },
-      "answer": "B",
-      "explanation": "介词 at 后面必须接动名词作宾语，be good at doing sth. 意为“擅长做某事”。"
+      "answer": "A",
+      "explanation": "“in 1895” 是明确的过去历史年份，属于确定过去时间，谓语动词须用一般过去时 completed。"
     },
     {
       "id": 14,
-      "question": "The coach promised _______ the squad an extra break if they completed the drills well.",
+      "question": "We ______ friends since our first day in kindergarten.",
       "options": {
-        "A": "give",
-        "B": "giving",
-        "C": "to give",
-        "D": "gave"
+        "A": "were",
+        "B": "are",
+        "C": "have been",
+        "D": "will be"
       },
       "answer": "C",
-      "explanation": "promise 后接动词不定式做宾语，即 promise to do sth.，意为“承诺/答应做某事”。"
+      "explanation": "“since + 过去的时间点” 通常与现在完成时搭配，表示友谊从幼儿园第一天一直持续到现在，故用 have been。"
     },
     {
       "id": 15,
-      "question": "Have you finished _______ your personal reflective essay for English class?",
+      "question": "Sammy isn't hungry because he has ______ finished a large cheese pizza.",
       "options": {
-        "A": "to write",
-        "B": "writing",
-        "C": "write",
-        "D": "written"
+        "A": "just",
+        "B": "yet",
+        "C": "ago",
+        "D": "last"
       },
-      "answer": "B",
-      "explanation": "finish 后固定接动名词形式作宾语，即 finish doing sth.，意为“完成做某事”。"
+      "answer": "A",
+      "explanation": "“just” 意为“刚刚”，常放在助动词 has 与过去分词之间，表示动作刚刚发生完并对现在产生影响。"
     },
     {
       "id": 16,
-      "question": "My parents never allow us _______ television until all homework is completed.",
+      "question": "— Did you watch the basketball finals last Saturday?\n— Yes, our school team ______ really well and won the trophy.",
       "options": {
-        "A": "to watch",
-        "B": "watching",
-        "C": "watch",
-        "D": "watched"
+        "A": "plays",
+        "B": "has played",
+        "C": "played",
+        "D": "is playing"
       },
-      "answer": "A",
-      "explanation": "allow sb. to do sth. 意为“允许某人做某事”，接带 to 的不定式作宾语补足语。"
+      "answer": "C",
+      "explanation": "问句由 “Did you watch ... last Saturday” 设定了过去时间背景，回答过去的比赛表现需用一般过去时 played。"
     },
     {
       "id": 17,
-      "question": "The sign clearly states that the museum does not allow _______ with flash.",
+      "question": "Mia has ______ traveled on an airplane. Today is her very first flight!",
       "options": {
-        "A": "photograph",
-        "B": "to photograph",
-        "C": "photographing",
-        "D": "photographed"
+        "A": "ever",
+        "B": "never",
+        "C": "already",
+        "D": "yet"
       },
-      "answer": "C",
-      "explanation": "allow 后面若没有接人作宾语，直接接动词时要用动名词，即 allow doing sth.，表示“允许做某事”。"
+      "answer": "B",
+      "explanation": "根据后句“今天是她人生第一次飞行”，可知她之前“从不/从未”坐过飞机，故选否定词 never。"
     },
     {
       "id": 18,
-      "question": "After several attempts, Oliver finally managed _______ the difficult puzzle.",
+      "question": "What time ______ you ______ your homework last night?",
       "options": {
-        "A": "solving",
-        "B": "to solve",
-        "C": "solve",
-        "D": "solved"
+        "A": "have; done",
+        "B": "did; do",
+        "C": "do; do",
+        "D": "had; done"
       },
       "answer": "B",
-      "explanation": "manage 后接动词不定式，即 manage to do sth.，意为“设法成功完成某事”。"
+      "explanation": "“last night” 为明确的过去时间状语，一般过去时的疑问句需借助助动词 did，后接动词原形 do。"
     },
     {
       "id": 19,
-      "question": "The teacher suggested _______ a brainstorming session before writing the draft.",
+      "question": "Scientific researchers ______ a brand-new species of frog in the rainforest recently.",
       "options": {
-        "A": "having",
-        "B": "to have",
-        "C": "have",
-        "D": "had"
+        "A": "discovered",
+        "B": "have discovered",
+        "C": "discover",
+        "D": "are discovering"
       },
-      "answer": "A",
-      "explanation": "suggest 后面直接接动词时必须用动名词形式，即 suggest doing sth.，意为“建议做某事”，不能接 suggest to do。"
+      "answer": "B",
+      "explanation": "“recently”（最近）常作为现在完成时的标志词，用来陈述近期发生且具有现时意义的发现成果。"
     },
     {
       "id": 20,
-      "question": "I would like _______ you to my birthday celebration next Saturday.",
+      "question": "Uncle Tom ______ his bicycle to work every day when he lived in Oxford.",
       "options": {
-        "A": "invite",
-        "B": "inviting",
-        "C": "to invite",
-        "D": "invited"
+        "A": "has ridden",
+        "B": "rode",
+        "C": "rides",
+        "D": "was riding"
       },
-      "answer": "C",
-      "explanation": "would like 意为“想要”，后接动词不定式，即 would like to do sth.。"
+      "answer": "B",
+      "explanation": "“when he lived in Oxford” 表明该习惯性动作完全发生在过去的阶段，现已结束，故用一般过去时 rode。"
     },
     {
       "id": 21,
-      "question": "Don't forget _______ your umbrella; the weather forecast predicts heavy showers.",
+      "question": "— Have you packed your swimming gear ______?\n— Yes, Mum. Everything is in the bag.",
       "options": {
-        "A": "bringing",
-        "B": "to bring",
-        "C": "bring",
-        "D": "brought"
+        "A": "already",
+        "B": "never",
+        "C": "yet",
+        "D": "just"
       },
-      "answer": "B",
-      "explanation": "forget to do sth. 意为“忘记去做某事（事情还没做）”；forget doing sth. 意为“忘记做过某事”。此处是提醒带伞，用 to bring。"
+      "answer": "C",
+      "explanation": "在现在完成时的一般疑问句句末，表示“已经/是否完成”应使用 “yet”。"
     },
     {
       "id": 22,
-      "question": "I'll never forget _______ the Northern Lights for the first time in Norway.",
+      "question": "The little boy fell down and ______ his left knee a moment ago.",
       "options": {
-        "A": "see",
-        "B": "seeing",
-        "C": "to see",
-        "D": "saw"
+        "A": "hurts",
+        "B": "hurt",
+        "C": "has hurt",
+        "D": "is hurting"
       },
       "answer": "B",
-      "explanation": "forget doing sth. 表示“忘记做过某件事”。句意指“我永远不会忘记第一次在挪威看极光的经历”。"
+      "explanation": "“a moment ago”（刚才）是明确的过去时间，且与 fell 并列，动词 hurt 的过去式依然是 hurt。"
     },
     {
       "id": 23,
-      "question": "Liam spent nearly three hours _______ his messy bedroom over the weekend.",
+      "question": "How long ______ you ______ this golden retriever?",
       "options": {
-        "A": "to tidy",
-        "B": "tidy",
-        "C": "tidying",
-        "D": "tidied"
+        "A": "did; keep",
+        "B": "have; had",
+        "C": "do; have",
+        "D": "have; been"
       },
-      "answer": "C",
-      "explanation": "spend + 时间 + (in) doing sth. 是固定句型，表示“花费时间做某事”，接动名词 tidying。"
+      "answer": "B",
+      "explanation": "“How long” 针对持续的时间段提问，表示从过去某个时间一直拥有到现在，动词 have 的现在完成时是 have had。"
     },
     {
       "id": 24,
-      "question": "The doctor advised my uncle to give up _______ sugary beverages.",
+      "question": "Oliver ______ in London for three years before his parents moved to Singapore.",
       "options": {
-        "A": "drinking",
-        "B": "to drink",
-        "C": "drink",
-        "D": "drank"
+        "A": "lives",
+        "B": "lived",
+        "C": "has lived",
+        "D": "is living"
       },
-      "answer": "A",
-      "explanation": "give up 是动词短语，up 是介词，介词后面必须接动名词形式，give up doing sth. 意为“放弃/戒掉做某事”。"
+      "answer": "B",
+      "explanation": "虽然有 “for three years”，但该居住状态在“搬到新加坡”之前就已经结束，并没有持续到现在，因此应用一般过去时 lived。"
     },
     {
       "id": 25,
-      "question": "If your throat feels sore, try _______ warm water with honey.",
+      "question": "I ______ this robotic toy last Christmas, but I ______ it since February.",
       "options": {
-        "A": "drinking",
-        "B": "to drink",
-        "C": "drank",
-        "D": "drink"
+        "A": "received; haven't used",
+        "B": "have received; didn't use",
+        "C": "received; didn't use",
+        "D": "have received; haven't used"
       },
       "answer": "A",
-      "explanation": "try doing sth. 意为“尝试一下某种方法/试验某事”；try to do sth. 意为“尽力/努力去做某事”。此处指尝试喝蜂蜜温水缓解嗓子痛，故用 drinking。"
+      "explanation": "前一分句有确定的过去时间 “last Christmas”，用一般过去时 received；后一分句有 “since February”，用现在完成时 haven't used。"
     },
     {
       "id": 26,
-      "question": "We tried our best _______ the steep cliff, but the rocks were too slippery.",
+      "question": "Look at the rainbow! The heavy rain ______.",
       "options": {
-        "A": "climbing",
-        "B": "to climb",
-        "C": "climb",
-        "D": "climbed"
+        "A": "stopped",
+        "B": "has stopped",
+        "C": "stops",
+        "D": "was stopping"
       },
       "answer": "B",
-      "explanation": "try to do sth. / try one's best to do sth. 意为“尽力做某事、努力克服困难去做某事”，因此用 to climb。"
+      "explanation": "看到彩虹是现在的现象，表明暴雨“已经停止”，雨停的动作与现在直接相关，强调当前结果，故用 has stopped。"
     },
     {
       "id": 27,
-      "question": "Instead of _______ television all afternoon, why don't we ride our bikes outside?",
+      "question": "— Where are the freshly baked cookies?\n— Oh, David ______ them all ten minutes ago!",
       "options": {
-        "A": "watch",
-        "B": "to watch",
-        "C": "watching",
-        "D": "watched"
+        "A": "ate",
+        "B": "has eaten",
+        "C": "eats",
+        "D": "had eaten"
       },
-      "answer": "C",
-      "explanation": "instead of 中的 of 是介词，介词后必须接动名词 doing 做宾语。"
+      "answer": "A",
+      "explanation": "句末出现 “ten minutes ago”（十分钟前）这一明确的过去时间标志词，谓语动词应选用一般过去时 ate。"
     },
     {
       "id": 28,
-      "question": "Although the homework was tough, Lucas refused _______ for help.",
+      "question": "We cannot enter the computer lab because the technician ______ it.",
       "options": {
-        "A": "ask",
-        "B": "asking",
-        "C": "to ask",
-        "D": "asked"
+        "A": "locked",
+        "B": "has locked",
+        "C": "locks",
+        "D": "is locking"
       },
-      "answer": "C",
-      "explanation": "refuse to do sth. 意为“拒绝做某事”，后面接动词不定式。"
+      "answer": "B",
+      "explanation": "主句说明现状（现在进不去），原因在于技师“锁上了门”，这个过去发生的动作直接影响了现在，故用现在完成时 has locked。"
     },
     {
       "id": 29,
-      "question": "My grandmother taught me how _______ a knitted winter scarf.",
+      "question": "Miss Carter ______ in Canada when she was a university student.",
       "options": {
-        "A": "make",
-        "B": "making",
-        "C": "to make",
-        "D": "made"
+        "A": "has studied",
+        "B": "studied",
+        "C": "studies",
+        "D": "is studying"
       },
-      "answer": "C",
-      "explanation": "“疑问词 (how/what/where) + 不定式 (to do)”构成不定式短语，常充当宾语，此处意为“如何制作”。"
+      "answer": "B",
+      "explanation": "“when she was a university student” 限定了动作发生于过去读书的阶段，现已不是大学生，属于过去的历史事实，用一般过去时 studied。"
     },
     {
       "id": 30,
-      "question": "Our English teacher encouraged all students _______ part in the annual debate competition.",
+      "question": "This is the third time that our debate team ______ the regional championship.",
       "options": {
-        "A": "take",
-        "B": "taking",
-        "C": "took",
-        "D": "to take"
+        "A": "won",
+        "B": "wins",
+        "C": "has won",
+        "D": "is winning"
       },
-      "answer": "D",
-      "explanation": "encourage sb. to do sth. 意为“鼓励某人做某事”，动词不定式作宾语补足语。"
+      "answer": "C",
+      "explanation": "在“This is the first/second/third time that...”等固定句型中，从句通常使用现在完成时，表示到目前为止累计实现的次数，故选 has won。"
     }
   ]
 }
