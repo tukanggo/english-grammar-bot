@@ -1,366 +1,366 @@
 {
-  "date": "2026-10-17",
-  "topic": "专项练习 - 现在完成时与一般过去时的辨析及时间状语 (Present Perfect vs. Past Simple)",
+  "date": "2026-10-18",
+  "topic": "专项练习 - 情态动词的理解与运用 (Modal Verbs: Ability, Permission, Obligation & Advice)",
   "questions": [
     {
       "id": 1,
-      "question": "Emma ______ her keys this morning, so she cannot unlock the front door now.",
+      "question": "Excuse me, Mr. Harrison. ______ I borrow the science magazine on your desk?",
       "options": {
-        "A": "loses",
-        "B": "lost",
-        "C": "has lost",
-        "D": "is losing"
+        "A": "Must",
+        "B": "May",
+        "C": "Should",
+        "D": "Need"
       },
-      "answer": "C",
-      "explanation": "句中虽然提到了钥匙丢失的动作，但后半句强调该动作对现在造成的影响（现在无法开门），应用现在完成时强调对现在的结果影响。"
+      "answer": "B",
+      "explanation": "向老师等长辈或在正式场合请求许可时，常用 'May I...?'，意为“我可以……吗？”，语气最为礼貌客气。"
     },
     {
       "id": 2,
-      "question": "Our class ______ the Natural History Museum two days ago.",
+      "question": "Leo was sick last week, so he ______ attend the inter-school chess tournament.",
       "options": {
-        "A": "visited",
-        "B": "has visited",
-        "C": "visits",
-        "D": "had visited"
+        "A": "couldn't",
+        "B": "can't",
+        "C": "shouldn't",
+        "D": "mustn't"
       },
       "answer": "A",
-      "explanation": "“two days ago”（两天前）是明确的过去时间状语，必须使用一般过去时，动词 visit 变为 visited。"
+      "explanation": "句子叙述的是上周（last week）过去的事情，表示过去没有能力做某事，应用 could 的否定式 couldn't。"
     },
     {
       "id": 3,
-      "question": "— Where is Toby?\n— He ______ to the school library to return some books. He will be back soon.",
+      "question": "Look at the red sign! It says people ______ feed the animals in the petting zoo.",
       "options": {
-        "A": "has been",
-        "B": "has gone",
-        "C": "went",
-        "D": "goes"
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "needn't",
+        "D": "couldn't"
       },
       "answer": "B",
-      "explanation": "“have/has gone to” 表示“去了某地，尚未返回”；“have/has been to” 表示“去过某地，现已回来”。根据“He will be back soon”可知人还在图书馆，故选 has gone。"
+      "explanation": "mustn't 表示强烈的“禁止、千万不可”，常用于警示标志和规则约束。"
     },
     {
       "id": 4,
-      "question": "I ______ this exciting adventure novel yet. I am still on chapter four.",
+      "question": "Tomorrow is a public holiday, which means we ______ wake up early.",
       "options": {
-        "A": "didn't finish",
-        "B": "haven't finished",
-        "C": "don't finish",
-        "D": "won't finish"
+        "A": "mustn't",
+        "B": "can't",
+        "C": "don't have to",
+        "D": "shouldn't"
       },
-      "answer": "B",
-      "explanation": "“yet” 常用于现在完成时的否定句或疑问句句末，表示“尚，还”，因此选用否定形式 haven't finished。"
+      "answer": "C",
+      "explanation": "明天是法定假期，说明“没有必要”早起。don't have to 表示“没有必要、不必”，符合语境。"
     },
     {
       "id": 5,
-      "question": "Mr. Harrison has taught Science in this international school ______ ten years.",
+      "question": "You ______ finish your paragraph before lunchtime, or you won't have time for dessert.",
       "options": {
-        "A": "since",
-        "B": "for",
-        "C": "in",
-        "D": "during"
+        "A": "might",
+        "B": "could",
+        "C": "should",
+        "D": "can"
       },
-      "answer": "B",
-      "explanation": "在现在完成时中，表示一段时间的持续长度（a period of time，如 ten years）应使用介词 “for”；若为时间起点则用 “since”。"
+      "answer": "C",
+      "explanation": "should 表示“应该”，常用于提出建议或合理要求。"
     },
     {
       "id": 6,
-      "question": "Chloe has played the cello ______ she was six years old.",
+      "question": "Mia ______ speak three languages fluently: English, Mandarin, and French.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "when",
-        "D": "before"
+        "A": "can",
+        "B": "may",
+        "C": "must",
+        "D": "shall"
       },
-      "answer": "B",
-      "explanation": "“she was six years old” 表示动作开始的过去具体时间点，引导从句作时间起点时应使用 “since”。"
+      "answer": "A",
+      "explanation": "can 用来表示先天的能力或后天习得的技能（如语言能力）。"
     },
     {
       "id": 7,
-      "question": "— ______ you ever ______ a giant panda in person?\n— Yes, I saw one in Chengdu last summer.",
+      "question": "Take an umbrella with you. The weather forecast says it ______ rain later this afternoon.",
       "options": {
-        "A": "Did; see",
-        "B": "Do; see",
-        "C": "Have; seen",
-        "D": "Were; seeing"
+        "A": "must",
+        "B": "might",
+        "C": "should",
+        "D": "need"
       },
-      "answer": "C",
-      "explanation": "句中含有标志词 “ever”（曾经），常用于现在完成时询问人生经历，结构为 “Have/Has + 主语 + 过去分词”。"
+      "answer": "B",
+      "explanation": "might 表示对未来情况把握不大、不确定的推测，意为“可能、也许”。"
     },
     {
       "id": 8,
-      "question": "Lucas ______ an email to his pen pal in Canada yesterday evening.",
+      "question": "All passengers ______ fasten their seatbelts during takeoff and landing.",
       "options": {
-        "A": "has sent",
-        "B": "sends",
-        "C": "sent",
-        "D": "is sending"
+        "A": "might",
+        "B": "could",
+        "C": "must",
+        "D": "would"
       },
       "answer": "C",
-      "explanation": "“yesterday evening”（昨天傍晚）是具体的过去时间，句子动作已经结束，应使用一般过去时 sent。"
+      "explanation": "must 表示客观规定、安全法则或强制性义务，意为“必须”。"
     },
     {
       "id": 9,
-      "question": "— Would you like some apple pie?\n— No, thanks. I have ______ had my lunch.",
+      "question": "You ______ play video games until all your chores are finished. That's Mum's rule.",
       "options": {
-        "A": "already",
-        "B": "yet",
-        "C": "ever",
-        "D": "ago"
+        "A": "can't",
+        "B": "needn't",
+        "C": "ought not",
+        "D": "wouldn't"
       },
       "answer": "A",
-      "explanation": "“already” 意为“已经”，常用于现在完成时的肯定陈述句中，位于助动词 have/has 与过去分词之间。"
+      "explanation": "can't 在日常生活中常用于表达“不被允许做某事”，符合家庭规则的表达。"
     },
     {
       "id": 10,
-      "question": "When ______ your family ______ to this green neighborhood?",
+      "question": "______ you please pass me the glue stick, Ethan?",
       "options": {
-        "A": "has; moved",
-        "B": "did; move",
-        "C": "have; moved",
-        "D": "do; moved"
+        "A": "Must",
+        "B": "Should",
+        "C": "Could",
+        "D": "Shall"
       },
-      "answer": "B",
-      "explanation": "疑问词 “when” 针对具体的过去时间点提问，通常与一般过去时连用，不能与现在完成时连用，因此用 did ... move。"
+      "answer": "C",
+      "explanation": "Could you please...? 是标准的礼貌请求句型，比 Can you please...? 更加温和客气。"
     },
     {
       "id": 11,
-      "question": "Look at the floor! The puppy ______ a glass bottle and spilled milk everywhere.",
+      "question": "The library has already bought plenty of copies, so the students ______ purchase the novel themselves.",
       "options": {
-        "A": "breaks",
-        "B": "has broken",
-        "C": "broke",
-        "D": "is breaking"
+        "A": "mustn't",
+        "B": "needn't",
+        "C": "can't",
+        "D": "shouldn't"
       },
       "answer": "B",
-      "explanation": "“Look at the floor!” 提示看现在的现场，打碎瓶子的动作对现在的地面造成了影响，强调动作的现状与后果，使用现在完成时 has broken。"
+      "explanation": "图书馆已有足够藏书，因此学生“不需要/不必”自己买。needn't 表示“不必”。"
     },
     {
       "id": 12,
-      "question": "My grandparents ______ Paris three times. They know the city very well.",
+      "question": "When Grandpa was twenty, he ______ run ten kilometres without stopping.",
       "options": {
-        "A": "have gone to",
-        "B": "have been to",
-        "C": "went to",
-        "D": "have been in"
+        "A": "can",
+        "B": "could",
+        "C": "might",
+        "D": "must"
       },
       "answer": "B",
-      "explanation": "“have been to + 地点” 表示“曾经去过某地”，强调去过并已回来，后接表示频次的 “three times” 说明经历。"
+      "explanation": "根据时间状语 When Grandpa was twenty 可知是过去的事实，用 could 表示过去具备的能力。"
     },
     {
       "id": 13,
-      "question": "The painter ______ this portrait back in 1895.",
+      "question": "Students ______ shout in the corridors; it disturbs other classes.",
       "options": {
-        "A": "completed",
-        "B": "has completed",
-        "C": "had complete",
-        "D": "completes"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "needn't",
+        "D": "might not"
       },
       "answer": "A",
-      "explanation": "“in 1895” 是明确的过去历史年份，属于确定过去时间，谓语动词须用一般过去时 completed。"
+      "explanation": "走廊内禁止大声喧哗，mustn't 用于校规等严厉的禁止行为。"
     },
     {
       "id": 14,
-      "question": "We ______ friends since our first day in kindergarten.",
+      "question": "We have plenty of time before the museum tour starts, so we ______ hurry.",
       "options": {
-        "A": "were",
-        "B": "are",
-        "C": "have been",
-        "D": "will be"
+        "A": "mustn't",
+        "B": "don't need to",
+        "C": "can't",
+        "D": "shouldn't"
       },
-      "answer": "C",
-      "explanation": "“since + 过去的时间点” 通常与现在完成时搭配，表示友谊从幼儿园第一天一直持续到现在，故用 have been。"
+      "answer": "B",
+      "explanation": "时间很充裕，因此“不需要赶时间”。don't need to do sth. 表示“不需要做某事”。"
     },
     {
       "id": 15,
-      "question": "Sammy isn't hungry because he has ______ finished a large cheese pizza.",
+      "question": "You ______ rub your eyes with dirty hands because it can cause an infection.",
       "options": {
-        "A": "just",
-        "B": "yet",
-        "C": "ago",
-        "D": "last"
+        "A": "needn't",
+        "B": "shouldn't",
+        "C": "might not",
+        "D": "won't"
       },
-      "answer": "A",
-      "explanation": "“just” 意为“刚刚”，常放在助动词 has 与过去分词之间，表示动作刚刚发生完并对现在产生影响。"
+      "answer": "B",
+      "explanation": "此处为健康建议，shouldn't 表示“不应该”，劝阻对方不要这样做。"
     },
     {
       "id": 16,
-      "question": "— Did you watch the basketball finals last Saturday?\n— Yes, our school team ______ really well and won the trophy.",
+      "question": "Where is Oliver? — He ______ be in the computer lab, but I am not entirely certain.",
       "options": {
-        "A": "plays",
-        "B": "has played",
-        "C": "played",
-        "D": "is playing"
+        "A": "must",
+        "B": "might",
+        "C": "will",
+        "D": "shall"
       },
-      "answer": "C",
-      "explanation": "问句由 “Did you watch ... last Saturday” 设定了过去时间背景，回答过去的比赛表现需用一般过去时 played。"
+      "answer": "B",
+      "explanation": "后半句提到 'I am not entirely certain'（我不是完全确定），表示可能性较低的推测，应用 might。"
     },
     {
       "id": 17,
-      "question": "Mia has ______ traveled on an airplane. Today is her very first flight!",
+      "question": "______ we go to the botanical garden this Saturday, Mum?",
       "options": {
-        "A": "ever",
-        "B": "never",
-        "C": "already",
-        "D": "yet"
+        "A": "Shall",
+        "B": "Must",
+        "C": "Need",
+        "D": "Would"
       },
-      "answer": "B",
-      "explanation": "根据后句“今天是她人生第一次飞行”，可知她之前“从不/从未”坐过飞机，故选否定词 never。"
+      "answer": "A",
+      "explanation": "Shall we...? 常用于第一人称（I/we）提出建议或征求对方意见，意为“我们……好吗？”"
     },
     {
       "id": 18,
-      "question": "What time ______ you ______ your homework last night?",
+      "question": "In the UK, cyclists ______ wear helmets and obey traffic signals for their own safety.",
       "options": {
-        "A": "have; done",
-        "B": "did; do",
-        "C": "do; do",
-        "D": "had; done"
+        "A": "ought to",
+        "B": "may",
+        "C": "could",
+        "D": "might"
       },
-      "answer": "B",
-      "explanation": "“last night” 为明确的过去时间状语，一般过去时的疑问句需借助助动词 did，后接动词原形 do。"
+      "answer": "A",
+      "explanation": "ought to 后面接动词原形，表示“应当、应该”，侧重道义或安全守则上的责任。"
     },
     {
       "id": 19,
-      "question": "Scientific researchers ______ a brand-new species of frog in the rainforest recently.",
+      "question": "Look at Sarah's wet shoes. It ______ be raining outside.",
       "options": {
-        "A": "discovered",
-        "B": "have discovered",
-        "C": "discover",
-        "D": "are discovering"
+        "A": "can",
+        "B": "must",
+        "C": "should",
+        "D": "need"
       },
       "answer": "B",
-      "explanation": "“recently”（最近）常作为现在完成时的标志词，用来陈述近期发生且具有现时意义的发现成果。"
+      "explanation": "看到 Sarah 湿透的鞋子做出有把握的肯定推测，must be 表示“一定、肯定”。"
     },
     {
       "id": 20,
-      "question": "Uncle Tom ______ his bicycle to work every day when he lived in Oxford.",
+      "question": "You ______ touch the oven tray! It has just come out of the oven and is scorching hot.",
       "options": {
-        "A": "has ridden",
-        "B": "rode",
-        "C": "rides",
-        "D": "was riding"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "needn't",
+        "D": "couldn't"
       },
-      "answer": "B",
-      "explanation": "“when he lived in Oxford” 表明该习惯性动作完全发生在过去的阶段，现已结束，故用一般过去时 rode。"
+      "answer": "A",
+      "explanation": "盘子滚烫，有严重危险，mustn't 表示“绝对不能/千万不可触碰”。"
     },
     {
       "id": 21,
-      "question": "— Have you packed your swimming gear ______?\n— Yes, Mum. Everything is in the bag.",
+      "question": "— Need I hand in the science report today? — No, you ______.",
       "options": {
-        "A": "already",
-        "B": "never",
-        "C": "yet",
-        "D": "just"
+        "A": "mustn't",
+        "B": "needn't",
+        "C": "can't",
+        "D": "shouldn't"
       },
-      "answer": "C",
-      "explanation": "在现在完成时的一般疑问句句末，表示“已经/是否完成”应使用 “yet”。"
+      "answer": "B",
+      "explanation": "以情态动词 Need 开头的一般疑问句，否定回答通常用 'No, you needn't.' 或 'No, you don't have to.'。"
     },
     {
       "id": 22,
-      "question": "The little boy fell down and ______ his left knee a moment ago.",
+      "question": "When Emily was five years old, she ______ read simple chapter books by herself.",
       "options": {
-        "A": "hurts",
-        "B": "hurt",
-        "C": "has hurt",
-        "D": "is hurting"
+        "A": "was able to",
+        "B": "is able to",
+        "C": "can",
+        "D": "must"
       },
-      "answer": "B",
-      "explanation": "“a moment ago”（刚才）是明确的过去时间，且与 fell 并列，动词 hurt 的过去式依然是 hurt。"
+      "answer": "A",
+      "explanation": "叙述五岁时的过去能力，用 was able to，B 和 C 为现在时，D 项意思不符。"
     },
     {
       "id": 23,
-      "question": "How long ______ you ______ this golden retriever?",
+      "question": "That boy running across the field ______ be Arthur because Arthur is at the dentist right now.",
       "options": {
-        "A": "did; keep",
-        "B": "have; had",
-        "C": "do; have",
-        "D": "have; been"
+        "A": "mustn't",
+        "B": "can't",
+        "C": "shouldn't",
+        "D": "needn't"
       },
       "answer": "B",
-      "explanation": "“How long” 针对持续的时间段提问，表示从过去某个时间一直拥有到现在，动词 have 的现在完成时是 have had。"
+      "explanation": "can't be 用于表示有把握的否定推测，意为“不可能”。因为 Arthur 正在牙医诊所，所以操场上的男孩“绝不可能是”他。"
     },
     {
       "id": 24,
-      "question": "Oliver ______ in London for three years before his parents moved to Singapore.",
+      "question": "You ______ bring your own tennis racket; the school club provides all the equipment.",
       "options": {
-        "A": "lives",
-        "B": "lived",
-        "C": "has lived",
-        "D": "is living"
+        "A": "mustn't",
+        "B": "can't",
+        "C": "don't have to",
+        "D": "shouldn't"
       },
-      "answer": "B",
-      "explanation": "虽然有 “for three years”，但该居住状态在“搬到新加坡”之前就已经结束，并没有持续到现在，因此应用一般过去时 lived。"
+      "answer": "C",
+      "explanation": "学校提供所有器材，因此“没有必要”自己带。don't have to 意为“不必”。"
     },
     {
       "id": 25,
-      "question": "I ______ this robotic toy last Christmas, but I ______ it since February.",
+      "question": "Children ______ spend too much time staring at screens without taking breaks.",
       "options": {
-        "A": "received; haven't used",
-        "B": "have received; didn't use",
-        "C": "received; didn't use",
-        "D": "have received; haven't used"
+        "A": "shouldn't",
+        "B": "needn't",
+        "C": "might not",
+        "D": "can't"
       },
       "answer": "A",
-      "explanation": "前一分句有确定的过去时间 “last Christmas”，用一般过去时 received；后一分句有 “since February”，用现在完成时 haven't used。"
+      "explanation": "提出合理健康的生活忠告时，用 shouldn't 表达“不应当”。"
     },
     {
       "id": 26,
-      "question": "Look at the rainbow! The heavy rain ______.",
+      "question": "______ I carry those heavy art supplies to the studio for you, Mrs. Davis?",
       "options": {
-        "A": "stopped",
-        "B": "has stopped",
-        "C": "stops",
-        "D": "was stopping"
+        "A": "Shall",
+        "B": "Must",
+        "C": "Need",
+        "D": "Will"
       },
-      "answer": "B",
-      "explanation": "看到彩虹是现在的现象，表明暴雨“已经停止”，雨停的动作与现在直接相关，强调当前结果，故用 has stopped。"
+      "answer": "A",
+      "explanation": "Shall I...? 常用于主动为他人提供帮助，意为“需要我替您……吗？”"
     },
     {
       "id": 27,
-      "question": "— Where are the freshly baked cookies?\n— Oh, David ______ them all ten minutes ago!",
+      "question": "My father ______ work late tonight because the project deadline is tomorrow morning.",
       "options": {
-        "A": "ate",
-        "B": "has eaten",
-        "C": "eats",
-        "D": "had eaten"
+        "A": "has to",
+        "B": "may",
+        "C": "could",
+        "D": "can"
       },
       "answer": "A",
-      "explanation": "句末出现 “ten minutes ago”（十分钟前）这一明确的过去时间标志词，谓语动词应选用一般过去时 ate。"
+      "explanation": "主语为第三人称单数 My father，且受到工作截止期限的客观制约，用 has to 表示“不得不、必须”。"
     },
     {
       "id": 28,
-      "question": "We cannot enter the computer lab because the technician ______ it.",
+      "question": "If you don't feel well during P.E. class, you ______ tell the teacher immediately.",
       "options": {
-        "A": "locked",
-        "B": "has locked",
-        "C": "locks",
-        "D": "is locking"
+        "A": "ought to",
+        "B": "might",
+        "C": "would",
+        "D": "could"
       },
-      "answer": "B",
-      "explanation": "主句说明现状（现在进不去），原因在于技师“锁上了门”，这个过去发生的动作直接影响了现在，故用现在完成时 has locked。"
+      "answer": "A",
+      "explanation": "身体不适时“应当”立即告知老师。ought to do sth. 表明理应采取的做法。"
     },
     {
       "id": 29,
-      "question": "Miss Carter ______ in Canada when she was a university student.",
+      "question": "— May I leave the classroom now? — Yes, you ______.",
       "options": {
-        "A": "has studied",
-        "B": "studied",
-        "C": "studies",
-        "D": "is studying"
+        "A": "must",
+        "B": "can",
+        "C": "might",
+        "D": "need"
       },
       "answer": "B",
-      "explanation": "“when she was a university student” 限定了动作发生于过去读书的阶段，现已不是大学生，属于过去的历史事实，用一般过去时 studied。"
+      "explanation": "对 'May I...?' 请求许可的肯定回答，通常可以用 'Yes, you may.' 或 'Yes, you can.'，此处选项中 can 最为地道贴切。"
     },
     {
       "id": 30,
-      "question": "This is the third time that our debate team ______ the regional championship.",
+      "question": "We ______ waste clean water because fresh water is a limited and precious resource.",
       "options": {
-        "A": "won",
-        "B": "wins",
-        "C": "has won",
-        "D": "is winning"
+        "A": "mustn't",
+        "B": "needn't",
+        "C": "don't have to",
+        "D": "wouldn't"
       },
-      "answer": "C",
-      "explanation": "在“This is the first/second/third time that...”等固定句型中，从句通常使用现在完成时，表示到目前为止累计实现的次数，故选 has won。"
+      "answer": "A",
+      "explanation": "淡水宝贵，我们“绝不能”浪费水资源。mustn't 表示坚决的禁止和道德原则。"
     }
   ]
 }
