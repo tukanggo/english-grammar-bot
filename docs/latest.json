@@ -1,366 +1,366 @@
 {
-  "date": "2026-10-18",
-  "topic": "专项练习 - 情态动词的理解与运用 (Modal Verbs: Ability, Permission, Obligation & Advice)",
+  "date": "2026-10-19",
+  "topic": "专项练习 - 关系代词与定语从句 (Relative Pronouns: who, which, that, whose, where, when)",
   "questions": [
     {
       "id": 1,
-      "question": "Excuse me, Mr. Harrison. ______ I borrow the science magazine on your desk?",
+      "question": "The kind teacher _______ taught us music last term has moved to another school.",
       "options": {
-        "A": "Must",
-        "B": "May",
-        "C": "Should",
-        "D": "Need"
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "where"
       },
       "answer": "B",
-      "explanation": "向老师等长辈或在正式场合请求许可时，常用 'May I...?'，意为“我可以……吗？”，语气最为礼貌客气。"
+      "explanation": "先行词是 'The kind teacher'（人），从句中缺少主语，指代人作主语应用关系代词 who。"
     },
     {
       "id": 2,
-      "question": "Leo was sick last week, so he ______ attend the inter-school chess tournament.",
+      "question": "My dad bought a special camera _______ can take clear pictures underwater.",
       "options": {
-        "A": "couldn't",
-        "B": "can't",
-        "C": "shouldn't",
-        "D": "mustn't"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "句子叙述的是上周（last week）过去的事情，表示过去没有能力做某事，应用 could 的否定式 couldn't。"
+      "answer": "C",
+      "explanation": "先行词是 'a special camera'（物品），从句中缺少主语，指代物应用关系代词 which 或 that。"
     },
     {
       "id": 3,
-      "question": "Look at the red sign! It says people ______ feed the animals in the petting zoo.",
+      "question": "That is the boy _______ dog won the first prize in the pet show.",
       "options": {
-        "A": "don't have to",
-        "B": "mustn't",
-        "C": "needn't",
-        "D": "couldn't"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "who's"
       },
       "answer": "B",
-      "explanation": "mustn't 表示强烈的“禁止、千万不可”，常用于警示标志和规则约束。"
+      "explanation": "空格后有名词 'dog'，表示'那个小男孩的狗'，表示所属关系时必须使用关系代词 whose；who's 是 who is 或 who has 的缩写，不符合语法。"
     },
     {
       "id": 4,
-      "question": "Tomorrow is a public holiday, which means we ______ wake up early.",
+      "question": "This is the peaceful garden _______ we often read storybooks after class.",
       "options": {
-        "A": "mustn't",
-        "B": "can't",
-        "C": "don't have to",
-        "D": "shouldn't"
+        "A": "where",
+        "B": "which",
+        "C": "that",
+        "D": "who"
       },
-      "answer": "C",
-      "explanation": "明天是法定假期，说明“没有必要”早起。don't have to 表示“没有必要、不必”，符合语境。"
+      "answer": "A",
+      "explanation": "先行词是 'the peaceful garden'（地点），后面的句子 'we often read storybooks after class' 句子成分完整，需要关系副词 where 表示'在那个花园里'。"
     },
     {
       "id": 5,
-      "question": "You ______ finish your paragraph before lunchtime, or you won't have time for dessert.",
+      "question": "The adventure novel _______ my sister recommended was really exciting.",
       "options": {
-        "A": "might",
-        "B": "could",
-        "C": "should",
-        "D": "can"
+        "A": "who",
+        "B": "whose",
+        "C": "that",
+        "D": "where"
       },
       "answer": "C",
-      "explanation": "should 表示“应该”，常用于提出建议或合理要求。"
+      "explanation": "先行词是 'The adventure novel'（物品），在从句中作宾语（recommended 的宾语），故选用 that 或 which。"
     },
     {
       "id": 6,
-      "question": "Mia ______ speak three languages fluently: English, Mandarin, and French.",
+      "question": "Do you know the girl _______ bicycle was stolen outside the supermarket?",
       "options": {
-        "A": "can",
-        "B": "may",
-        "C": "must",
-        "D": "shall"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "can 用来表示先天的能力或后天习得的技能（如语言能力）。"
+      "answer": "B",
+      "explanation": "先行词是 'the girl'，从句中修饰 bicycle，表示所有格'……的自行车'，应选用关系代词 whose。"
     },
     {
       "id": 7,
-      "question": "Take an umbrella with you. The weather forecast says it ______ rain later this afternoon.",
+      "question": "An astronomer is a scientist _______ studies stars, planets, and galaxies.",
       "options": {
-        "A": "must",
-        "B": "might",
-        "C": "should",
-        "D": "need"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "B",
-      "explanation": "might 表示对未来情况把握不大、不确定的推测，意为“可能、也许”。"
+      "answer": "A",
+      "explanation": "先行词是 'a scientist'（指人），从句缺少主语，且指代人，故使用 who。"
     },
     {
       "id": 8,
-      "question": "All passengers ______ fasten their seatbelts during takeoff and landing.",
+      "question": "We visited the town museum _______ many ancient coins are displayed.",
       "options": {
-        "A": "might",
-        "B": "could",
-        "C": "must",
-        "D": "would"
+        "A": "which",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
       },
       "answer": "C",
-      "explanation": "must 表示客观规定、安全法则或强制性义务，意为“必须”。"
+      "explanation": "先行词是地点 'the town museum'，从句 'many ancient coins are displayed' 结构完整，需要地点状语，故选用关系副词 where。"
     },
     {
       "id": 9,
-      "question": "You ______ play video games until all your chores are finished. That's Mum's rule.",
+      "question": "We visited the town museum _______ has the largest collection of dinosaur bones.",
       "options": {
-        "A": "can't",
-        "B": "needn't",
-        "C": "ought not",
-        "D": "wouldn't"
+        "A": "where",
+        "B": "which",
+        "C": "who",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "can't 在日常生活中常用于表达“不被允许做某事”，符合家庭规则的表达。"
+      "answer": "B",
+      "explanation": "先行词虽然也是地点 'the town museum'，但从句中缺少主语（缺少 has 的主语），指代物作主语应用 which 或 that，不能用 where。"
     },
     {
       "id": 10,
-      "question": "______ you please pass me the glue stick, Ethan?",
+      "question": "I made friends with Leo, _______ father is a pilot for a major airline.",
       "options": {
-        "A": "Must",
-        "B": "Should",
-        "C": "Could",
-        "D": "Shall"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "that"
       },
-      "answer": "C",
-      "explanation": "Could you please...? 是标准的礼貌请求句型，比 Can you please...? 更加温和客气。"
+      "answer": "B",
+      "explanation": "先行词是 Leo，空格修饰 father，表示'Leo 的父亲'，属于所有格关系，应用 whose。"
     },
     {
       "id": 11,
-      "question": "The library has already bought plenty of copies, so the students ______ purchase the novel themselves.",
+      "question": "Autumn is the colourful season _______ the leaves turn red, orange, and yellow.",
       "options": {
-        "A": "mustn't",
-        "B": "needn't",
-        "C": "can't",
-        "D": "shouldn't"
+        "A": "which",
+        "B": "when",
+        "C": "where",
+        "D": "who"
       },
       "answer": "B",
-      "explanation": "图书馆已有足够藏书，因此学生“不需要/不必”自己买。needn't 表示“不必”。"
+      "explanation": "先行词是 'the colourful season'（时间），从句结构完整，缺少时间状语，故用关系副词 when。"
     },
     {
       "id": 12,
-      "question": "When Grandpa was twenty, he ______ run ten kilometres without stopping.",
+      "question": "The baker _______ baked these delicious chocolate muffins won a gold medal.",
       "options": {
-        "A": "can",
-        "B": "could",
-        "C": "might",
-        "D": "must"
+        "A": "whose",
+        "B": "which",
+        "C": "where",
+        "D": "who"
       },
-      "answer": "B",
-      "explanation": "根据时间状语 When Grandpa was twenty 可知是过去的事实，用 could 表示过去具备的能力。"
+      "answer": "D",
+      "explanation": "先行词是 'The baker'（面包师，人），从句缺少主语，应用关系代词 who。"
     },
     {
       "id": 13,
-      "question": "Students ______ shout in the corridors; it disturbs other classes.",
+      "question": "A penguin is a flightless bird _______ lives mostly in the Southern Hemisphere.",
       "options": {
-        "A": "mustn't",
-        "B": "don't have to",
-        "C": "needn't",
-        "D": "might not"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "走廊内禁止大声喧哗，mustn't 用于校规等严厉的禁止行为。"
+      "answer": "B",
+      "explanation": "先行词是 'a flightless bird'（动物/物），从句中缺少主语，指动物通常用 which 或 that。"
     },
     {
       "id": 14,
-      "question": "We have plenty of time before the museum tour starts, so we ______ hurry.",
+      "question": "Look at that old house _______ roof is painted bright green.",
       "options": {
-        "A": "mustn't",
-        "B": "don't need to",
-        "C": "can't",
-        "D": "shouldn't"
+        "A": "whose",
+        "B": "which",
+        "C": "who",
+        "D": "where"
       },
-      "answer": "B",
-      "explanation": "时间很充裕，因此“不需要赶时间”。don't need to do sth. 表示“不需要做某事”。"
+      "answer": "A",
+      "explanation": "先行词是 'that old house'，空格后是名词 roof，whose 既可指人也可指物的所有格，表示'屋顶漆成绿色的那栋老房子'。"
     },
     {
       "id": 15,
-      "question": "You ______ rub your eyes with dirty hands because it can cause an infection.",
+      "question": "The students _______ volunteered to clean the school playground worked very hard.",
       "options": {
-        "A": "needn't",
-        "B": "shouldn't",
-        "C": "might not",
-        "D": "won't"
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "where"
       },
       "answer": "B",
-      "explanation": "此处为健康建议，shouldn't 表示“不应该”，劝阻对方不要这样做。"
+      "explanation": "先行词是复数名词 'The students'（人），从句缺少主语，应用 who。"
     },
     {
       "id": 16,
-      "question": "Where is Oliver? — He ______ be in the computer lab, but I am not entirely certain.",
+      "question": "This is the seaside cottage _______ my grandparents spend their summer holidays.",
       "options": {
-        "A": "must",
-        "B": "might",
-        "C": "will",
-        "D": "shall"
+        "A": "where",
+        "B": "which",
+        "C": "that",
+        "D": "who"
       },
-      "answer": "B",
-      "explanation": "后半句提到 'I am not entirely certain'（我不是完全确定），表示可能性较低的推测，应用 might。"
+      "answer": "A",
+      "explanation": "先行词是 'the seaside cottage'（海边小屋，地点），从句 'my grandparents spend their summer holidays' 主谓宾齐全，需要地点副词 where（相当于 in which）。"
     },
     {
       "id": 17,
-      "question": "______ we go to the botanical garden this Saturday, Mum?",
+      "question": "Can you recommend an Italian restaurant _______ serves authentic thin-crust pizza?",
       "options": {
-        "A": "Shall",
-        "B": "Must",
-        "C": "Need",
-        "D": "Would"
+        "A": "where",
+        "B": "that",
+        "C": "who",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "Shall we...? 常用于第一人称（I/we）提出建议或征求对方意见，意为“我们……好吗？”"
+      "answer": "B",
+      "explanation": "先行词是 'an Italian restaurant'，从句缺少动词 serves 的主语，因此要用关系代词 that 或 which，不能用 where。"
     },
     {
       "id": 18,
-      "question": "In the UK, cyclists ______ wear helmets and obey traffic signals for their own safety.",
+      "question": "I can't find the silver watch _______ my grandfather gave me for my birthday.",
       "options": {
-        "A": "ought to",
-        "B": "may",
-        "C": "could",
-        "D": "might"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "ought to 后面接动词原形，表示“应当、应该”，侧重道义或安全守则上的责任。"
+      "answer": "C",
+      "explanation": "先行词是 'the silver watch'（物），在从句中作 gave 的直接宾语，指物应用 which 或 that。"
     },
     {
       "id": 19,
-      "question": "Look at Sarah's wet shoes. It ______ be raining outside.",
+      "question": "The author _______ fantasy novels are popular among kids visited our library.",
       "options": {
-        "A": "can",
-        "B": "must",
-        "C": "should",
-        "D": "need"
+        "A": "whose",
+        "B": "who",
+        "C": "which",
+        "D": "whom"
       },
-      "answer": "B",
-      "explanation": "看到 Sarah 湿透的鞋子做出有把握的肯定推测，must be 表示“一定、肯定”。"
+      "answer": "A",
+      "explanation": "先行词是 'The author'，从句中修饰 fantasy novels，表示'该作者的奇幻小说'，表示所属关系用 whose。"
     },
     {
       "id": 20,
-      "question": "You ______ touch the oven tray! It has just come out of the oven and is scorching hot.",
+      "question": "The nurse _______ took my temperature was extremely gentle and polite.",
       "options": {
-        "A": "mustn't",
-        "B": "don't have to",
-        "C": "needn't",
-        "D": "couldn't"
+        "A": "which",
+        "B": "where",
+        "C": "who",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "盘子滚烫，有严重危险，mustn't 表示“绝对不能/千万不可触碰”。"
+      "answer": "C",
+      "explanation": "先行词是 'The nurse'（护士，人），从句缺少主语，故使用 who。"
     },
     {
       "id": 21,
-      "question": "— Need I hand in the science report today? — No, you ______.",
+      "question": "Do you remember the day _______ our whole class went to the science centre?",
       "options": {
-        "A": "mustn't",
-        "B": "needn't",
-        "C": "can't",
-        "D": "shouldn't"
+        "A": "which",
+        "B": "when",
+        "C": "where",
+        "D": "who"
       },
       "answer": "B",
-      "explanation": "以情态动词 Need 开头的一般疑问句，否定回答通常用 'No, you needn't.' 或 'No, you don't have to.'。"
+      "explanation": "先行词是 'the day'（时间），从句结构完整，引导时间状语从句应用关系副词 when。"
     },
     {
       "id": 22,
-      "question": "When Emily was five years old, she ______ read simple chapter books by herself.",
+      "question": "The robot _______ won the competition was built by three fifth-grade pupils.",
       "options": {
-        "A": "was able to",
-        "B": "is able to",
-        "C": "can",
-        "D": "must"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "叙述五岁时的过去能力，用 was able to，B 和 C 为现在时，D 项意思不符。"
+      "answer": "C",
+      "explanation": "先行词是 'The robot'（机器人，非人/物），从句中作主语，应用 which 或 that。"
     },
     {
       "id": 23,
-      "question": "That boy running across the field ______ be Arthur because Arthur is at the dentist right now.",
+      "question": "A girl _______ art project received the principal's award was smiling proudly.",
       "options": {
-        "A": "mustn't",
-        "B": "can't",
-        "C": "shouldn't",
-        "D": "needn't"
+        "A": "whose",
+        "B": "who",
+        "C": "which",
+        "D": "whom"
       },
-      "answer": "B",
-      "explanation": "can't be 用于表示有把握的否定推测，意为“不可能”。因为 Arthur 正在牙医诊所，所以操场上的男孩“绝不可能是”他。"
+      "answer": "A",
+      "explanation": "先行词是 'A girl'，空格修饰 art project，指'那个女孩的艺术作品'，属于所有格关系，选 whose。"
     },
     {
       "id": 24,
-      "question": "You ______ bring your own tennis racket; the school club provides all the equipment.",
+      "question": "The laboratory _______ the students do chemistry experiments is on the third floor.",
       "options": {
-        "A": "mustn't",
-        "B": "can't",
-        "C": "don't have to",
-        "D": "shouldn't"
+        "A": "which",
+        "B": "where",
+        "C": "that",
+        "D": "who"
       },
-      "answer": "C",
-      "explanation": "学校提供所有器材，因此“没有必要”自己带。don't have to 意为“不必”。"
+      "answer": "B",
+      "explanation": "先行词是 'The laboratory'（实验室，地点），从句 'the students do chemistry experiments' 成分完整，缺少地点状语（in the laboratory），因此选 where。"
     },
     {
       "id": 25,
-      "question": "Children ______ spend too much time staring at screens without taking breaks.",
+      "question": "The soccer coach _______ trains our school team used to be a professional player.",
       "options": {
-        "A": "shouldn't",
-        "B": "needn't",
-        "C": "might not",
-        "D": "can't"
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
       },
       "answer": "A",
-      "explanation": "提出合理健康的生活忠告时，用 shouldn't 表达“不应当”。"
+      "explanation": "先行词是 'The soccer coach'（教练，人），从句缺少动词 trains 的主语，用 who。"
     },
     {
       "id": 26,
-      "question": "______ I carry those heavy art supplies to the studio for you, Mrs. Davis?",
+      "question": "Please board the yellow bus _______ stops directly in front of the sports stadium.",
       "options": {
-        "A": "Shall",
-        "B": "Must",
-        "C": "Need",
-        "D": "Will"
+        "A": "who",
+        "B": "that",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "Shall I...? 常用于主动为他人提供帮助，意为“需要我替您……吗？”"
+      "answer": "B",
+      "explanation": "先行词是 'the yellow bus'（交通工具，物），从句缺少主语，选项中 that 可以代替物作定语从句的主语。"
     },
     {
       "id": 27,
-      "question": "My father ______ work late tonight because the project deadline is tomorrow morning.",
+      "question": "The peacock is a splendid bird _______ feathers display a magnificent pattern of eyes.",
       "options": {
-        "A": "has to",
-        "B": "may",
-        "C": "could",
-        "D": "can"
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "主语为第三人称单数 My father，且受到工作截止期限的客观制约，用 has to 表示“不得不、必须”。"
+      "answer": "C",
+      "explanation": "先行词是 'a splendid bird'（孔雀，动物），从句修饰 feathers，表示'孔雀的羽毛'，物或动物的所有格用 whose。"
     },
     {
       "id": 28,
-      "question": "If you don't feel well during P.E. class, you ______ tell the teacher immediately.",
+      "question": "That is the quiet room in the library _______ students must keep their voices down.",
       "options": {
-        "A": "ought to",
-        "B": "might",
-        "C": "would",
-        "D": "could"
+        "A": "which",
+        "B": "where",
+        "C": "that",
+        "D": "who"
       },
-      "answer": "A",
-      "explanation": "身体不适时“应当”立即告知老师。ought to do sth. 表明理应采取的做法。"
+      "answer": "B",
+      "explanation": "先行词是 'the quiet room'（地点），从句主干完整（students must keep their voices down），需要在该地点发生的动作，故选关系副词 where。"
     },
     {
       "id": 29,
-      "question": "— May I leave the classroom now? — Yes, you ______.",
+      "question": "The volunteers _______ helped plant fifty new trees in the park were given certificates.",
       "options": {
-        "A": "must",
-        "B": "can",
-        "C": "might",
-        "D": "need"
+        "A": "which",
+        "B": "whose",
+        "C": "who",
+        "D": "where"
       },
-      "answer": "B",
-      "explanation": "对 'May I...?' 请求许可的肯定回答，通常可以用 'Yes, you may.' 或 'Yes, you can.'，此处选项中 can 最为地道贴切。"
+      "answer": "C",
+      "explanation": "先行词是 'The volunteers'（志愿者，人），从句缺少主语，指代人作主语用 who。"
     },
     {
       "id": 30,
-      "question": "We ______ waste clean water because fresh water is a limited and precious resource.",
+      "question": "An electric car is a modern vehicle _______ produces zero exhaust fumes while driving.",
       "options": {
-        "A": "mustn't",
-        "B": "needn't",
-        "C": "don't have to",
-        "D": "wouldn't"
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "where"
       },
       "answer": "A",
-      "explanation": "淡水宝贵，我们“绝不能”浪费水资源。mustn't 表示坚决的禁止和道德原则。"
+      "explanation": "先行词是 'a modern vehicle'（车辆，物），从句缺少主语，指代事物作主语应用 which 或 that。"
     }
   ]
 }
