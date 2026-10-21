@@ -1,366 +1,366 @@
 {
-  "date": "2026-10-20",
-  "topic": "专项特训：关系代词与关系副词 (Relative Pronouns & Adverbs: who, which, that, whose, where, when)",
+  "date": "2026-10-21",
+  "topic": "专项练习 - 形容词与副词的比较级与最高级深度辨析",
   "questions": [
     {
       "id": 1,
-      "question": "The boy ______ won the school spelling bee is my cousin Leo.",
+      "question": "Mount Everest is ______ mountain in the world.",
       "options": {
-        "A": "which",
-        "B": "who",
-        "C": "whose",
-        "D": "where"
+        "A": "the higher",
+        "B": "highest",
+        "C": "the highest",
+        "D": "higher than"
       },
-      "answer": "B",
-      "explanation": "先行词是人（The boy），在定语从句中作主语，应用关系代词 who。"
+      "answer": "C",
+      "explanation": "在有明确范围（in the world）的最高级中，形容词最高级前通常要加定冠词 the。high 的最高级形式为 highest。"
     },
     {
       "id": 2,
-      "question": "This is the mystery book ______ I borrowed from the local library yesterday.",
+      "question": "This puzzle is ______ than the one we solved yesterday.",
       "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "where"
+        "A": "more easy",
+        "B": "much easier",
+        "C": "very easier",
+        "D": "easiest"
       },
-      "answer": "C",
-      "explanation": "先行词是物（the mystery book），在从句中作宾语，应用关系代词 which 或 that。"
+      "answer": "B",
+      "explanation": "easy 以辅音字母+y结尾，比较级变 y 为 i 再加 er，即 easier；修饰比较级可用 much、far、even 等，不能用 very。"
     },
     {
       "id": 3,
-      "question": "Do you know the girl ______ dog barked at the mail carrier this morning?",
+      "question": "Leo didn't run as ______ as his elder brother during the race.",
       "options": {
-        "A": "who",
-        "B": "who's",
-        "C": "whose",
-        "D": "which"
+        "A": "fast",
+        "B": "faster",
+        "C": "fastest",
+        "D": "more fast"
       },
-      "answer": "C",
-      "explanation": "先行词是 the girl，与 dog 之间存在所属关系（女孩的小狗），表示“……的”，应使用所属关系代词 whose。"
+      "answer": "A",
+      "explanation": "在“as...as”或“not as/so...as”同级比较句型中，中间必须使用形容词或副词的原级。"
     },
     {
       "id": 4,
-      "question": "The science museum is a fantastic place ______ students can learn about solar energy.",
+      "question": "Of the two storybooks, Lucy chose the ______ one to read first.",
       "options": {
-        "A": "where",
-        "B": "which",
-        "C": "who",
-        "D": "whose"
+        "A": "short",
+        "B": "shorter",
+        "C": "shortest",
+        "D": "more short"
       },
-      "answer": "A",
-      "explanation": "先行词是地点（a fantastic place），在从句中作地点状语（in the place），应用关系副词 where。"
+      "answer": "B",
+      "explanation": "在两者之间的比较中，若特指“两者中较……的一个”，通常使用“the + 比较级”，故选 shorter。"
     },
     {
       "id": 5,
-      "question": "Autumn is the season ______ leaves turn bright red and gold.",
+      "question": "The weather today is even ______ than it was yesterday.",
       "options": {
-        "A": "which",
-        "B": "when",
-        "C": "where",
-        "D": "who"
+        "A": "bad",
+        "B": "badder",
+        "C": "worse",
+        "D": "worst"
       },
-      "answer": "B",
-      "explanation": "先行词是时间名词（the season），在从句中作时间状语，应用关系副词 when。"
+      "answer": "C",
+      "explanation": "bad 的比较级是不规则变化 worse；even 用于修饰比较级表示“甚至更加”。"
     },
     {
       "id": 6,
-      "question": "The astronaut ______ we interviewed during the live broadcast was very inspiring.",
+      "question": "Singapore is one of ______ countries in Southeast Asia.",
       "options": {
-        "A": "which",
-        "B": "whom",
-        "C": "where",
-        "D": "whose"
+        "A": "the most modern",
+        "B": "more modern",
+        "C": "most modern",
+        "D": "the modernest"
       },
-      "answer": "B",
-      "explanation": "先行词是人（The astronaut），且在从句 we interviewed... 中作宾语，规范的宾格关系代词为 whom（亦可用 who/that）。"
+      "answer": "A",
+      "explanation": "“one of the + 最高级 + 复数名词”是固定句型，意为“最……的之一”。modern 的最高级为 most modern。"
     },
     {
       "id": 7,
-      "question": "Look at the cute puppy ______ tail is wagging so fast!",
+      "question": "The blue whale is ______ animal that has ever lived on Earth.",
       "options": {
-        "A": "which",
-        "B": "whose",
-        "C": "that's",
-        "D": "who"
+        "A": "larger",
+        "B": "largest",
+        "C": "the largest",
+        "D": "the most large"
       },
-      "answer": "B",
-      "explanation": "puppy 与 tail 为所属关系，表示“小狗的尾巴”，whose 既可指代人也可指代动物的所属关系。"
+      "answer": "C",
+      "explanation": "表示在地球所有生物范围内的“最庞大”，需用最高级并加 the。large 以 e 结尾，直接加 st。"
     },
     {
       "id": 8,
-      "question": "The telescope ______ stands on the balcony belongs to my grandfather.",
+      "question": "This math question is ______ more difficult than the last one.",
       "options": {
-        "A": "who",
-        "B": "that",
-        "C": "where",
-        "D": "whose"
+        "A": "very",
+        "B": "a little",
+        "C": "quite",
+        "D": "too"
       },
       "answer": "B",
-      "explanation": "先行词是物（The telescope），在从句中作主语，选项中 that 正确指代物。"
+      "explanation": "a little（一点点）可以修饰形容词比较级 more difficult。very、quite 和 too 通常只能修饰形容词原级。"
     },
     {
       "id": 9,
-      "question": "Is this the art studio ______ Mrs. Green teaches pottery classes?",
+      "question": "Who jumped ______ of all the competitors in the sports meet?",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "that",
-        "D": "who"
+        "A": "high",
+        "B": "higher",
+        "C": "the highest",
+        "D": "most high"
       },
-      "answer": "B",
-      "explanation": "先行词是地点（the art studio），从句主谓宾完整，缺地点状语（in the art studio），用 where。"
+      "answer": "C",
+      "explanation": "根据介词短语“of all the competitors”（在所有参赛选手中），可知是在三者及以上范围比较，应用最高级 the highest。"
     },
     {
       "id": 10,
-      "question": "I visited an old castle ______ was built more than five hundred years ago.",
+      "question": "The ______ you practice speaking English, the ______ you will become.",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "who",
-        "D": "whose"
+        "A": "more; better",
+        "B": "most; best",
+        "C": "much; good",
+        "D": "many; well"
       },
       "answer": "A",
-      "explanation": "先行词虽然是地点（an old castle），但在定语从句中作主语（was built...），不能用关系副词 where，必须用代词 which 或 that。"
+      "explanation": "“the + 比较级..., the + 比较级...”为固定句型，表示“越……就越……”。"
     },
     {
       "id": 11,
-      "question": "I still remember the stormy night ______ the power suddenly went out.",
+      "question": "My new schoolbag is ______ lighter than my old one.",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "when",
-        "D": "who"
+        "A": "far",
+        "B": "more",
+        "C": "so",
+        "D": "as"
       },
-      "answer": "C",
-      "explanation": "先行词是时间名词（the stormy night），在从句中作时间状语，因此用 when。"
+      "answer": "A",
+      "explanation": "far 放在比较级 lighter 之前表示程度深，意为“……得多”。more 不能修饰单音节加了 -er 的比较级。"
     },
     {
       "id": 12,
-      "question": "The pilot ______ flew us safely across the Atlantic Ocean was very experienced.",
+      "question": "Winter is coming, and days are getting ______ and ______.",
       "options": {
-        "A": "which",
-        "B": "who",
-        "C": "where",
-        "D": "whose"
+        "A": "short; short",
+        "B": "shorter; shorter",
+        "C": "shortest; shortest",
+        "D": "more short; more short"
       },
       "answer": "B",
-      "explanation": "先行词是人（The pilot），从句缺主语，用 who。"
+      "explanation": "“比较级 + and + 比较级”表示“越来越……”。short 的比较级为 shorter。"
     },
     {
       "id": 13,
-      "question": "Can you show me the drawer ______ you keep the colored pencils?",
+      "question": "Emma sings ______ than her classmate Sarah.",
       "options": {
-        "A": "where",
-        "B": "who",
-        "C": "whose",
-        "D": "which"
+        "A": "more beautifully",
+        "B": "beautifully",
+        "C": "most beautifully",
+        "D": "as beautifully"
       },
       "answer": "A",
-      "explanation": "先行词是 the drawer（抽屉），在从句中作地点状语（keep the pencils in the drawer），故选 where。"
+      "explanation": "此处修饰动词 sings 需用副词，且句中有 than 表比较，多音节副词 beautifully 的比较级为 more beautifully。"
     },
     {
       "id": 14,
-      "question": "The student ______ backpack was left in the cafeteria can collect it at the office.",
+      "question": "Which lake is deeper, Lake Superior ______ Lake Baikal?",
       "options": {
-        "A": "who",
-        "B": "who's",
-        "C": "whose",
-        "D": "which"
+        "A": "and",
+        "B": "or",
+        "C": "than",
+        "D": "with"
       },
-      "answer": "C",
-      "explanation": "backpack 与 student 存在所有权关系，表示“书包落在食堂的学生”，应选用 whose。"
+      "answer": "B",
+      "explanation": "选择疑问句中，并列提供两个选项时应用连词 or 连接。"
     },
     {
       "id": 15,
-      "question": "Everything ______ our teacher explained today was easy to understand.",
+      "question": "My grandfather walked a little ______ today because his knee hurt.",
       "options": {
-        "A": "that",
-        "B": "who",
-        "C": "where",
-        "D": "whose"
+        "A": "slowly",
+        "B": "slowest",
+        "C": "more slowly",
+        "D": "most slowly"
       },
-      "answer": "A",
-      "explanation": "当先行词是不定代词（如 everything, anything, nothing）时，关系代词习惯上只用 that 而不用 which。"
+      "answer": "C",
+      "explanation": "句子隐含今日与平时的比较，且被 a little 修饰，多音节副词 slowly 的比较级为 more slowly。"
     },
     {
       "id": 16,
-      "question": "The computer game ______ Dad bought for my birthday has exciting graphics.",
+      "question": "Peter is the tallest boy ______ our class.",
       "options": {
-        "A": "who",
-        "B": "where",
-        "C": "which",
-        "D": "whose"
+        "A": "of",
+        "B": "in",
+        "C": "at",
+        "D": "from"
       },
-      "answer": "C",
-      "explanation": "先行词是物（The computer game），在从句中作 bought 的宾语，用 which 或 that。"
+      "answer": "B",
+      "explanation": "最高级表示在某个空间、范围或集体内部（如 class, school, city）时，介词习惯用 in；表示在同一类同伴或数量中时多用 of。"
     },
     {
       "id": 17,
-      "question": "We went to the wildlife park ______ we saw rare pandas eating bamboo.",
+      "question": "Among all the subjects, Mia thinks science is ______.",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "who",
-        "D": "whose"
+        "A": "interesting",
+        "B": "more interesting",
+        "C": "the most interesting",
+        "D": "most interesting than"
       },
-      "answer": "B",
-      "explanation": "先行词是 the wildlife park，从句中缺少地点状语（in the wildlife park），应用 where。"
+      "answer": "C",
+      "explanation": "由介词短语 Among all the subjects（在所有学科中）可知需用最高级 the most interesting。"
     },
     {
       "id": 18,
-      "question": "The doctor ______ took care of my injured ankle was very gentle.",
+      "question": "Our house is twice as ______ as theirs.",
       "options": {
-        "A": "which",
-        "B": "whose",
-        "C": "who",
-        "D": "where"
+        "A": "large",
+        "B": "larger",
+        "C": "largest",
+        "D": "more large"
       },
-      "answer": "C",
-      "explanation": "先行词是人（The doctor），在从句中作主语，故用 who。"
+      "answer": "A",
+      "explanation": "倍数表达法“倍数 + as + 形容词原级 + as”中，必须用形容词原形 large。"
     },
     {
       "id": 19,
-      "question": "This is the most exciting documentary ______ I have ever watched.",
+      "question": "He has ______ books than his sister, but he reads them more often.",
       "options": {
-        "A": "which",
-        "B": "that",
-        "C": "who",
-        "D": "where"
+        "A": "few",
+        "B": "fewer",
+        "C": "less",
+        "D": "least"
       },
       "answer": "B",
-      "explanation": "当先行词被形容词最高级（the most exciting）修饰时，关系代词优先选用 that。"
+      "explanation": "books 为可数名词复数，表示“更少”需用 few 的比较级 fewer。less 修饰不可数名词。"
     },
     {
       "id": 20,
-      "question": "A baker is a person ______ makes delicious bread and pastries.",
+      "question": "Drink ______ soda and ______ water if you want to stay healthy.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "where",
-        "D": "whose"
+        "A": "less; more",
+        "B": "fewer; more",
+        "C": "little; much",
+        "D": "least; most"
       },
       "answer": "A",
-      "explanation": "先行词是 a person（人），在定语从句中作主语，用 who。"
+      "explanation": "soda（苏打汽水）和 water（水）均为不可数名词。修饰不可数名词表示“更少”用 less，“更多”用 more。"
     },
     {
       "id": 21,
-      "question": "The treehouse ______ my brother built in the backyard is very sturdy.",
+      "question": "The library is ______ away from our house than the supermarket.",
       "options": {
-        "A": "who",
-        "B": "where",
-        "C": "whose",
-        "D": "that"
+        "A": "far",
+        "B": "farther",
+        "C": "farthest",
+        "D": "furthermost"
       },
-      "answer": "D",
-      "explanation": "先行词是物（The treehouse），从句中 built 缺宾语，可以用 that 或 which。"
+      "answer": "B",
+      "explanation": "句中有 than 表示两者距离的比较，表示实际具体空间距离更远时，优先使用 farther（或 further）。"
     },
     {
       "id": 22,
-      "question": "Do you remember the exact day ______ we started our robotics project?",
+      "question": "Jack is taller than ______ in his basketball team.",
       "options": {
-        "A": "when",
-        "B": "where",
-        "C": "which",
-        "D": "who"
+        "A": "any boy",
+        "B": "any other boy",
+        "C": "all the boys",
+        "D": "other boy"
       },
-      "answer": "A",
-      "explanation": "先行词是 the exact day（具体日子），在从句中充当时间状语（on that day），应用 when。"
+      "answer": "B",
+      "explanation": "Jack 也是篮球队的一员，若用 any boy 会包含自己（自己不能比自己高）。必须用 any other boy（其他任何一个男孩）将自己排除在外。"
     },
     {
       "id": 23,
-      "question": "The mountain climber ______ fingers were frozen refused to give up.",
+      "question": "This is ______ movie I have ever seen. I fell asleep halfway through!",
       "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "who's"
+        "A": "boring",
+        "B": "more boring",
+        "C": "the most boring",
+        "D": "the borest"
       },
-      "answer": "B",
-      "explanation": "fingers 属于 the mountain climber，先行词与名词构成定语关系，用 whose。"
+      "answer": "C",
+      "explanation": "“This is + the + 最高级 + 名词 + I have ever seen”是典型句型，表示“这是我曾看过的最……的电影”。"
     },
     {
       "id": 24,
-      "question": "This is the swimming pool ______ our school swim team practices every Friday.",
+      "question": "The population of Shanghai is larger than ______ of Tianjin.",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "who",
-        "D": "whose"
+        "A": "this",
+        "B": "that",
+        "C": "these",
+        "D": "those"
       },
       "answer": "B",
-      "explanation": "先行词是地点 the swimming pool，从句 practices 在此作不及物用法，缺地点状语（in the pool），用 where。"
+      "explanation": "比较对象需保持一致。此处比较的是人口（population，不可数），为避免重复，单数/不可数名词用 that 代替；复数名词用 those 代替。"
     },
     {
       "id": 25,
-      "question": "The hotel ______ we stayed during our trip to London was near the river.",
+      "question": "Can you speak a little ______? The baby is sleeping in the next room.",
       "options": {
-        "A": "where",
-        "B": "which",
-        "C": "who",
-        "D": "whose"
+        "A": "quietly",
+        "B": "more quietly",
+        "C": "most quietly",
+        "D": "quiet"
       },
-      "answer": "A",
-      "explanation": "先行词是 The hotel，在定语从句 we stayed 中表示停留的地点（stayed at/in the hotel），作状语，用 where。"
+      "answer": "B",
+      "explanation": "此处隐含与当前说话音量的对比，意为“能否讲得更小声一点”，由 a little 修饰比较级 more quietly。"
     },
     {
       "id": 26,
-      "question": "He gave me all the stamps ______ he had collected over the past three years.",
+      "question": "Henry works ______ than anyone else in our study group.",
       "options": {
-        "A": "who",
-        "B": "that",
-        "C": "where",
-        "D": "what"
+        "A": "hard",
+        "B": "harder",
+        "C": "hardest",
+        "D": "more hard"
       },
       "answer": "B",
-      "explanation": "当先行词被 all 修饰时，定语从句的关系代词通常用 that，不用 which 或 what。"
+      "explanation": "副词 hard 的比较级为 harder。句中有 than 明确表示两者或一方与他人的比较。"
     },
     {
       "id": 27,
-      "question": "The scientist ______ invented this recycling machine won a prestigious prize.",
+      "question": "Which season do you like ______, spring or autumn?",
       "options": {
-        "A": "which",
-        "B": "whom",
-        "C": "who",
-        "D": "where"
+        "A": "well",
+        "B": "better",
+        "C": "best",
+        "D": "good"
       },
-      "answer": "C",
-      "explanation": "先行词是 The scientist，在从句中作主语，应用 who。"
+      "answer": "B",
+      "explanation": "在两者之间选择更喜欢的对象（spring or autumn），应用 like 的比较级形式 better。"
     },
     {
       "id": 28,
-      "question": "A dictionary is a useful reference book ______ explains the meanings of words.",
+      "question": "This coat is ______ expensive of the three.",
       "options": {
-        "A": "which",
-        "B": "who",
-        "C": "where",
-        "D": "whose"
+        "A": "less",
+        "B": "the least",
+        "C": "little",
+        "D": "least"
       },
-      "answer": "A",
-      "explanation": "先行词是物（a useful reference book），在从句中作主语，用 which 或 that。"
+      "answer": "B",
+      "explanation": "范围是 of the three（三件之中），表示“最不昂贵的 / 最便宜的”，应用劣等最高级 the least expensive。"
     },
     {
       "id": 29,
-      "question": "The girl ______ mother is a famous pianist played a Chopin nocturne beautifully.",
+      "question": "The air in the countryside is ______ than that in the crowded city center.",
       "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "who's",
-        "D": "which"
+        "A": "fresh",
+        "B": "much fresher",
+        "C": "more fresh",
+        "D": "freshest"
       },
       "answer": "B",
-      "explanation": "先行词是 The girl，从句主语 mother 与其是母女所属关系（the girl's mother），故选 whose。"
+      "explanation": "fresh 的比较级是 fresher；前面可以用 much 加强语气表示“清新得多”。"
     },
     {
       "id": 30,
-      "question": "There was a moment in the chess match ______ everyone in the room went completely silent.",
+      "question": "None of the tests was easy, but this one was definitely ______.",
       "options": {
-        "A": "where",
-        "B": "when",
-        "C": "which",
-        "D": "who"
+        "A": "the most difficult",
+        "B": "more difficult",
+        "C": "difficult",
+        "D": "difficulter"
       },
-      "answer": "B",
-      "explanation": "先行词是 a moment（一个时刻），表示时间，从句中缺少时间状语（at that moment），故用关系副词 when。"
+      "answer": "A",
+      "explanation": "前句提到了所有测试（None of the tests），属于多者范围比较，因此指代“其中最难的一套”时应用最高级 the most difficult。"
     }
   ]
 }
