@@ -8,22 +8,43 @@
 </head>
 <body class="bg-slate-50 min-h-screen py-8 px-4">
     <div class="max-w-3xl mx-auto bg-white rounded-2xl shadow-xl p-6 md:p-10">
-        <header class="text-center mb-8">
+        <!-- 头部与日期选择器 -->
+        <header class="text-center mb-8 relative">
             <span class="bg-indigo-100 text-indigo-700 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">AI Daily Practice</span>
             <h1 id="quiz-title" class="text-2xl md:text-3xl font-bold text-slate-800 mt-2">Primary 4-5 English Grammar</h1>
-            <p id="quiz-date" class="text-slate-500 text-sm mt-1">加载中...</p>
+            
+            <div class="flex items-center justify-center space-x-2 mt-3">
+                <label for="date-select" class="text-sm font-medium text-slate-600">选择练习日期：</label>
+                <select id="date-select" onchange="onDateChange(this.value)" class="bg-slate-100 border border-slate-300 text-slate-700 text-sm rounded-lg focus:ring-indigo-500 focus:border-indigo-500 p-1.5 font-semibold">
+                    <option value="latest.json">最新日期 (Latest)</option>
+                    <!-- 动态加载的历史日期选项 -->
+                </select>
+            </div>
+            <p id="quiz-date" class="text-slate-400 text-xs mt-1">加载中...</p>
         </header>
 
-        <div id="quiz-container" class="space-y-6">
-            <p class="text-center text-slate-400">正在从云端加载今日题目...</p>
+        <!-- 【新增】今日语法小课堂展示区 -->
+        <div id="teaching-section" class="hidden mb-8 p-5 bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-amber-500 rounded-xl shadow-sm">
+            <div class="flex items-center space-x-2 mb-2">
+                <span class="text-xl">💡</span>
+                <h3 class="font-bold text-amber-900 text-lg">今日语法小课堂 (Teaching Notes)</h3>
+            </div>
+            <p id="teaching-notes-text" class="text-amber-800 leading-relaxed text-sm md:text-base font-normal whitespace-pre-line"></p>
         </div>
 
+        <!-- 题目容器 -->
+        <div id="quiz-container" class="space-y-6">
+            <p class="text-center text-slate-400">正在从云端加载题目...</p>
+        </div>
+
+        <!-- 提交按钮区 -->
         <div id="submit-section" class="mt-8 text-center hidden">
             <button onclick="submitQuiz()" class="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-3 px-8 rounded-xl shadow-lg transition duration-200">
                 提交答案并查看解析
             </button>
         </div>
 
+        <!-- 结果展示区 -->
         <div id="result-section" class="mt-8 hidden p-6 bg-indigo-50 rounded-xl text-center">
             <h2 class="text-xl font-bold text-indigo-900">测验结果</h2>
             <p id="score-text" class="text-3xl font-extrabold text-indigo-600 mt-2"></p>
@@ -33,24 +54,65 @@
     <script>
         let quizData = null;
 
-        async function loadQuiz() {
+        // 加载指定文件 (默认加载 latest.json)
+        async function loadQuiz(filename = 'latest.json') {
+            const container = document.getElementById('quiz-container');
+            const submitSec = document.getElementById('submit-section');
+            const resultSec = document.getElementById('result-section');
+            const teachingSec = document.getElementById('teaching-section');
+
+            // 恢复加载状态与视图重置
+            container.innerHTML = '<p class="text-center text-slate-400">正在从云端加载题目...</p>';
+            submitSec.classList.add('hidden');
+            resultSec.classList.add('hidden');
+            teachingSec.classList.add('hidden');
+
             try {
-                const response = await fetch('latest.json');
-                quizData = await response.json();
+                // 如果是 docs 目录下的相对路径
+                const fetchUrl = filename.startsWith('docs/') ? filename : `docs/${filename}`;
+                const response = await fetch(fetchUrl);
                 
-                document.getElementById('quiz-title').innerText = quizData.topic || "English Grammar Quiz";
-                document.getElementById('quiz-date').innerText = "日期: " + (quizData.date || "Today");
-                
-                renderQuiz(quizData.questions);
+                if (!response.ok) {
+                    // 兜底降级：尝试直接读取根目录的 filename
+                    const fallbackResp = await fetch(filename);
+                    quizData = await fallbackResp.json();
+                } else {
+                    quizData = await response.json();
+                }
+
+                // 更新标题与日期展示
+                document.getElementById('quiz-title').innerText = quizData.topic || "Primary 4-5 English Grammar";
+                document.getElementById('quiz-date').innerText = "练习日期: " + (quizData.date || "Today");
+
+                // 【关键修改】渲染语法小课堂 (teaching_notes)
+                if (quizData.teaching_notes) {
+                    document.getElementById('teaching-notes-text').innerText = quizData.teaching_notes;
+                    teachingSec.classList.remove('hidden');
+                }
+
+                // 渲染题目
+                renderQuiz(quizData.questions || []);
             } catch (error) {
-                document.getElementById('quiz-container').innerHTML = '<p class="text-center text-red-500">加载题目失败，请稍后再试。</p>';
+                console.error("加载失败:", error);
+                container.innerHTML = `<p class="text-center text-red-500">无法加载日期为 ${filename} 的题目，请检查文件是否存在。</p>`;
             }
         }
 
+        // 下拉切换日期回调
+        function onDateChange(selectedFile) {
+            loadQuiz(selectedFile);
+        }
+
+        // 渲染题目列表
         function renderQuiz(questions) {
             const container = document.getElementById('quiz-container');
             container.innerHTML = '';
-            
+
+            if (!questions || questions.length === 0) {
+                container.innerHTML = '<p class="text-center text-slate-400">该日期暂无可用题目。</p>';
+                return;
+            }
+
             questions.forEach((q, index) => {
                 let optionsHtml = '';
                 for (let key in q.options) {
@@ -74,31 +136,35 @@
             document.getElementById('submit-section').classList.remove('hidden');
         }
 
+        // 提交测验并计分
         function submitQuiz() {
             let score = 0;
-            quizData.questions.forEach((q, index) => {
+            const questions = quizData.questions || [];
+
+            questions.forEach((q, index) => {
                 const selected = document.querySelector(`input[name="question_${index}"]:checked`);
                 const expDiv = document.getElementById(`explanation-${index}`);
                 expDiv.classList.remove('hidden');
-                
+
                 if (selected && selected.value === q.answer) {
                     score++;
-                    expDiv.innerHTML = `<span class="font-bold text-green-700">回答正确！</span> 正确答案: ${q.answer}。<br>解析: ${q.explanation}`;
+                    expDiv.innerHTML = `<span class="font-bold text-green-700">回答正确！</span> 正确答案: ${q.answer}。<br><strong>解析:</strong> ${q.explanation}`;
                     expDiv.className = "mt-3 p-3 bg-green-50 border-l-4 border-green-500 text-sm text-green-900 rounded";
                 } else {
                     const userAns = selected ? selected.value : '未作答';
-                    expDiv.innerHTML = `<span class="font-bold text-red-700">回答错误。</span> 你的选择: ${userAns}，正确答案: ${q.answer}。<br>解析: ${q.explanation}`;
+                    expDiv.innerHTML = `<span class="font-bold text-red-700">回答错误。</span> 你的选择: ${userAns}，正确答案: ${q.answer}。<br><strong>解析:</strong> ${q.explanation}`;
                     expDiv.className = "mt-3 p-3 bg-red-50 border-l-4 border-red-500 text-sm text-red-900 rounded";
                 }
             });
 
             const resultSection = document.getElementById('result-section');
             resultSection.classList.remove('hidden');
-            document.getElementById('score-text').innerText = `${score} / ${quizData.questions.length} 分`;
+            document.getElementById('score-text').innerText = `${score} / ${questions.length} 分`;
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        loadQuiz();
+        // 初始化：默认加载最新题目
+        loadQuiz('latest.json');
     </script>
 </body>
 </html>
