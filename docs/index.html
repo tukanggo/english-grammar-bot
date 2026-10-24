@@ -8,7 +8,7 @@
 </head>
 <body class="bg-slate-50 min-h-screen py-8 px-4">
     <div class="max-w-3xl mx-auto bg-white rounded-2xl shadow-xl p-6 md:p-10">
-        <!-- 头部与日期选择器 -->
+        <!-- 头部与动态日期下拉选择器 -->
         <header class="text-center mb-8 relative">
             <span class="bg-indigo-100 text-indigo-700 text-xs font-semibold px-3 py-1 rounded-full uppercase tracking-wider">AI Daily Practice</span>
             <h1 id="quiz-title" class="text-2xl md:text-3xl font-bold text-slate-800 mt-2">Primary 4-5 English Grammar</h1>
@@ -16,14 +16,13 @@
             <div class="flex items-center justify-center space-x-2 mt-3">
                 <label for="date-select" class="text-sm font-medium text-slate-600">选择练习日期：</label>
                 <select id="date-select" onchange="onDateChange(this.value)" class="bg-slate-100 border border-slate-300 text-slate-700 text-sm rounded-lg focus:ring-indigo-500 focus:border-indigo-500 p-1.5 font-semibold">
-                    <option value="latest.json">最新日期 (Latest)</option>
-                    <!-- 动态加载的历史日期选项 -->
+                    <option value="latest.json">加载中...</option>
                 </select>
             </div>
-            <p id="quiz-date" class="text-slate-400 text-xs mt-1">加载中...</p>
+            <p id="quiz-date" class="text-slate-400 text-xs mt-1">正在初始化...</p>
         </header>
 
-        <!-- 【新增】今日语法小课堂展示区 -->
+        <!-- 今日语法小课堂展示区 -->
         <div id="teaching-section" class="hidden mb-8 p-5 bg-gradient-to-r from-amber-50 to-orange-50 border-l-4 border-amber-500 rounded-xl shadow-sm">
             <div class="flex items-center space-x-2 mb-2">
                 <span class="text-xl">💡</span>
@@ -54,37 +53,61 @@
     <script>
         let quizData = null;
 
-        // 加载指定文件 (默认加载 latest.json)
-        async function loadQuiz(filename = 'latest.json') {
+        // 1. 页面加载时：先获取日期索引列表并渲染下拉菜单
+        async function initQuizApp() {
+            try {
+                const response = await fetch('days_index.json');
+                if (!response.ok) throw new Error("无法加载索引文件");
+                
+                const dates = await response.json(); // 例如 ["2026-10-24", "2026-10-23"]
+                const selectElement = document.getElementById('date-select');
+                selectElement.innerHTML = '';
+
+                if (dates.length > 0) {
+                    dates.forEach((dateStr, index) => {
+                        const option = document.createElement('option');
+                        option.value = `grammar_${dateStr}.json`;
+                        option.text = dateStr + (index === 0 ? " (最新)" : "");
+                        selectElement.appendChild(option);
+                    });
+
+                    // 默认加载列表中的第一天（最新的一天）
+                    loadQuizData(`grammar_${dates[0]}.json`);
+                } else {
+                    selectElement.innerHTML = `<option value="latest.json">latest.json</option>`;
+                    loadQuizData('latest.json');
+                }
+            } catch (error) {
+                console.warn("未找到 days_index.json，降级直接加载 latest.json");
+                const selectElement = document.getElementById('date-select');
+                selectElement.innerHTML = `<option value="latest.json">最新题目</option>`;
+                loadQuizData('latest.json');
+            }
+        }
+
+        // 2. 加载指定日期的题目数据
+        async function loadQuizData(filename) {
             const container = document.getElementById('quiz-container');
             const submitSec = document.getElementById('submit-section');
             const resultSec = document.getElementById('result-section');
             const teachingSec = document.getElementById('teaching-section');
 
-            // 恢复加载状态与视图重置
-            container.innerHTML = '<p class="text-center text-slate-400">正在从云端加载题目...</p>';
+            container.innerHTML = '<p class="text-center text-slate-400">正在加载题目...</p>';
             submitSec.classList.add('hidden');
             resultSec.classList.add('hidden');
             teachingSec.classList.add('hidden');
 
             try {
-                // 如果是 docs 目录下的相对路径
-                const fetchUrl = filename.startsWith('docs/') ? filename : `docs/${filename}`;
-                const response = await fetch(fetchUrl);
+                const response = await fetch(filename);
+                if (!response.ok) throw new Error("文件加载失败");
                 
-                if (!response.ok) {
-                    // 兜底降级：尝试直接读取根目录的 filename
-                    const fallbackResp = await fetch(filename);
-                    quizData = await fallbackResp.json();
-                } else {
-                    quizData = await response.json();
-                }
+                quizData = await response.json();
 
-                // 更新标题与日期展示
+                // 更新标题与日期
                 document.getElementById('quiz-title').innerText = quizData.topic || "Primary 4-5 English Grammar";
                 document.getElementById('quiz-date').innerText = "练习日期: " + (quizData.date || "Today");
 
-                // 【关键修改】渲染语法小课堂 (teaching_notes)
+                // 渲染语法小课堂
                 if (quizData.teaching_notes) {
                     document.getElementById('teaching-notes-text').innerText = quizData.teaching_notes;
                     teachingSec.classList.remove('hidden');
@@ -93,23 +116,23 @@
                 // 渲染题目
                 renderQuiz(quizData.questions || []);
             } catch (error) {
-                console.error("加载失败:", error);
-                container.innerHTML = `<p class="text-center text-red-500">无法加载日期为 ${filename} 的题目，请检查文件是否存在。</p>`;
+                console.error(error);
+                container.innerHTML = `<p class="text-center text-red-500">加载题目失败，请确认该日期的 JSON 文件已生成。</p>`;
             }
         }
 
-        // 下拉切换日期回调
-        function onDateChange(selectedFile) {
-            loadQuiz(selectedFile);
+        // 3. 下拉菜单切换事件
+        function onDateChange(filename) {
+            loadQuizData(filename);
         }
 
-        // 渲染题目列表
+        // 4. 渲染题目列表
         function renderQuiz(questions) {
             const container = document.getElementById('quiz-container');
             container.innerHTML = '';
 
             if (!questions || questions.length === 0) {
-                container.innerHTML = '<p class="text-center text-slate-400">该日期暂无可用题目。</p>';
+                container.innerHTML = '<p class="text-center text-slate-400">该日期暂无题目。</p>';
                 return;
             }
 
@@ -136,7 +159,7 @@
             document.getElementById('submit-section').classList.remove('hidden');
         }
 
-        // 提交测验并计分
+        // 5. 提交并计分
         function submitQuiz() {
             let score = 0;
             const questions = quizData.questions || [];
@@ -163,8 +186,8 @@
             window.scrollTo({ top: 0, behavior: 'smooth' });
         }
 
-        // 初始化：默认加载最新题目
-        loadQuiz('latest.json');
+        // 启动应用
+        initQuizApp();
     </script>
 </body>
 </html>
