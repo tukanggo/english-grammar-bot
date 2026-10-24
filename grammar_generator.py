@@ -54,7 +54,7 @@ def generate_daily_grammar():
         try:
             print(f"正在请求 Gemini API 生成教学内容与新题 (尝试第 {attempt} 次)...")
             response = client.models.generate_content(
-                model='gemini-2.5-flash',  # 修复了原代码中的 model 名称
+                model='gemini-3.8-flash',  # 修复了原代码中的 model 名称
                 contents=prompt
             )
             break
