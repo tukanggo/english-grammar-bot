@@ -8,6 +8,11 @@ on:
 jobs:
   run-grammar-bot:
     runs-on: ubuntu-latest
+    
+    # 赋予工作流写入并提交代码回仓库的权限
+    permissions:
+      contents: write
+
     steps:
       - name: 1. 检出代码
         uses: actions/checkout@v4
@@ -27,9 +32,9 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python grammar_generator.py
 
-      - name: 5. 自动将最新网页题目数据推送到仓库
+      - name: 5. 自动将最新题目、历史归档及索引推送到仓库
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/latest.json
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update latest quiz json [skip ci]" && git push)
+          git add docs/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update daily grammar quiz JSON and index [skip ci]" && git push)
