@@ -1,367 +1,367 @@
 {
   "date": "2026-10-24",
-  "topic": "主谓一致核心规则与易错点 (Subject-Verb Agreement)",
-  "teaching_notes": "嗨，同学们！主谓一致就像是句子里的“最佳拍档”：主语如果是单数，后面的谓语动词通常要加 -s 或 -es（例如：The cat runs fast.）；如果主语是复数，动词就要保持原形（例如：The cats run fast.）。不过要注意几个超级“陷阱”：像 everyone, each, neither of 这样看似指多人的词，语法上其实都算作单数；而遇到 either...or...、neither...nor... 时，动词则要听从“离它最近的邻居”！牢记口诀：“单加s复用原，不定代词视作一，就近原则看邻居！”",
+  "topic": "情态动词进阶：规则、许可与建议 (Modal Verbs: Rules, Permissions, and Advice)",
+  "teaching_notes": "同学们好！今天我们来认识几位爱“立规矩”和“提建议”的情态动词小伙伴。当表达必须遵守的校规、法律或绝对必要的事情时，用 must 或 have to；当表达严厉禁止做某事时用 mustn't（千万别做！），而表示“没有必要做”时则用 don't/doesn't have to（做不做随你，但别搞混哦！）。若是想给同伴一个贴心、友善的建议，用 should 或 shouldn't 最得体。最重要的是：情态动词身后永远只跟动词原形（Base Form）！例句：You must wear a helmet when riding a bike.（骑自行车必须戴头盔。）You look tired; you should go to bed early.（你看起来很累，应该早点睡。）",
   "questions": [
     {
       "id": 1,
-      "question": "Everyone in our class ______ Ms. Green because she is always patient and kind.",
+      "question": "Shh! This is a library. You _____ shout or speak loudly here.",
       "options": {
-        "A": "love",
-        "B": "loves",
-        "C": "are loving",
-        "D": "have loved"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "should",
+        "D": "can"
       },
-      "answer": "B",
-      "explanation": "不定代词 everyone 作主语时，谓语动词一律使用第三人称单数形式，因此选择 loves。"
+      "answer": "A",
+      "explanation": "图书馆内禁止大声喧哗，表示严格禁止用 mustn't。"
     },
     {
       "id": 2,
-      "question": "Either the teacher or the students ______ going to decorate the main hall this afternoon.",
+      "question": "Tomorrow is Sunday, so we _____ get up early. We can sleep until 9 a.m.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "am",
-        "D": "be"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "shouldn't",
+        "D": "can't"
       },
       "answer": "B",
-      "explanation": "由 either...or... 连接两个主语时，动词遵循“就近原则”。离谓语动词最近的主语是复数名词 the students，因此动词用 are。"
+      "explanation": "周日不用早起，表示“不必做某事/没有必要”用 don't have to。"
     },
     {
       "id": 3,
-      "question": "Neither of the two pens on the desk ______ properly; I need to find a pencil.",
+      "question": "You look very pale and have a high fever. You _____ go see the school nurse right now.",
       "options": {
-        "A": "write",
-        "B": "writes",
-        "C": "are writing",
-        "D": "have written"
+        "A": "can't",
+        "B": "should",
+        "C": "mustn't",
+        "D": "doesn't have to"
       },
       "answer": "B",
-      "explanation": "neither of + 复数名词作主语时，中心词是 neither（两者中任何一个都不），在规范书面语中谓语动词视为单数，故用 writes。"
+      "explanation": "同学发烧了，给出合理的关怀建议使用 should（应该）。"
     },
     {
       "id": 4,
-      "question": "Bread and butter ______ my grandfather's favorite breakfast for over thirty years.",
+      "question": "Look at the red traffic light! All drivers _____ stop their cars immediately.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "were",
-        "D": "have been"
+        "A": "shouldn't",
+        "B": "can",
+        "C": "must",
+        "D": "don't have to"
       },
-      "answer": "A",
-      "explanation": "bread and butter（涂黄油的面包）表示不可分割的单一食物概念，视作单数整体，因此系动词用 is。"
+      "answer": "C",
+      "explanation": "红灯亮起，司机必须停车，这是交通法规强制要求，用 must。"
     },
     {
       "id": 5,
-      "question": "The captain, along with his crew members, ______ safely rescued from the stormy sea yesterday.",
+      "question": "Please remember that all students must _____ their hands before asking a question in class.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "is",
-        "D": "are"
+        "A": "raises",
+        "B": "raising",
+        "C": "raised",
+        "D": "raise"
       },
-      "answer": "A",
-      "explanation": "当主语后面有 along with, together with, as well as 等短语时，谓语动词的单复数完全取决于前面的核心主语 the captain（单数）。加上时间状语 yesterday，故用 was。"
+      "answer": "D",
+      "explanation": "情态动词 must 后面必须加动词原形 raise。"
     },
     {
       "id": 6,
-      "question": "There ______ a carton of milk and two fresh apples on the kitchen counter.",
+      "question": "Peter: 'Mr. Davis, _____ I drink some water? It's very hot.' Mr. Davis: 'Of course you may.'",
       "options": {
-        "A": "are",
-        "B": "is",
-        "C": "were",
-        "D": "be"
+        "A": "Must",
+        "B": "May",
+        "C": "Should",
+        "D": "Do"
       },
       "answer": "B",
-      "explanation": "There be 句型遵循就近原则。离 be 动词最近的主语是 a carton of milk（单数），因此谓语动词用 is。"
+      "explanation": "向老师礼貌请求许可，通常使用 May I...?"
     },
     {
       "id": 7,
-      "question": "Ten kilometers ______ a long distance for a young child to run without stopping.",
+      "question": "The museum ticket says: 'Visitors _____ touch the ancient paintings.' It is strictly forbidden.",
       "options": {
-        "A": "are",
-        "B": "is",
-        "C": "were",
-        "D": "being"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "should",
+        "D": "could"
       },
-      "answer": "B",
-      "explanation": "表示距离、时间、金钱等度量衡的复数短语（Ten kilometers）通常作为一个整体看待，谓语动词用单数 is。"
+      "answer": "A",
+      "explanation": "严禁触摸展品，表示绝对禁止用 mustn't。"
     },
     {
       "id": 8,
-      "question": "The news about the upcoming school camping trip ______ extremely exciting.",
+      "question": "My elder brother is an adult, but he _____ study hard because he has an important test next week.",
       "options": {
-        "A": "sound",
-        "B": "sounds",
-        "C": "are sounding",
-        "D": "were sounding"
+        "A": "has to",
+        "B": "have to",
+        "C": "mustn't",
+        "D": "shouldn't"
       },
-      "answer": "B",
-      "explanation": "news（新闻/消息）是不可数名词，作主语时谓语动词用第三人称单数形式 sounds。"
+      "answer": "A",
+      "explanation": "主语是第三人称单数 he，且表示有必要做某事，用 has to。"
     },
     {
       "id": 9,
-      "question": "A number of tourists ______ the ancient castle every weekend to take photos.",
+      "question": "You _____ eat too much junk food before dinner, or you won't be able to finish your vegetables.",
       "options": {
-        "A": "visits",
-        "B": "visit",
-        "C": "is visiting",
-        "D": "has visited"
+        "A": "must",
+        "B": "shouldn't",
+        "C": "don't have to",
+        "D": "can"
       },
       "answer": "B",
-      "explanation": "“a number of + 复数名词”意为“许多……”，作主语时谓语动词用复数形式 visit。"
+      "explanation": "晚饭前不应该吃太多零食，这是健康建议，用 shouldn't。"
     },
     {
       "id": 10,
-      "question": "The number of students in our robotics club ______ from twenty to thirty-five this year.",
+      "question": "We _____ bring our own lunch to school because the school cafeteria provides free meals for everyone.",
       "options": {
-        "A": "has increased",
-        "B": "have increased",
-        "C": "increase",
-        "D": "are increasing"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "can't",
+        "D": "should"
       },
-      "answer": "A",
-      "explanation": "“the number of + 复数名词”意为“……的数量”，中心词是 number，谓语动词用单数，故用 has increased。"
+      "answer": "B",
+      "explanation": "学校提供免费午餐，因此我们“不必”自备午餐，用 don't have to。"
     },
     {
       "id": 11,
-      "question": "Each of the five puppies ______ a tiny red collar with a silver bell.",
+      "question": "Lucy _____ wear her glasses when reading books, otherwise her eyes will hurt.",
       "options": {
-        "A": "wear",
-        "B": "wears",
-        "C": "are wearing",
-        "D": "have worn"
+        "A": "should",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "haven't to"
       },
-      "answer": "B",
-      "explanation": "“each of + 复数名词”作主语时，重心在 each（每一个），谓语动词用第三人称单数形式 wears。"
+      "answer": "A",
+      "explanation": "根据上下文语境，露西看书时“应该”戴眼镜，用 should。"
     },
     {
       "id": 12,
-      "question": "Both Oliver and his elder brother ______ the school basketball team.",
+      "question": "Danger! You _____ swim in this river because the water is deep and full of rocks.",
       "options": {
-        "A": "supports",
-        "B": "support",
-        "C": "is supporting",
-        "D": "has supported"
+        "A": "can",
+        "B": "don't have to",
+        "C": "mustn't",
+        "D": "should"
       },
-      "answer": "B",
-      "explanation": "both...and... 连接两个并列主语时，表示两者都，谓语动词必须用复数形式 support。"
+      "answer": "C",
+      "explanation": "危险警示，绝对禁止在此游泳，用 mustn't。"
     },
     {
       "id": 13,
-      "question": "Not only the students but also their science teacher ______ fascinated by the solar eclipse.",
+      "question": "'_____ we have to bring our art aprons tomorrow?' asked Tim.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "are",
-        "D": "be"
+        "A": "Are",
+        "B": "Do",
+        "C": "Can",
+        "D": "Must"
       },
-      "answer": "A",
-      "explanation": "not only...but also... 连接主语时遵循就近原则。离谓语最近的主语 their science teacher 是单数，故用 was。"
+      "answer": "B",
+      "explanation": "have to 的一般疑问句需要借助助动词 do/does，主语是 we，故用 Do we have to...?"
     },
     {
       "id": 14,
-      "question": "All the furniture in the new modern library ______ made of eco-friendly wood.",
+      "question": "The floor in the science lab is wet and slippery. You _____ walk slowly and carefully.",
       "options": {
-        "A": "are",
-        "B": "is",
-        "C": "were",
-        "D": "have been"
+        "A": "must",
+        "B": "mustn't",
+        "C": "shouldn't",
+        "D": "can't"
       },
-      "answer": "B",
-      "explanation": "furniture（家具）是不可数名词，无论前面加什么修饰词，谓语动词一律用单数 is。"
+      "answer": "A",
+      "explanation": "地面湿滑，必须慢行注意安全，表示强烈必要性用 must。"
     },
     {
       "id": 15,
-      "question": "Our school football team ______ practicing hard on the playground right now.",
+      "question": "Sam: 'I already washed the dishes.' Mom: 'Thank you, Sam! Then you _____ do any more chores tonight.'",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "were",
-        "D": "am"
+        "A": "mustn't",
+        "B": "can't",
+        "C": "don't have to",
+        "D": "have to"
       },
-      "answer": "A",
-      "explanation": "team 作为集体名词，在此处表示一个整体单位在训练，因此谓语动词用单数 is。"
+      "answer": "C",
+      "explanation": "碗已经洗过了，今晚就“不需要/不必”再做家务了，用 don't have to。"
     },
     {
       "id": 16,
-      "question": "Mathematics ______ always been Ethan's favorite subject since he was in Primary 1.",
+      "question": "Students _____ cheat on exams. If caught, they will receive a zero mark.",
       "options": {
-        "A": "have",
-        "B": "has",
-        "C": "are",
-        "D": "were"
+        "A": "don't have to",
+        "B": "mustn't",
+        "C": "could",
+        "D": "should"
       },
       "answer": "B",
-      "explanation": "Mathematics（数学）是以 -s 结尾的学科名词，属于单数不可数名词，谓语动词用 has。"
+      "explanation": "严禁作弊，校规红线，使用表示禁止的 mustn't。"
     },
     {
       "id": 17,
-      "question": "One of my best friends ______ in a quiet seaside town near Tokyo.",
+      "question": "Lily feels very tired today. She _____ stay up late watching cartoons tonight.",
       "options": {
-        "A": "live",
-        "B": "lives",
-        "C": "are living",
-        "D": "have lived"
+        "A": "shouldn't",
+        "B": "must",
+        "C": "has to",
+        "D": "can"
       },
-      "answer": "B",
-      "explanation": "“one of + 复数名词”结构中，主语的核心词是 One（其中一个），谓语动词用第三人称单数 lives。"
+      "answer": "A",
+      "explanation": "莉莉很累了，今晚不应该熬夜看动画片，用 shouldn't 表达合理建议。"
     },
     {
       "id": 18,
-      "question": "Fifty dollars ______ enough to purchase this illustrated science dictionary.",
+      "question": "At our school, every student _____ wear a white shirt and navy shorts for sports day.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "were",
-        "D": "be"
+        "A": "have to",
+        "B": "has to",
+        "C": "don't have to",
+        "D": "shouldn't"
       },
-      "answer": "A",
-      "explanation": "表示特定金额（Fifty dollars）作主语时，看作一个整体款项，谓语动词用单数 is。"
+      "answer": "B",
+      "explanation": "every student 是单数概念，表示规定必须穿校服，用 has to。"
     },
     {
       "id": 19,
-      "question": "Neither Maya nor her classmates ______ interested in playing video games during recess.",
+      "question": "You _____ feed the monkeys in the national park. Wild animals can become aggressive.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "was",
-        "D": "am"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "need",
+        "D": "may"
       },
-      "answer": "B",
-      "explanation": "neither...nor... 结构中，动词依据就近原则确定。最近的主语 her classmates 是复数，故选 are。"
+      "answer": "A",
+      "explanation": "公园规定严禁喂食野生动物，用绝对禁止的 mustn't。"
     },
     {
       "id": 20,
-      "question": "Nobody in the art museum ______ allowed to touch the oil paintings.",
+      "question": "When you receive a lovely birthday gift from your friend, you _____ always say 'Thank you'.",
       "options": {
-        "A": "are",
-        "B": "is",
-        "C": "were",
-        "D": "be"
+        "A": "should",
+        "B": "shouldn't",
+        "C": "mustn't",
+        "D": "can't"
       },
-      "answer": "B",
-      "explanation": "不定代词 nobody 作主语时，谓语动词用单数形式 is。"
+      "answer": "A",
+      "explanation": "礼貌待人，收到礼物应当说谢谢，用 should 表达行为建议。"
     },
     {
       "id": 21,
-      "question": "Running every morning and eating fresh fruit ______ us build a strong body.",
+      "question": "Mark has a free bus pass, so he _____ pay for the bus ticket.",
       "options": {
-        "A": "helps",
-        "B": "help",
-        "C": "is helping",
-        "D": "helping"
+        "A": "mustn't",
+        "B": "doesn't have to",
+        "C": "shouldn't",
+        "D": "can't"
       },
       "answer": "B",
-      "explanation": "两个动名词短语（Running... and eating...）由 and 连接，表示两件不同的事情，谓语动词用复数原形 help。"
+      "explanation": "有免费乘车卡，所以马克“不必”付车费。Mark 为第三人称单数，用 doesn't have to。"
     },
     {
       "id": 22,
-      "question": "Collecting rare stamps and postcards ______ a popular hobby among older generations.",
+      "question": "To keep our teeth healthy and strong, we should _____ our teeth twice a day.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "were",
-        "D": "being"
+        "A": "brushed",
+        "B": "brushing",
+        "C": "brush",
+        "D": "brushes"
       },
-      "answer": "A",
-      "explanation": "句子的核心主语是动名词 collecting（集邮与明信片这一种爱好行为），单个动名词作主语谓语动词用单数 is。"
+      "answer": "C",
+      "explanation": "情态动词 should 后面必须使用动词原形 brush。"
     },
     {
       "id": 23,
-      "question": "The police ______ looking for the owner of the lost golden retriever puppy.",
+      "question": "Passengers _____ show their passports and boarding passes before boarding the plane.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "was",
-        "D": "has been"
+        "A": "have to",
+        "B": "has to",
+        "C": "doesn't have to",
+        "D": "shouldn't"
       },
-      "answer": "B",
-      "explanation": "police（警察）是集合名词，形式上没有复数后缀，但在语法上永远看作复数，谓语动词用 are。"
+      "answer": "A",
+      "explanation": "乘客登机前必须出示护照和登机牌，passengers 是复数，用 have to。"
     },
     {
       "id": 24,
-      "question": "A pair of running shoes ______ left behind on the sports field after school.",
+      "question": "Sign on the lawn: 'Keep off the grass! People _____ walk on it.'",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "are",
-        "D": "have been"
+        "A": "don't have to",
+        "B": "can",
+        "C": "mustn't",
+        "D": "should"
       },
-      "answer": "A",
-      "explanation": "虽然 shoes 是复数，但主语中心词是 a pair of（一双），属于单数，故用 was。"
+      "answer": "C",
+      "explanation": "警示牌提示严禁践踏草坪，用表示禁止的 mustn't。"
     },
     {
       "id": 25,
-      "question": "These craft scissors ______ too blunt to cut through the thick paper.",
+      "question": "Ben: '_____ I borrow your colored pencils for this poster?' Ella: 'Sure, here you are!'",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "was",
-        "D": "has been"
+        "A": "Must",
+        "B": "Can",
+        "C": "Should",
+        "D": "Do"
       },
       "answer": "B",
-      "explanation": "scissors, glasses, trousers 等由两部分组成的物品名词，若没有 pair 修饰，作主语时谓语动词用复数 are。"
+      "explanation": "同学之间礼貌请求借用文具，用 Can I...?"
     },
     {
       "id": 26,
-      "question": "The school principal, as well as several grade-four teachers, ______ the meeting today.",
+      "question": "You _____ run around the swimming pool. The ground is wet and you might slip and fall.",
       "options": {
-        "A": "attends",
-        "B": "attend",
-        "C": "are attending",
-        "D": "have attended"
+        "A": "mustn't",
+        "B": "don't have to",
+        "C": "should",
+        "D": "can"
       },
       "answer": "A",
-      "explanation": "主语后跟 as well as 短语时，谓语动词只与前面的真正主语 The school principal（单数）保持一致，故选 attends。"
+      "explanation": "泳池边奔跑极其危险，泳池安全守则禁止奔跑，用 mustn't。"
     },
     {
       "id": 27,
-      "question": "There ______ several colorful balloons tied to the garden fence for the birthday party.",
+      "question": "Jenny doesn't have homework tonight, so she _____ worry about finishing any exercises.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "is",
-        "D": "has been"
+        "A": "mustn't",
+        "B": "doesn't have to",
+        "C": "shouldn't",
+        "D": "can't"
       },
       "answer": "B",
-      "explanation": "There be 句型中后面的主语 several colorful balloons 为复数，根据语境和就近原则，过去时应用 were。"
+      "explanation": "今晚没有作业，所以她“不需要/不必”担心，用 doesn't have to。"
     },
     {
       "id": 28,
-      "question": "Some of the apple juice ______ spilled onto the dining table cloth.",
+      "question": "When crossing the street, children _____ always look left and right carefully.",
       "options": {
-        "A": "has",
-        "B": "have",
-        "C": "are",
-        "D": "were"
+        "A": "must",
+        "B": "mustn't",
+        "C": "don't have to",
+        "D": "can't"
       },
       "answer": "A",
-      "explanation": "some of + 名词作主语时，谓语动词依据名词的性质决定。apple juice 是不可数名词，所以用单数 has。"
+      "explanation": "过马路时必须左右看，安全基本守则，用 must。"
     },
     {
       "id": 29,
-      "question": "Some of the chocolate cookies on the tray ______ already eaten by the children.",
+      "question": "You _____ be rude to your teachers and classmates. Politeness is very important.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "is",
-        "D": "has been"
+        "A": "shouldn't",
+        "B": "must",
+        "C": "have to",
+        "D": "can"
       },
-      "answer": "B",
-      "explanation": "some of 后接可数名词复数 cookies，谓语动词随之使用复数形式 were。"
+      "answer": "A",
+      "explanation": "不应该对老师和同学无礼，用 shouldn't 提出道德与行为建议。"
     },
     {
       "id": 30,
-      "question": "Every boy and every girl in our primary choir ______ a certificate of achievement.",
+      "question": "The concert is completely free for children. Parents _____ buy tickets for them.",
       "options": {
-        "A": "receive",
-        "B": "receives",
-        "C": "are receiving",
-        "D": "have received"
+        "A": "must",
+        "B": "don't have to",
+        "C": "mustn't",
+        "D": "should"
       },
       "answer": "B",
-      "explanation": "当 and 连接的两个单数名词前分别有 every, each 或 no 修饰时，全句谓语动词依然用单数，故用 receives。"
+      "explanation": "音乐会对儿童完全免费，父母“不必”给他们买票，用 don't have to。"
     }
   ]
 }
