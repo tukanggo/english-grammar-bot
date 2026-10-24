@@ -16,7 +16,6 @@ def generate_daily_grammar():
 
     client = genai.Client(api_key=api_key)
     
-    # 💡 注意：f-string 里面的 JSON 大括号必须写成双大括号 {{ 和 }}
     prompt = f"""
     今天是 {today}。你是一位优秀的国际学校小学英语高级教师。
     请为 4-6 年级（Primary 4-6）学生设计一套全新的、绝对不与往常重复的 30 道英语语法单选题。
@@ -54,14 +53,13 @@ def generate_daily_grammar():
         try:
             print(f"正在请求 Gemini API 生成教学内容与新题 (尝试第 {attempt} 次)...")
             response = client.models.generate_content(
-                model='gemini-3.8-flash',  # 修复了原代码中的 model 名称
+                model='gemini-3.8-flash',
                 contents=prompt
             )
             break
         except (ServerError, ClientError) as e:
             print(f"遇到 API 限制或服务器拥堵，等待 30 秒后重试... (错误: {e})")
             if attempt == max_retries:
-                print("❌ 达到最大重试次数，准备启用降级兜底数据...")
                 raise e
             time.sleep(30)
 
@@ -80,29 +78,40 @@ def generate_daily_grammar():
     try:
         data = json.loads(raw_text)
     except Exception as e:
-        print(f"JSON 解析失败，尝试保存原始内容。错误: {e}")
+        print(f"JSON 解析失败，保存原始内容。错误: {e}")
         data = {
             "date": today,
             "topic": "语法基础巩固",
-            "teaching_notes": "今日小课堂内容生成中遇到格式波动，请先进行日常语法练习。",
+            "teaching_notes": "今日小课堂生成中遇到格式波动，请先进行日常练习。",
             "raw_content": raw_text
         }
 
     folder_name = "docs"
     os.makedirs(folder_name, exist_ok=True)
     
-    # 1. 保存为当天专属的日期文件（支持以后下拉查看历史日期重新答题）
+    # 1. 保存当日专属文件
     daily_file_path = f"{folder_name}/grammar_{today}.json"
     with open(daily_file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         
-    # 2. 同时保存为 latest.json 方便最新获取
+    # 2. 更新 latest.json
     latest_file_path = f"{folder_name}/latest.json"
     with open(latest_file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
+
+    # 3. 自动扫描并更新 days_index.json 索引文件供网页下拉菜单读取
+    dates_list = []
+    for filename in os.listdir(folder_name):
+        if filename.startswith("grammar_") and filename.endswith(".json"):
+            date_str = filename.replace("grammar_", "").replace(".json", "")
+            dates_list.append(date_str)
+    
+    dates_list.sort(reverse=True)
+    index_file_path = f"{folder_name}/days_index.json"
+    with open(index_file_path, "w", encoding="utf-8") as f:
+        json.dump(dates_list, f, ensure_ascii=False, indent=2)
         
-    print(f"✅ 日期归档数据已成功保存至: {daily_file_path}")
-    print(f"✅ 最新数据已更新至: {latest_file_path}")
+    print(f"✅ 成功生成并归档 {today} 的全部数据与索引！")
 
 if __name__ == "__main__":
     generate_daily_grammar()
