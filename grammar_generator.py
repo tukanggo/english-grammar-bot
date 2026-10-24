@@ -54,7 +54,7 @@ def generate_daily_grammar():
         try:
             print(f"正在请求 Gemini API 生成教学内容与新题 (尝试第 {attempt} 次)...")
             response = client.models.generate_content(
-                model='gemini-3.8-flash',
+                model='gemini-2.5-flash',  # 修复了原代码中的 model 名称
                 contents=prompt
             )
             break
@@ -91,11 +91,18 @@ def generate_daily_grammar():
     folder_name = "docs"
     os.makedirs(folder_name, exist_ok=True)
     
-    file_path = f"{folder_name}/latest.json"
-    with open(file_path, "w", encoding="utf-8") as f:
+    # 1. 保存为当天专属的日期文件（支持以后下拉查看历史日期重新答题）
+    daily_file_path = f"{folder_name}/grammar_{today}.json"
+    with open(daily_file_path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
         
-    print(f"✅ 包含语法教学与最新题目的数据已成功保存至: {file_path}")
+    # 2. 同时保存为 latest.json 方便最新获取
+    latest_file_path = f"{folder_name}/latest.json"
+    with open(latest_file_path, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+        
+    print(f"✅ 日期归档数据已成功保存至: {daily_file_path}")
+    print(f"✅ 最新数据已更新至: {latest_file_path}")
 
 if __name__ == "__main__":
     generate_daily_grammar()
