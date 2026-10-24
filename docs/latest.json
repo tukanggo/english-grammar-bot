@@ -1,367 +1,367 @@
 {
-  "date": "2026-10-23",
-  "topic": "现在完成时核心用法与标志词 (Present Perfect Tense & Key Signal Words)",
-  "teaching_notes": "同学们好！今天我们来攻克现在完成时（have / has + 过去分词 p.p.）。它主要用来表示过去的动作对现在产生的影响，或是从过去持续到现在的状态。记住它的几个黄金搭档：for 后面接时间段（for three years），since 后面接时间点或过去动作（since 2024 / since I was six）；already 常用在肯定句中间，yet 专守否定句和疑问句句尾。例如：'Lucas has already cleaned his room.'（卢卡斯已经打扫完房间了。）以及 'They haven't arrived yet.'（他们还没到呢。）",
+  "date": "2026-10-24",
+  "topic": "主谓一致核心规则与易错点 (Subject-Verb Agreement)",
+  "teaching_notes": "嗨，同学们！主谓一致就像是句子里的“最佳拍档”：主语如果是单数，后面的谓语动词通常要加 -s 或 -es（例如：The cat runs fast.）；如果主语是复数，动词就要保持原形（例如：The cats run fast.）。不过要注意几个超级“陷阱”：像 everyone, each, neither of 这样看似指多人的词，语法上其实都算作单数；而遇到 either...or...、neither...nor... 时，动词则要听从“离它最近的邻居”！牢记口诀：“单加s复用原，不定代词视作一，就近原则看邻居！”",
   "questions": [
     {
       "id": 1,
-      "question": "Emma is not hungry because she has already ______ lunch.",
+      "question": "Everyone in our class ______ Ms. Green because she is always patient and kind.",
       "options": {
-        "A": "eat",
-        "B": "ate",
-        "C": "eaten",
-        "D": "eating"
+        "A": "love",
+        "B": "loves",
+        "C": "are loving",
+        "D": "have loved"
       },
-      "answer": "C",
-      "explanation": "现在完成时的结构是 'have/has + 动词过去分词'。动词 eat 的过去分词是 eaten。"
+      "answer": "B",
+      "explanation": "不定代词 everyone 作主语时，谓语动词一律使用第三人称单数形式，因此选择 loves。"
     },
     {
       "id": 2,
-      "question": "Mr. Davis has taught science at our school ______ ten years.",
+      "question": "Either the teacher or the students ______ going to decorate the main hall this afternoon.",
       "options": {
-        "A": "since",
-        "B": "for",
-        "C": "in",
-        "D": "at"
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
       },
       "answer": "B",
-      "explanation": "'ten years' 是一个时间段，表示动作持续了多长时间，前面介词需用 for。"
+      "explanation": "由 either...or... 连接两个主语时，动词遵循“就近原则”。离谓语动词最近的主语是复数名词 the students，因此动词用 are。"
     },
     {
       "id": 3,
-      "question": "Oliver has lived in Shanghai ______ 2021.",
+      "question": "Neither of the two pens on the desk ______ properly; I need to find a pencil.",
       "options": {
-        "A": "since",
-        "B": "for",
-        "C": "during",
-        "D": "ago"
+        "A": "write",
+        "B": "writes",
+        "C": "are writing",
+        "D": "have written"
       },
-      "answer": "A",
-      "explanation": "'2021' 是一个明确的具体时间点，表示动作从过去的某个点持续至今，用 since。"
+      "answer": "B",
+      "explanation": "neither of + 复数名词作主语时，中心词是 neither（两者中任何一个都不），在规范书面语中谓语动词视为单数，故用 writes。"
     },
     {
       "id": 4,
-      "question": "Have you ______ visited the dinosaur museum in Beijing?",
+      "question": "Bread and butter ______ my grandfather's favorite breakfast for over thirty years.",
       "options": {
-        "A": "never",
-        "B": "ever",
-        "C": "yet",
-        "D": "already"
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "have been"
       },
-      "answer": "B",
-      "explanation": "在现在完成时的一般疑问句中，表示‘曾经’通常使用副词 ever。"
+      "answer": "A",
+      "explanation": "bread and butter（涂黄油的面包）表示不可分割的单一食物概念，视作单数整体，因此系动词用 is。"
     },
     {
       "id": 5,
-      "question": "Don't take the book away! Peter hasn't finished reading it ______.",
+      "question": "The captain, along with his crew members, ______ safely rescued from the stormy sea yesterday.",
       "options": {
-        "A": "already",
-        "B": "just",
-        "C": "yet",
-        "D": "ever"
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
       },
-      "answer": "C",
-      "explanation": "yet 常用于现在完成时的否定句或疑问句句末，意为‘还（未）’。"
+      "answer": "A",
+      "explanation": "当主语后面有 along with, together with, as well as 等短语时，谓语动词的单复数完全取决于前面的核心主语 the captain（单数）。加上时间状语 yesterday，故用 was。"
     },
     {
       "id": 6,
-      "question": "I ______ my keys yesterday, so I couldn't open the door.",
+      "question": "There ______ a carton of milk and two fresh apples on the kitchen counter.",
       "options": {
-        "A": "have lost",
-        "B": "lost",
-        "C": "lose",
-        "D": "has lost"
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
       },
       "answer": "B",
-      "explanation": "句中有明确的过去时间状语 yesterday，动作发生在过去且已结束，应用一般过去时 lost。"
+      "explanation": "There be 句型遵循就近原则。离 be 动词最近的主语是 a carton of milk（单数），因此谓语动词用 is。"
     },
     {
       "id": 7,
-      "question": "— Where is Mom?\n— She ______ to the supermarket to buy some milk.",
+      "question": "Ten kilometers ______ a long distance for a young child to run without stopping.",
       "options": {
-        "A": "has been",
-        "B": "has gone",
-        "C": "went",
-        "D": "goes"
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "being"
       },
       "answer": "B",
-      "explanation": "'has gone to' 表示‘去了某地且尚未回来’；'has been to' 则表示‘曾经去过某地（现已返回）’。妈妈现在不在家，故用 has gone。"
+      "explanation": "表示距离、时间、金钱等度量衡的复数短语（Ten kilometers）通常作为一个整体看待，谓语动词用单数 is。"
     },
     {
       "id": 8,
-      "question": "We ______ to Japan twice, and we want to go there again next winter.",
+      "question": "The news about the upcoming school camping trip ______ extremely exciting.",
       "options": {
-        "A": "have gone",
-        "B": "went",
-        "C": "have been",
-        "D": "had gone"
+        "A": "sound",
+        "B": "sounds",
+        "C": "are sounding",
+        "D": "were sounding"
       },
-      "answer": "C",
-      "explanation": "表示某人‘去过某地’的经历且已经返回，且后面有 twice（两次），应使用 have been to。"
+      "answer": "B",
+      "explanation": "news（新闻/消息）是不可数名词，作主语时谓语动词用第三人称单数形式 sounds。"
     },
     {
       "id": 9,
-      "question": "My cousin Toby is only nine, but he ______ more than twenty books this year.",
+      "question": "A number of tourists ______ the ancient castle every weekend to take photos.",
       "options": {
-        "A": "has read",
-        "B": "reads",
-        "C": "readed",
-        "D": "is reading"
+        "A": "visits",
+        "B": "visit",
+        "C": "is visiting",
+        "D": "has visited"
       },
-      "answer": "A",
-      "explanation": "主语 Toby 是第三人称单数，助动词用 has；read 的过去分词形同原形但发音为 /red/，构成 has read。"
+      "answer": "B",
+      "explanation": "“a number of + 复数名词”意为“许多……”，作主语时谓语动词用复数形式 visit。"
     },
     {
       "id": 10,
-      "question": "The children ______ their art project, so they can play outside now.",
+      "question": "The number of students in our robotics club ______ from twenty to thirty-five this year.",
       "options": {
-        "A": "just finished",
-        "B": "have just finished",
-        "C": "has just finished",
-        "D": "are just finishing"
+        "A": "has increased",
+        "B": "have increased",
+        "C": "increase",
+        "D": "are increasing"
       },
-      "answer": "B",
-      "explanation": "主语 The children 是复数，助动词用 have；just 常放在 have/has 与过去分词之间，强调刚刚完成。"
+      "answer": "A",
+      "explanation": "“the number of + 复数名词”意为“……的数量”，中心词是 number，谓语动词用单数，故用 has increased。"
     },
     {
       "id": 11,
-      "question": "— When ______ you buy that beautiful bicycle?\n— Last Saturday.",
+      "question": "Each of the five puppies ______ a tiny red collar with a silver bell.",
       "options": {
-        "A": "have",
-        "B": "did",
-        "C": "do",
-        "D": "were"
+        "A": "wear",
+        "B": "wears",
+        "C": "are wearing",
+        "D": "have worn"
       },
       "answer": "B",
-      "explanation": "由 When 引导的特殊疑问句询问具体的过去时间点，必须用一般过去时，助动词用 did。"
+      "explanation": "“each of + 复数名词”作主语时，重心在 each（每一个），谓语动词用第三人称单数形式 wears。"
     },
     {
       "id": 12,
-      "question": "I ______ seen that movie before. It was very exciting!",
+      "question": "Both Oliver and his elder brother ______ the school basketball team.",
       "options": {
-        "A": "have",
-        "B": "has",
-        "C": "did",
-        "D": "am"
+        "A": "supports",
+        "B": "support",
+        "C": "is supporting",
+        "D": "has supported"
       },
-      "answer": "A",
-      "explanation": "第一人称主语 I 搭配助动词 have，与 past participle (seen) 构成完成时态。"
+      "answer": "B",
+      "explanation": "both...and... 连接两个并列主语时，表示两者都，谓语动词必须用复数形式 support。"
     },
     {
       "id": 13,
-      "question": "Sarah has played the piano ______ she was five years old.",
+      "question": "Not only the students but also their science teacher ______ fascinated by the solar eclipse.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "when",
-        "D": "before"
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "be"
       },
-      "answer": "B",
-      "explanation": "'since + 过去时从句' 表示‘自……以来’，是从过去的某个时间起点一直持续到现在。"
+      "answer": "A",
+      "explanation": "not only...but also... 连接主语时遵循就近原则。离谓语最近的主语 their science teacher 是单数，故用 was。"
     },
     {
       "id": 14,
-      "question": "Which of the following irregular verb forms is correct for 'write'?",
+      "question": "All the furniture in the new modern library ______ made of eco-friendly wood.",
       "options": {
-        "A": "write - wrote - writed",
-        "B": "write - writed - written",
-        "C": "write - wrote - written",
-        "D": "write - writting - written"
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "have been"
       },
-      "answer": "C",
-      "explanation": "动词 write 的原形、过去式和过去分词分别是 write - wrote - written。"
+      "answer": "B",
+      "explanation": "furniture（家具）是不可数名词，无论前面加什么修饰词，谓语动词一律用单数 is。"
     },
     {
       "id": 15,
-      "question": "Leo ______ his arm last Friday while playing basketball.",
+      "question": "Our school football team ______ practicing hard on the playground right now.",
       "options": {
-        "A": "has broken",
-        "B": "broke",
-        "C": "breaks",
-        "D": "is breaking"
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "am"
       },
-      "answer": "B",
-      "explanation": "时间状语 'last Friday' 是明确的过去时间点，不能用现在完成时，需用一般过去时 broke。"
+      "answer": "A",
+      "explanation": "team 作为集体名词，在此处表示一个整体单位在训练，因此谓语动词用单数 is。"
     },
     {
       "id": 16,
-      "question": "I'm so sorry, but I ______ to bring my homework today.",
+      "question": "Mathematics ______ always been Ethan's favorite subject since he was in Primary 1.",
       "options": {
-        "A": "have forgotten",
-        "B": "forgetting",
-        "C": "forgotten",
-        "D": "has forgotten"
+        "A": "have",
+        "B": "has",
+        "C": "are",
+        "D": "were"
       },
-      "answer": "A",
-      "explanation": "忘记带作业发生在刚才，对现在的状态（没有作业交）造成了影响，且主语是 I，用 have forgotten。"
+      "answer": "B",
+      "explanation": "Mathematics（数学）是以 -s 结尾的学科名词，属于单数不可数名词，谓语动词用 has。"
     },
     {
       "id": 17,
-      "question": "How long ______ you and your sister known each other's best friends?",
+      "question": "One of my best friends ______ in a quiet seaside town near Tokyo.",
       "options": {
-        "A": "did",
-        "B": "do",
-        "C": "have",
-        "D": "has"
+        "A": "live",
+        "B": "lives",
+        "C": "are living",
+        "D": "have lived"
       },
-      "answer": "C",
-      "explanation": "How long 询问动作持续的时长，搭配现在完成时；主语 'you and your sister' 是复数，故选 have。"
+      "answer": "B",
+      "explanation": "“one of + 复数名词”结构中，主语的核心词是 One（其中一个），谓语动词用第三人称单数 lives。"
     },
     {
       "id": 18,
-      "question": "No one in our class ______ ever seen a shooting star with their own eyes.",
+      "question": "Fifty dollars ______ enough to purchase this illustrated science dictionary.",
       "options": {
-        "A": "has",
-        "B": "have",
-        "C": "is",
-        "D": "did"
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
       },
       "answer": "A",
-      "explanation": "不定代词 No one 作主语时视为单数第三人称，助动词应用 has。"
+      "explanation": "表示特定金额（Fifty dollars）作主语时，看作一个整体款项，谓语动词用单数 is。"
     },
     {
       "id": 19,
-      "question": "Uncle Ben has worked as a pilot ______ twenty-five years.",
+      "question": "Neither Maya nor her classmates ______ interested in playing video games during recess.",
       "options": {
-        "A": "since",
-        "B": "for",
-        "C": "ago",
-        "D": "from"
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "am"
       },
       "answer": "B",
-      "explanation": "'twenty-five years' 是一段具体的时间长度（时间段），与 for 搭配。"
+      "explanation": "neither...nor... 结构中，动词依据就近原则确定。最近的主语 her classmates 是复数，故选 are。"
     },
     {
       "id": 20,
-      "question": "— Has Chloe fed the rabbit yet?\n— ______",
+      "question": "Nobody in the art museum ______ allowed to touch the oil paintings.",
       "options": {
-        "A": "Yes, she did.",
-        "B": "No, she doesn't.",
-        "C": "Yes, she has.",
-        "D": "No, she hasn't fed."
+        "A": "are",
+        "B": "is",
+        "C": "were",
+        "D": "be"
       },
-      "answer": "C",
-      "explanation": "以 'Has + 主语...?' 开头的现在完成时一般疑问句，肯定回答为 'Yes, 主语 + has.'。"
+      "answer": "B",
+      "explanation": "不定代词 nobody 作主语时，谓语动词用单数形式 is。"
     },
     {
       "id": 21,
-      "question": "Grandpa has had this old pocket watch ______ he was a teenager.",
+      "question": "Running every morning and eating fresh fruit ______ us build a strong body.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "in",
-        "D": "at"
+        "A": "helps",
+        "B": "help",
+        "C": "is helping",
+        "D": "helping"
       },
       "answer": "B",
-      "explanation": "'he was a teenager' 是过去发生的具体状态/时间点，引导从句用 since。"
+      "explanation": "两个动名词短语（Running... and eating...）由 and 连接，表示两件不同的事情，谓语动词用复数原形 help。"
     },
     {
       "id": 22,
-      "question": "We have ______ a tree in the garden, and now it is getting taller.",
+      "question": "Collecting rare stamps and postcards ______ a popular hobby among older generations.",
       "options": {
-        "A": "plant",
-        "B": "planted",
-        "C": "planting",
-        "D": "plants"
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "being"
       },
-      "answer": "B",
-      "explanation": "have 后面接规则动词 plant 的过去分词形式 planted。"
+      "answer": "A",
+      "explanation": "句子的核心主语是动名词 collecting（集邮与明信片这一种爱好行为），单个动名词作主语谓语动词用单数 is。"
     },
     {
       "id": 23,
-      "question": "Henry isn't coming to the party because he ______ a bad cold.",
+      "question": "The police ______ looking for the owner of the lost golden retriever puppy.",
       "options": {
-        "A": "has caught",
-        "B": "catch",
-        "C": "caughted",
-        "D": "is caught"
-      },
-      "answer": "A",
-      "explanation": "感冒发生在不久前，结果是现在不能来参加派对（对现在造成影响），主语是 he，用 has caught。"
-    },
-    {
-      "id": 24,
-      "question": "— Where are my glasses?\n— I don't know. I haven't seen them ______ this morning.",
-      "options": {
-        "A": "for",
-        "B": "since",
-        "C": "before",
-        "D": "at"
-      },
-      "answer": "B",
-      "explanation": "'this morning' 是过去的某个时间点，表示‘从今天早晨起一直到现没见过’，用 since。"
-    },
-    {
-      "id": 25,
-      "question": "My elder brother ______ to university three years ago.",
-      "options": {
-        "A": "has gone",
-        "B": "went",
-        "C": "goes",
+        "A": "is",
+        "B": "are",
+        "C": "was",
         "D": "has been"
       },
       "answer": "B",
-      "explanation": "'three years ago' 是过去的时间状语，句子必须使用一般过去时 went。"
+      "explanation": "police（警察）是集合名词，形式上没有复数后缀，但在语法上永远看作复数，谓语动词用 are。"
+    },
+    {
+      "id": 24,
+      "question": "A pair of running shoes ______ left behind on the sports field after school.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "虽然 shoes 是复数，但主语中心词是 a pair of（一双），属于单数，故用 was。"
+    },
+    {
+      "id": 25,
+      "question": "These craft scissors ______ too blunt to cut through the thick paper.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has been"
+      },
+      "answer": "B",
+      "explanation": "scissors, glasses, trousers 等由两部分组成的物品名词，若没有 pair 修饰，作主语时谓语动词用复数 are。"
     },
     {
       "id": 26,
-      "question": "— Would you like to try some sushi?\n— No, thank you. I have ______ eaten raw fish before.",
+      "question": "The school principal, as well as several grade-four teachers, ______ the meeting today.",
       "options": {
-        "A": "ever",
-        "B": "never",
-        "C": "yet",
-        "D": "already"
+        "A": "attends",
+        "B": "attend",
+        "C": "are attending",
+        "D": "have attended"
       },
-      "answer": "B",
-      "explanation": "根据上下文婉拒的态度，表示‘从不、从未’吃过生鱼，在陈述句中用 never。"
+      "answer": "A",
+      "explanation": "主语后跟 as well as 短语时，谓语动词只与前面的真正主语 The school principal（单数）保持一致，故选 attends。"
     },
     {
       "id": 27,
-      "question": "The train ______ already left the station, so we must wait for the next one.",
+      "question": "There ______ several colorful balloons tied to the garden fence for the birthday party.",
       "options": {
-        "A": "is",
-        "B": "did",
-        "C": "has",
-        "D": "was"
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
       },
-      "answer": "C",
-      "explanation": "主语 The train 为第三人称单数，结合 already 和过去分词 left，应使用助动词 has。"
+      "answer": "B",
+      "explanation": "There be 句型中后面的主语 several colorful balloons 为复数，根据语境和就近原则，过去时应用 were。"
     },
     {
       "id": 28,
-      "question": "They ______ their classroom yet, so it still looks messy.",
+      "question": "Some of the apple juice ______ spilled onto the dining table cloth.",
       "options": {
-        "A": "haven't cleaned",
-        "B": "didn't clean",
-        "C": "hasn't cleaned",
-        "D": "don't clean"
+        "A": "has",
+        "B": "have",
+        "C": "are",
+        "D": "were"
       },
       "answer": "A",
-      "explanation": "句末标志词 yet 要求否定句且搭配完成时；主语 They 为复数，用 haven't cleaned。"
+      "explanation": "some of + 名词作主语时，谓语动词依据名词的性质决定。apple juice 是不可数名词，所以用单数 has。"
     },
     {
       "id": 29,
-      "question": "Mia ______ four emails this morning, and now she is taking a break.",
+      "question": "Some of the chocolate cookies on the tray ______ already eaten by the children.",
       "options": {
-        "A": "has written",
-        "B": "is writing",
-        "C": "writes",
-        "D": "write"
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has been"
       },
-      "answer": "A",
-      "explanation": "强调到目前为止已完成的动作成果（写了四封邮件），主语是单数 Mia，用 has written。"
+      "answer": "B",
+      "explanation": "some of 后接可数名词复数 cookies，谓语动词随之使用复数形式 were。"
     },
     {
       "id": 30,
-      "question": "— ______ you ever flown in a helicopter?\n— Yes, once during our trip to Canada.",
+      "question": "Every boy and every girl in our primary choir ______ a certificate of achievement.",
       "options": {
-        "A": "Did",
-        "B": "Have",
-        "C": "Are",
-        "D": "Do"
+        "A": "receive",
+        "B": "receives",
+        "C": "are receiving",
+        "D": "have received"
       },
       "answer": "B",
-      "explanation": "句中含有过去分词 flown（fly-flew-flown）和副词 ever，表示人生经验，应用 Have you ever... 句型。"
+      "explanation": "当 and 连接的两个单数名词前分别有 every, each 或 no 修饰时，全句谓语动词依然用单数，故用 receives。"
     }
   ]
 }
