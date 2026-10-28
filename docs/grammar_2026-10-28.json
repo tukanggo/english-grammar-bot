@@ -1,31 +1,187 @@
 {
   "date": "2026-10-28",
-  "topic": "语法基础巩固 (智能备用通道)",
-  "teaching_notes": "今日 AI 服务器响应超时，小课堂已自动启用精选语法复习题，助你保持每天打卡好习惯！",
+  "topic": "过去进行时 (The Past Continuous Tense)",
+  "teaching_notes": "同学们，过去进行时（was/were + 动词ing）就像是拿一部摄像机，回放过去某个‘精准时刻’或‘特定时间段’正在发生的画面哦！主语是单数（I/he/she/it）用 was，复数（we/you/they）用 were。当表达‘一个动作正在进行时突然被另一个动作打断’，常搭配 when（后接一般过去时）或 while（后接过去进行时）。例如：I was reading a book when the phone rang.（我正在看书，这时电话响了。）/ While Mom was cooking, I was doing my homework.（当妈妈在做饭时，我正在做作业。）",
   "questions": [
     {
       "id": 1,
-      "question": "She _____ to the library every Sunday.",
+      "question": "At 7:00 PM yesterday, my family and I ______ dinner together in the dining room.",
       "options": {
-        "A": "go",
-        "B": "goes",
-        "C": "going",
-        "D": "gone"
+        "A": "eat",
+        "B": "ate",
+        "C": "were eating",
+        "D": "are eating"
       },
-      "answer": "B",
-      "explanation": "主语为第三人称单数 (She)，且表示经常性习惯动作，故谓语动词用一般现在时单三形式 goes。"
+      "answer": "C",
+      "explanation": "句中包含了明确的过去特定时间点 'At 7:00 PM yesterday'，表示当时正在进行的动作，且主语 my family and I 为复数，故选 was/were + V-ing 形式的 were eating。"
     },
     {
       "id": 2,
-      "question": "Look! The children _____ basketball in the yard.",
+      "question": "While Sarah ______ in the garden, it suddenly started to rain.",
       "options": {
-        "A": "play",
-        "B": "plays",
-        "C": "are playing",
-        "D": "played"
+        "A": "was playing",
+        "B": "played",
+        "C": "plays",
+        "D": "is playing"
+      },
+      "answer": "A",
+      "explanation": "while 引导的时间状语从句通常接过去进行时，表示过去某段时间内持续发生的动作。Sarah 是第三人称单数，助动词用 was，故选 was playing。"
+    },
+    {
+      "id": 3,
+      "question": "Tom was doing his homework when the lights ______ suddenly.",
+      "options": {
+        "A": "was going out",
+        "B": "went out",
+        "C": "go out",
+        "D": "are going out"
+      },
+      "answer": "B",
+      "explanation": "在 'was/were doing... when...' 结构中，when 引导的从句通常用一般过去时，表示突然发生的打断性动作。go out 的过去式是 went out。"
+    },
+    {
+      "id": 4,
+      "question": "— What ______ you doing at this time last Sunday?\n— I was visiting my grandparents.",
+      "options": {
+        "A": "was",
+        "B": "are",
+        "C": "were",
+        "D": "did"
       },
       "answer": "C",
-      "explanation": "句首有 'Look!' 提示，表示动作正在发生，因此应用现在进行时 (is/am/are + v-ing)。"
+      "explanation": "根据时间状语 'at this time last Sunday'（上周日这个时候）可知句型为过去进行时的特殊疑问句，主语是 you，助动词应填 were。"
+    },
+    {
+      "id": 5,
+      "question": "While my mother was cooking dinner, my father ______ the living room.",
+      "options": {
+        "A": "cleaned",
+        "B": "cleans",
+        "C": "is cleaning",
+        "D": "was cleaning"
+      },
+      "answer": "D",
+      "explanation": "用 while 连接两个动作时，常表示过去同一时间平行发生的两个持续性动作。前后两句均应用过去进行时，主语 my father 用 was cleaning。"
+    },
+    {
+      "id": 6,
+      "question": "I called you three times last night, but nobody answered. What ______?",
+      "options": {
+        "A": "were you doing",
+        "B": "did you do",
+        "C": "do you do",
+        "D": "are you doing"
+      },
+      "answer": "A",
+      "explanation": "问句询问的是昨晚打电话那个特定时刻对方‘正在做什么’，因此要用过去进行时 were you doing。"
+    },
+    {
+      "id": 7,
+      "question": "The students ______ quietly when the principal walked into the classroom.",
+      "options": {
+        "A": "read",
+        "B": "were reading",
+        "C": "are reading",
+        "D": "have read"
+      },
+      "answer": "B",
+      "explanation": "校长走进教室（walked into，一般过去时）时，学生们‘正在安安静静地阅读’，主语 The students 是复数，故选用 were reading。"
+    },
+    {
+      "id": 8,
+      "question": "My brother ______ to music with headphones, so he didn't hear the doorbell ring.",
+      "options": {
+        "A": "listened",
+        "B": "listens",
+        "C": "was listening",
+        "D": "is listening"
+      },
+      "answer": "C",
+      "explanation": "根据后半句 didn't hear（没听见）可知，弟弟当时‘正在戴着耳机听音乐’，背景动作处于进行中，故用过去进行时 was listening。"
+    },
+    {
+      "id": 9,
+      "question": "Look at your wet shoes! What were you doing outside while it ______?",
+      "options": {
+        "A": "rained",
+        "B": "was raining",
+        "C": "rains",
+        "D": "is raining"
+      },
+      "answer": "B",
+      "explanation": "while 从句表示‘当下雨（持续性动作）发生的时候’，且整件事发生在过去，应用过去进行时 was raining。"
+    },
+    {
+      "id": 10,
+      "question": "Tim hurt his arm while he ______ football with his classmates.",
+      "options": {
+        "A": "played",
+        "B": "was playing",
+        "C": "plays",
+        "D": "is playing"
+      },
+      "answer": "B",
+      "explanation": "Tim 在‘正在踢足球’的过程中弄伤了手臂，while 引导的从句用过去进行时 was playing。"
+    },
+    {
+      "id": 11,
+      "question": "______ I was walking to school this morning, I saw a beautiful hot-air balloon.",
+      "options": {
+        "A": "While",
+        "B": "What",
+        "C": "Where",
+        "D": "Because"
+      },
+      "answer": "A",
+      "explanation": "句中从句部分 'I was walking to school' 是过去进行时，连接词应用 While，意为‘当……的时候’。"
+    },
+    {
+      "id": 12,
+      "question": "Lucy ______ a lovely dream when her alarm clock rang at 6:30 AM.",
+      "options": {
+        "A": "has",
+        "B": "was having",
+        "C": "had",
+        "D": "is having"
+      },
+      "answer": "B",
+      "explanation": "闹钟响起（rang，一般过去时）的时候，Lucy 正在‘做美梦’，该持续动作被闹钟打断，主语 Lucy 搭配 was having。"
+    },
+    {
+      "id": 13,
+      "question": "We ______ not watching TV at 9:00 last night; we were studying for the English test.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "did",
+        "D": "are"
+      },
+      "answer": "B",
+      "explanation": "本题考查过去进行时的否定句结构：was/were + not + V-ing。主语是 We，助动词应用 were。"
+    },
+    {
+      "id": 14,
+      "question": "Jack lost his key while he ______ through the crowded night market.",
+      "options": {
+        "A": "walks",
+        "B": "walked",
+        "C": "was walking",
+        "D": "is walking"
+      },
+      "answer": "C",
+      "explanation": "Jack 丢钥匙发生在‘正在逛夜市’的背景动作之中，while 从句搭配过去进行时 was walking。"
+    },
+    {
+      "id": 15,
+      "question": "— Why didn't you answer my phone call at 8:00 PM?\n— Sorry! I ______ a shower at that time.",
+      "options": {
+        "A": "was taking",
+        "B": "took",
+        "C": "am taking",
+        "D": "take"
+      },
+      "answer": "A",
+      "explanation": "根据问句中的 didn't 以及答句中的 at that time（那时），说明回答者当时‘正在洗澡’，主语 I 搭配过去进行时 was taking。"
     }
   ]
 }
