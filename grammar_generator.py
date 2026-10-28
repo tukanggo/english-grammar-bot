@@ -61,8 +61,8 @@ def generate_daily_grammar():
                 )
                 break
             except Exception as e:
-                print(f"⚠️ 请求遇到异常，等待 15 秒后重试... (模型: {model_name}, 错误: {e})")
-                time.sleep(15)
+                print(f"⚠️ 请求遇到异常，等待 30 秒后重试... (模型: {model_name}, 错误: {e})")
+                time.sleep(30)
         if response:
             break
 
