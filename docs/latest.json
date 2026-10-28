@@ -1,367 +1,367 @@
 {
   "date": "2026-10-28",
-  "topic": "现在完成时及其核心标志词 (Present Perfect Tense & Signal Words)",
-  "teaching_notes": "亲爱的小朋友们，现在完成时（have/has + 动词过去分词）就像是一座连接“过去”与“现在”的彩虹桥！它用来表示过去发生的动作对现在造成的影响，或者从过去一直持续到现在的状态。句子里常藏着提示你的“小精灵”标志词：表示“已经”用 already（多用于肯定句），表示“刚刚”用 just，表示“还未/是否”用 yet（多用于否定句和疑问句句末）；表示持续时间段用 for（如 for 3 years），而表示时间起点则用 since（如 since 2020 或 since I was 8）。",
+  "topic": "过去进行时与when/while的妙用 (Past Continuous Tense with 'when' & 'while')",
+  "teaching_notes": "同学们，过去进行时表示过去某个特定时刻或时间段正在发生的动作，结构是‘was/were + 动词ing’！当它和 when 或 while 连用时，就像在讲故事：when 后面常接突然发生的动作（用一般过去时），而 while 后面常接背景里一直在持续的动作（用过去进行时）。例如：*I was reading a book when the phone rang.*（我正在看书，突然电话响了。）或者 *While Mom was cooking, I was doing my homework.*（当妈妈在做饭时，我正在做作业。）记住哦，主语是单数用 was，复数用 were，可别写错啦！",
   "questions": [
     {
       "id": 1,
-      "question": "Ms. Green _____ English in our school since 2018.",
+      "question": "Yesterday at 4 PM, Toby ________ his dog in the neighborhood park.",
       "options": {
-        "A": "taught",
-        "B": "teaches",
-        "C": "has taught",
-        "D": "is teaching"
+        "A": "was walking",
+        "B": "walked",
+        "C": "is walking",
+        "D": "walks"
       },
-      "answer": "C",
-      "explanation": "句中有“since + 时间点 (2018)”，表示从过去持续到现在的动作，主语 Ms. Green 是第三人称单数，故用现在完成时 has taught。"
+      "answer": "A",
+      "explanation": "‘Yesterday at 4 PM’表示过去具体的某一时刻，Toby 是单数第三人称，因此谓语动词要用过去进行时 was walking。"
     },
     {
       "id": 2,
-      "question": "Have you _____ visited the National History Museum in London?",
+      "question": "What ________ you doing when the fire alarm rang during science class?",
       "options": {
-        "A": "ever",
-        "B": "never",
-        "C": "yet",
-        "D": "for"
+        "A": "did",
+        "B": "was",
+        "C": "were",
+        "D": "are"
       },
-      "answer": "A",
-      "explanation": "在现在完成时的疑问句中，表示“曾经”常用 ever，放在主语和过去分词之间。"
+      "answer": "C",
+      "explanation": "在过去进行时的特殊疑问句中，主语是 you，助动词要选用 were。"
     },
     {
       "id": 3,
-      "question": "I am sorry, but I haven't finished reading this adventure book _____.",
+      "question": "Sarah was taking a photo ________ a colourful parrot suddenly flew into the frame.",
       "options": {
-        "A": "already",
-        "B": "yet",
-        "C": "just",
-        "D": "since"
+        "A": "while",
+        "B": "when",
+        "C": "because",
+        "D": "so"
       },
       "answer": "B",
-      "explanation": "yet 经常用于现在完成时的否定句或疑问句句末，表示“还（未）”。"
+      "explanation": "flew 是一般过去时（打断主句动作的瞬间动作），前面应用连词 when。"
     },
     {
       "id": 4,
-      "question": "Ben and Luke have been best friends _____ three years.",
+      "question": "While my parents ________ dinner, I was setting the dining table.",
       "options": {
-        "A": "since",
-        "B": "for",
-        "C": "in",
-        "D": "at"
+        "A": "cooked",
+        "B": "were cooking",
+        "C": "was cooking",
+        "D": "are cooking"
       },
       "answer": "B",
-      "explanation": "three years 是一段时间（时间段），与现在完成时连用时前面需要加介词 for。"
+      "explanation": "while 引导的从句表示持续发生的背景动作，主语 my parents 是复数，故选用 were cooking。"
     },
     {
       "id": 5,
-      "question": "Look! The kitchen floor is bright and clean because Mum has _____ swept it.",
+      "question": "The athletes ________ on the running track when the thunder clap shook the stadium.",
       "options": {
-        "A": "yet",
-        "B": "just",
-        "C": "ever",
-        "D": "since"
+        "A": "were runing",
+        "B": "was running",
+        "C": "were running",
+        "D": "runned"
       },
-      "answer": "B",
-      "explanation": "根据 Look! 和干净的地面可知，妈妈“刚刚”扫过地，表示刚刚发生的动作对现在产生的影响用 just。"
+      "answer": "C",
+      "explanation": "run 的现在分词需要双写字母 n 再加 ing（running），主语 athletes 是复数，故选 were running。"
     },
     {
       "id": 6,
-      "question": "We don't need to order food because Dad has _____ cooked dinner for us.",
+      "question": "I didn't hear the doorbell ring because I ________ to classical music with headphones.",
       "options": {
-        "A": "yet",
-        "B": "ever",
-        "C": "already",
-        "D": "since"
+        "A": "listened",
+        "B": "am listening",
+        "C": "were listening",
+        "D": "was listening"
       },
-      "answer": "C",
-      "explanation": "already 常用于肯定句中间，表示“已经”做好了某事。"
+      "answer": "D",
+      "explanation": "句意表示当时‘正在听音乐’，主语是第一人称 I，过去进行时结构为 was listening。"
     },
     {
       "id": 7,
-      "question": "Tom is very excited because he has _____ seen real snow before; this is his first time!",
+      "question": "Tim was ________ on the grass in the courtyard when his teacher called his name.",
       "options": {
-        "A": "ever",
-        "B": "never",
-        "C": "already",
-        "D": "yet"
+        "A": "lying",
+        "B": "lieing",
+        "C": "lying",
+        "D": "lied"
       },
-      "answer": "B",
-      "explanation": "根据“这是他第一次看到雪”可知，他以前“从未”见过雪，表示否定含义的“从未”用 never。"
+      "answer": "A",
+      "explanation": "动词 lie（躺）的现在分词拼写变化为变 ie 为 y 加 ing，即 lying。"
     },
     {
       "id": 8,
-      "question": "How long _____ you _____ your pet dog, Buddy?",
+      "question": "What ________ your little sister making when you entered the kitchen?",
       "options": {
-        "A": "did; have",
-        "B": "have; had",
-        "C": "do; have",
-        "D": "are; having"
+        "A": "was",
+        "B": "were",
+        "C": "did",
+        "D": "is"
       },
-      "answer": "B",
-      "explanation": "How long（多久）提问动作持续的长度，需搭配现在完成时。主语是 you，助动词用 have，have 的过去分词是 had。"
+      "answer": "A",
+      "explanation": "主语 your little sister 是单数名词，过去进行时疑问句中使用助动词 was。"
     },
     {
       "id": 9,
-      "question": "Lily hasn't washed her tennis shoes _____, so she cannot wear them today.",
+      "question": "While Mr. Harrison ________ the experiment, the students were taking notes carefully.",
       "options": {
-        "A": "already",
-        "B": "just",
-        "C": "yet",
-        "D": "since"
+        "A": "demonstrated",
+        "B": "was demonstrating",
+        "C": "is demonstrating",
+        "D": "were demonstrating"
       },
-      "answer": "C",
-      "explanation": "在否定句句末表示“还未”刷鞋，应填 yet。"
+      "answer": "B",
+      "explanation": "while 表示同时进行的较长动作，Mr. Harrison 是单数，用 was demonstrating。"
     },
     {
       "id": 10,
-      "question": "Mr. Harrison has lived in Beijing _____ he was twenty years old.",
+      "question": "The children ________ video games all morning yesterday.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "in",
-        "D": "during"
+        "A": "were play",
+        "B": "was playing",
+        "C": "were playing",
+        "D": "played"
       },
-      "answer": "B",
-      "explanation": "“he was twenty years old”是一个明确的时间起点（一般过去时从句），前面需要使用 since。"
+      "answer": "C",
+      "explanation": "‘all morning yesterday’强调过去整段时间正在进行的动作，主语 The children 为复数，用 were playing。"
     },
     {
       "id": 11,
-      "question": "_____ you ever _____ a camel in the desert?",
+      "question": "Who ________ you talking to on the phone when I saw you in the hallway?",
       "options": {
-        "A": "Have; ridden",
-        "B": "Did; ride",
-        "C": "Do; ride",
-        "D": "Has; ridden"
+        "A": "were",
+        "B": "was",
+        "C": "did",
+        "D": "are"
       },
       "answer": "A",
-      "explanation": "询问过去是否有某种经历用“Have + 主语 + ever + 过去分词”，ride 的过去分词是 ridden。"
+      "explanation": "主语是 you，搭配过去进行时的疑问形式，需要填入 were。"
     },
     {
       "id": 12,
-      "question": "Watch out! A yellow school bus has _____ stopped right in front of the gate.",
+      "question": "I accidentally dropped my ice cream while I ________ to catch the school bus.",
       "options": {
-        "A": "yet",
-        "B": "just",
-        "C": "ever",
-        "D": "for"
+        "A": "ran",
+        "B": "was running",
+        "C": "was runing",
+        "D": "were running"
       },
       "answer": "B",
-      "explanation": "Watch out!（当心！）提示动作刚刚发生，强调对现在的影响，用 just（刚刚）。"
+      "explanation": "while 引导持续的动作，主语 I 用 was，run 的 ing 形式需双写 n 为 running。"
     },
     {
       "id": 13,
-      "question": "They have stayed at this seaside hotel _____ last Sunday.",
+      "question": "They ________ not listening to the announcements, so they missed the assembly.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "about",
-        "D": "during"
+        "A": "was",
+        "B": "were",
+        "C": "did",
+        "D": "are"
       },
       "answer": "B",
-      "explanation": "last Sunday 是时间起点，搭配现在完成时要用介词 since。"
+      "explanation": "主语 They 是复数，过去进行时的否定句结构为 were not + v-ing。"
     },
     {
       "id": 14,
-      "question": "I have _____ packed my school bag, so I can go out and play now.",
+      "question": "At 8:00 last night, my older brother ________ his bicycle in the garage.",
       "options": {
-        "A": "yet",
-        "B": "already",
-        "C": "never",
-        "D": "since"
+        "A": "was repairing",
+        "B": "repaired",
+        "C": "were repairing",
+        "D": "is repairing"
       },
-      "answer": "B",
-      "explanation": "句意为“我已经整理好了书包”，肯定句中表达“已经”用 already。"
+      "answer": "A",
+      "explanation": "指定过去的具体时间点‘At 8:00 last night’，主语为单数，用 was repairing。"
     },
     {
       "id": 15,
-      "question": "My sister has kept this lovely doll _____ five months.",
+      "question": "While the teacher was speaking, David ________ key points in his notebook.",
       "options": {
-        "A": "since",
-        "B": "for",
-        "C": "from",
-        "D": "with"
+        "A": "is writing",
+        "B": "write",
+        "C": "was writing",
+        "D": "were writing"
       },
-      "answer": "B",
-      "explanation": "five months 是“时间段”，前面搭配介词 for。"
+      "answer": "C",
+      "explanation": "两个动作在过去同时发生，主句 David 是单数，故用 was writing。"
     },
     {
       "id": 16,
-      "question": "\"Has Jack _____ eaten Japanese sushi before?\" \"No, this is his first time.\"",
+      "question": "________ it raining heavily when you left the school library?",
       "options": {
-        "A": "ever",
-        "B": "yet",
-        "C": "never",
-        "D": "since"
+        "A": "Was",
+        "B": "Were",
+        "C": "Did",
+        "D": "Is"
       },
       "answer": "A",
-      "explanation": "疑问句中询问“曾经”是否吃过，应该填 ever。"
+      "explanation": "主语 it 为单数代词，过去进行时一般疑问句句首用 Was。"
     },
     {
       "id": 17,
-      "question": "We haven't met our new science teacher _____.",
+      "question": "The sun ________ brightly when our class started the outdoor picnic.",
       "options": {
-        "A": "already",
-        "B": "just",
-        "C": "yet",
-        "D": "since"
+        "A": "was shining",
+        "B": "was shineing",
+        "C": "were shining",
+        "D": "shone"
       },
-      "answer": "C",
-      "explanation": "否定句句末表达“还未见到”，使用 yet。"
+      "answer": "A",
+      "explanation": "shine 去 e 加 ing 为 shining，主语 The sun 是单数，选用 was shining。"
     },
     {
       "id": 18,
-      "question": "The students have played basketball on the playground _____ two hours.",
+      "question": "My classmates ________ swimming while I was reading a magazine on the beach.",
       "options": {
-        "A": "since",
-        "B": "for",
-        "C": "on",
-        "D": "at"
+        "A": "were",
+        "B": "was",
+        "C": "are",
+        "D": "did"
       },
-      "answer": "B",
-      "explanation": "two hours（两小时）表示时间段，与完成时连用需使用介词 for。"
+      "answer": "A",
+      "explanation": "主语 My classmates 是复数，与 while 从句呼应，用 were (swimming)。"
     },
     {
       "id": 19,
-      "question": "She has _____ tried durian fruit because she really hates its smell.",
+      "question": "At this exact time last Sunday, we ________ oil paintings in the art museum.",
       "options": {
-        "A": "ever",
-        "B": "never",
-        "C": "already",
-        "D": "yet"
+        "A": "were admiring",
+        "B": "was admiring",
+        "C": "admired",
+        "D": "are admiring"
       },
-      "answer": "B",
-      "explanation": "根据后文“讨厌它的气味”可知，她“从未”尝过榴莲，故选 never。"
+      "answer": "A",
+      "explanation": "‘At this exact time last Sunday’指示过去具体时刻，主语 we 用 were admiring。"
     },
     {
       "id": 20,
-      "question": "How long _____ your elder brother _____ a member of the school orchestra?",
+      "question": "Why ________ you crying when I bumped into you in the art room?",
       "options": {
-        "A": "has; been",
-        "B": "is; being",
-        "C": "did; be",
-        "D": "does; be"
+        "A": "were",
+        "B": "was",
+        "C": "did",
+        "D": "do"
       },
       "answer": "A",
-      "explanation": "How long 引导的疑问句，主语是 your elder brother（单数），用助动词 has + 过去分词 been。"
+      "explanation": "疑问词 Why 后紧跟助动词 were，与主语 you 保持一致。"
     },
     {
       "id": 21,
-      "question": "I haven't heard from my pen pal in Australia _____ last month.",
+      "question": "Lily made a minor calculation mistake while she ________ the challenging math puzzle.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "in",
-        "D": "by"
+        "A": "was solving",
+        "B": "solved",
+        "C": "were solving",
+        "D": "is solving"
       },
-      "answer": "B",
-      "explanation": "last month 是明确的时间点，表示“自上个月以来”，介词选 since。"
+      "answer": "A",
+      "explanation": "while 后接进行时态，主语 she 用 was solving。"
     },
     {
       "id": 22,
-      "question": "The plane has _____ landed at the airport safely; all passengers are getting off.",
+      "question": "While the boys were playing football, the girls ________ rope on the playground.",
       "options": {
-        "A": "yet",
-        "B": "just",
-        "C": "ever",
-        "D": "since"
+        "A": "were skipping",
+        "B": "was skipping",
+        "C": "skipped",
+        "D": "were skiping"
       },
-      "answer": "B",
-      "explanation": "表示飞机“刚刚”安全降落，用 just 放在助动词 has 和过去分词 landed 之间。"
+      "answer": "A",
+      "explanation": "skip 需双写 p 再加 ing（skipping），主语 the girls 是复数，用 were skipping。"
     },
     {
       "id": 23,
-      "question": "Have you _____ your math test papers yet?",
+      "question": "Lucas lost his balance while he ________ his bike down the steep hill.",
       "options": {
-        "A": "check",
-        "B": "checking",
-        "C": "checked",
-        "D": "checks"
+        "A": "was riding",
+        "B": "rode",
+        "C": "was rideing",
+        "D": "were riding"
       },
-      "answer": "C",
-      "explanation": "Have 引导的现在完成时结构中，动词必须用过去分词形式 checked。"
+      "answer": "A",
+      "explanation": "ride 去 e 加 ing 为 riding，主语 Lucas 是单数，用 was riding。"
     },
     {
       "id": 24,
-      "question": "They haven't bought the birthday cake for the party _____.",
+      "question": "What were you and Emma doing when the electricity suddenly ________ off?",
       "options": {
-        "A": "already",
-        "B": "yet",
-        "C": "just",
-        "D": "since"
+        "A": "went",
+        "B": "was going",
+        "C": "were going",
+        "D": "goes"
       },
-      "answer": "B",
-      "explanation": "否定句句末用 yet 表示“还没有买”。"
+      "answer": "A",
+      "explanation": "when 引导打断正在进行动作的突发瞬间事件，停电用一般过去时 went。"
     },
     {
       "id": 25,
-      "question": "My grandfather has collected vintage stamps _____ 1995.",
+      "question": "I ________ my teeth when my mom gently knocked on the bathroom door.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "in",
-        "D": "at"
+        "A": "was brushing",
+        "B": "brushed",
+        "C": "were brushing",
+        "D": "am brushing"
       },
-      "answer": "B",
-      "explanation": "1995 是具体年份（时间起点），配合现在完成时要用 since。"
+      "answer": "A",
+      "explanation": "主语是 I，过去进行时为 was brushing，搭配 when 引导的过去时刻打断动作。"
     },
     {
       "id": 26,
-      "question": "He has _____ left the classroom; you can still catch him in the hallway!",
+      "question": "The baby ________ peacefully in the cot until the loud alarm rang.",
       "options": {
-        "A": "yet",
-        "B": "just",
-        "C": "ever",
-        "D": "for"
+        "A": "was sleeping",
+        "B": "were sleeping",
+        "C": "is sleeping",
+        "D": "slept"
       },
-      "answer": "B",
-      "explanation": "根据“你在走廊还能追上他”可知，他是“刚刚”离开教室，填 just。"
+      "answer": "A",
+      "explanation": "描述在过去响铃前持续的状态，The baby 是单数，用 was sleeping。"
     },
     {
       "id": 27,
-      "question": "Anna has lived in Shanghai with her family _____ a very long time.",
+      "question": "While we were having lunch under the tree, a friendly squirrel ________ onto our table.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "from",
-        "D": "in"
+        "A": "jumped",
+        "B": "was jumping",
+        "C": "jumps",
+        "D": "were jumping"
       },
       "answer": "A",
-      "explanation": "a very long time（很长一段时间）是时间段，前面用介词 for。"
+      "explanation": "while 从句表示进行中的背景（正在吃午饭），主句发生的突发动作（跳上桌）用一般过去时 jumped。"
     },
     {
       "id": 28,
-      "question": "_____ you finished reading that thick Harry Potter book yet?",
+      "question": "The grade 5 students ________ their backpacks for the field trip all evening yesterday.",
       "options": {
-        "A": "Do",
-        "B": "Did",
-        "C": "Have",
-        "D": "Are"
+        "A": "were preparing",
+        "B": "were prepareing",
+        "C": "was preparing",
+        "D": "prepared"
       },
-      "answer": "C",
-      "explanation": "句尾有标志词 yet，且动词是过去分词 finished，疑问句句首需填助动词 Have。"
+      "answer": "A",
+      "explanation": "prepare 去 e 加 ing 为 preparing，主语 The grade 5 students 为复数，用 were preparing。"
     },
     {
       "id": 29,
-      "question": "I have _____ traveled to North America, but I hope to visit Canada next year.",
+      "question": "My dad ________ an exciting bedtime story when the lights flickered.",
       "options": {
-        "A": "ever",
-        "B": "never",
-        "C": "already",
-        "D": "yet"
+        "A": "was reading",
+        "B": "read",
+        "C": "were reading",
+        "D": "is reading"
       },
-      "answer": "B",
-      "explanation": "根据后半句“希望明年能去”可知，我“从未”去过北美，选 never。"
+      "answer": "A",
+      "explanation": "My dad 是单数第三人称，过去进行时选用 was reading。"
     },
     {
       "id": 30,
-      "question": "Uncle Sam has owned his blue bicycle _____ he was ten years old.",
+      "question": "________ the pupils doing their group project when the bell chimed for lunch?",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "from",
-        "D": "when"
+        "A": "Were",
+        "B": "Was",
+        "C": "Did",
+        "D": "Are"
       },
-      "answer": "B",
-      "explanation": "“he was ten years old”是过去的时间起点从句，前面连接现在完成时主句需用 since。"
+      "answer": "A",
+      "explanation": "主语 the pupils 是复数名词，疑问句句首需要使用助动词 Were。"
     }
   ]
 }
