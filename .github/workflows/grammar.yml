@@ -2,7 +2,7 @@ name: 每天自动生成小学 4-5 年级英语语法
 
 on:
   schedule:
-    - cron: '0 22 * * *' # 每天 UTC 0:00 (北京时间早上 8:00) 自动运行
+    - cron: '0 20 * * *' # 每天 UTC 22:00 (北京时间早上 6:00 / 适应夏令时或标准时调整)
   workflow_dispatch: # 允许你随时在网页上点击按钮手动运行
 
 jobs:
@@ -36,5 +36,9 @@ jobs:
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 拉取最新代码，防止因多端改动产生冲突
+          git pull origin main || true
+          
           git add docs/
           git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Auto-update daily grammar quiz JSON and index [skip ci]" && git push)
