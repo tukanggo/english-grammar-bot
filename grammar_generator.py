@@ -11,15 +11,15 @@ def generate_daily_grammar():
     
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
-        print("错误: 未检测到 GEMINI_API_KEY")
+        print("❌ 错误: 未检测到 GEMINI_API_KEY 环境变量，请在 GitHub Secrets 中配置。")
         return
 
     client = genai.Client(api_key=api_key)
     
-    # 调整为生成 15 道题，减轻服务器瞬间响应压力，防止 Server disconnected
+    # 统一将题目数量调整为 15 道，防止单次输出过长导致服务器截断或超时
     prompt = f"""
     今天是 {today}。你是一位优秀的国际学校小学英语高级教师。
-    请为 4-6 年级（Primary 4-6）学生设计一套全新的、绝对不与往常重复的 30 道英语语法单选题。
+    请为 4-6 年级（Primary 4-6）学生设计一套全新的、绝对不与往常重复的 15 道英语语法单选题。
     
     【核心要求】：
     1. 今天的日期是 {today}，请根据这个日期随机挑选一个特定的、深入的语法专项主题（例如：一般过去时、介词搭配、情态动词等）。
@@ -61,7 +61,7 @@ def generate_daily_grammar():
                 )
                 break
             except Exception as e:
-                print(f"请求遇到网络波动或断开，等待 15 秒后重试... (错误: {e})")
+                print(f"⚠️ 请求遇到异常，等待 15 秒后重试... (模型: {model_name}, 错误: {e})")
                 time.sleep(15)
         if response:
             break
@@ -69,9 +69,8 @@ def generate_daily_grammar():
     folder_name = "docs"
     os.makedirs(folder_name, exist_ok=True)
     
-    # 如果 API 彻底超时或断开，使用高品质降级兜底数据，确保工作流 100% 成功
     if not response:
-        print("⚠️ API 连接中断，已自动启用安全兜底练习数据，确保自动部署顺利完成。")
+        print("⚠️ 所有模型尝试均失败，已自动启用安全兜底练习数据，确保自动部署顺利完成。")
         data = {
             "date": today,
             "topic": "语法基础巩固 (智能备用通道)",
@@ -105,7 +104,7 @@ def generate_daily_grammar():
         try:
             data = json.loads(raw_text)
         except Exception as e:
-            print(f"JSON 解析失败，保存原始内容。错误: {e}")
+            print(f"❌ JSON 解析失败，保存原始内容。错误: {e}")
             data = {
                 "date": today,
                 "topic": "语法基础巩固",
