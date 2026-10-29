@@ -1,367 +1,367 @@
 {
-  "date": "2026-10-28",
-  "topic": "过去进行时与when/while的妙用 (Past Continuous Tense with 'when' & 'while')",
-  "teaching_notes": "同学们，过去进行时表示过去某个特定时刻或时间段正在发生的动作，结构是‘was/were + 动词ing’！当它和 when 或 while 连用时，就像在讲故事：when 后面常接突然发生的动作（用一般过去时），而 while 后面常接背景里一直在持续的动作（用过去进行时）。例如：*I was reading a book when the phone rang.*（我正在看书，突然电话响了。）或者 *While Mom was cooking, I was doing my homework.*（当妈妈在做饭时，我正在做作业。）记住哦，主语是单数用 was，复数用 were，可别写错啦！",
+  "date": "2026-10-29",
+  "topic": "First Conditional & Zero Conditional (条件状语从句：真实条件句与零条件句)",
+  "teaching_notes": "同学们好！今天我们来攻克 If 条件句的核心用法。Zero Conditional（零条件句）用来表达客观真理或自然规律，公式是 ‘If + 一般现在时，主句用一般现在时’；而 First Conditional（第一条件句）用来预测未来可能发生的事，遵循 ‘主将从现’ 原则——即 if 引导的条件从句用一般现在时，主句用 will + 动词原形。大家要特别注意：if 从句内部绝对不能直接使用 will 哟！\n例句 1 (Zero): If you heat ice, it melts. (如果你加热冰，它就会融化。)\n例句 2 (First): If it rains tomorrow, we will play indoors. (如果明天下雨，我们就在室内玩。)",
   "questions": [
     {
       "id": 1,
-      "question": "Yesterday at 4 PM, Toby ________ his dog in the neighborhood park.",
+      "question": "If it _____ tomorrow, we will cancel our outdoor picnic.",
       "options": {
-        "A": "was walking",
-        "B": "walked",
-        "C": "is walking",
-        "D": "walks"
+        "A": "will rain",
+        "B": "rains",
+        "C": "rained",
+        "D": "is raining"
       },
-      "answer": "A",
-      "explanation": "‘Yesterday at 4 PM’表示过去具体的某一时刻，Toby 是单数第三人称，因此谓语动词要用过去进行时 was walking。"
+      "answer": "B",
+      "explanation": "在第一条件句（First Conditional）中，if 引导的从句要用一般现在时表将来（主将从现）。主语是 it，动词 rain 应使用第三人称单数形式 rains。"
     },
     {
       "id": 2,
-      "question": "What ________ you doing when the fire alarm rang during science class?",
+      "question": "What will you do if you _____ the science competition?",
       "options": {
-        "A": "did",
-        "B": "was",
-        "C": "were",
-        "D": "are"
+        "A": "won",
+        "B": "will win",
+        "C": "win",
+        "D": "wins"
       },
       "answer": "C",
-      "explanation": "在过去进行时的特殊疑问句中，主语是 you，助动词要选用 were。"
+      "explanation": "在 if 条件句中遵循‘主将从现’，主语是 you，从句使用动词原形 win。"
     },
     {
       "id": 3,
-      "question": "Sarah was taking a photo ________ a colourful parrot suddenly flew into the frame.",
+      "question": "If you heat ice, it _____ into water.",
       "options": {
-        "A": "while",
-        "B": "when",
-        "C": "because",
-        "D": "so"
+        "A": "turns",
+        "B": "turn",
+        "C": "will turn",
+        "D": "turned"
       },
-      "answer": "B",
-      "explanation": "flew 是一般过去时（打断主句动作的瞬间动作），前面应用连词 when。"
+      "answer": "A",
+      "explanation": "本题表达科学常识（冰加热融化成水），属于零条件句（Zero Conditional），从句和主句都使用一般现在时。主语 it 为单数，谓语动词用 turns。"
     },
     {
       "id": 4,
-      "question": "While my parents ________ dinner, I was setting the dining table.",
+      "question": "Unless she _____ hard, she will not pass the upcoming piano exam.",
       "options": {
-        "A": "cooked",
-        "B": "were cooking",
-        "C": "was cooking",
-        "D": "are cooking"
+        "A": "will practice",
+        "B": "practiced",
+        "C": "practice",
+        "D": "practices"
       },
-      "answer": "B",
-      "explanation": "while 引导的从句表示持续发生的背景动作，主语 my parents 是复数，故选用 were cooking。"
+      "answer": "D",
+      "explanation": "Unless 相当于 'if ... not'（除非），同样遵循‘主将从现’原则。从句主语是 she，谓语动词使用第三人称单数 practices。"
     },
     {
       "id": 5,
-      "question": "The athletes ________ on the running track when the thunder clap shook the stadium.",
+      "question": "The English teacher will be happy if we _____ all our homework on time.",
       "options": {
-        "A": "were runing",
-        "B": "was running",
-        "C": "were running",
-        "D": "runned"
+        "A": "finish",
+        "B": "will finish",
+        "C": "finished",
+        "D": "finishes"
       },
-      "answer": "C",
-      "explanation": "run 的现在分词需要双写字母 n 再加 ing（running），主语 athletes 是复数，故选 were running。"
+      "answer": "A",
+      "explanation": "主句使用 will be 表将来，if 引导的从句用一般现在时。主语是 we，谓语动词用原形 finish。"
     },
     {
       "id": 6,
-      "question": "I didn't hear the doorbell ring because I ________ to classical music with headphones.",
+      "question": "If you mix red and yellow, you _____ orange.",
       "options": {
-        "A": "listened",
-        "B": "am listening",
-        "C": "were listening",
-        "D": "was listening"
+        "A": "will get",
+        "B": "get",
+        "C": "got",
+        "D": "getting"
       },
-      "answer": "D",
-      "explanation": "句意表示当时‘正在听音乐’，主语是第一人称 I，过去进行时结构为 was listening。"
+      "answer": "B",
+      "explanation": "红色加黄色变成橙色是客观规律，属于零条件句，主句和从句均用一般现在时，主语 you 搭配原形 get。"
     },
     {
       "id": 7,
-      "question": "Tim was ________ on the grass in the courtyard when his teacher called his name.",
+      "question": "We _____ to the beach if the sun shines brightly this Saturday.",
       "options": {
-        "A": "lying",
-        "B": "lieing",
-        "C": "lying",
-        "D": "lied"
+        "A": "went",
+        "B": "go",
+        "C": "will go",
+        "D": "going"
       },
-      "answer": "A",
-      "explanation": "动词 lie（躺）的现在分词拼写变化为变 ie 为 y 加 ing，即 lying。"
+      "answer": "C",
+      "explanation": "if 从句用了一般现在时（shines），主句表达对未来的预测，需使用一般将来时 will go。"
     },
     {
       "id": 8,
-      "question": "What ________ your little sister making when you entered the kitchen?",
+      "question": "If Sam _____ his project early, he can play video games tonight.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "did",
-        "D": "is"
+        "A": "completes",
+        "B": "complete",
+        "C": "will complete",
+        "D": "completed"
       },
       "answer": "A",
-      "explanation": "主语 your little sister 是单数名词，过去进行时疑问句中使用助动词 was。"
+      "explanation": "if 引导的从句用一般现在时。主语 Sam 是第三人称单数，动词应使用 completes。"
     },
     {
       "id": 9,
-      "question": "While Mr. Harrison ________ the experiment, the students were taking notes carefully.",
+      "question": "Don't eat that strawberry cake if you _____ allergic to berries!",
       "options": {
-        "A": "demonstrated",
-        "B": "was demonstrating",
-        "C": "is demonstrating",
-        "D": "were demonstrating"
+        "A": "will be",
+        "B": "were",
+        "C": "be",
+        "D": "are"
       },
-      "answer": "B",
-      "explanation": "while 表示同时进行的较长动作，Mr. Harrison 是单数，用 was demonstrating。"
+      "answer": "D",
+      "explanation": "主句为祈使句（Don't eat...），if 从句使用一般现在时。主语是 you，be 动词用 are。"
     },
     {
       "id": 10,
-      "question": "The children ________ video games all morning yesterday.",
+      "question": "If ice cream is left in the warm sun, it _____ very quickly.",
       "options": {
-        "A": "were play",
-        "B": "was playing",
-        "C": "were playing",
-        "D": "played"
+        "A": "will melt",
+        "B": "melts",
+        "C": "melted",
+        "D": "is melting"
       },
-      "answer": "C",
-      "explanation": "‘all morning yesterday’强调过去整段时间正在进行的动作，主语 The children 为复数，用 were playing。"
+      "answer": "B",
+      "explanation": "冰淇淋在晒太阳时融化是客观事实，适用零条件句（Zero Conditional），主句用一般现在时 melts。"
     },
     {
       "id": 11,
-      "question": "Who ________ you talking to on the phone when I saw you in the hallway?",
+      "question": "What _____ happen if we press this blue button on the wall?",
       "options": {
-        "A": "were",
-        "B": "was",
-        "C": "did",
-        "D": "are"
+        "A": "will",
+        "B": "did",
+        "C": "is",
+        "D": "does"
       },
       "answer": "A",
-      "explanation": "主语是 you，搭配过去进行时的疑问形式，需要填入 were。"
+      "explanation": "if 从句用一般现在时（press），询问对未来的预期，主句疑问句结构为 'What will + 主语 + 动词原形'。"
     },
     {
       "id": 12,
-      "question": "I accidentally dropped my ice cream while I ________ to catch the school bus.",
+      "question": "If you need help with your English reading, please _____ me.",
       "options": {
-        "A": "ran",
-        "B": "was running",
-        "C": "was runing",
-        "D": "were running"
+        "A": "sending",
+        "B": "will send",
+        "C": "tell",
+        "D": "told"
       },
-      "answer": "B",
-      "explanation": "while 引导持续的动作，主语 I 用 was，run 的 ing 形式需双写 n 为 running。"
+      "answer": "C",
+      "explanation": "if 条件句的主句可以是祈使句，用 please + 动词原形表示请求，此处使用 tell。"
     },
     {
       "id": 13,
-      "question": "They ________ not listening to the announcements, so they missed the assembly.",
+      "question": "Unless it _____ snowing soon, the school bus will be late.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "did",
-        "D": "are"
+        "A": "will stop",
+        "B": "stops",
+        "C": "stop",
+        "D": "stopped"
       },
       "answer": "B",
-      "explanation": "主语 They 是复数，过去进行时的否定句结构为 were not + v-ing。"
+      "explanation": "Unless 引导条件从句，遵循‘主将从现’。从句主语是 it，谓语动词用第三人称单数 stops。"
     },
     {
       "id": 14,
-      "question": "At 8:00 last night, my older brother ________ his bicycle in the garage.",
+      "question": "If my brother _____ enough pocket money, he will buy a new skateboard.",
       "options": {
-        "A": "was repairing",
-        "B": "repaired",
-        "C": "were repairing",
-        "D": "is repairing"
+        "A": "will save",
+        "B": "save",
+        "C": "saved",
+        "D": "saves"
       },
-      "answer": "A",
-      "explanation": "指定过去的具体时间点‘At 8:00 last night’，主语为单数，用 was repairing。"
+      "answer": "D",
+      "explanation": "if 条件从句用一般现在时，主语 my brother 为第三人称单数，动词使用 saves。"
     },
     {
       "id": 15,
-      "question": "While the teacher was speaking, David ________ key points in his notebook.",
+      "question": "If you drop a plastic ball into water, it _____ on the surface.",
       "options": {
-        "A": "is writing",
-        "B": "write",
-        "C": "was writing",
-        "D": "were writing"
+        "A": "floats",
+        "B": "floating",
+        "C": "will float",
+        "D": "floated"
       },
-      "answer": "C",
-      "explanation": "两个动作在过去同时发生，主句 David 是单数，故用 was writing。"
+      "answer": "A",
+      "explanation": "塑料球放入水中会浮在水面上是物理现象（零条件句），主句使用一般现在时 floats。"
     },
     {
       "id": 16,
-      "question": "________ it raining heavily when you left the school library?",
+      "question": "Mum will bake chocolate cookies if Lucy _____ high marks in her spelling test.",
       "options": {
-        "A": "Was",
-        "B": "Were",
-        "C": "Did",
-        "D": "Is"
+        "A": "got",
+        "B": "will get",
+        "C": "gets",
+        "D": "get"
       },
-      "answer": "A",
-      "explanation": "主语 it 为单数代词，过去进行时一般疑问句句首用 Was。"
+      "answer": "C",
+      "explanation": "主句使用一般将来时 will bake，if 从句使用一般现在时，主语 Lucy 为第三人称单数，选择 gets。"
     },
     {
       "id": 17,
-      "question": "The sun ________ brightly when our class started the outdoor picnic.",
+      "question": "If you don't wear a thick jacket in winter, you _____ a bad cold.",
       "options": {
-        "A": "was shining",
-        "B": "was shineing",
-        "C": "were shining",
-        "D": "shone"
+        "A": "will catch",
+        "B": "catch",
+        "C": "caught",
+        "D": "catches"
       },
       "answer": "A",
-      "explanation": "shine 去 e 加 ing 为 shining，主语 The sun 是单数，选用 was shining。"
+      "explanation": "if 从句是一般现在时的否定形式（don't wear），主句用一般将来时 will catch。"
     },
     {
       "id": 18,
-      "question": "My classmates ________ swimming while I was reading a magazine on the beach.",
+      "question": "The watch dog _____ bark if a stranger approaches the gate.",
       "options": {
-        "A": "were",
-        "B": "was",
-        "C": "are",
+        "A": "is",
+        "B": "will",
+        "C": "was",
         "D": "did"
       },
-      "answer": "A",
-      "explanation": "主语 My classmates 是复数，与 while 从句呼应，用 were (swimming)。"
+      "answer": "B",
+      "explanation": "if 从句用一般现在时（approaches），主句用一般将来时 will + 动词原形 bark。"
     },
     {
       "id": 19,
-      "question": "At this exact time last Sunday, we ________ oil paintings in the art museum.",
+      "question": "If you boil water to 100 degrees Celsius, it _____ into steam.",
       "options": {
-        "A": "were admiring",
-        "B": "was admiring",
-        "C": "admired",
-        "D": "are admiring"
+        "A": "turned",
+        "B": "will turn",
+        "C": "turning",
+        "D": "turns"
       },
-      "answer": "A",
-      "explanation": "‘At this exact time last Sunday’指示过去具体时刻，主语 we 用 were admiring。"
+      "answer": "D",
+      "explanation": "水烧开到100度变成蒸气是自然常识（零条件句），从句和主句均用一般现在时，主语 it 搭配 turns。"
     },
     {
       "id": 20,
-      "question": "Why ________ you crying when I bumped into you in the art room?",
+      "question": "Unless you _____ your bedroom now, you cannot go to the park.",
       "options": {
-        "A": "were",
-        "B": "was",
-        "C": "did",
-        "D": "do"
+        "A": "cleans",
+        "B": "will clean",
+        "C": "clean",
+        "D": "cleaned"
       },
-      "answer": "A",
-      "explanation": "疑问词 Why 后紧跟助动词 were，与主语 you 保持一致。"
+      "answer": "C",
+      "explanation": "Unless 引导条件句表‘除非’，从句用一般现在时。主语是 you，谓语动词用原形 clean。"
     },
     {
       "id": 21,
-      "question": "Lily made a minor calculation mistake while she ________ the challenging math puzzle.",
+      "question": "If they _____ early tomorrow morning, they will catch the first train.",
       "options": {
-        "A": "was solving",
-        "B": "solved",
-        "C": "were solving",
-        "D": "is solving"
+        "A": "leave",
+        "B": "leaves",
+        "C": "will leave",
+        "D": "left"
       },
       "answer": "A",
-      "explanation": "while 后接进行时态，主语 she 用 was solving。"
+      "explanation": "在第一条件句中，虽然有 tomorrow morning 表将来，但 if 从句内部必须用一般现在时。主语 they 对应动词原形 leave。"
     },
     {
       "id": 22,
-      "question": "While the boys were playing football, the girls ________ rope on the playground.",
+      "question": "What will happen if the sun _____ today?",
       "options": {
-        "A": "were skipping",
-        "B": "was skipping",
-        "C": "skipped",
-        "D": "were skiping"
+        "A": "won't shine",
+        "B": "doesn't shine",
+        "C": "isn't shine",
+        "D": "didn't shine"
       },
-      "answer": "A",
-      "explanation": "skip 需双写 p 再加 ing（skipping），主语 the girls 是复数，用 were skipping。"
+      "answer": "B",
+      "explanation": "if 从句否定句需用一般现在时否定助动词。主语 the sun 是第三人称单数，否定用 doesn't + 动词原形 shine。"
     },
     {
       "id": 23,
-      "question": "Lucas lost his balance while he ________ his bike down the steep hill.",
+      "question": "If you feel tired during the lesson, _____ a short break.",
       "options": {
-        "A": "was riding",
-        "B": "rode",
-        "C": "was rideing",
-        "D": "were riding"
+        "A": "taking",
+        "B": "will take",
+        "C": "took",
+        "D": "take"
       },
-      "answer": "A",
-      "explanation": "ride 去 e 加 ing 为 riding，主语 Lucas 是单数，用 was riding。"
+      "answer": "D",
+      "explanation": "if 条件句的主句可以用祈使句，动词原形开头表示建议或指令，因此填 take。"
     },
     {
       "id": 24,
-      "question": "What were you and Emma doing when the electricity suddenly ________ off?",
+      "question": "We _____ the football match if our goalkeeper plays well.",
       "options": {
-        "A": "went",
-        "B": "was going",
-        "C": "were going",
-        "D": "goes"
+        "A": "won",
+        "B": "wins",
+        "C": "will win",
+        "D": "winning"
       },
-      "answer": "A",
-      "explanation": "when 引导打断正在进行动作的突发瞬间事件，停电用一般过去时 went。"
+      "answer": "C",
+      "explanation": "if 从句使用一般现在时（plays），主句预测比赛结果，使用一般将来时 will win。"
     },
     {
       "id": 25,
-      "question": "I ________ my teeth when my mom gently knocked on the bathroom door.",
+      "question": "If an apple falls from a tree, gravity _____ it down.",
       "options": {
-        "A": "was brushing",
-        "B": "brushed",
-        "C": "were brushing",
-        "D": "am brushing"
+        "A": "pulls",
+        "B": "will pull",
+        "C": "pulled",
+        "D": "pulling"
       },
       "answer": "A",
-      "explanation": "主语是 I，过去进行时为 was brushing，搭配 when 引导的过去时刻打断动作。"
+      "explanation": "描述重力拉苹果这一物理定律，使用零条件句，主句用一般现在时。主语 gravity 为不可数名词（单数），用 pulls。"
     },
     {
       "id": 26,
-      "question": "The baby ________ peacefully in the cot until the loud alarm rang.",
+      "question": "Unless Max _____ his school uniform, he won't be allowed into the assembly hall.",
       "options": {
-        "A": "was sleeping",
-        "B": "were sleeping",
-        "C": "is sleeping",
-        "D": "slept"
+        "A": "wear",
+        "B": "wears",
+        "C": "will wear",
+        "D": "wore"
       },
-      "answer": "A",
-      "explanation": "描述在过去响铃前持续的状态，The baby 是单数，用 was sleeping。"
+      "answer": "B",
+      "explanation": "Unless 条件句使用一般现在时，主语 Max 是第三人称单数，谓语动词加 -s，填 wears。"
     },
     {
       "id": 27,
-      "question": "While we were having lunch under the tree, a friendly squirrel ________ onto our table.",
+      "question": "If the weather _____ fine tomorrow, we might go hiking in the mountains.",
       "options": {
-        "A": "jumped",
-        "B": "was jumping",
-        "C": "jumps",
-        "D": "were jumping"
+        "A": "will be",
+        "B": "was",
+        "C": "being",
+        "D": "is"
       },
-      "answer": "A",
-      "explanation": "while 从句表示进行中的背景（正在吃午饭），主句发生的突发动作（跳上桌）用一般过去时 jumped。"
+      "answer": "D",
+      "explanation": "if 从句用一般现在时，主语 the weather 为不可数名词，be 动词使用 is。"
     },
     {
       "id": 28,
-      "question": "The grade 5 students ________ their backpacks for the field trip all evening yesterday.",
+      "question": "You may leave the library if you _____ finished reading the book.",
       "options": {
-        "A": "were preparing",
-        "B": "were prepareing",
-        "C": "was preparing",
-        "D": "prepared"
+        "A": "have",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
       },
       "answer": "A",
-      "explanation": "prepare 去 e 加 ing 为 preparing，主语 The grade 5 students 为复数，用 were preparing。"
+      "explanation": "If 条件从句也可以使用现在完成时（have finished），表示‘如果你已经完成了某个动作’，主句用情态动词 may 表示允许。"
     },
     {
       "id": 29,
-      "question": "My dad ________ an exciting bedtime story when the lights flickered.",
+      "question": "If you freeze liquid water, it _____ solid ice.",
       "options": {
-        "A": "was reading",
-        "B": "read",
-        "C": "were reading",
-        "D": "is reading"
+        "A": "becoming",
+        "B": "will become",
+        "C": "becomes",
+        "D": "became"
       },
-      "answer": "A",
-      "explanation": "My dad 是单数第三人称，过去进行时选用 was reading。"
+      "answer": "C",
+      "explanation": "水结冰是客观事实（零条件句），主句用一般现在时。主语 it 搭配动词三单形式 becomes。"
     },
     {
       "id": 30,
-      "question": "________ the pupils doing their group project when the bell chimed for lunch?",
+      "question": "What will you say if the principal _____ you a certificate of excellence?",
       "options": {
-        "A": "Were",
-        "B": "Was",
-        "C": "Did",
-        "D": "Are"
+        "A": "give",
+        "B": "gives",
+        "C": "will give",
+        "D": "gave"
       },
-      "answer": "A",
-      "explanation": "主语 the pupils 是复数名词，疑问句句首需要使用助动词 Were。"
+      "answer": "B",
+      "explanation": "在第一条件句中，if 从句使用一般现在时。主语 the principal 为第三人称单数，谓语动词用 gives。"
     }
   ]
 }

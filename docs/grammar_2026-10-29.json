@@ -1,0 +1,367 @@
+{
+  "date": "2026-10-29",
+  "topic": "First Conditional & Zero Conditional (条件状语从句：真实条件句与零条件句)",
+  "teaching_notes": "同学们好！今天我们来攻克 If 条件句的核心用法。Zero Conditional（零条件句）用来表达客观真理或自然规律，公式是 ‘If + 一般现在时，主句用一般现在时’；而 First Conditional（第一条件句）用来预测未来可能发生的事，遵循 ‘主将从现’ 原则——即 if 引导的条件从句用一般现在时，主句用 will + 动词原形。大家要特别注意：if 从句内部绝对不能直接使用 will 哟！\n例句 1 (Zero): If you heat ice, it melts. (如果你加热冰，它就会融化。)\n例句 2 (First): If it rains tomorrow, we will play indoors. (如果明天下雨，我们就在室内玩。)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "If it _____ tomorrow, we will cancel our outdoor picnic.",
+      "options": {
+        "A": "will rain",
+        "B": "rains",
+        "C": "rained",
+        "D": "is raining"
+      },
+      "answer": "B",
+      "explanation": "在第一条件句（First Conditional）中，if 引导的从句要用一般现在时表将来（主将从现）。主语是 it，动词 rain 应使用第三人称单数形式 rains。"
+    },
+    {
+      "id": 2,
+      "question": "What will you do if you _____ the science competition?",
+      "options": {
+        "A": "won",
+        "B": "will win",
+        "C": "win",
+        "D": "wins"
+      },
+      "answer": "C",
+      "explanation": "在 if 条件句中遵循‘主将从现’，主语是 you，从句使用动词原形 win。"
+    },
+    {
+      "id": 3,
+      "question": "If you heat ice, it _____ into water.",
+      "options": {
+        "A": "turns",
+        "B": "turn",
+        "C": "will turn",
+        "D": "turned"
+      },
+      "answer": "A",
+      "explanation": "本题表达科学常识（冰加热融化成水），属于零条件句（Zero Conditional），从句和主句都使用一般现在时。主语 it 为单数，谓语动词用 turns。"
+    },
+    {
+      "id": 4,
+      "question": "Unless she _____ hard, she will not pass the upcoming piano exam.",
+      "options": {
+        "A": "will practice",
+        "B": "practiced",
+        "C": "practice",
+        "D": "practices"
+      },
+      "answer": "D",
+      "explanation": "Unless 相当于 'if ... not'（除非），同样遵循‘主将从现’原则。从句主语是 she，谓语动词使用第三人称单数 practices。"
+    },
+    {
+      "id": 5,
+      "question": "The English teacher will be happy if we _____ all our homework on time.",
+      "options": {
+        "A": "finish",
+        "B": "will finish",
+        "C": "finished",
+        "D": "finishes"
+      },
+      "answer": "A",
+      "explanation": "主句使用 will be 表将来，if 引导的从句用一般现在时。主语是 we，谓语动词用原形 finish。"
+    },
+    {
+      "id": 6,
+      "question": "If you mix red and yellow, you _____ orange.",
+      "options": {
+        "A": "will get",
+        "B": "get",
+        "C": "got",
+        "D": "getting"
+      },
+      "answer": "B",
+      "explanation": "红色加黄色变成橙色是客观规律，属于零条件句，主句和从句均用一般现在时，主语 you 搭配原形 get。"
+    },
+    {
+      "id": 7,
+      "question": "We _____ to the beach if the sun shines brightly this Saturday.",
+      "options": {
+        "A": "went",
+        "B": "go",
+        "C": "will go",
+        "D": "going"
+      },
+      "answer": "C",
+      "explanation": "if 从句用了一般现在时（shines），主句表达对未来的预测，需使用一般将来时 will go。"
+    },
+    {
+      "id": 8,
+      "question": "If Sam _____ his project early, he can play video games tonight.",
+      "options": {
+        "A": "completes",
+        "B": "complete",
+        "C": "will complete",
+        "D": "completed"
+      },
+      "answer": "A",
+      "explanation": "if 引导的从句用一般现在时。主语 Sam 是第三人称单数，动词应使用 completes。"
+    },
+    {
+      "id": 9,
+      "question": "Don't eat that strawberry cake if you _____ allergic to berries!",
+      "options": {
+        "A": "will be",
+        "B": "were",
+        "C": "be",
+        "D": "are"
+      },
+      "answer": "D",
+      "explanation": "主句为祈使句（Don't eat...），if 从句使用一般现在时。主语是 you，be 动词用 are。"
+    },
+    {
+      "id": 10,
+      "question": "If ice cream is left in the warm sun, it _____ very quickly.",
+      "options": {
+        "A": "will melt",
+        "B": "melts",
+        "C": "melted",
+        "D": "is melting"
+      },
+      "answer": "B",
+      "explanation": "冰淇淋在晒太阳时融化是客观事实，适用零条件句（Zero Conditional），主句用一般现在时 melts。"
+    },
+    {
+      "id": 11,
+      "question": "What _____ happen if we press this blue button on the wall?",
+      "options": {
+        "A": "will",
+        "B": "did",
+        "C": "is",
+        "D": "does"
+      },
+      "answer": "A",
+      "explanation": "if 从句用一般现在时（press），询问对未来的预期，主句疑问句结构为 'What will + 主语 + 动词原形'。"
+    },
+    {
+      "id": 12,
+      "question": "If you need help with your English reading, please _____ me.",
+      "options": {
+        "A": "sending",
+        "B": "will send",
+        "C": "tell",
+        "D": "told"
+      },
+      "answer": "C",
+      "explanation": "if 条件句的主句可以是祈使句，用 please + 动词原形表示请求，此处使用 tell。"
+    },
+    {
+      "id": 13,
+      "question": "Unless it _____ snowing soon, the school bus will be late.",
+      "options": {
+        "A": "will stop",
+        "B": "stops",
+        "C": "stop",
+        "D": "stopped"
+      },
+      "answer": "B",
+      "explanation": "Unless 引导条件从句，遵循‘主将从现’。从句主语是 it，谓语动词用第三人称单数 stops。"
+    },
+    {
+      "id": 14,
+      "question": "If my brother _____ enough pocket money, he will buy a new skateboard.",
+      "options": {
+        "A": "will save",
+        "B": "save",
+        "C": "saved",
+        "D": "saves"
+      },
+      "answer": "D",
+      "explanation": "if 条件从句用一般现在时，主语 my brother 为第三人称单数，动词使用 saves。"
+    },
+    {
+      "id": 15,
+      "question": "If you drop a plastic ball into water, it _____ on the surface.",
+      "options": {
+        "A": "floats",
+        "B": "floating",
+        "C": "will float",
+        "D": "floated"
+      },
+      "answer": "A",
+      "explanation": "塑料球放入水中会浮在水面上是物理现象（零条件句），主句使用一般现在时 floats。"
+    },
+    {
+      "id": 16,
+      "question": "Mum will bake chocolate cookies if Lucy _____ high marks in her spelling test.",
+      "options": {
+        "A": "got",
+        "B": "will get",
+        "C": "gets",
+        "D": "get"
+      },
+      "answer": "C",
+      "explanation": "主句使用一般将来时 will bake，if 从句使用一般现在时，主语 Lucy 为第三人称单数，选择 gets。"
+    },
+    {
+      "id": 17,
+      "question": "If you don't wear a thick jacket in winter, you _____ a bad cold.",
+      "options": {
+        "A": "will catch",
+        "B": "catch",
+        "C": "caught",
+        "D": "catches"
+      },
+      "answer": "A",
+      "explanation": "if 从句是一般现在时的否定形式（don't wear），主句用一般将来时 will catch。"
+    },
+    {
+      "id": 18,
+      "question": "The watch dog _____ bark if a stranger approaches the gate.",
+      "options": {
+        "A": "is",
+        "B": "will",
+        "C": "was",
+        "D": "did"
+      },
+      "answer": "B",
+      "explanation": "if 从句用一般现在时（approaches），主句用一般将来时 will + 动词原形 bark。"
+    },
+    {
+      "id": 19,
+      "question": "If you boil water to 100 degrees Celsius, it _____ into steam.",
+      "options": {
+        "A": "turned",
+        "B": "will turn",
+        "C": "turning",
+        "D": "turns"
+      },
+      "answer": "D",
+      "explanation": "水烧开到100度变成蒸气是自然常识（零条件句），从句和主句均用一般现在时，主语 it 搭配 turns。"
+    },
+    {
+      "id": 20,
+      "question": "Unless you _____ your bedroom now, you cannot go to the park.",
+      "options": {
+        "A": "cleans",
+        "B": "will clean",
+        "C": "clean",
+        "D": "cleaned"
+      },
+      "answer": "C",
+      "explanation": "Unless 引导条件句表‘除非’，从句用一般现在时。主语是 you，谓语动词用原形 clean。"
+    },
+    {
+      "id": 21,
+      "question": "If they _____ early tomorrow morning, they will catch the first train.",
+      "options": {
+        "A": "leave",
+        "B": "leaves",
+        "C": "will leave",
+        "D": "left"
+      },
+      "answer": "A",
+      "explanation": "在第一条件句中，虽然有 tomorrow morning 表将来，但 if 从句内部必须用一般现在时。主语 they 对应动词原形 leave。"
+    },
+    {
+      "id": 22,
+      "question": "What will happen if the sun _____ today?",
+      "options": {
+        "A": "won't shine",
+        "B": "doesn't shine",
+        "C": "isn't shine",
+        "D": "didn't shine"
+      },
+      "answer": "B",
+      "explanation": "if 从句否定句需用一般现在时否定助动词。主语 the sun 是第三人称单数，否定用 doesn't + 动词原形 shine。"
+    },
+    {
+      "id": 23,
+      "question": "If you feel tired during the lesson, _____ a short break.",
+      "options": {
+        "A": "taking",
+        "B": "will take",
+        "C": "took",
+        "D": "take"
+      },
+      "answer": "D",
+      "explanation": "if 条件句的主句可以用祈使句，动词原形开头表示建议或指令，因此填 take。"
+    },
+    {
+      "id": 24,
+      "question": "We _____ the football match if our goalkeeper plays well.",
+      "options": {
+        "A": "won",
+        "B": "wins",
+        "C": "will win",
+        "D": "winning"
+      },
+      "answer": "C",
+      "explanation": "if 从句使用一般现在时（plays），主句预测比赛结果，使用一般将来时 will win。"
+    },
+    {
+      "id": 25,
+      "question": "If an apple falls from a tree, gravity _____ it down.",
+      "options": {
+        "A": "pulls",
+        "B": "will pull",
+        "C": "pulled",
+        "D": "pulling"
+      },
+      "answer": "A",
+      "explanation": "描述重力拉苹果这一物理定律，使用零条件句，主句用一般现在时。主语 gravity 为不可数名词（单数），用 pulls。"
+    },
+    {
+      "id": 26,
+      "question": "Unless Max _____ his school uniform, he won't be allowed into the assembly hall.",
+      "options": {
+        "A": "wear",
+        "B": "wears",
+        "C": "will wear",
+        "D": "wore"
+      },
+      "answer": "B",
+      "explanation": "Unless 条件句使用一般现在时，主语 Max 是第三人称单数，谓语动词加 -s，填 wears。"
+    },
+    {
+      "id": 27,
+      "question": "If the weather _____ fine tomorrow, we might go hiking in the mountains.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "being",
+        "D": "is"
+      },
+      "answer": "D",
+      "explanation": "if 从句用一般现在时，主语 the weather 为不可数名词，be 动词使用 is。"
+    },
+    {
+      "id": 28,
+      "question": "You may leave the library if you _____ finished reading the book.",
+      "options": {
+        "A": "have",
+        "B": "will have",
+        "C": "had",
+        "D": "having"
+      },
+      "answer": "A",
+      "explanation": "If 条件从句也可以使用现在完成时（have finished），表示‘如果你已经完成了某个动作’，主句用情态动词 may 表示允许。"
+    },
+    {
+      "id": 29,
+      "question": "If you freeze liquid water, it _____ solid ice.",
+      "options": {
+        "A": "becoming",
+        "B": "will become",
+        "C": "becomes",
+        "D": "became"
+      },
+      "answer": "C",
+      "explanation": "水结冰是客观事实（零条件句），主句用一般现在时。主语 it 搭配动词三单形式 becomes。"
+    },
+    {
+      "id": 30,
+      "question": "What will you say if the principal _____ you a certificate of excellence?",
+      "options": {
+        "A": "give",
+        "B": "gives",
+        "C": "will give",
+        "D": "gave"
+      },
+      "answer": "B",
+      "explanation": "在第一条件句中，if 从句使用一般现在时。主语 the principal 为第三人称单数，谓语动词用 gives。"
+    }
+  ]
+}
