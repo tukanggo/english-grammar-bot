@@ -50,38 +50,41 @@
         </div>
     </div>
 
-    <script>
+<script>
         let quizData = null;
 
-        // 1. 页面加载时：先获取日期索引列表并渲染下拉菜单
+        // 1. 页面加载时：默认直接加载 latest.json (今日最新)，同时异步加载历史索引供下拉菜单选择
         async function initQuizApp() {
+            // 先直接加载今日最新内容
+            await loadQuizData('latest.json');
+
+            // 异步加载历史索引，填充下拉菜单
             try {
                 const response = await fetch('days_index.json');
                 if (!response.ok) throw new Error("无法加载索引文件");
                 
-                const dates = await response.json(); // 例如 ["2026-10-24", "2026-10-23"]
+                const dates = await response.json(); // 例如 ["2026-10-28", "2026-10-27"]
                 const selectElement = document.getElementById('date-select');
                 selectElement.innerHTML = '';
 
+                // 添加一个“今日最新”置顶选项
+                const latestOption = document.createElement('option');
+                latestOption.value = 'latest.json';
+                latestOption.text = '🌟 今日最新 (Latest)';
+                selectElement.appendChild(latestOption);
+
                 if (dates.length > 0) {
-                    dates.forEach((dateStr, index) => {
+                    dates.forEach((dateStr) => {
                         const option = document.createElement('option');
                         option.value = `grammar_${dateStr}.json`;
-                        option.text = dateStr + (index === 0 ? " (最新)" : "");
+                        option.text = `📅 历史归档: ${dateStr}`;
                         selectElement.appendChild(option);
                     });
-
-                    // 默认加载列表中的第一天（最新的一天）
-                    loadQuizData(`grammar_${dates[0]}.json`);
-                } else {
-                    selectElement.innerHTML = `<option value="latest.json">latest.json</option>`;
-                    loadQuizData('latest.json');
                 }
             } catch (error) {
-                console.warn("未找到 days_index.json，降级直接加载 latest.json");
+                console.warn("未找到 days_index.json，仅提供最新题目预览");
                 const selectElement = document.getElementById('date-select');
-                selectElement.innerHTML = `<option value="latest.json">最新题目</option>`;
-                loadQuizData('latest.json');
+                selectElement.innerHTML = `<option value="latest.json">🌟 今日最新 (Latest)</option>`;
             }
         }
 
