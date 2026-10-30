@@ -1,0 +1,367 @@
+{
+  "date": "2026-10-30",
+  "topic": "Gerunds vs. Infinitives (动名词与动词不定式的妙用)",
+  "teaching_notes": "同学们，动词有时候也喜欢‘变身’！当一个动词跟在另一个动词后面时，它通常要变成‘-ing’形式（动名词）或者‘to + 动词原形’（不定式）。一般来说，表达已完成或习惯性的动作常用 -ing，而表达目的、计划或未发生的动作常用 to do。还有些特殊的动词（如 remember、stop）跟两者都可以，但意思截然不同哦！例如：1. She promised to help me with my English. (她许诺要帮我——还没发生，用 to do) 2. I finished reading this storybook yesterday. (我已经读完了——已完成，用 -ing)。",
+  "questions": [
+    {
+      "id": 1,
+      "question": "My sister enjoys ______ pictures of birds in the park every weekend.",
+      "options": {
+        "A": "draw",
+        "B": "drawing",
+        "C": "to draw",
+        "D": "drew"
+      },
+      "answer": "B",
+      "explanation": "enjoy 后面必须接动名词形式做宾语，即 enjoy doing sth.，表示‘喜欢做某事’。"
+    },
+    {
+      "id": 2,
+      "question": "We have decided ______ to London for our winter vacation.",
+      "options": {
+        "A": "go",
+        "B": "going",
+        "C": "to go",
+        "D": "went"
+      },
+      "answer": "C",
+      "explanation": "decide 后面接动词不定式做宾语，即 decide to do sth.，表示‘决定做某事’。"
+    },
+    {
+      "id": 3,
+      "question": "The teacher asked the students to stop ______ because the exam was starting.",
+      "options": {
+        "A": "talking",
+        "B": "to talk",
+        "C": "talked",
+        "D": "talk"
+      },
+      "answer": "A",
+      "explanation": "stop doing sth. 表示‘停止正在做的事情’；stop to do sth. 表示‘停下来去 做另一件事’。这里是让学生停止说话，故选 A。"
+    },
+    {
+      "id": 4,
+      "question": "I am looking forward to ______ my grandparents during the National Day holiday.",
+      "options": {
+        "A": "visit",
+        "B": "visited",
+        "C": "visiting",
+        "D": "to visit"
+      },
+      "answer": "C",
+      "explanation": "look forward to 中的 to 是介词，后面必须接动名词形式 (-ing)，表示‘期待做某事’。"
+    },
+    {
+      "id": 5,
+      "question": "Lucas is very good at ______ basketball and has won several school matches.",
+      "options": {
+        "A": "play",
+        "B": "to play",
+        "C": "played",
+        "D": "playing"
+      },
+      "answer": "D",
+      "explanation": "be good at 中的 at 是介词，介词后面需要用动名词形式，即 be good at doing sth.。"
+    },
+    {
+      "id": 6,
+      "question": "My little brother wants ______ a doctor when he grows up.",
+      "options": {
+        "A": "become",
+        "B": "to become",
+        "C": "becoming",
+        "D": "became"
+      },
+      "answer": "B",
+      "explanation": "want 后面接不定式，固定搭配为 want to do sth.，意为‘想要做某事’。"
+    },
+    {
+      "id": 7,
+      "question": "Please remember ______ off the lights before you leave the classroom.",
+      "options": {
+        "A": "to turn",
+        "B": "turning",
+        "C": "turn",
+        "D": "turned"
+      },
+      "answer": "A",
+      "explanation": "remember to do sth. 表示‘记得去做某事（还没做）’；remember doing sth. 表示‘记得做过某事（已做）’。离开前要关灯是提醒去执行的动作，故选 A。"
+    },
+    {
+      "id": 8,
+      "question": "You should avoid ______ sweet food if you want to keep your teeth healthy.",
+      "options": {
+        "A": "to eat",
+        "B": "eating",
+        "C": "eat",
+        "D": "ate"
+      },
+      "answer": "B",
+      "explanation": "avoid 属于只能接动名词 (-ing) 的动词，avoid doing sth. 意为‘避免做某事’。"
+    },
+    {
+      "id": 9,
+      "question": "The children hope ______ the science museum this afternoon.",
+      "options": {
+        "A": "to visit",
+        "B": "visiting",
+        "C": "visit",
+        "D": "visited"
+      },
+      "answer": "A",
+      "explanation": "hope 后面习惯接不定式做宾语，固定结构为 hope to do sth.，表示‘希望做某事’。"
+    },
+    {
+      "id": 10,
+      "question": "Sam spent two hours ______ his math homework yesterday evening.",
+      "options": {
+        "A": "to finish",
+        "B": "finishing",
+        "C": "finish",
+        "D": "finished"
+      },
+      "answer": "B",
+      "explanation": "spend + 时间/金钱 + (in) doing sth. 是固定句型，表示‘花费时间/金钱做某事’。"
+    },
+    {
+      "id": 11,
+      "question": "Would you mind ______ the window? It's a bit stuffy inside.",
+      "options": {
+        "A": "open",
+        "B": "to open",
+        "C": "opening",
+        "D": "opened"
+      },
+      "answer": "C",
+      "explanation": "mind 后面接动名词，Would/Do you mind doing sth.? 表示‘你介意做某事吗？’。"
+    },
+    {
+      "id": 12,
+      "question": "The two boys agreed ______ their bedroom together.",
+      "options": {
+        "A": "cleaning",
+        "B": "clean",
+        "C": "to clean",
+        "D": "cleaned"
+      },
+      "answer": "C",
+      "explanation": "agree 后面接不定式，agree to do sth. 表示‘同意/答应做某事’。"
+    },
+    {
+      "id": 13,
+      "question": "I will never forget ______ the famous astronaut at school last year.",
+      "options": {
+        "A": "meeting",
+        "B": "to meet",
+        "C": "meet",
+        "D": "met"
+      },
+      "answer": "A",
+      "explanation": "forget doing sth. 表示‘忘记做过某事（动作已发生）’；forget to do sth. 表示‘忘记要去 做某事（动作未发生）’。句中有 last year，表示已经见过，故选 A。"
+    },
+    {
+      "id": 14,
+      "question": "After ______ her report, Emma turned off her computer.",
+      "options": {
+        "A": "to finish",
+        "B": "finishing",
+        "C": "finish",
+        "D": "finished"
+      },
+      "answer": "B",
+      "explanation": "after 是介词，后面跟着动词时要用动名词形式 (-ing)。"
+    },
+    {
+      "id": 15,
+      "question": "The little boy refused ______ the bitter medicine.",
+      "options": {
+        "A": "to take",
+        "B": "taking",
+        "C": "take",
+        "D": "took"
+      },
+      "answer": "A",
+      "explanation": "refuse 后面接不定式，refuse to do sth. 表示‘拒绝做某事’。"
+    },
+    {
+      "id": 16,
+      "question": "It is important for primary students ______ enough sleep every day.",
+      "options": {
+        "A": "getting",
+        "B": "to get",
+        "C": "get",
+        "D": "got"
+      },
+      "answer": "B",
+      "explanation": "在句型 It is + adj. + for sb. + to do sth. 中，It 是形式主语，真正的主语是后面的不定式 (to do)。"
+    },
+    {
+      "id": 17,
+      "question": "David practices ______ the violin for half an hour every evening.",
+      "options": {
+        "A": "playing",
+        "B": "to play",
+        "C": "play",
+        "D": "played"
+      },
+      "answer": "A",
+      "explanation": "practice 后面只能接动名词做宾语，即 practice doing sth.，表示‘练习做某事’。"
+    },
+    {
+      "id": 18,
+      "question": "Our class plans ______ a tree-planting activity next spring.",
+      "options": {
+        "A": "organizing",
+        "B": "organize",
+        "C": "to organize",
+        "D": "organized"
+      },
+      "answer": "C",
+      "explanation": "plan 后面接不定式作宾语，plan to do sth. 表示‘计划做某事’。"
+    },
+    {
+      "id": 19,
+      "question": "The problem was very hard, but Ben tried his best ______ it out.",
+      "options": {
+        "A": "work",
+        "B": "working",
+        "C": "worked",
+        "D": "to work"
+      },
+      "answer": "D",
+      "explanation": "try one's best to do sth. 是固定短语，表示‘尽某人最大努力去做某事’。"
+    },
+    {
+      "id": 20,
+      "question": "Are you interested in ______ the school drama club?",
+      "options": {
+        "A": "join",
+        "B": "joining",
+        "C": "to join",
+        "D": "joined"
+      },
+      "answer": "B",
+      "explanation": "be interested in 中的 in 是介词，介词后接动名词形式 (-ing)。"
+    },
+    {
+      "id": 21,
+      "question": "What would you like ______ for lunch, hamburgers or noodles?",
+      "options": {
+        "A": "to have",
+        "B": "having",
+        "C": "have",
+        "D": "had"
+      },
+      "answer": "A",
+      "explanation": "would like 后面接不定式，would like to do sth. 表示‘想要做某事’。"
+    },
+    {
+      "id": 22,
+      "question": "Although it was raining heavily, the football team kept ______ on the field.",
+      "options": {
+        "A": "to train",
+        "B": "train",
+        "C": "training",
+        "D": "trained"
+      },
+      "answer": "C",
+      "explanation": "keep doing sth. 表示‘持续/继续做某事’，keep 后接动名词。"
+    },
+    {
+      "id": 23,
+      "question": "My parents promised ______ me to the amusement park if I pass the exam.",
+      "options": {
+        "A": "take",
+        "B": "taking",
+        "C": "to take",
+        "D": "took"
+      },
+      "answer": "C",
+      "explanation": "promise 后面固定接不定式，promise to do sth. 表示‘承诺/许诺做某事’。"
+    },
+    {
+      "id": 24,
+      "question": "The doctor suggested ______ a walk after dinner for better digestion.",
+      "options": {
+        "A": "taking",
+        "B": "to take",
+        "C": "take",
+        "D": "took"
+      },
+      "answer": "A",
+      "explanation": "suggest 后面直接跟动词时，必须用动名词形式 (-ing)，即 suggest doing sth.。"
+    },
+    {
+      "id": 25,
+      "question": "He left the room quietly without ______ anyone.",
+      "options": {
+        "A": "disturb",
+        "B": "disturbing",
+        "C": "to disturb",
+        "D": "disturbed"
+      },
+      "answer": "B",
+      "explanation": "without 是介词，后接动词时要使用动名词 (-ing) 形式。"
+    },
+    {
+      "id": 26,
+      "question": "On the way home, my uncle stopped ______ a picture of the beautiful sunset.",
+      "options": {
+        "A": "taking",
+        "B": "to take",
+        "C": "take",
+        "D": "took"
+      },
+      "answer": "B",
+      "explanation": "stop to do sth. 表示‘停下手中的事，去 做另一件事’。叔叔是停下来去拍日落，故选 B。"
+    },
+    {
+      "id": 27,
+      "question": "Jenny needs ______ more water after doing such intense exercise.",
+      "options": {
+        "A": "drinking",
+        "B": "drink",
+        "C": "to drink",
+        "D": "drank"
+      },
+      "answer": "C",
+      "explanation": "当主语是人时，need 作为实义动词，后面接不定式，即 need to do sth. 表示‘需要做某事’。"
+    },
+    {
+      "id": 28,
+      "question": "Don't give up ______! You are getting closer to success.",
+      "options": {
+        "A": "trying",
+        "B": "to try",
+        "C": "try",
+        "D": "tried"
+      },
+      "answer": "A",
+      "explanation": "give up 中的 up 是副词/介词短语，后接动名词，give up doing sth. 表示‘放弃做某事’。"
+    },
+    {
+      "id": 29,
+      "question": "The kind man offered ______ the old lady carry her heavy box.",
+      "options": {
+        "A": "help",
+        "B": "helping",
+        "C": "to help",
+        "D": "helped"
+      },
+      "answer": "C",
+      "explanation": "offer 后面接不定式作宾语，offer to do sth. 表示‘主动提出做某事’。"
+    },
+    {
+      "id": 30,
+      "question": "Mom is busy ______ dinner in the kitchen right now.",
+      "options": {
+        "A": "preparing",
+        "B": "to prepare",
+        "C": "prepare",
+        "D": "prepared"
+      },
+      "answer": "A",
+      "explanation": "be busy doing sth. 是固定句型，表示‘忙于做某事’，忙于的具体动作使用动名词形式。"
+    }
+  ]
+}

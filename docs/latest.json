@@ -1,367 +1,367 @@
 {
-  "date": "2026-10-29",
-  "topic": "First Conditional & Zero Conditional (条件状语从句：真实条件句与零条件句)",
-  "teaching_notes": "同学们好！今天我们来攻克 If 条件句的核心用法。Zero Conditional（零条件句）用来表达客观真理或自然规律，公式是 ‘If + 一般现在时，主句用一般现在时’；而 First Conditional（第一条件句）用来预测未来可能发生的事，遵循 ‘主将从现’ 原则——即 if 引导的条件从句用一般现在时，主句用 will + 动词原形。大家要特别注意：if 从句内部绝对不能直接使用 will 哟！\n例句 1 (Zero): If you heat ice, it melts. (如果你加热冰，它就会融化。)\n例句 2 (First): If it rains tomorrow, we will play indoors. (如果明天下雨，我们就在室内玩。)",
+  "date": "2026-10-30",
+  "topic": "Gerunds vs. Infinitives (动名词与动词不定式的妙用)",
+  "teaching_notes": "同学们，动词有时候也喜欢‘变身’！当一个动词跟在另一个动词后面时，它通常要变成‘-ing’形式（动名词）或者‘to + 动词原形’（不定式）。一般来说，表达已完成或习惯性的动作常用 -ing，而表达目的、计划或未发生的动作常用 to do。还有些特殊的动词（如 remember、stop）跟两者都可以，但意思截然不同哦！例如：1. She promised to help me with my English. (她许诺要帮我——还没发生，用 to do) 2. I finished reading this storybook yesterday. (我已经读完了——已完成，用 -ing)。",
   "questions": [
     {
       "id": 1,
-      "question": "If it _____ tomorrow, we will cancel our outdoor picnic.",
+      "question": "My sister enjoys ______ pictures of birds in the park every weekend.",
       "options": {
-        "A": "will rain",
-        "B": "rains",
-        "C": "rained",
-        "D": "is raining"
+        "A": "draw",
+        "B": "drawing",
+        "C": "to draw",
+        "D": "drew"
       },
       "answer": "B",
-      "explanation": "在第一条件句（First Conditional）中，if 引导的从句要用一般现在时表将来（主将从现）。主语是 it，动词 rain 应使用第三人称单数形式 rains。"
+      "explanation": "enjoy 后面必须接动名词形式做宾语，即 enjoy doing sth.，表示‘喜欢做某事’。"
     },
     {
       "id": 2,
-      "question": "What will you do if you _____ the science competition?",
+      "question": "We have decided ______ to London for our winter vacation.",
       "options": {
-        "A": "won",
-        "B": "will win",
-        "C": "win",
-        "D": "wins"
+        "A": "go",
+        "B": "going",
+        "C": "to go",
+        "D": "went"
       },
       "answer": "C",
-      "explanation": "在 if 条件句中遵循‘主将从现’，主语是 you，从句使用动词原形 win。"
+      "explanation": "decide 后面接动词不定式做宾语，即 decide to do sth.，表示‘决定做某事’。"
     },
     {
       "id": 3,
-      "question": "If you heat ice, it _____ into water.",
+      "question": "The teacher asked the students to stop ______ because the exam was starting.",
       "options": {
-        "A": "turns",
-        "B": "turn",
-        "C": "will turn",
-        "D": "turned"
+        "A": "talking",
+        "B": "to talk",
+        "C": "talked",
+        "D": "talk"
       },
       "answer": "A",
-      "explanation": "本题表达科学常识（冰加热融化成水），属于零条件句（Zero Conditional），从句和主句都使用一般现在时。主语 it 为单数，谓语动词用 turns。"
+      "explanation": "stop doing sth. 表示‘停止正在做的事情’；stop to do sth. 表示‘停下来去 做另一件事’。这里是让学生停止说话，故选 A。"
     },
     {
       "id": 4,
-      "question": "Unless she _____ hard, she will not pass the upcoming piano exam.",
+      "question": "I am looking forward to ______ my grandparents during the National Day holiday.",
       "options": {
-        "A": "will practice",
-        "B": "practiced",
-        "C": "practice",
-        "D": "practices"
+        "A": "visit",
+        "B": "visited",
+        "C": "visiting",
+        "D": "to visit"
       },
-      "answer": "D",
-      "explanation": "Unless 相当于 'if ... not'（除非），同样遵循‘主将从现’原则。从句主语是 she，谓语动词使用第三人称单数 practices。"
+      "answer": "C",
+      "explanation": "look forward to 中的 to 是介词，后面必须接动名词形式 (-ing)，表示‘期待做某事’。"
     },
     {
       "id": 5,
-      "question": "The English teacher will be happy if we _____ all our homework on time.",
+      "question": "Lucas is very good at ______ basketball and has won several school matches.",
       "options": {
-        "A": "finish",
-        "B": "will finish",
-        "C": "finished",
-        "D": "finishes"
+        "A": "play",
+        "B": "to play",
+        "C": "played",
+        "D": "playing"
       },
-      "answer": "A",
-      "explanation": "主句使用 will be 表将来，if 引导的从句用一般现在时。主语是 we，谓语动词用原形 finish。"
+      "answer": "D",
+      "explanation": "be good at 中的 at 是介词，介词后面需要用动名词形式，即 be good at doing sth.。"
     },
     {
       "id": 6,
-      "question": "If you mix red and yellow, you _____ orange.",
+      "question": "My little brother wants ______ a doctor when he grows up.",
       "options": {
-        "A": "will get",
-        "B": "get",
-        "C": "got",
-        "D": "getting"
+        "A": "become",
+        "B": "to become",
+        "C": "becoming",
+        "D": "became"
       },
       "answer": "B",
-      "explanation": "红色加黄色变成橙色是客观规律，属于零条件句，主句和从句均用一般现在时，主语 you 搭配原形 get。"
+      "explanation": "want 后面接不定式，固定搭配为 want to do sth.，意为‘想要做某事’。"
     },
     {
       "id": 7,
-      "question": "We _____ to the beach if the sun shines brightly this Saturday.",
+      "question": "Please remember ______ off the lights before you leave the classroom.",
       "options": {
-        "A": "went",
-        "B": "go",
-        "C": "will go",
-        "D": "going"
+        "A": "to turn",
+        "B": "turning",
+        "C": "turn",
+        "D": "turned"
       },
-      "answer": "C",
-      "explanation": "if 从句用了一般现在时（shines），主句表达对未来的预测，需使用一般将来时 will go。"
+      "answer": "A",
+      "explanation": "remember to do sth. 表示‘记得去做某事（还没做）’；remember doing sth. 表示‘记得做过某事（已做）’。离开前要关灯是提醒去执行的动作，故选 A。"
     },
     {
       "id": 8,
-      "question": "If Sam _____ his project early, he can play video games tonight.",
+      "question": "You should avoid ______ sweet food if you want to keep your teeth healthy.",
       "options": {
-        "A": "completes",
-        "B": "complete",
-        "C": "will complete",
-        "D": "completed"
+        "A": "to eat",
+        "B": "eating",
+        "C": "eat",
+        "D": "ate"
       },
-      "answer": "A",
-      "explanation": "if 引导的从句用一般现在时。主语 Sam 是第三人称单数，动词应使用 completes。"
+      "answer": "B",
+      "explanation": "avoid 属于只能接动名词 (-ing) 的动词，avoid doing sth. 意为‘避免做某事’。"
     },
     {
       "id": 9,
-      "question": "Don't eat that strawberry cake if you _____ allergic to berries!",
+      "question": "The children hope ______ the science museum this afternoon.",
       "options": {
-        "A": "will be",
-        "B": "were",
-        "C": "be",
-        "D": "are"
+        "A": "to visit",
+        "B": "visiting",
+        "C": "visit",
+        "D": "visited"
       },
-      "answer": "D",
-      "explanation": "主句为祈使句（Don't eat...），if 从句使用一般现在时。主语是 you，be 动词用 are。"
+      "answer": "A",
+      "explanation": "hope 后面习惯接不定式做宾语，固定结构为 hope to do sth.，表示‘希望做某事’。"
     },
     {
       "id": 10,
-      "question": "If ice cream is left in the warm sun, it _____ very quickly.",
+      "question": "Sam spent two hours ______ his math homework yesterday evening.",
       "options": {
-        "A": "will melt",
-        "B": "melts",
-        "C": "melted",
-        "D": "is melting"
+        "A": "to finish",
+        "B": "finishing",
+        "C": "finish",
+        "D": "finished"
       },
       "answer": "B",
-      "explanation": "冰淇淋在晒太阳时融化是客观事实，适用零条件句（Zero Conditional），主句用一般现在时 melts。"
+      "explanation": "spend + 时间/金钱 + (in) doing sth. 是固定句型，表示‘花费时间/金钱做某事’。"
     },
     {
       "id": 11,
-      "question": "What _____ happen if we press this blue button on the wall?",
+      "question": "Would you mind ______ the window? It's a bit stuffy inside.",
       "options": {
-        "A": "will",
-        "B": "did",
-        "C": "is",
-        "D": "does"
+        "A": "open",
+        "B": "to open",
+        "C": "opening",
+        "D": "opened"
       },
-      "answer": "A",
-      "explanation": "if 从句用一般现在时（press），询问对未来的预期，主句疑问句结构为 'What will + 主语 + 动词原形'。"
+      "answer": "C",
+      "explanation": "mind 后面接动名词，Would/Do you mind doing sth.? 表示‘你介意做某事吗？’。"
     },
     {
       "id": 12,
-      "question": "If you need help with your English reading, please _____ me.",
+      "question": "The two boys agreed ______ their bedroom together.",
       "options": {
-        "A": "sending",
-        "B": "will send",
-        "C": "tell",
-        "D": "told"
-      },
-      "answer": "C",
-      "explanation": "if 条件句的主句可以是祈使句，用 please + 动词原形表示请求，此处使用 tell。"
-    },
-    {
-      "id": 13,
-      "question": "Unless it _____ snowing soon, the school bus will be late.",
-      "options": {
-        "A": "will stop",
-        "B": "stops",
-        "C": "stop",
-        "D": "stopped"
-      },
-      "answer": "B",
-      "explanation": "Unless 引导条件从句，遵循‘主将从现’。从句主语是 it，谓语动词用第三人称单数 stops。"
-    },
-    {
-      "id": 14,
-      "question": "If my brother _____ enough pocket money, he will buy a new skateboard.",
-      "options": {
-        "A": "will save",
-        "B": "save",
-        "C": "saved",
-        "D": "saves"
-      },
-      "answer": "D",
-      "explanation": "if 条件从句用一般现在时，主语 my brother 为第三人称单数，动词使用 saves。"
-    },
-    {
-      "id": 15,
-      "question": "If you drop a plastic ball into water, it _____ on the surface.",
-      "options": {
-        "A": "floats",
-        "B": "floating",
-        "C": "will float",
-        "D": "floated"
-      },
-      "answer": "A",
-      "explanation": "塑料球放入水中会浮在水面上是物理现象（零条件句），主句使用一般现在时 floats。"
-    },
-    {
-      "id": 16,
-      "question": "Mum will bake chocolate cookies if Lucy _____ high marks in her spelling test.",
-      "options": {
-        "A": "got",
-        "B": "will get",
-        "C": "gets",
-        "D": "get"
-      },
-      "answer": "C",
-      "explanation": "主句使用一般将来时 will bake，if 从句使用一般现在时，主语 Lucy 为第三人称单数，选择 gets。"
-    },
-    {
-      "id": 17,
-      "question": "If you don't wear a thick jacket in winter, you _____ a bad cold.",
-      "options": {
-        "A": "will catch",
-        "B": "catch",
-        "C": "caught",
-        "D": "catches"
-      },
-      "answer": "A",
-      "explanation": "if 从句是一般现在时的否定形式（don't wear），主句用一般将来时 will catch。"
-    },
-    {
-      "id": 18,
-      "question": "The watch dog _____ bark if a stranger approaches the gate.",
-      "options": {
-        "A": "is",
-        "B": "will",
-        "C": "was",
-        "D": "did"
-      },
-      "answer": "B",
-      "explanation": "if 从句用一般现在时（approaches），主句用一般将来时 will + 动词原形 bark。"
-    },
-    {
-      "id": 19,
-      "question": "If you boil water to 100 degrees Celsius, it _____ into steam.",
-      "options": {
-        "A": "turned",
-        "B": "will turn",
-        "C": "turning",
-        "D": "turns"
-      },
-      "answer": "D",
-      "explanation": "水烧开到100度变成蒸气是自然常识（零条件句），从句和主句均用一般现在时，主语 it 搭配 turns。"
-    },
-    {
-      "id": 20,
-      "question": "Unless you _____ your bedroom now, you cannot go to the park.",
-      "options": {
-        "A": "cleans",
-        "B": "will clean",
-        "C": "clean",
+        "A": "cleaning",
+        "B": "clean",
+        "C": "to clean",
         "D": "cleaned"
       },
       "answer": "C",
-      "explanation": "Unless 引导条件句表‘除非’，从句用一般现在时。主语是 you，谓语动词用原形 clean。"
+      "explanation": "agree 后面接不定式，agree to do sth. 表示‘同意/答应做某事’。"
+    },
+    {
+      "id": 13,
+      "question": "I will never forget ______ the famous astronaut at school last year.",
+      "options": {
+        "A": "meeting",
+        "B": "to meet",
+        "C": "meet",
+        "D": "met"
+      },
+      "answer": "A",
+      "explanation": "forget doing sth. 表示‘忘记做过某事（动作已发生）’；forget to do sth. 表示‘忘记要去 做某事（动作未发生）’。句中有 last year，表示已经见过，故选 A。"
+    },
+    {
+      "id": 14,
+      "question": "After ______ her report, Emma turned off her computer.",
+      "options": {
+        "A": "to finish",
+        "B": "finishing",
+        "C": "finish",
+        "D": "finished"
+      },
+      "answer": "B",
+      "explanation": "after 是介词，后面跟着动词时要用动名词形式 (-ing)。"
+    },
+    {
+      "id": 15,
+      "question": "The little boy refused ______ the bitter medicine.",
+      "options": {
+        "A": "to take",
+        "B": "taking",
+        "C": "take",
+        "D": "took"
+      },
+      "answer": "A",
+      "explanation": "refuse 后面接不定式，refuse to do sth. 表示‘拒绝做某事’。"
+    },
+    {
+      "id": 16,
+      "question": "It is important for primary students ______ enough sleep every day.",
+      "options": {
+        "A": "getting",
+        "B": "to get",
+        "C": "get",
+        "D": "got"
+      },
+      "answer": "B",
+      "explanation": "在句型 It is + adj. + for sb. + to do sth. 中，It 是形式主语，真正的主语是后面的不定式 (to do)。"
+    },
+    {
+      "id": 17,
+      "question": "David practices ______ the violin for half an hour every evening.",
+      "options": {
+        "A": "playing",
+        "B": "to play",
+        "C": "play",
+        "D": "played"
+      },
+      "answer": "A",
+      "explanation": "practice 后面只能接动名词做宾语，即 practice doing sth.，表示‘练习做某事’。"
+    },
+    {
+      "id": 18,
+      "question": "Our class plans ______ a tree-planting activity next spring.",
+      "options": {
+        "A": "organizing",
+        "B": "organize",
+        "C": "to organize",
+        "D": "organized"
+      },
+      "answer": "C",
+      "explanation": "plan 后面接不定式作宾语，plan to do sth. 表示‘计划做某事’。"
+    },
+    {
+      "id": 19,
+      "question": "The problem was very hard, but Ben tried his best ______ it out.",
+      "options": {
+        "A": "work",
+        "B": "working",
+        "C": "worked",
+        "D": "to work"
+      },
+      "answer": "D",
+      "explanation": "try one's best to do sth. 是固定短语，表示‘尽某人最大努力去做某事’。"
+    },
+    {
+      "id": 20,
+      "question": "Are you interested in ______ the school drama club?",
+      "options": {
+        "A": "join",
+        "B": "joining",
+        "C": "to join",
+        "D": "joined"
+      },
+      "answer": "B",
+      "explanation": "be interested in 中的 in 是介词，介词后接动名词形式 (-ing)。"
     },
     {
       "id": 21,
-      "question": "If they _____ early tomorrow morning, they will catch the first train.",
+      "question": "What would you like ______ for lunch, hamburgers or noodles?",
       "options": {
-        "A": "leave",
-        "B": "leaves",
-        "C": "will leave",
-        "D": "left"
+        "A": "to have",
+        "B": "having",
+        "C": "have",
+        "D": "had"
       },
       "answer": "A",
-      "explanation": "在第一条件句中，虽然有 tomorrow morning 表将来，但 if 从句内部必须用一般现在时。主语 they 对应动词原形 leave。"
+      "explanation": "would like 后面接不定式，would like to do sth. 表示‘想要做某事’。"
     },
     {
       "id": 22,
-      "question": "What will happen if the sun _____ today?",
+      "question": "Although it was raining heavily, the football team kept ______ on the field.",
       "options": {
-        "A": "won't shine",
-        "B": "doesn't shine",
-        "C": "isn't shine",
-        "D": "didn't shine"
+        "A": "to train",
+        "B": "train",
+        "C": "training",
+        "D": "trained"
       },
-      "answer": "B",
-      "explanation": "if 从句否定句需用一般现在时否定助动词。主语 the sun 是第三人称单数，否定用 doesn't + 动词原形 shine。"
+      "answer": "C",
+      "explanation": "keep doing sth. 表示‘持续/继续做某事’，keep 后接动名词。"
     },
     {
       "id": 23,
-      "question": "If you feel tired during the lesson, _____ a short break.",
+      "question": "My parents promised ______ me to the amusement park if I pass the exam.",
       "options": {
-        "A": "taking",
-        "B": "will take",
-        "C": "took",
-        "D": "take"
+        "A": "take",
+        "B": "taking",
+        "C": "to take",
+        "D": "took"
       },
-      "answer": "D",
-      "explanation": "if 条件句的主句可以用祈使句，动词原形开头表示建议或指令，因此填 take。"
+      "answer": "C",
+      "explanation": "promise 后面固定接不定式，promise to do sth. 表示‘承诺/许诺做某事’。"
     },
     {
       "id": 24,
-      "question": "We _____ the football match if our goalkeeper plays well.",
+      "question": "The doctor suggested ______ a walk after dinner for better digestion.",
       "options": {
-        "A": "won",
-        "B": "wins",
-        "C": "will win",
-        "D": "winning"
+        "A": "taking",
+        "B": "to take",
+        "C": "take",
+        "D": "took"
       },
-      "answer": "C",
-      "explanation": "if 从句使用一般现在时（plays），主句预测比赛结果，使用一般将来时 will win。"
+      "answer": "A",
+      "explanation": "suggest 后面直接跟动词时，必须用动名词形式 (-ing)，即 suggest doing sth.。"
     },
     {
       "id": 25,
-      "question": "If an apple falls from a tree, gravity _____ it down.",
+      "question": "He left the room quietly without ______ anyone.",
       "options": {
-        "A": "pulls",
-        "B": "will pull",
-        "C": "pulled",
-        "D": "pulling"
+        "A": "disturb",
+        "B": "disturbing",
+        "C": "to disturb",
+        "D": "disturbed"
       },
-      "answer": "A",
-      "explanation": "描述重力拉苹果这一物理定律，使用零条件句，主句用一般现在时。主语 gravity 为不可数名词（单数），用 pulls。"
+      "answer": "B",
+      "explanation": "without 是介词，后接动词时要使用动名词 (-ing) 形式。"
     },
     {
       "id": 26,
-      "question": "Unless Max _____ his school uniform, he won't be allowed into the assembly hall.",
+      "question": "On the way home, my uncle stopped ______ a picture of the beautiful sunset.",
       "options": {
-        "A": "wear",
-        "B": "wears",
-        "C": "will wear",
-        "D": "wore"
+        "A": "taking",
+        "B": "to take",
+        "C": "take",
+        "D": "took"
       },
       "answer": "B",
-      "explanation": "Unless 条件句使用一般现在时，主语 Max 是第三人称单数，谓语动词加 -s，填 wears。"
+      "explanation": "stop to do sth. 表示‘停下手中的事，去 做另一件事’。叔叔是停下来去拍日落，故选 B。"
     },
     {
       "id": 27,
-      "question": "If the weather _____ fine tomorrow, we might go hiking in the mountains.",
+      "question": "Jenny needs ______ more water after doing such intense exercise.",
       "options": {
-        "A": "will be",
-        "B": "was",
-        "C": "being",
-        "D": "is"
+        "A": "drinking",
+        "B": "drink",
+        "C": "to drink",
+        "D": "drank"
       },
-      "answer": "D",
-      "explanation": "if 从句用一般现在时，主语 the weather 为不可数名词，be 动词使用 is。"
+      "answer": "C",
+      "explanation": "当主语是人时，need 作为实义动词，后面接不定式，即 need to do sth. 表示‘需要做某事’。"
     },
     {
       "id": 28,
-      "question": "You may leave the library if you _____ finished reading the book.",
+      "question": "Don't give up ______! You are getting closer to success.",
       "options": {
-        "A": "have",
-        "B": "will have",
-        "C": "had",
-        "D": "having"
+        "A": "trying",
+        "B": "to try",
+        "C": "try",
+        "D": "tried"
       },
       "answer": "A",
-      "explanation": "If 条件从句也可以使用现在完成时（have finished），表示‘如果你已经完成了某个动作’，主句用情态动词 may 表示允许。"
+      "explanation": "give up 中的 up 是副词/介词短语，后接动名词，give up doing sth. 表示‘放弃做某事’。"
     },
     {
       "id": 29,
-      "question": "If you freeze liquid water, it _____ solid ice.",
+      "question": "The kind man offered ______ the old lady carry her heavy box.",
       "options": {
-        "A": "becoming",
-        "B": "will become",
-        "C": "becomes",
-        "D": "became"
+        "A": "help",
+        "B": "helping",
+        "C": "to help",
+        "D": "helped"
       },
       "answer": "C",
-      "explanation": "水结冰是客观事实（零条件句），主句用一般现在时。主语 it 搭配动词三单形式 becomes。"
+      "explanation": "offer 后面接不定式作宾语，offer to do sth. 表示‘主动提出做某事’。"
     },
     {
       "id": 30,
-      "question": "What will you say if the principal _____ you a certificate of excellence?",
+      "question": "Mom is busy ______ dinner in the kitchen right now.",
       "options": {
-        "A": "give",
-        "B": "gives",
-        "C": "will give",
-        "D": "gave"
+        "A": "preparing",
+        "B": "to prepare",
+        "C": "prepare",
+        "D": "prepared"
       },
-      "answer": "B",
-      "explanation": "在第一条件句中，if 从句使用一般现在时。主语 the principal 为第三人称单数，谓语动词用 gives。"
+      "answer": "A",
+      "explanation": "be busy doing sth. 是固定句型，表示‘忙于做某事’，忙于的具体动作使用动名词形式。"
     }
   ]
 }
