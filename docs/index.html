@@ -53,12 +53,8 @@
 <script>
         let quizData = null;
 
-        // 1. 页面加载时：默认直接加载 latest.json (今日最新)，同时异步加载历史索引供下拉菜单选择
+        // 1. 页面加载时：直接读取 days_index.json 索引，默认加载最新的一天
         async function initQuizApp() {
-            // 先直接加载今日最新内容
-            await loadQuizData('latest.json');
-
-            // 异步加载历史索引，填充下拉菜单
             try {
                 const response = await fetch('days_index.json');
                 if (!response.ok) throw new Error("无法加载索引文件");
@@ -67,24 +63,25 @@
                 const selectElement = document.getElementById('date-select');
                 selectElement.innerHTML = '';
 
-                // 添加一个“今日最新”置顶选项
-                const latestOption = document.createElement('option');
-                latestOption.value = 'latest.json';
-                latestOption.text = '🌟 今日最新 (Latest)';
-                selectElement.appendChild(latestOption);
-
-                if (dates.length > 0) {
-                    dates.forEach((dateStr) => {
+                if (dates && dates.length > 0) {
+                    dates.forEach((dateStr, index) => {
                         const option = document.createElement('option');
                         option.value = `grammar_${dateStr}.json`;
-                        option.text = `📅 历史归档: ${dateStr}`;
+                        // 给最新的一天加上醒目标签
+                        option.text = dateStr + (index === 0 ? " 🌟 (最新今日)" : " 📅 (历史归档)");
                         selectElement.appendChild(option);
                     });
+
+                    // 默认加载列表中的第一天（即最新的一天对应的 grammar_YYYY-MM-DD.json）
+                    loadQuizData(`grammar_${dates[0]}.json`);
+                } else {
+                    throw new Error("索引文件内容为空");
                 }
             } catch (error) {
-                console.warn("未找到 days_index.json，仅提供最新题目预览");
+                console.warn("未能加载 days_index.json 或索引为空:", error);
                 const selectElement = document.getElementById('date-select');
-                selectElement.innerHTML = `<option value="latest.json">🌟 今日最新 (Latest)</option>`;
+                selectElement.innerHTML = `<option value="">暂无可用题目</option>`;
+                document.getElementById('quiz-container').innerHTML = `<p class="text-center text-red-500">未找到任何语法练习数据，请检查 GitHub Actions 是否成功运行。</p>`;
             }
         }
 
@@ -95,7 +92,7 @@
             const resultSec = document.getElementById('result-section');
             const teachingSec = document.getElementById('teaching-section');
 
-            container.innerHTML = '<p class="text-center text-slate-400">正在加载题目...</p>';
+            container.innerHTML = '<p class="text-center text-slate-400">正在从云端加载题目...</p>';
             submitSec.classList.add('hidden');
             resultSec.classList.add('hidden');
             teachingSec.classList.add('hidden');
@@ -126,7 +123,9 @@
 
         // 3. 下拉菜单切换事件
         function onDateChange(filename) {
-            loadQuizData(filename);
+            if (filename) {
+                loadQuizData(filename);
+            }
         }
 
         // 4. 渲染题目列表
