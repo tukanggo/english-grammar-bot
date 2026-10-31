@@ -1,367 +1,367 @@
 {
-  "date": "2026-10-30",
-  "topic": "Gerunds vs. Infinitives (动名词与动词不定式的妙用)",
-  "teaching_notes": "同学们，动词有时候也喜欢‘变身’！当一个动词跟在另一个动词后面时，它通常要变成‘-ing’形式（动名词）或者‘to + 动词原形’（不定式）。一般来说，表达已完成或习惯性的动作常用 -ing，而表达目的、计划或未发生的动作常用 to do。还有些特殊的动词（如 remember、stop）跟两者都可以，但意思截然不同哦！例如：1. She promised to help me with my English. (她许诺要帮我——还没发生，用 to do) 2. I finished reading this storybook yesterday. (我已经读完了——已完成，用 -ing)。",
+  "date": "2026-10-31",
+  "topic": "定语从句（关系代词与关系副词的选择与运用）",
+  "teaching_notes": "同学们好！今天我们来学习给句子做“贴纸”的定语从句。关系代词和副词就像魔法胶水：指人时用 who，指物时用 which，人或物通用可以用 that；如果表示“谁的（所属关系）”，记得要用 whose；而表示“在某个地点”且从句句子完整时，则用 where。只要看清前面的名词（先行词）并分析从句缺什么成分，就能轻松选对魔法胶水啦！例如：The teacher who wears a yellow hat is nice. / This is the park where we played yesterday.",
   "questions": [
     {
       "id": 1,
-      "question": "My sister enjoys ______ pictures of birds in the park every weekend.",
+      "question": "The girl _______ is singing on the stage is my best friend.",
       "options": {
-        "A": "draw",
-        "B": "drawing",
-        "C": "to draw",
-        "D": "drew"
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "where"
       },
       "answer": "B",
-      "explanation": "enjoy 后面必须接动名词形式做宾语，即 enjoy doing sth.，表示‘喜欢做某事’。"
+      "explanation": "先行词是 The girl（人），且在定语从句中作主语，因此用关系代词 who。"
     },
     {
       "id": 2,
-      "question": "We have decided ______ to London for our winter vacation.",
+      "question": "This is the magical book _______ has many fascinating fairy tales.",
       "options": {
-        "A": "go",
-        "B": "going",
-        "C": "to go",
-        "D": "went"
+        "A": "which",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "C",
-      "explanation": "decide 后面接动词不定式做宾语，即 decide to do sth.，表示‘决定做某事’。"
+      "answer": "A",
+      "explanation": "先行词是 book（物），在从句中作主语，因此使用关系代词 which。"
     },
     {
       "id": 3,
-      "question": "The teacher asked the students to stop ______ because the exam was starting.",
+      "question": "Look at the cute puppy _______ tail is very short!",
       "options": {
-        "A": "talking",
-        "B": "to talk",
-        "C": "talked",
-        "D": "talk"
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "stop doing sth. 表示‘停止正在做的事情’；stop to do sth. 表示‘停下来去 做另一件事’。这里是让学生停止说话，故选 A。"
+      "answer": "C",
+      "explanation": "空格后是名词 tail，这里表示“小狗的尾巴”，表示所属关系（……的），因此用 whose。"
     },
     {
       "id": 4,
-      "question": "I am looking forward to ______ my grandparents during the National Day holiday.",
+      "question": "Do you still remember the museum _______ we visited last summer?",
       "options": {
-        "A": "visit",
-        "B": "visited",
-        "C": "visiting",
-        "D": "to visit"
+        "A": "where",
+        "B": "who",
+        "C": "whose",
+        "D": "that"
       },
-      "answer": "C",
-      "explanation": "look forward to 中的 to 是介词，后面必须接动名词形式 (-ing)，表示‘期待做某事’。"
+      "answer": "D",
+      "explanation": "先行词是 museum（物），从句中动词 visited 缺少宾语，因此用关系代词 that 或 which。"
     },
     {
       "id": 5,
-      "question": "Lucas is very good at ______ basketball and has won several school matches.",
+      "question": "I really love the quiet village _______ my grandparents live.",
       "options": {
-        "A": "play",
-        "B": "to play",
-        "C": "played",
-        "D": "playing"
+        "A": "where",
+        "B": "which",
+        "C": "who",
+        "D": "whose"
       },
-      "answer": "D",
-      "explanation": "be good at 中的 at 是介词，介词后面需要用动名词形式，即 be good at doing sth.。"
+      "answer": "A",
+      "explanation": "先行词是 village（地点），在从句中作地点状语（ live 在此处为不及物动词），因此用关系副词 where。"
     },
     {
       "id": 6,
-      "question": "My little brother wants ______ a doctor when he grows up.",
+      "question": "The boy _______ bicycle was stolen yesterday reported it to the police.",
       "options": {
-        "A": "become",
-        "B": "to become",
-        "C": "becoming",
-        "D": "became"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "that"
       },
       "answer": "B",
-      "explanation": "want 后面接不定式，固定搭配为 want to do sth.，意为‘想要做某事’。"
+      "explanation": "空格后是名词 bicycle，表示“男孩的自行车”，表所属关系，故填 whose。"
     },
     {
       "id": 7,
-      "question": "Please remember ______ off the lights before you leave the classroom.",
+      "question": "Halloween is a mysterious evening _______ children dress up in funny costumes.",
       "options": {
-        "A": "to turn",
-        "B": "turning",
-        "C": "turn",
-        "D": "turned"
+        "A": "where",
+        "B": "which",
+        "C": "when",
+        "D": "who"
       },
-      "answer": "A",
-      "explanation": "remember to do sth. 表示‘记得去做某事（还没做）’；remember doing sth. 表示‘记得做过某事（已做）’。离开前要关灯是提醒去执行的动作，故选 A。"
+      "answer": "C",
+      "explanation": "先行词是 evening（时间），从句成分完整，因此用关系副词 when 来指代时间。"
     },
     {
       "id": 8,
-      "question": "You should avoid ______ sweet food if you want to keep your teeth healthy.",
+      "question": "The science teacher _______ taught us electricity last year has won an award.",
       "options": {
-        "A": "to eat",
-        "B": "eating",
-        "C": "eat",
-        "D": "ate"
+        "A": "which",
+        "B": "where",
+        "C": "whose",
+        "D": "that"
       },
-      "answer": "B",
-      "explanation": "avoid 属于只能接动名词 (-ing) 的动词，avoid doing sth. 意为‘避免做某事’。"
+      "answer": "D",
+      "explanation": "先行词是 teacher（人），在从句中作主语，关系代词可用 who 或 that。"
     },
     {
       "id": 9,
-      "question": "The children hope ______ the science museum this afternoon.",
+      "question": "A pumpkin lantern is a carved vegetable _______ glows brightly in the dark.",
       "options": {
-        "A": "to visit",
-        "B": "visiting",
-        "C": "visit",
-        "D": "visited"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "hope 后面习惯接不定式做宾语，固定结构为 hope to do sth.，表示‘希望做某事’。"
+      "answer": "B",
+      "explanation": "先行词是 vegetable（物），在从句中作主语，故用 which。"
     },
     {
       "id": 10,
-      "question": "Sam spent two hours ______ his math homework yesterday evening.",
+      "question": "The castle _______ the king lived fifty years ago is now open to visitors.",
       "options": {
-        "A": "to finish",
-        "B": "finishing",
-        "C": "finish",
-        "D": "finished"
+        "A": "where",
+        "B": "which",
+        "C": "that",
+        "D": "who"
       },
-      "answer": "B",
-      "explanation": "spend + 时间/金钱 + (in) doing sth. 是固定句型，表示‘花费时间/金钱做某事’。"
+      "answer": "A",
+      "explanation": "先行词是 castle（地点），从句句子完整（lived 在此处为不及物动词），表示“国王居住的地方”，故用 where。"
     },
     {
       "id": 11,
-      "question": "Would you mind ______ the window? It's a bit stuffy inside.",
+      "question": "I met an international student _______ mother language is French.",
       "options": {
-        "A": "open",
-        "B": "to open",
-        "C": "opening",
-        "D": "opened"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "C",
-      "explanation": "mind 后面接动名词，Would/Do you mind doing sth.? 表示‘你介意做某事吗？’。"
+      "answer": "B",
+      "explanation": "表示“这位留学生的母语”，作定语表所属关系，选 whose。"
     },
     {
       "id": 12,
-      "question": "The two boys agreed ______ their bedroom together.",
+      "question": "Is there anyone _______ can answer this difficult math question?",
       "options": {
-        "A": "cleaning",
-        "B": "clean",
-        "C": "to clean",
-        "D": "cleaned"
+        "A": "which",
+        "B": "where",
+        "C": "that",
+        "D": "whose"
       },
       "answer": "C",
-      "explanation": "agree 后面接不定式，agree to do sth. 表示‘同意/答应做某事’。"
+      "explanation": "当先行词为不定代词 anyone, someone, nobody 等时，关系代词优先使用 that（指人）。"
     },
     {
       "id": 13,
-      "question": "I will never forget ______ the famous astronaut at school last year.",
+      "question": "The delicious pizza _______ my mom made for dinner was eaten in five minutes.",
       "options": {
-        "A": "meeting",
-        "B": "to meet",
-        "C": "meet",
-        "D": "met"
+        "A": "which",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
       },
       "answer": "A",
-      "explanation": "forget doing sth. 表示‘忘记做过某事（动作已发生）’；forget to do sth. 表示‘忘记要去 做某事（动作未发生）’。句中有 last year，表示已经见过，故选 A。"
+      "explanation": "先行词是 pizza（物），在从句中作 made 的宾语，故用 which。"
     },
     {
       "id": 14,
-      "question": "After ______ her report, Emma turned off her computer.",
+      "question": "That is the cozy playground _______ we usually play football after school.",
       "options": {
-        "A": "to finish",
-        "B": "finishing",
-        "C": "finish",
-        "D": "finished"
+        "A": "which",
+        "B": "that",
+        "C": "where",
+        "D": "who"
       },
-      "answer": "B",
-      "explanation": "after 是介词，后面跟着动词时要用动名词形式 (-ing)。"
+      "answer": "C",
+      "explanation": "先行词是 playground（地点），从句 we play football 完整，表示“在游乐场”，故用 where。"
     },
     {
       "id": 15,
-      "question": "The little boy refused ______ the bitter medicine.",
+      "question": "The painter _______ artwork was displayed in the gallery is very famous.",
       "options": {
-        "A": "to take",
-        "B": "taking",
-        "C": "take",
-        "D": "took"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "refuse 后面接不定式，refuse to do sth. 表示‘拒绝做某事’。"
+      "answer": "B",
+      "explanation": "表示“画家的艺术作品”，即所属关系，用 whose。"
     },
     {
       "id": 16,
-      "question": "It is important for primary students ______ enough sleep every day.",
+      "question": "The robot _______ was invented by the high school student can fold clothes.",
       "options": {
-        "A": "getting",
-        "B": "to get",
-        "C": "get",
-        "D": "got"
+        "A": "who",
+        "B": "whose",
+        "C": "where",
+        "D": "that"
       },
-      "answer": "B",
-      "explanation": "在句型 It is + adj. + for sb. + to do sth. 中，It 是形式主语，真正的主语是后面的不定式 (to do)。"
+      "answer": "D",
+      "explanation": "先行词为 robot（物），在从句中作主语，可选用 that 或 which。"
     },
     {
       "id": 17,
-      "question": "David practices ______ the violin for half an hour every evening.",
+      "question": "The doctor _______ examined my leg was gentle and patient.",
       "options": {
-        "A": "playing",
-        "B": "to play",
-        "C": "play",
-        "D": "played"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
       "answer": "A",
-      "explanation": "practice 后面只能接动名词做宾语，即 practice doing sth.，表示‘练习做某事’。"
+      "explanation": "先行词是 doctor（人），在从句中作主语，用 relationship pronoun who。"
     },
     {
       "id": 18,
-      "question": "Our class plans ______ a tree-planting activity next spring.",
+      "question": "This is the hospital _______ my aunt works as a senior nurse.",
       "options": {
-        "A": "organizing",
-        "B": "organize",
-        "C": "to organize",
-        "D": "organized"
+        "A": "which",
+        "B": "where",
+        "C": "that",
+        "D": "who"
       },
-      "answer": "C",
-      "explanation": "plan 后面接不定式作宾语，plan to do sth. 表示‘计划做某事’。"
+      "answer": "B",
+      "explanation": "先行词是 hospital（地点），从句 my aunt works（作不及物动词）成分完整，故用关系副词 where。"
     },
     {
       "id": 19,
-      "question": "The problem was very hard, but Ben tried his best ______ it out.",
+      "question": "The computer _______ display screen is broken needs to be repaired immediately.",
       "options": {
-        "A": "work",
-        "B": "working",
-        "C": "worked",
-        "D": "to work"
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "where"
       },
-      "answer": "D",
-      "explanation": "try one's best to do sth. 是固定短语，表示‘尽某人最大努力去做某事’。"
+      "answer": "C",
+      "explanation": "whose 也可以用于指“无生命物体的……的”。这里指电脑的显示屏（the computer's display screen），故选 whose。"
     },
     {
       "id": 20,
-      "question": "Are you interested in ______ the school drama club?",
+      "question": "The autumn leaves _______ fell from the big oak tree covered the lawn.",
       "options": {
-        "A": "join",
-        "B": "joining",
-        "C": "to join",
-        "D": "joined"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
       "answer": "B",
-      "explanation": "be interested in 中的 in 是介词，介词后接动名词形式 (-ing)。"
+      "explanation": "先行词是 autumn leaves（物），在从句中作主语，故用 which。"
     },
     {
       "id": 21,
-      "question": "What would you like ______ for lunch, hamburgers or noodles?",
+      "question": "I will never forget the day _______ our team won the school basketball championship.",
       "options": {
-        "A": "to have",
-        "B": "having",
-        "C": "have",
-        "D": "had"
+        "A": "when",
+        "B": "where",
+        "C": "which",
+        "D": "who"
       },
       "answer": "A",
-      "explanation": "would like 后面接不定式，would like to do sth. 表示‘想要做某事’。"
+      "explanation": "先行词是 the day（时间），在从句中充当时间状语，故用关系副词 when。"
     },
     {
       "id": 22,
-      "question": "Although it was raining heavily, the football team kept ______ on the field.",
+      "question": "The detective _______ solved the mystery case received a medal yesterday.",
       "options": {
-        "A": "to train",
-        "B": "train",
-        "C": "training",
-        "D": "trained"
+        "A": "which",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "C",
-      "explanation": "keep doing sth. 表示‘持续/继续做某事’，keep 后接动名词。"
+      "answer": "B",
+      "explanation": "先行词是 detective（人），作从句主语，用 who。"
     },
     {
       "id": 23,
-      "question": "My parents promised ______ me to the amusement park if I pass the exam.",
+      "question": "Please show me the photo _______ you took during your visit to Paris.",
       "options": {
-        "A": "take",
-        "B": "taking",
-        "C": "to take",
-        "D": "took"
+        "A": "who",
+        "B": "whose",
+        "C": "where",
+        "D": "that"
       },
-      "answer": "C",
-      "explanation": "promise 后面固定接不定式，promise to do sth. 表示‘承诺/许诺做某事’。"
+      "answer": "D",
+      "explanation": "先行词是 photo（物），在从句中作 took 的宾语，故用 that 或 which。"
     },
     {
       "id": 24,
-      "question": "The doctor suggested ______ a walk after dinner for better digestion.",
+      "question": "The laboratory _______ the scientists conduct their experiments is clean and bright.",
       "options": {
-        "A": "taking",
-        "B": "to take",
-        "C": "take",
-        "D": "took"
+        "A": "where",
+        "B": "which",
+        "C": "who",
+        "D": "whose"
       },
       "answer": "A",
-      "explanation": "suggest 后面直接跟动词时，必须用动名词形式 (-ing)，即 suggest doing sth.。"
+      "explanation": "先行词是 laboratory（地点），从句成分完整，表示“在实验室里”，故用关系副词 where。"
     },
     {
       "id": 25,
-      "question": "He left the room quietly without ______ anyone.",
+      "question": "The writer _______ stories are popular among teenagers will give a talk tomorrow.",
       "options": {
-        "A": "disturb",
-        "B": "disturbing",
-        "C": "to disturb",
-        "D": "disturbed"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
       "answer": "B",
-      "explanation": "without 是介词，后接动词时要使用动名词 (-ing) 形式。"
+      "explanation": "先行词是 writer（人），后接名词 stories，表示“这位作者的故事”，用 whose。"
     },
     {
       "id": 26,
-      "question": "On the way home, my uncle stopped ______ a picture of the beautiful sunset.",
+      "question": "All the snacks _______ were served at the Halloween party were tasty.",
       "options": {
-        "A": "taking",
-        "B": "to take",
-        "C": "take",
-        "D": "took"
+        "A": "that",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "B",
-      "explanation": "stop to do sth. 表示‘停下手中的事，去 做另一件事’。叔叔是停下来去拍日落，故选 B。"
+      "answer": "A",
+      "explanation": "当先行词被 All 修饰或先行词本身包含 all 时，关系代词优先使用 that。"
     },
     {
       "id": 27,
-      "question": "Jenny needs ______ more water after doing such intense exercise.",
+      "question": "The athlete _______ runner-up trophy was stolen felt very upset.",
       "options": {
-        "A": "drinking",
-        "B": "drink",
-        "C": "to drink",
-        "D": "drank"
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
       },
       "answer": "C",
-      "explanation": "当主语是人时，need 作为实义动词，后面接不定式，即 need to do sth. 表示‘需要做某事’。"
+      "explanation": "表示“运动员的亚军奖杯”，属于所属关系，故用 whose。"
     },
     {
       "id": 28,
-      "question": "Don't give up ______! You are getting closer to success.",
+      "question": "The warm sweater _______ grandma knitted for me keeps me warm in winter.",
       "options": {
-        "A": "trying",
-        "B": "to try",
-        "C": "try",
-        "D": "tried"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "give up 中的 up 是副词/介词短语，后接动名词，give up doing sth. 表示‘放弃做某事’。"
+      "answer": "B",
+      "explanation": "先行词是 sweater（物），在从句中作 knitted 的宾语，故用 which。"
     },
     {
       "id": 29,
-      "question": "The kind man offered ______ the old lady carry her heavy box.",
+      "question": "This is the library section _______ you can find books about space exploration.",
       "options": {
-        "A": "help",
-        "B": "helping",
-        "C": "to help",
-        "D": "helped"
+        "A": "which",
+        "B": "where",
+        "C": "who",
+        "D": "whose"
       },
-      "answer": "C",
-      "explanation": "offer 后面接不定式作宾语，offer to do sth. 表示‘主动提出做某事’。"
+      "answer": "B",
+      "explanation": "先行词是 library section（区域/地点），从句为完整主谓宾结构，表示“在该区域中”，故用 where。"
     },
     {
       "id": 30,
-      "question": "Mom is busy ______ dinner in the kitchen right now.",
+      "question": "Students _______ complete all their homework on time will earn reward stars.",
       "options": {
-        "A": "preparing",
-        "B": "to prepare",
-        "C": "prepare",
-        "D": "prepared"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
       "answer": "A",
-      "explanation": "be busy doing sth. 是固定句型，表示‘忙于做某事’，忙于的具体动作使用动名词形式。"
+      "explanation": "先行词是 Students（人），在从句中作主语，故使用关系代词 who。"
     }
   ]
 }
