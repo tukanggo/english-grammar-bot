@@ -1,11 +1,59 @@
 {
-  "date": "2026-10-31",
-  "topic": "定语从句（关系代词与关系副词的选择与运用）",
-  "teaching_notes": "同学们好！今天我们来学习给句子做“贴纸”的定语从句。关系代词和副词就像魔法胶水：指人时用 who，指物时用 which，人或物通用可以用 that；如果表示“谁的（所属关系）”，记得要用 whose；而表示“在某个地点”且从句句子完整时，则用 where。只要看清前面的名词（先行词）并分析从句缺什么成分，就能轻松选对魔法胶水啦！例如：The teacher who wears a yellow hat is nice. / This is the park where we played yesterday.",
+  "date": "2026-11-01",
+  "topic": "定语从句与关系代词/关系副词的运用 (Relative Clauses)",
+  "teaching_notes": "嗨，同学们！今天我们来学习英语里的“描述高手”——定语从句（Relative Clauses）。当我们要对一个名词进行详细补充说明时，可以使用关系词来连接：who 指人，which 指物，that 既可指人也可指物，whose 表示“谁的”，而 where 和 when 则分别用来补充地点和时间信息。需要提醒大家的是：whose 后面必须紧跟被拥有的名词，且在介词后面指人时通常要用 whom 哦！例如：The girl who won the prize is my sister.（得奖的那个女孩是我的妹妹。）This is the library where I read books every Saturday.（这就是我每周六看书的图书馆。）",
   "questions": [
     {
       "id": 1,
-      "question": "The girl _______ is singing on the stage is my best friend.",
+      "question": "The boy _______ won the chess tournament is a Grade 5 student.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "先行词是人（The boy），且在从句中担当主语，因此使用关系代词 who。"
+    },
+    {
+      "id": 2,
+      "question": "Look at the cute puppy _______ tail is wagging so fast!",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "that"
+      },
+      "answer": "B",
+      "explanation": "从句中 tail（尾巴）属于前面的小狗（puppy），表示所属关系“小狗的”，因此用 whose。"
+    },
+    {
+      "id": 3,
+      "question": "The storybook _______ you lent me yesterday is super interesting.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "先行词是物品（The storybook），在从句中作宾语，应用关系代词 which 或 that。"
+    },
+    {
+      "id": 4,
+      "question": "This is the science museum _______ we visited our favorite space exhibit.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "who",
+        "D": "whose"
+      },
+      "answer": "B",
+      "explanation": "先行词是地点（the science museum），在从句中作地点状语（即 we visited the exhibit in the museum），因此用关系副词 where。"
+    },
+    {
+      "id": 5,
+      "question": "Mrs. Green is the teacher _______ organized the international food fair.",
       "options": {
         "A": "which",
         "B": "who",
@@ -13,239 +61,227 @@
         "D": "where"
       },
       "answer": "B",
-      "explanation": "先行词是 The girl（人），且在定语从句中作主语，因此用关系代词 who。"
+      "explanation": "先行词是人（the teacher），在从句中作主语，用关系代词 who。"
     },
     {
-      "id": 2,
-      "question": "This is the magical book _______ has many fascinating fairy tales.",
+      "id": 6,
+      "question": "I still remember the day _______ our team won the football championship.",
       "options": {
-        "A": "which",
-        "B": "who",
-        "C": "where",
-        "D": "whose"
+        "A": "where",
+        "B": "when",
+        "C": "which",
+        "D": "who"
+      },
+      "answer": "B",
+      "explanation": "先行词是具体时间（the day），在从句中作时间状语（即 won the championship on that day），因此用关系副词 when。"
+    },
+    {
+      "id": 7,
+      "question": "The artist _______ paintings are displayed in the art gallery lives nearby.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "whom"
+      },
+      "answer": "B",
+      "explanation": "从句中的 paintings（画作）属于这位艺术家（The artist），表示所属关系“艺术家的”，因此填 whose。"
+    },
+    {
+      "id": 8,
+      "question": "Is there any special reason _______ he missed the school bus this morning?",
+      "options": {
+        "A": "why",
+        "B": "where",
+        "C": "when",
+        "D": "which"
       },
       "answer": "A",
-      "explanation": "先行词是 book（物），在从句中作主语，因此使用关系代词 which。"
+      "explanation": "先行词是 reason（原因），在从句中作原因状语，使用关系副词 why。"
     },
     {
-      "id": 3,
-      "question": "Look at the cute puppy _______ tail is very short!",
+      "id": 9,
+      "question": "This is the best computer software _______ can help us learn coding.",
+      "options": {
+        "A": "who",
+        "B": "that",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "先行词被最高级 the best 修饰时，关系代词只能用 that 而不用 which。"
+    },
+    {
+      "id": 10,
+      "question": "The girl to _______ you were speaking at the party is my cousin.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
+      },
+      "answer": "B",
+      "explanation": "关系代词紧跟在介词 to 后面且指代人（The girl）时，必须使用宾格形式 whom。"
+    },
+    {
+      "id": 11,
+      "question": "Pizza is a delicious dish _______ originated in Italy many years ago.",
       "options": {
         "A": "who",
         "B": "which",
         "C": "whose",
         "D": "where"
       },
-      "answer": "C",
-      "explanation": "空格后是名词 tail，这里表示“小狗的尾巴”，表示所属关系（……的），因此用 whose。"
+      "answer": "B",
+      "explanation": "先行词是食物（a delicious dish），在从句中作主语，应用关系代词 which 或 that。"
     },
     {
-      "id": 4,
-      "question": "Do you still remember the museum _______ we visited last summer?",
+      "id": 12,
+      "question": "The quiet town _______ my grandparents live has lots of green trees.",
       "options": {
         "A": "where",
-        "B": "who",
+        "B": "which",
         "C": "whose",
-        "D": "that"
+        "D": "when"
       },
-      "answer": "D",
-      "explanation": "先行词是 museum（物），从句中动词 visited 缺少宾语，因此用关系代词 that 或 which。"
+      "answer": "A",
+      "explanation": "先行词是地点（The quiet town），从句完整且表地点状语（live in the town），故用 where。"
     },
     {
-      "id": 5,
-      "question": "I really love the quiet village _______ my grandparents live.",
+      "id": 13,
+      "question": "Do you know the student _______ dad built a real working robot?",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "whom"
+      },
+      "answer": "C",
+      "explanation": "从句中的 dad（爸爸）与先行词 the student 是所属关系（学生的爸爸），应填 whose。"
+    },
+    {
+      "id": 14,
+      "question": "This is all _______ I can tell you about the secret science project.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "who",
+        "D": "whose"
+      },
+      "answer": "A",
+      "explanation": "当先行词是不定代词 all 时，引导定语从句的关系代词必须用 that。"
+    },
+    {
+      "id": 15,
+      "question": "The musician _______ played the violin so beautifully was applauded by everyone.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "先行词是人（The musician），在从句中担任主语，因此选择 who。"
+    },
+    {
+      "id": 16,
+      "question": "The building _______ roof was painted bright yellow is our new cafeteria.",
+      "options": {
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "roof（屋顶）属于 the building（建筑物的屋顶），关系代词 whose 既可用于人也可用于物表示所属关系。"
+    },
+    {
+      "id": 17,
+      "question": "Autumn is the season _______ leaves turn red and yellow in the forest.",
+      "options": {
+        "A": "where",
+        "B": "when",
+        "C": "which",
+        "D": "who"
+      },
+      "answer": "B",
+      "explanation": "先行词是时间名词 the season，在从句中表示时间状语，故用 when。"
+    },
+    {
+      "id": 18,
+      "question": "The pencil case _______ Lily bought last weekend matches her school bag.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "先行词是物品（The pencil case），从句中缺少宾语，因此用 which 或 that。"
+    },
+    {
+      "id": 19,
+      "question": "The club in _______ we practice badminton after school has great coaches.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "that",
+        "D": "who"
+      },
+      "answer": "B",
+      "explanation": "介词 in 后面直接接关系代词指物时，只能用 which，不能用 that 或 where。"
+    },
+    {
+      "id": 20,
+      "question": "The scientist _______ discovered the ancient dinosaur fossils gave a lecture.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "先行词是人（The scientist），在从句中充当主语，故使用 who。"
+    },
+    {
+      "id": 21,
+      "question": "The house _______ my uncle built 20 years ago still looks very modern.",
       "options": {
         "A": "where",
         "B": "which",
         "C": "who",
         "D": "whose"
       },
-      "answer": "A",
-      "explanation": "先行词是 village（地点），在从句中作地点状语（ live 在此处为不及物动词），因此用关系副词 where。"
+      "answer": "B",
+      "explanation": "注意！从句中 built 缺少宾语（built the house），虽然先行词是建筑物，但作宾语时要用关系代词 which/that，而不是 where。"
     },
     {
-      "id": 6,
-      "question": "The boy _______ bicycle was stolen yesterday reported it to the police.",
+      "id": 22,
+      "question": "The boy with _______ Sam usually shares his snacks is very kind.",
       "options": {
         "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "that"
-      },
-      "answer": "B",
-      "explanation": "空格后是名词 bicycle，表示“男孩的自行车”，表所属关系，故填 whose。"
-    },
-    {
-      "id": 7,
-      "question": "Halloween is a mysterious evening _______ children dress up in funny costumes.",
-      "options": {
-        "A": "where",
-        "B": "which",
-        "C": "when",
-        "D": "who"
-      },
-      "answer": "C",
-      "explanation": "先行词是 evening（时间），从句成分完整，因此用关系副词 when 来指代时间。"
-    },
-    {
-      "id": 8,
-      "question": "The science teacher _______ taught us electricity last year has won an award.",
-      "options": {
-        "A": "which",
-        "B": "where",
+        "B": "whom",
         "C": "whose",
-        "D": "that"
-      },
-      "answer": "D",
-      "explanation": "先行词是 teacher（人），在从句中作主语，关系代词可用 who 或 that。"
-    },
-    {
-      "id": 9,
-      "question": "A pumpkin lantern is a carved vegetable _______ glows brightly in the dark.",
-      "options": {
-        "A": "who",
-        "B": "which",
-        "C": "where",
-        "D": "whose"
+        "D": "which"
       },
       "answer": "B",
-      "explanation": "先行词是 vegetable（物），在从句中作主语，故用 which。"
+      "explanation": "在介词 with 后面指代人（The boy），必须使用宾格关系代词 whom。"
     },
     {
-      "id": 10,
-      "question": "The castle _______ the king lived fifty years ago is now open to visitors.",
-      "options": {
-        "A": "where",
-        "B": "which",
-        "C": "that",
-        "D": "who"
-      },
-      "answer": "A",
-      "explanation": "先行词是 castle（地点），从句句子完整（lived 在此处为不及物动词），表示“国王居住的地方”，故用 where。"
-    },
-    {
-      "id": 11,
-      "question": "I met an international student _______ mother language is French.",
-      "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "where"
-      },
-      "answer": "B",
-      "explanation": "表示“这位留学生的母语”，作定语表所属关系，选 whose。"
-    },
-    {
-      "id": 12,
-      "question": "Is there anyone _______ can answer this difficult math question?",
+      "id": 23,
+      "question": "The bakery _______ sells the tastiest blueberry muffins is near our school.",
       "options": {
         "A": "which",
         "B": "where",
-        "C": "that",
-        "D": "whose"
-      },
-      "answer": "C",
-      "explanation": "当先行词为不定代词 anyone, someone, nobody 等时，关系代词优先使用 that（指人）。"
-    },
-    {
-      "id": 13,
-      "question": "The delicious pizza _______ my mom made for dinner was eaten in five minutes.",
-      "options": {
-        "A": "which",
-        "B": "who",
-        "C": "where",
+        "C": "who",
         "D": "whose"
       },
       "answer": "A",
-      "explanation": "先行词是 pizza（物），在从句中作 made 的宾语，故用 which。"
+      "explanation": "先行词虽然是地点（The bakery），但在从句中充当主语（sells 的主语），因此用关系代词 which 而非关系副词 where。"
     },
     {
-      "id": 14,
-      "question": "That is the cozy playground _______ we usually play football after school.",
-      "options": {
-        "A": "which",
-        "B": "that",
-        "C": "where",
-        "D": "who"
-      },
-      "answer": "C",
-      "explanation": "先行词是 playground（地点），从句 we play football 完整，表示“在游乐场”，故用 where。"
-    },
-    {
-      "id": 15,
-      "question": "The painter _______ artwork was displayed in the gallery is very famous.",
-      "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "where"
-      },
-      "answer": "B",
-      "explanation": "表示“画家的艺术作品”，即所属关系，用 whose。"
-    },
-    {
-      "id": 16,
-      "question": "The robot _______ was invented by the high school student can fold clothes.",
-      "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "where",
-        "D": "that"
-      },
-      "answer": "D",
-      "explanation": "先行词为 robot（物），在从句中作主语，可选用 that 或 which。"
-    },
-    {
-      "id": 17,
-      "question": "The doctor _______ examined my leg was gentle and patient.",
-      "options": {
-        "A": "who",
-        "B": "which",
-        "C": "where",
-        "D": "whose"
-      },
-      "answer": "A",
-      "explanation": "先行词是 doctor（人），在从句中作主语，用 relationship pronoun who。"
-    },
-    {
-      "id": 18,
-      "question": "This is the hospital _______ my aunt works as a senior nurse.",
-      "options": {
-        "A": "which",
-        "B": "where",
-        "C": "that",
-        "D": "who"
-      },
-      "answer": "B",
-      "explanation": "先行词是 hospital（地点），从句 my aunt works（作不及物动词）成分完整，故用关系副词 where。"
-    },
-    {
-      "id": 19,
-      "question": "The computer _______ display screen is broken needs to be repaired immediately.",
-      "options": {
-        "A": "which",
-        "B": "who",
-        "C": "whose",
-        "D": "where"
-      },
-      "answer": "C",
-      "explanation": "whose 也可以用于指“无生命物体的……的”。这里指电脑的显示屏（the computer's display screen），故选 whose。"
-    },
-    {
-      "id": 20,
-      "question": "The autumn leaves _______ fell from the big oak tree covered the lawn.",
-      "options": {
-        "A": "who",
-        "B": "which",
-        "C": "where",
-        "D": "whose"
-      },
-      "answer": "B",
-      "explanation": "先行词是 autumn leaves（物），在从句中作主语，故用 which。"
-    },
-    {
-      "id": 21,
-      "question": "I will never forget the day _______ our team won the school basketball championship.",
+      "id": 24,
+      "question": "2025 was the year _______ our school established the new swimming team.",
       "options": {
         "A": "when",
         "B": "where",
@@ -253,115 +289,79 @@
         "D": "who"
       },
       "answer": "A",
-      "explanation": "先行词是 the day（时间），在从句中充当时间状语，故用关系副词 when。"
+      "explanation": "先行词是年份（the year），从句成分完整且表达“在这一年”，因此用关系副词 when。"
     },
     {
-      "id": 22,
-      "question": "The detective _______ solved the mystery case received a medal yesterday.",
+      "id": 25,
+      "question": "The digital camera with _______ Ben took these amazing photos is quite expensive.",
       "options": {
         "A": "which",
-        "B": "who",
-        "C": "where",
-        "D": "whose"
-      },
-      "answer": "B",
-      "explanation": "先行词是 detective（人），作从句主语，用 who。"
-    },
-    {
-      "id": 23,
-      "question": "Please show me the photo _______ you took during your visit to Paris.",
-      "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "where",
-        "D": "that"
-      },
-      "answer": "D",
-      "explanation": "先行词是 photo（物），在从句中作 took 的宾语，故用 that 或 which。"
-    },
-    {
-      "id": 24,
-      "question": "The laboratory _______ the scientists conduct their experiments is clean and bright.",
-      "options": {
-        "A": "where",
-        "B": "which",
+        "B": "that",
         "C": "who",
         "D": "whose"
       },
       "answer": "A",
-      "explanation": "先行词是 laboratory（地点），从句成分完整，表示“在实验室里”，故用关系副词 where。"
+      "explanation": "介词 with 后指代物品（camera），关系代词只能用 which。"
     },
     {
-      "id": 25,
-      "question": "The writer _______ stories are popular among teenagers will give a talk tomorrow.",
+      "id": 26,
+      "question": "The children _______ parents attend the PTA meeting are waiting in the library.",
       "options": {
         "A": "who",
         "B": "whose",
         "C": "which",
-        "D": "where"
+        "D": "whom"
       },
       "answer": "B",
-      "explanation": "先行词是 writer（人），后接名词 stories，表示“这位作者的故事”，用 whose。"
-    },
-    {
-      "id": 26,
-      "question": "All the snacks _______ were served at the Halloween party were tasty.",
-      "options": {
-        "A": "that",
-        "B": "who",
-        "C": "where",
-        "D": "whose"
-      },
-      "answer": "A",
-      "explanation": "当先行词被 All 修饰或先行词本身包含 all 时，关系代词优先使用 that。"
+      "explanation": "parents（父母）属于 The children（孩子们），表所属关系“孩子们的父母”，用 whose。"
     },
     {
       "id": 27,
-      "question": "The athlete _______ runner-up trophy was stolen felt very upset.",
+      "question": "Beijing is the vibrant city _______ the 2008 Olympic Games took place.",
+      "options": {
+        "A": "where",
+        "B": "which",
+        "C": "when",
+        "D": "who"
+      },
+      "answer": "A",
+      "explanation": "先行词是地点（the vibrant city），从句中 took place 在该地点举行，表示地点状语，故用 where。"
+    },
+    {
+      "id": 28,
+      "question": "The poster _______ won first place in the art contest was painted by Mia.",
       "options": {
         "A": "who",
         "B": "which",
         "C": "whose",
         "D": "where"
       },
-      "answer": "C",
-      "explanation": "表示“运动员的亚军奖杯”，属于所属关系，故用 whose。"
-    },
-    {
-      "id": 28,
-      "question": "The warm sweater _______ grandma knitted for me keeps me warm in winter.",
-      "options": {
-        "A": "who",
-        "B": "which",
-        "C": "where",
-        "D": "whose"
-      },
       "answer": "B",
-      "explanation": "先行词是 sweater（物），在从句中作 knitted 的宾语，故用 which。"
+      "explanation": "先行词是物品（The poster），在从句中担当主语，选择 which 或 that。"
     },
     {
       "id": 29,
-      "question": "This is the library section _______ you can find books about space exploration.",
-      "options": {
-        "A": "which",
-        "B": "where",
-        "C": "who",
-        "D": "whose"
-      },
-      "answer": "B",
-      "explanation": "先行词是 library section（区域/地点），从句为完整主谓宾结构，表示“在该区域中”，故用 where。"
-    },
-    {
-      "id": 30,
-      "question": "Students _______ complete all their homework on time will earn reward stars.",
+      "question": "My uncle David, _______ works as a pilot for an international airline, visits us often.",
       "options": {
         "A": "who",
-        "B": "which",
-        "C": "where",
+        "B": "that",
+        "C": "which",
         "D": "whose"
       },
       "answer": "A",
-      "explanation": "先行词是 Students（人），在从句中作主语，故使用关系代词 who。"
+      "explanation": "在非限制性定语从句中（有逗号隔开），指代人且作主语时只能用 who，不能用 that。"
+    },
+    {
+      "id": 30,
+      "question": "This smart gadget is the only thing _______ can solve our technical problem.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "who",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "当先行词受到 the only（唯一的）修饰时，引导定语从句的关系代词必须使用 that。"
     }
   ]
 }
