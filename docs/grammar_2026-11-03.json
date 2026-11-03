@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-03",
+  "topic": "现在完成时与一般过去时的辨析与综合运用 (Present Perfect vs. Simple Past Tense)",
+  "teaching_notes": "同学们好！今天我们来攻克英语语法中的一大核心难点——现在完成时（have/has + 动词过去分词）与一般过去时（动词过去式）的辨析。简单来说，一般过去时关注的是“过去某个确切时间发生的事”，与现在没有联系，常带 explicit past time words（如 yesterday, ago, last week, in 2020）；而现在完成时则强调“过去的动作对现在造成的影响或结果”，或者“从过去持续到现在的经历”，通常不与具体的过去确定时间连用。例句 1: I lost my keys yesterday.（昨天丢了钥匙，只说明过去发生的事情）；例句 2: I have lost my keys, so I can't open the door now.（钥匙丢了，强调对现在造成的结果：进不去门）。",
+  "questions": [
+    {
+      "id": 1,
+      "question": "She _____ her homework already, so she can go out to play now.",
+      "options": {
+        "A": "finished",
+        "B": "has finished",
+        "C": "finishes",
+        "D": "is finishing"
+      },
+      "answer": "B",
+      "explanation": "句中有标志词 already（已经），且强调作业完成对现在产生的影响（现在可以出去玩了），故用现在完成时 has finished。"
+    },
+    {
+      "id": 2,
+      "question": "We _____ to the science museum three days ago.",
+      "options": {
+        "A": "have gone",
+        "B": "have been",
+        "C": "went",
+        "D": "go"
+      },
+      "answer": "C",
+      "explanation": "句末有明确的过去时间状语 three days ago（三天前），表示纯粹的过去动作，故用一般过去时 went。"
+    },
+    {
+      "id": 3,
+      "question": "How long _____ you _____ your pet dog? - For about two years.",
+      "options": {
+        "A": "did; keep",
+        "B": "have; had",
+        "C": "do; have",
+        "D": "have; kept"
+      },
+      "answer": "B",
+      "explanation": "由答语 For about two years 可知，此处询问从过去持续到现在的状态/拥有关系，应用现在完成时 have had（have 是助动词，had 是 have 的过去分词）。"
+    },
+    {
+      "id": 4,
+      "question": "Tom is not at home. He _____ to the local library.",
+      "options": {
+        "A": "has gone",
+        "B": "has been",
+        "C": "went",
+        "D": "goes"
+      },
+      "answer": "A",
+      "explanation": "have/has gone to 意为“去了某地（还没回来）”；have/has been to 意为“去过某地（已经回来）”。汤姆现在不在家，说明他去了图书馆还没回来，用 has gone。"
+    },
+    {
+      "id": 5,
+      "question": "My aunt _____ in London since 2018.",
+      "options": {
+        "A": "lived",
+        "B": "lives",
+        "C": "has lived",
+        "D": "is living"
+      },
+      "answer": "C",
+      "explanation": "since + 过去具体年份是现在完成时的典型标志词，表示动作从 2018 年一直持续到现在，故选 has lived。"
+    },
+    {
+      "id": 6,
+      "question": "Look! Someone _____ the window. It's so cold in the classroom!",
+      "options": {
+        "A": "broke",
+        "B": "has broken",
+        "C": "breaks",
+        "D": "is breaking"
+      },
+      "answer": "B",
+      "explanation": "Look! 提示注意现在的状况，打破窗户的动作发生在过去，但对现在造成了“教室很冷”的结果，符合现在完成时的用法，选 has broken。"
+    },
+    {
+      "id": 7,
+      "question": "Mr. Brown _____ English in our school last year.",
+      "options": {
+        "A": "taught",
+        "B": "has taught",
+        "C": "teaches",
+        "D": "is teaching"
+      },
+      "answer": "A",
+      "explanation": "last year 是明确的过去时间状语，谓语动词需用一般过去式 taught。"
+    },
+    {
+      "id": 8,
+      "question": "I _____ never _____ such a delicious strawberry cake before!",
+      "options": {
+        "A": "did; taste",
+        "B": "have; tasted",
+        "C": "am; tasting",
+        "D": "was; tasting"
+      },
+      "answer": "B",
+      "explanation": "before（以前）与 never 连用，常表达截至目前为止的个人经历，应用现在完成时 have tasted。"
+    },
+    {
+      "id": 9,
+      "question": "When _____ you _____ this new bicycle?",
+      "options": {
+        "A": "have; bought",
+        "B": "did; buy",
+        "C": "do; buy",
+        "D": "have; been buying"
+      },
+      "answer": "B",
+      "explanation": "When 询问具体购买的时间点，关注的是过去发生的时间，不能与现在完成时连用，必须用一般过去时 did buy。"
+    },
+    {
+      "id": 10,
+      "question": "They _____ the project yet. They still need a few more days.",
+      "options": {
+        "A": "didn't finish",
+        "B": "don't finish",
+        "C": "haven't finished",
+        "D": "won't finish"
+      },
+      "answer": "C",
+      "explanation": "yet 常用于现在完成时的否定句或疑问句末尾，表示“到目前为止尚未...”，主语为 They，故用 haven't finished。"
+    },
+    {
+      "id": 11,
+      "question": "Lucy _____ to Japan twice. She loves the culture there.",
+      "options": {
+        "A": "has gone",
+        "B": "has been",
+        "C": "went",
+        "D": "goes"
+      },
+      "answer": "B",
+      "explanation": "表达“去过某地若干次”用 have/has been to，这里主语是 Lucy，表示去过日本两次，选 has been。"
+    },
+    {
+      "id": 12,
+      "question": "Mozart _____ hundreds of beautiful pieces of music during his life.",
+      "options": {
+        "A": "has written",
+        "B": "wrote",
+        "C": "writes",
+        "D": "had written"
+      },
+      "answer": "B",
+      "explanation": "莫扎特是历史人物，其创作音乐发生在过去且已完全结束，无法对现在产生持续的创作状态，应用一般过去时 wrote。"
+    },
+    {
+      "id": 13,
+      "question": "I'm sorry, I can't play basketball with you because I _____ my ankle.",
+      "options": {
+        "A": "hurt",
+        "B": "have hurt",
+        "C": "was hurting",
+        "D": "will hurt"
+      },
+      "answer": "B",
+      "explanation": "脚踝扭伤发生在过去，但造成了现在“不能打篮球”的结果，符合现在完成时，选 have hurt。"
+    },
+    {
+      "id": 14,
+      "question": "_____ you ever _____ a camel in the desert?",
+      "options": {
+        "A": "Did; ride",
+        "B": "Have; ridden",
+        "C": "Do; ride",
+        "D": "Have; rode"
+      },
+      "answer": "B",
+      "explanation": "ever 表示“曾经”，用于询问截至目前的经历，用现在完成时 Have + 主语 + 过去分词 (ridden)。"
+    },
+    {
+      "id": 15,
+      "question": "He _____ his keys ten minutes ago, but luckily he found them under the sofa.",
+      "options": {
+        "A": "lost",
+        "B": "has lost",
+        "C": "loses",
+        "D": "had lost"
+      },
+      "answer": "A",
+      "explanation": "句中有明确的过去时间标记 ten minutes ago，动作发生在过去，用一般过去时 lost。"
+    },
+    {
+      "id": 16,
+      "question": "We _____ each other since we were in primary school.",
+      "options": {
+        "A": "knew",
+        "B": "know",
+        "C": "have known",
+        "D": "are knowing"
+      },
+      "answer": "C",
+      "explanation": "since 从句（since we were...）表示从过去某时刻开始，主句动词需用现在完成时 have known。"
+    },
+    {
+      "id": 17,
+      "question": "Max _____ his grandparents in Canada last summer.",
+      "options": {
+        "A": "has visited",
+        "B": "visited",
+        "C": "visits",
+        "D": "is visiting"
+      },
+      "answer": "B",
+      "explanation": "last summer（去年夏天）属于过去的明确具体时间，谓语用一般过去式 visited。"
+    },
+    {
+      "id": 18,
+      "question": "Be quiet! The baby _____ asleep just now.",
+      "options": {
+        "A": "has fallen",
+        "B": "fell",
+        "C": "falls",
+        "D": "is falling"
+      },
+      "answer": "B",
+      "explanation": "just now 意为“刚才”，是典型的一般过去时标志词，动词 fall 需用过去式 fell。"
+    },
+    {
+      "id": 19,
+      "question": "My father _____ smoking for five years. He feels much healthier now.",
+      "options": {
+        "A": "gave up",
+        "B": "has given up",
+        "C": "gives up",
+        "D": "is giving up"
+      },
+      "answer": "B",
+      "explanation": "for five years 搭配从过去持续到现在的戒烟动作，且强调现在身体更健康，用现在完成时 has given up。"
+    },
+    {
+      "id": 20,
+      "question": "- Where is Sarah?\n- She _____ to the supermarket to buy some fruits.",
+      "options": {
+        "A": "has gone",
+        "B": "has been",
+        "C": "went",
+        "D": "goes"
+      },
+      "answer": "A",
+      "explanation": "问句询问“人在哪里”，答句表示“她去超市了（还没回来）”，需用 has gone。"
+    },
+    {
+      "id": 21,
+      "question": "Shakespeare _____ many world-famous plays in the 16th and 17th centuries.",
+      "options": {
+        "A": "has written",
+        "B": "wrote",
+        "C": "had written",
+        "D": "writes"
+      },
+      "answer": "B",
+      "explanation": "句中提及 16、17 世纪这一过去的明确历史时期，作者莎士比亚已故，故用一般过去时 wrote。"
+    },
+    {
+      "id": 22,
+      "question": "I _____ this movie last night with my parents.",
+      "options": {
+        "A": "have watched",
+        "B": "watched",
+        "C": "watch",
+        "D": "was watching"
+      },
+      "answer": "B",
+      "explanation": "last night（昨晚）是过去的时间点，用一般过去时 watched。"
+    },
+    {
+      "id": 23,
+      "question": "- _____ you _____ your lunch yet?\n- Yes, I have.",
+      "options": {
+        "A": "Did; eat",
+        "B": "Have; eaten",
+        "C": "Do; eat",
+        "D": "Will; eat"
+      },
+      "answer": "B",
+      "explanation": "末尾标志词 yet 结合答句 Yes, I have，判定问句为现在完成时 Have you eaten...?"
+    },
+    {
+      "id": 24,
+      "question": "How many English storybooks _____ you _____ this term?",
+      "options": {
+        "A": "did; read",
+        "B": "have; read",
+        "C": "do; read",
+        "D": "are; reading"
+      },
+      "answer": "B",
+      "explanation": "this term（本学期）包含现在在内，强调到目前为止读书的数量统计，应用现在完成时 have read。"
+    },
+    {
+      "id": 25,
+      "question": "My brother _____ his leg yesterday while playing football.",
+      "options": {
+        "A": "has broken",
+        "B": "broke",
+        "C": "breaks",
+        "D": "was breaking"
+      },
+      "answer": "B",
+      "explanation": "yesterday（昨天）是具体过去时间，谓语动词用 break 的过去式 broke。"
+    },
+    {
+      "id": 26,
+      "question": "Hurry up! The train _____ just _____. We missed it!",
+      "options": {
+        "A": "did; leave",
+        "B": "has; left",
+        "C": "is; leaving",
+        "D": "was; leaving"
+      },
+      "answer": "B",
+      "explanation": "just（刚刚）常放在 have/has 与过去分词之间，强调“火车刚刚离开”对现在造成的结果（我们赶不上了），用 has left。"
+    },
+    {
+      "id": 27,
+      "question": "We _____ in this community for ten years, and we still live here now.",
+      "options": {
+        "A": "lived",
+        "B": "have lived",
+        "C": "live",
+        "D": "were living"
+      },
+      "answer": "B",
+      "explanation": "后半句 still live here now 表明居住动作从过去一直持续到现在，故 for ten years 需搭配现在完成时 have lived。"
+    },
+    {
+      "id": 28,
+      "question": "What time _____ the concert _____ yesterday evening?",
+      "options": {
+        "A": "has; started",
+        "B": "did; start",
+        "C": "does; start",
+        "D": "was; starting"
+      },
+      "answer": "B",
+      "explanation": "What time 询问过去确切时间点，且带有 yesterday evening 标志词，必须使用一般过去时 did start。"
+    },
+    {
+      "id": 29,
+      "question": "I can't find my passport! _____ you _____ it anywhere?",
+      "options": {
+        "A": "Did; see",
+        "B": "Have; seen",
+        "C": "Do; see",
+        "D": "Are; seeing"
+      },
+      "answer": "B",
+      "explanation": "前半句“找不到护照”是现在的困境，询问对方“截至目前是否看到过”，强调对现在的影响，用 Have you seen...?"
+    },
+    {
+      "id": 30,
+      "question": "My uncle _____ to Australia in 2022 and returned to China last month.",
+      "options": {
+        "A": "has gone",
+        "B": "went",
+        "C": "has been",
+        "D": "goes"
+      },
+      "answer": "B",
+      "explanation": "in 2022 是明确的过去年份，后面的 returned 也是一般过去式，因此空格处需填一般过去式 went。"
+    }
+  ]
+}

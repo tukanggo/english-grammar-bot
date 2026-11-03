@@ -1,367 +1,367 @@
 {
-  "date": "2026-11-01",
-  "topic": "定语从句与关系代词/关系副词的运用 (Relative Clauses)",
-  "teaching_notes": "嗨，同学们！今天我们来学习英语里的“描述高手”——定语从句（Relative Clauses）。当我们要对一个名词进行详细补充说明时，可以使用关系词来连接：who 指人，which 指物，that 既可指人也可指物，whose 表示“谁的”，而 where 和 when 则分别用来补充地点和时间信息。需要提醒大家的是：whose 后面必须紧跟被拥有的名词，且在介词后面指人时通常要用 whom 哦！例如：The girl who won the prize is my sister.（得奖的那个女孩是我的妹妹。）This is the library where I read books every Saturday.（这就是我每周六看书的图书馆。）",
+  "date": "2026-11-03",
+  "topic": "现在完成时与一般过去时的辨析与综合运用 (Present Perfect vs. Simple Past Tense)",
+  "teaching_notes": "同学们好！今天我们来攻克英语语法中的一大核心难点——现在完成时（have/has + 动词过去分词）与一般过去时（动词过去式）的辨析。简单来说，一般过去时关注的是“过去某个确切时间发生的事”，与现在没有联系，常带 explicit past time words（如 yesterday, ago, last week, in 2020）；而现在完成时则强调“过去的动作对现在造成的影响或结果”，或者“从过去持续到现在的经历”，通常不与具体的过去确定时间连用。例句 1: I lost my keys yesterday.（昨天丢了钥匙，只说明过去发生的事情）；例句 2: I have lost my keys, so I can't open the door now.（钥匙丢了，强调对现在造成的结果：进不去门）。",
   "questions": [
     {
       "id": 1,
-      "question": "The boy _______ won the chess tournament is a Grade 5 student.",
+      "question": "She _____ her homework already, so she can go out to play now.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "where"
+        "A": "finished",
+        "B": "has finished",
+        "C": "finishes",
+        "D": "is finishing"
       },
-      "answer": "A",
-      "explanation": "先行词是人（The boy），且在从句中担当主语，因此使用关系代词 who。"
+      "answer": "B",
+      "explanation": "句中有标志词 already（已经），且强调作业完成对现在产生的影响（现在可以出去玩了），故用现在完成时 has finished。"
     },
     {
       "id": 2,
-      "question": "Look at the cute puppy _______ tail is wagging so fast!",
+      "question": "We _____ to the science museum three days ago.",
       "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "that"
+        "A": "have gone",
+        "B": "have been",
+        "C": "went",
+        "D": "go"
       },
-      "answer": "B",
-      "explanation": "从句中 tail（尾巴）属于前面的小狗（puppy），表示所属关系“小狗的”，因此用 whose。"
+      "answer": "C",
+      "explanation": "句末有明确的过去时间状语 three days ago（三天前），表示纯粹的过去动作，故用一般过去时 went。"
     },
     {
       "id": 3,
-      "question": "The storybook _______ you lent me yesterday is super interesting.",
+      "question": "How long _____ you _____ your pet dog? - For about two years.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "where"
+        "A": "did; keep",
+        "B": "have; had",
+        "C": "do; have",
+        "D": "have; kept"
       },
       "answer": "B",
-      "explanation": "先行词是物品（The storybook），在从句中作宾语，应用关系代词 which 或 that。"
+      "explanation": "由答语 For about two years 可知，此处询问从过去持续到现在的状态/拥有关系，应用现在完成时 have had（have 是助动词，had 是 have 的过去分词）。"
     },
     {
       "id": 4,
-      "question": "This is the science museum _______ we visited our favorite space exhibit.",
+      "question": "Tom is not at home. He _____ to the local library.",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "who",
-        "D": "whose"
+        "A": "has gone",
+        "B": "has been",
+        "C": "went",
+        "D": "goes"
       },
-      "answer": "B",
-      "explanation": "先行词是地点（the science museum），在从句中作地点状语（即 we visited the exhibit in the museum），因此用关系副词 where。"
+      "answer": "A",
+      "explanation": "have/has gone to 意为“去了某地（还没回来）”；have/has been to 意为“去过某地（已经回来）”。汤姆现在不在家，说明他去了图书馆还没回来，用 has gone。"
     },
     {
       "id": 5,
-      "question": "Mrs. Green is the teacher _______ organized the international food fair.",
+      "question": "My aunt _____ in London since 2018.",
       "options": {
-        "A": "which",
-        "B": "who",
-        "C": "whose",
-        "D": "where"
+        "A": "lived",
+        "B": "lives",
+        "C": "has lived",
+        "D": "is living"
       },
-      "answer": "B",
-      "explanation": "先行词是人（the teacher），在从句中作主语，用关系代词 who。"
+      "answer": "C",
+      "explanation": "since + 过去具体年份是现在完成时的典型标志词，表示动作从 2018 年一直持续到现在，故选 has lived。"
     },
     {
       "id": 6,
-      "question": "I still remember the day _______ our team won the football championship.",
+      "question": "Look! Someone _____ the window. It's so cold in the classroom!",
       "options": {
-        "A": "where",
-        "B": "when",
-        "C": "which",
-        "D": "who"
+        "A": "broke",
+        "B": "has broken",
+        "C": "breaks",
+        "D": "is breaking"
       },
       "answer": "B",
-      "explanation": "先行词是具体时间（the day），在从句中作时间状语（即 won the championship on that day），因此用关系副词 when。"
+      "explanation": "Look! 提示注意现在的状况，打破窗户的动作发生在过去，但对现在造成了“教室很冷”的结果，符合现在完成时的用法，选 has broken。"
     },
     {
       "id": 7,
-      "question": "The artist _______ paintings are displayed in the art gallery lives nearby.",
+      "question": "Mr. Brown _____ English in our school last year.",
       "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "whom"
+        "A": "taught",
+        "B": "has taught",
+        "C": "teaches",
+        "D": "is teaching"
       },
-      "answer": "B",
-      "explanation": "从句中的 paintings（画作）属于这位艺术家（The artist），表示所属关系“艺术家的”，因此填 whose。"
+      "answer": "A",
+      "explanation": "last year 是明确的过去时间状语，谓语动词需用一般过去式 taught。"
     },
     {
       "id": 8,
-      "question": "Is there any special reason _______ he missed the school bus this morning?",
+      "question": "I _____ never _____ such a delicious strawberry cake before!",
       "options": {
-        "A": "why",
-        "B": "where",
-        "C": "when",
-        "D": "which"
+        "A": "did; taste",
+        "B": "have; tasted",
+        "C": "am; tasting",
+        "D": "was; tasting"
       },
-      "answer": "A",
-      "explanation": "先行词是 reason（原因），在从句中作原因状语，使用关系副词 why。"
+      "answer": "B",
+      "explanation": "before（以前）与 never 连用，常表达截至目前为止的个人经历，应用现在完成时 have tasted。"
     },
     {
       "id": 9,
-      "question": "This is the best computer software _______ can help us learn coding.",
+      "question": "When _____ you _____ this new bicycle?",
       "options": {
-        "A": "who",
-        "B": "that",
-        "C": "whose",
-        "D": "where"
+        "A": "have; bought",
+        "B": "did; buy",
+        "C": "do; buy",
+        "D": "have; been buying"
       },
       "answer": "B",
-      "explanation": "先行词被最高级 the best 修饰时，关系代词只能用 that 而不用 which。"
+      "explanation": "When 询问具体购买的时间点，关注的是过去发生的时间，不能与现在完成时连用，必须用一般过去时 did buy。"
     },
     {
       "id": 10,
-      "question": "The girl to _______ you were speaking at the party is my cousin.",
+      "question": "They _____ the project yet. They still need a few more days.",
       "options": {
-        "A": "who",
-        "B": "whom",
-        "C": "whose",
-        "D": "which"
+        "A": "didn't finish",
+        "B": "don't finish",
+        "C": "haven't finished",
+        "D": "won't finish"
       },
-      "answer": "B",
-      "explanation": "关系代词紧跟在介词 to 后面且指代人（The girl）时，必须使用宾格形式 whom。"
+      "answer": "C",
+      "explanation": "yet 常用于现在完成时的否定句或疑问句末尾，表示“到目前为止尚未...”，主语为 They，故用 haven't finished。"
     },
     {
       "id": 11,
-      "question": "Pizza is a delicious dish _______ originated in Italy many years ago.",
+      "question": "Lucy _____ to Japan twice. She loves the culture there.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "where"
+        "A": "has gone",
+        "B": "has been",
+        "C": "went",
+        "D": "goes"
       },
       "answer": "B",
-      "explanation": "先行词是食物（a delicious dish），在从句中作主语，应用关系代词 which 或 that。"
+      "explanation": "表达“去过某地若干次”用 have/has been to，这里主语是 Lucy，表示去过日本两次，选 has been。"
     },
     {
       "id": 12,
-      "question": "The quiet town _______ my grandparents live has lots of green trees.",
+      "question": "Mozart _____ hundreds of beautiful pieces of music during his life.",
       "options": {
-        "A": "where",
-        "B": "which",
-        "C": "whose",
-        "D": "when"
+        "A": "has written",
+        "B": "wrote",
+        "C": "writes",
+        "D": "had written"
       },
-      "answer": "A",
-      "explanation": "先行词是地点（The quiet town），从句完整且表地点状语（live in the town），故用 where。"
+      "answer": "B",
+      "explanation": "莫扎特是历史人物，其创作音乐发生在过去且已完全结束，无法对现在产生持续的创作状态，应用一般过去时 wrote。"
     },
     {
       "id": 13,
-      "question": "Do you know the student _______ dad built a real working robot?",
+      "question": "I'm sorry, I can't play basketball with you because I _____ my ankle.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "whom"
+        "A": "hurt",
+        "B": "have hurt",
+        "C": "was hurting",
+        "D": "will hurt"
       },
-      "answer": "C",
-      "explanation": "从句中的 dad（爸爸）与先行词 the student 是所属关系（学生的爸爸），应填 whose。"
+      "answer": "B",
+      "explanation": "脚踝扭伤发生在过去，但造成了现在“不能打篮球”的结果，符合现在完成时，选 have hurt。"
     },
     {
       "id": 14,
-      "question": "This is all _______ I can tell you about the secret science project.",
+      "question": "_____ you ever _____ a camel in the desert?",
       "options": {
-        "A": "that",
-        "B": "which",
-        "C": "who",
-        "D": "whose"
+        "A": "Did; ride",
+        "B": "Have; ridden",
+        "C": "Do; ride",
+        "D": "Have; rode"
       },
-      "answer": "A",
-      "explanation": "当先行词是不定代词 all 时，引导定语从句的关系代词必须用 that。"
+      "answer": "B",
+      "explanation": "ever 表示“曾经”，用于询问截至目前的经历，用现在完成时 Have + 主语 + 过去分词 (ridden)。"
     },
     {
       "id": 15,
-      "question": "The musician _______ played the violin so beautifully was applauded by everyone.",
+      "question": "He _____ his keys ten minutes ago, but luckily he found them under the sofa.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "where"
+        "A": "lost",
+        "B": "has lost",
+        "C": "loses",
+        "D": "had lost"
       },
       "answer": "A",
-      "explanation": "先行词是人（The musician），在从句中担任主语，因此选择 who。"
+      "explanation": "句中有明确的过去时间标记 ten minutes ago，动作发生在过去，用一般过去时 lost。"
     },
     {
       "id": 16,
-      "question": "The building _______ roof was painted bright yellow is our new cafeteria.",
+      "question": "We _____ each other since we were in primary school.",
       "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "where"
+        "A": "knew",
+        "B": "know",
+        "C": "have known",
+        "D": "are knowing"
       },
-      "answer": "B",
-      "explanation": "roof（屋顶）属于 the building（建筑物的屋顶），关系代词 whose 既可用于人也可用于物表示所属关系。"
+      "answer": "C",
+      "explanation": "since 从句（since we were...）表示从过去某时刻开始，主句动词需用现在完成时 have known。"
     },
     {
       "id": 17,
-      "question": "Autumn is the season _______ leaves turn red and yellow in the forest.",
+      "question": "Max _____ his grandparents in Canada last summer.",
       "options": {
-        "A": "where",
-        "B": "when",
-        "C": "which",
-        "D": "who"
+        "A": "has visited",
+        "B": "visited",
+        "C": "visits",
+        "D": "is visiting"
       },
       "answer": "B",
-      "explanation": "先行词是时间名词 the season，在从句中表示时间状语，故用 when。"
+      "explanation": "last summer（去年夏天）属于过去的明确具体时间，谓语用一般过去式 visited。"
     },
     {
       "id": 18,
-      "question": "The pencil case _______ Lily bought last weekend matches her school bag.",
+      "question": "Be quiet! The baby _____ asleep just now.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "where"
+        "A": "has fallen",
+        "B": "fell",
+        "C": "falls",
+        "D": "is falling"
       },
       "answer": "B",
-      "explanation": "先行词是物品（The pencil case），从句中缺少宾语，因此用 which 或 that。"
+      "explanation": "just now 意为“刚才”，是典型的一般过去时标志词，动词 fall 需用过去式 fell。"
     },
     {
       "id": 19,
-      "question": "The club in _______ we practice badminton after school has great coaches.",
+      "question": "My father _____ smoking for five years. He feels much healthier now.",
       "options": {
-        "A": "where",
-        "B": "which",
-        "C": "that",
-        "D": "who"
+        "A": "gave up",
+        "B": "has given up",
+        "C": "gives up",
+        "D": "is giving up"
       },
       "answer": "B",
-      "explanation": "介词 in 后面直接接关系代词指物时，只能用 which，不能用 that 或 where。"
+      "explanation": "for five years 搭配从过去持续到现在的戒烟动作，且强调现在身体更健康，用现在完成时 has given up。"
     },
     {
       "id": 20,
-      "question": "The scientist _______ discovered the ancient dinosaur fossils gave a lecture.",
+      "question": "- Where is Sarah?\n- She _____ to the supermarket to buy some fruits.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "where"
+        "A": "has gone",
+        "B": "has been",
+        "C": "went",
+        "D": "goes"
       },
       "answer": "A",
-      "explanation": "先行词是人（The scientist），在从句中充当主语，故使用 who。"
+      "explanation": "问句询问“人在哪里”，答句表示“她去超市了（还没回来）”，需用 has gone。"
     },
     {
       "id": 21,
-      "question": "The house _______ my uncle built 20 years ago still looks very modern.",
+      "question": "Shakespeare _____ many world-famous plays in the 16th and 17th centuries.",
       "options": {
-        "A": "where",
-        "B": "which",
-        "C": "who",
-        "D": "whose"
+        "A": "has written",
+        "B": "wrote",
+        "C": "had written",
+        "D": "writes"
       },
       "answer": "B",
-      "explanation": "注意！从句中 built 缺少宾语（built the house），虽然先行词是建筑物，但作宾语时要用关系代词 which/that，而不是 where。"
+      "explanation": "句中提及 16、17 世纪这一过去的明确历史时期，作者莎士比亚已故，故用一般过去时 wrote。"
     },
     {
       "id": 22,
-      "question": "The boy with _______ Sam usually shares his snacks is very kind.",
+      "question": "I _____ this movie last night with my parents.",
       "options": {
-        "A": "who",
-        "B": "whom",
-        "C": "whose",
-        "D": "which"
+        "A": "have watched",
+        "B": "watched",
+        "C": "watch",
+        "D": "was watching"
       },
       "answer": "B",
-      "explanation": "在介词 with 后面指代人（The boy），必须使用宾格关系代词 whom。"
+      "explanation": "last night（昨晚）是过去的时间点，用一般过去时 watched。"
     },
     {
       "id": 23,
-      "question": "The bakery _______ sells the tastiest blueberry muffins is near our school.",
+      "question": "- _____ you _____ your lunch yet?\n- Yes, I have.",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "who",
-        "D": "whose"
+        "A": "Did; eat",
+        "B": "Have; eaten",
+        "C": "Do; eat",
+        "D": "Will; eat"
       },
-      "answer": "A",
-      "explanation": "先行词虽然是地点（The bakery），但在从句中充当主语（sells 的主语），因此用关系代词 which 而非关系副词 where。"
+      "answer": "B",
+      "explanation": "末尾标志词 yet 结合答句 Yes, I have，判定问句为现在完成时 Have you eaten...?"
     },
     {
       "id": 24,
-      "question": "2025 was the year _______ our school established the new swimming team.",
+      "question": "How many English storybooks _____ you _____ this term?",
       "options": {
-        "A": "when",
-        "B": "where",
-        "C": "which",
-        "D": "who"
+        "A": "did; read",
+        "B": "have; read",
+        "C": "do; read",
+        "D": "are; reading"
       },
-      "answer": "A",
-      "explanation": "先行词是年份（the year），从句成分完整且表达“在这一年”，因此用关系副词 when。"
+      "answer": "B",
+      "explanation": "this term（本学期）包含现在在内，强调到目前为止读书的数量统计，应用现在完成时 have read。"
     },
     {
       "id": 25,
-      "question": "The digital camera with _______ Ben took these amazing photos is quite expensive.",
+      "question": "My brother _____ his leg yesterday while playing football.",
       "options": {
-        "A": "which",
-        "B": "that",
-        "C": "who",
-        "D": "whose"
+        "A": "has broken",
+        "B": "broke",
+        "C": "breaks",
+        "D": "was breaking"
       },
-      "answer": "A",
-      "explanation": "介词 with 后指代物品（camera），关系代词只能用 which。"
+      "answer": "B",
+      "explanation": "yesterday（昨天）是具体过去时间，谓语动词用 break 的过去式 broke。"
     },
     {
       "id": 26,
-      "question": "The children _______ parents attend the PTA meeting are waiting in the library.",
+      "question": "Hurry up! The train _____ just _____. We missed it!",
       "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "which",
-        "D": "whom"
+        "A": "did; leave",
+        "B": "has; left",
+        "C": "is; leaving",
+        "D": "was; leaving"
       },
       "answer": "B",
-      "explanation": "parents（父母）属于 The children（孩子们），表所属关系“孩子们的父母”，用 whose。"
+      "explanation": "just（刚刚）常放在 have/has 与过去分词之间，强调“火车刚刚离开”对现在造成的结果（我们赶不上了），用 has left。"
     },
     {
       "id": 27,
-      "question": "Beijing is the vibrant city _______ the 2008 Olympic Games took place.",
+      "question": "We _____ in this community for ten years, and we still live here now.",
       "options": {
-        "A": "where",
-        "B": "which",
-        "C": "when",
-        "D": "who"
+        "A": "lived",
+        "B": "have lived",
+        "C": "live",
+        "D": "were living"
       },
-      "answer": "A",
-      "explanation": "先行词是地点（the vibrant city），从句中 took place 在该地点举行，表示地点状语，故用 where。"
+      "answer": "B",
+      "explanation": "后半句 still live here now 表明居住动作从过去一直持续到现在，故 for ten years 需搭配现在完成时 have lived。"
     },
     {
       "id": 28,
-      "question": "The poster _______ won first place in the art contest was painted by Mia.",
+      "question": "What time _____ the concert _____ yesterday evening?",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "where"
+        "A": "has; started",
+        "B": "did; start",
+        "C": "does; start",
+        "D": "was; starting"
       },
       "answer": "B",
-      "explanation": "先行词是物品（The poster），在从句中担当主语，选择 which 或 that。"
+      "explanation": "What time 询问过去确切时间点，且带有 yesterday evening 标志词，必须使用一般过去时 did start。"
     },
     {
       "id": 29,
-      "question": "My uncle David, _______ works as a pilot for an international airline, visits us often.",
+      "question": "I can't find my passport! _____ you _____ it anywhere?",
       "options": {
-        "A": "who",
-        "B": "that",
-        "C": "which",
-        "D": "whose"
+        "A": "Did; see",
+        "B": "Have; seen",
+        "C": "Do; see",
+        "D": "Are; seeing"
       },
-      "answer": "A",
-      "explanation": "在非限制性定语从句中（有逗号隔开），指代人且作主语时只能用 who，不能用 that。"
+      "answer": "B",
+      "explanation": "前半句“找不到护照”是现在的困境，询问对方“截至目前是否看到过”，强调对现在的影响，用 Have you seen...?"
     },
     {
       "id": 30,
-      "question": "This smart gadget is the only thing _______ can solve our technical problem.",
+      "question": "My uncle _____ to Australia in 2022 and returned to China last month.",
       "options": {
-        "A": "that",
-        "B": "which",
-        "C": "who",
-        "D": "where"
+        "A": "has gone",
+        "B": "went",
+        "C": "has been",
+        "D": "goes"
       },
-      "answer": "A",
-      "explanation": "当先行词受到 the only（唯一的）修饰时，引导定语从句的关系代词必须使用 that。"
+      "answer": "B",
+      "explanation": "in 2022 是明确的过去年份，后面的 returned 也是一般过去式，因此空格处需填一般过去式 went。"
     }
   ]
 }
