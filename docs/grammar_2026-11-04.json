@@ -1,0 +1,367 @@
+{
+  "date": "2026-11-04",
+  "topic": "过去进行时与一般过去时的联合运用 (Past Continuous vs. Simple Past)",
+  "teaching_notes": "同学们，今天我们来学习‘过去进行时’（was/were + v-ing）！它就像一台时间相机，专门捕捉过去某个特定时刻‘正在发生’的画面。当它遇到‘一般过去时’时，通常表示一个较长的动作正在进行，突然被另一个短暂的动作打断（常用 when 连接），或者两个动作在过去同时发生（常用 while 连接）。比如：*I was reading a book when the bell rang.*（响铃打断了看书）或者 *While Mom was cooking, Dad was washing dishes.*（爸妈同时在忙）。记住，瞬间完成的打断动作要用一般过去时，而正在延续的背景动作要用过去进行时哦！",
+  "questions": [
+    {
+      "id": 1,
+      "question": "When the heavy rain started, we ________ soccer on the school field.",
+      "options": {
+        "A": "are playing",
+        "B": "were playing",
+        "C": "played",
+        "D": "play"
+      },
+      "answer": "B",
+      "explanation": "下雨（started）是一个短暂的打断动作，主句表示当时‘正在踢足球’这一延续性动作，且主语为 we，因此使用 were playing。"
+    },
+    {
+      "id": 2,
+      "question": "At 7:00 PM yesterday, Sarah ________ her homework in her study.",
+      "options": {
+        "A": "is doing",
+        "B": "was doing",
+        "C": "did",
+        "D": "does"
+      },
+      "answer": "B",
+      "explanation": "At 7:00 PM yesterday 明确指出了过去具体的某个时间点，强调在该时刻正在进行的动作，主语 Sarah 是单数，故填 was doing。"
+    },
+    {
+      "id": 3,
+      "question": "While Sam was painting a bird, his brother ________ with building blocks.",
+      "options": {
+        "A": "played",
+        "B": "is playing",
+        "C": "was playing",
+        "D": "plays"
+      },
+      "answer": "C",
+      "explanation": "While 引导的从句与主句动作在过去同时进行，两个长动作并行发生，主语 his brother 是单数，因此用 was playing。"
+    },
+    {
+      "id": 4,
+      "question": "Yesterday at noon, Leo was ________ in the hotel swimming pool.",
+      "options": {
+        "A": "swiming",
+        "B": "swimming",
+        "C": "swam",
+        "D": "swims"
+      },
+      "answer": "B",
+      "explanation": "考查过去进行时的动词拼写规则。swim 的现在分词需要双写末尾字母 m 加 ing，即 swimming。"
+    },
+    {
+      "id": 5,
+      "question": "What ________ you doing when the emergency alarm rang last night?",
+      "options": {
+        "A": "was",
+        "B": "are",
+        "C": "were",
+        "D": "did"
+      },
+      "answer": "C",
+      "explanation": "过去进行时特殊疑问句结构为：疑问词 + was/were + 主语 + doing。主语是 you，助动词应使用 were。"
+    },
+    {
+      "id": 6,
+      "question": "My puppy barked loudly while I ________ to fall asleep.",
+      "options": {
+        "A": "was trying",
+        "B": "am trying",
+        "C": "tried",
+        "D": "try"
+      },
+      "answer": "A",
+      "explanation": "while 引导的时间状语从句表示‘当我正试图入睡时’（持续动作），主语是 I，助动词用 was，后接 try 的 ing 形式 trying。"
+    },
+    {
+      "id": 7,
+      "question": "They ________ watching TV at 9 PM yesterday because the power went out.",
+      "options": {
+        "A": "weren't",
+        "B": "wasn't",
+        "C": "don't",
+        "D": "aren't"
+      },
+      "answer": "A",
+      "explanation": "根据后半句过去时 went out 可知是过去的事情；主语是 They，过去进行时的否定形式应该用 weren't。"
+    },
+    {
+      "id": 8,
+      "question": "________ it snowing when you left the house this morning?",
+      "options": {
+        "A": "Is",
+        "B": "Did",
+        "C": "Was",
+        "D": "Were"
+      },
+      "answer": "C",
+      "explanation": "一般疑问句询问过去某个时刻（当你离开家时）天气是否正在下雪，主语为单数代词 it，助动词置于句首用 Was。"
+    },
+    {
+      "id": 9,
+      "question": "While my parents were preparing dinner, the doorbell suddenly ________.",
+      "options": {
+        "A": "rang",
+        "B": "was ringing",
+        "C": "rings",
+        "D": "is ringing"
+      },
+      "answer": "A",
+      "explanation": "门铃突然响起（suddenly rang）是一个瞬间发生的动作，打断了父母做饭的持续动作，所以打断动作要用一般过去时 rang。"
+    },
+    {
+      "id": 10,
+      "question": "I lost my favorite pencil case while I ________ across the playground.",
+      "options": {
+        "A": "ran",
+        "B": "am running",
+        "C": "was running",
+        "D": "run"
+      },
+      "answer": "C",
+      "explanation": "while 引导的从句强调在过去跑步的过程中，主语为 I，应使用过去进行时 was running。"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following verbs is NOT usually used in the past continuous tense?",
+      "options": {
+        "A": "know",
+        "B": "dance",
+        "C": "listen",
+        "D": "write"
+      },
+      "answer": "A",
+      "explanation": "表示状态、认知或情感的动词（如 know, believe, like）通常不用于进行时态。我们说 'knew' 而不是 'was knowing'。"
+    },
+    {
+      "id": 12,
+      "question": "At midnight, the strong wind ________ loudly outside the window.",
+      "options": {
+        "A": "is blowing",
+        "B": "was blowing",
+        "C": "blew",
+        "D": "blows"
+      },
+      "answer": "B",
+      "explanation": "At midnight 提供了过去的特定时刻，描述风正在呼啸的景象，主语 wind 为不可数单数，使用 was blowing。"
+    },
+    {
+      "id": 13,
+      "question": "The teacher walked into the classroom while the students ________ excited secrets.",
+      "options": {
+        "A": "whispered",
+        "B": "are whispering",
+        "C": "were whispering",
+        "D": "whisper"
+      },
+      "answer": "C",
+      "explanation": "while 从句描述老师走进来时学生们‘正在窃窃私语’的背景，主语 students 为复数，故用 were whispering。"
+    },
+    {
+      "id": 14,
+      "question": "I ________ my glasses while I was cleaning the top shelf.",
+      "options": {
+        "A": "was breaking",
+        "B": "broke",
+        "C": "break",
+        "D": "am breaking"
+      },
+      "answer": "B",
+      "explanation": "打破眼镜（broke）是发生在打扫棚架（was cleaning）这一持续过程中的瞬间突发事件，主句用一般过去时。"
+    },
+    {
+      "id": 15,
+      "question": "What was Lily doing ________ the electricity went off?",
+      "options": {
+        "A": "while",
+        "B": "when",
+        "C": "during",
+        "D": "because"
+      },
+      "answer": "B",
+      "explanation": "后半句 went off 是瞬间动词（断电），连词用于连接突发事件时应用 when（当……的时候）。"
+    },
+    {
+      "id": 16,
+      "question": "While Tom ________ his bicycle, he noticed a unusual shiny rock.",
+      "options": {
+        "A": "was riding",
+        "B": "rode",
+        "C": "is riding",
+        "D": "rides"
+      },
+      "answer": "A",
+      "explanation": "while 从句后接持续性动词 ride，表示‘当汤姆正在骑车时’，主语 Tom 为单数，用 was riding。"
+    },
+    {
+      "id": 17,
+      "question": "The kids were making a lot of noise while the baby ________ peacefully.",
+      "options": {
+        "A": "slept",
+        "B": "was sleeping",
+        "C": "is sleeping",
+        "D": "sleeps"
+      },
+      "answer": "B",
+      "explanation": "While 表示两个过去同时发生的对比动作：孩子们在吵闹的同时，婴儿正在安静地睡觉，用 was sleeping。"
+    },
+    {
+      "id": 18,
+      "question": "Identify the sentence with the CORRECT spelling of the '-ing' form:",
+      "options": {
+        "A": "She was writeing a thank-you note.",
+        "B": "She was writing a thank-you note.",
+        "C": "She was writting a thank-you note.",
+        "D": "She was writeing a thank-you note."
+      },
+      "answer": "B",
+      "explanation": "write 以不发音的字母 e 结尾，变现在分词时去 e 加 ing，正确拼写为 writing。"
+    },
+    {
+      "id": 19,
+      "question": "The chef ________ the soup when he accidentally dropped the spoon.",
+      "options": {
+        "A": "was tasting",
+        "B": "tasted",
+        "C": "tastes",
+        "D": "is tasting"
+      },
+      "answer": "A",
+      "explanation": "主句表示主厨当时正在品尝汤（动作正在发生且是主动品尝），被掉落勺子（dropped）这一事件中断，用 was tasting。"
+    },
+    {
+      "id": 20,
+      "question": "Where ________ they standing when the music parade began?",
+      "options": {
+        "A": "was",
+        "B": "did",
+        "C": "were",
+        "D": "are"
+      },
+      "answer": "C",
+      "explanation": "特殊疑问句询问‘他们当时站在哪里’，主语为 they，过去进行时的助动词用 were。"
+    },
+    {
+      "id": 21,
+      "question": "I saw a beautiful colorful parrot while I ________ through the forest.",
+      "options": {
+        "A": "was walking",
+        "B": "walked",
+        "C": "am walking",
+        "D": "walk"
+      },
+      "answer": "A",
+      "explanation": "看见鹦鹉（saw）发生在穿过森林（was walking）的过程中，while 后面的持续动作应用过去进行时 was walking。"
+    },
+    {
+      "id": 22,
+      "question": "The projector stopped working while we ________ an educational movie.",
+      "options": {
+        "A": "watched",
+        "B": "were watching",
+        "C": "are watching",
+        "D": "watch"
+      },
+      "answer": "B",
+      "explanation": "投影仪停止工作发生在‘我们正在看电影’的背景下，主语 we 是复数，用 were watching。"
+    },
+    {
+      "id": 23,
+      "question": "________ Tim and Mark practicing piano at 4:00 PM yesterday?",
+      "options": {
+        "A": "Was",
+        "B": "Were",
+        "C": "Did",
+        "D": "Are"
+      },
+      "answer": "B",
+      "explanation": "主语为 Tim and Mark（两个人，复数），过去进行时的一般疑问句句首助动词需要用 Were。"
+    },
+    {
+      "id": 24,
+      "question": "When the teacher opened the door, the boys ________ high-fives to each other.",
+      "options": {
+        "A": "gave",
+        "B": "are giving",
+        "C": "were giving",
+        "D": "give"
+      },
+      "answer": "C",
+      "explanation": "当老师开门（opened）的一瞬间，男孩们正在互相击掌，主句用过去进行时 were giving。"
+    },
+    {
+      "id": 25,
+      "question": "I didn't answer your call because I ________ a math exam at that moment.",
+      "options": {
+        "A": "was taking",
+        "B": "took",
+        "C": "am taking",
+        "D": "take"
+      },
+      "answer": "A",
+      "explanation": "at that moment（在那时）指过去的具体时间，没接电话是因为当时‘正在进行’考试，用 was taking。"
+    },
+    {
+      "id": 26,
+      "question": "My sister dropped her ice cream cone while she ________ to the bench.",
+      "options": {
+        "A": "was skipping",
+        "B": "skips",
+        "C": "skipped",
+        "D": "is skipping"
+      },
+      "answer": "A",
+      "explanation": "skip 的现在分词要双写 p 加 ing（skipping）；表示‘当她正在蹦蹦跳跳走去长椅时’，用 was skipping。"
+    },
+    {
+      "id": 27,
+      "question": "Who ________ driving the school bus when the tire suddenly went flat?",
+      "options": {
+        "A": "were",
+        "B": "was",
+        "C": "is",
+        "D": "did"
+      },
+      "answer": "B",
+      "explanation": "疑问词 Who 作主语询问‘谁当时正在驾驶’，通常看作单数第三人称，助动词用 was。"
+    },
+    {
+      "id": 28,
+      "question": "While the scientist ________ the experiment, an unexpected chemical reaction happened.",
+      "options": {
+        "A": "was conducting",
+        "B": "conducted",
+        "C": "is conducting",
+        "D": "conducts"
+      },
+      "answer": "A",
+      "explanation": "while 引导从句表示做实验（conducting）这一持续过程，主语为单数，故填 was conducting。"
+    },
+    {
+      "id": 29,
+      "question": "At 8:00 AM yesterday, many students ________ off the school bus.",
+      "options": {
+        "A": "got",
+        "B": "were getting",
+        "C": "are getting",
+        "D": "get"
+      },
+      "answer": "B",
+      "explanation": "At 8:00 AM yesterday 指明过去特定时间点，描述当时许多学生‘正在下车’的场景，用 were getting。"
+    },
+    {
+      "id": 30,
+      "question": "Why ________ you crying when I met you in the hallway this morning?",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "did",
+        "D": "are"
+      },
+      "answer": "B",
+      "explanation": "句中 met 为一般过去时，主语是 you，询问‘今天早晨我在走廊遇到你时，你为什么正在哭呢？’用 were。"
+    }
+  ]
+}
