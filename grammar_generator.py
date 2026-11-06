@@ -33,7 +33,7 @@ def generate_daily_grammar():
          3) 【避坑指南】：指出中小学生在考试中最常犯的 2-3 个典型错误。
          4) 【经典例句】：提供 3 个带有情景感的中英文对照例句。
 
-    3. **多元题型架构 (Multi-type Questions)**：填空题（fill_in_the_blank）、改错题（error_correction）和句型转换（sentence_transformation）
+    3. **单元题型架构 (One type Questions)**：
        包含单选题（multiple_choice）。
 
     4. **严格的 JSON 输出规范**：
