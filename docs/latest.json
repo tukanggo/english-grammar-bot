@@ -1,322 +1,343 @@
 {
   "date": "2026-11-06",
-  "topic": "高级虚拟语气与倒装结构在复杂嵌套从句中的综合运用",
-  "teaching_notes": "1. 核心定义：虚拟语气（Subjunctive Mood）用于表达假想、愿望、建议或与客观事实相反的状况；倒装（Inversion）分为完全倒装与部分倒装，常用于否定副词前置、so/neither前置或省略连词 if 的条件句中。\n2. 底层逻辑原理：在高级英语中，虚拟与倒装常交织出现。当省去 if 时，Had / Were / Should 必须提至主语前构成部分倒装（如 Had I known...）。在由 demand, insist, essential 等触发的指令性虚拟（Mandative Subjunctive）中，从句谓语必须使用“(should) + 动词原形”；若表达对过去事实的推测/确认而非命令，则恢复陈述语气。在混合时间虚拟句中，主从句时态须根据各自的时间基准分别推移。\n3. 典型易错陷阱（Pitfalls）：\n- 陷阱一（误用语气）：错把表“坚持认为事实”的 insist 句型一律套用虚拟语气（如：He insisted that he had seen the thief 不是 *he see）。\n- 陷阱二（从句倒装位置错乱）：否定副词（如 Not until / Only when）引导主从复合句位于句首时，仅主句倒装，从句保持正装。\n- 陷阱三（时态与助动词遗漏）：省略 if 倒装时错用 did 替代 had（如错写为 Did I know，正确为 Had I known）。\n4. 经典例句：\n- Had the board of directors accepted the proposal earlier, the company would not be facing insolvency today.（若董事会早些采纳该方案，公司今日便不会面临破产。）[混合时间虚拟倒装]\n- Scarcely had the novel initiative been launched when the research team realized it imperative that every protocol be re-evaluated.（新方案刚一启动，研究团队就意识到重新评估每一项协议势在必行。）[否定倒装 + 名词性从句虚拟]\n- Only by adhering to these strict guidelines can the integrity of the experiment be maintained, should any unforeseen anomalies arise.（唯有遵循这些严格的标准，实验的完整性才能得到维护，万一出现任何意料之外的异常。）[Only倒装 + should省略if倒装]",
+  "target_audience": "Primary & Secondary School (Ages 9-17)",
+  "topic": "非谓语动词专项通关 (To do / Doing / Done)",
+  "teaching_notes": "1. 【核心概念】：非谓语动词就像是动词的“变身术”。在英语句子中，主语后面只能有一个真正的主谓动词（谓语）。如果还想用其他动词，它们就必须“变身”成非谓语动词（To do / Doing / Done），化身为名词、形容词或副词来为句子打工！\n2. 【语法公式与口诀】：\n- 句中已有主谓动，第二动词需变身；\n- 目的将来用 to do，正在主动用 doing，被动完成用 done；\n- 喜欢完成用 doing (enjoy/finish)，打算决定用 to do (want/decide)。\n3. 【避坑指南】：\n- 避坑1：一句话出现双谓语！如误写 *I like play football.*（正确应为 liking/to play）。\n- 避坑2：介词后面漏加 doing！如 *thank you for help me*（正确为 helping）。\n- 避坑3：分词作状语时逻辑主语不一致！如 *Walking in the park, a bird bit me.*（难道是鸟在散步？应保持主语一致）。\n4. 【经典例句】：\n- 1) I plan to visit the museum tomorrow.（我计划明天去参观博物馆。[目的/将来]）\n- 2) She enjoys listening to music in her free time.（她喜欢在空闲时间听音乐。[兴趣/习惯]）\n- 3) Encouraged by the teacher, he made great progress.（受到老师的鼓励，他取得了很大进步。[被动/完成]）",
   "questions": [
     {
       "id": 1,
+      "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "______ the proposal been submitted on time, the board would have considered funding the venture.",
+      "question": "I want _____ a new bicycle for my birthday.",
       "options": {
-        "A": "If",
-        "B": "Had",
-        "C": "Should",
-        "D": "Were"
+        "A": "buy",
+        "B": "buying",
+        "C": "to buy",
+        "D": "bought"
       },
-      "answer": "B",
-      "explanation": "本题考查省略连词 if 的虚拟条件句倒装。从句表示与过去事实相反的假设，原本为 'If the proposal had been submitted...'，省去 if 后将助动词 had 提前至主语前构成倒装 'Had the proposal been...'。"
+      "answer": "C",
+      "explanation": "want 后面跟动词不定式作宾语，固定搭配为 want to do sth.（想要做某事）。"
     },
     {
       "id": 2,
+      "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Not until the results of the second trial were published ______ the public fully understand the breakthrough.",
+      "question": "My sister enjoys _____ storybooks after dinner.",
       "options": {
-        "A": "did",
-        "B": "had",
-        "C": "would",
-        "D": "does"
+        "A": "read",
+        "B": "reading",
+        "C": "to read",
+        "D": "reads"
       },
-      "answer": "A",
-      "explanation": "否定词组 Not until 置于句首时，主句须采用部分倒装。时间状语从句表达过去发生的事（were published），主句发生在过去，故使用助动词 did 引导主句部分倒装。"
+      "answer": "B",
+      "explanation": "enjoy 后面需接动名词作宾语，固定结构为 enjoy doing sth.（喜欢做某事）。"
     },
     {
       "id": 3,
+      "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The regulatory body requested that the company ______ its financial records immediately.",
+      "question": "The teacher told us _____ quiet in the library.",
       "options": {
-        "A": "audits",
-        "B": "audited",
-        "C": "audit",
-        "D": "would audit"
+        "A": "be",
+        "B": "to be",
+        "C": "being",
+        "D": "are"
       },
-      "answer": "C",
-      "explanation": "动词 request（要求）后的宾语从句需使用虚拟语气，谓语形式为 '(should) + 动词原形'，因此正确选项为 audit。"
+      "answer": "B",
+      "explanation": "tell sb. to do sth. 是固定句型，表示“告诉某人做某事”，此处用动词不定式 to be。"
     },
     {
       "id": 4,
-      "type": "multiple_choice",
-      "question": "Barely ______ into the venue when the storm broke out, causing widespread power outages.",
-      "options": {
-        "A": "they had stepped",
-        "B": "had they stepped",
-        "C": "did they step",
-        "D": "were they stepping"
-      },
-      "answer": "B",
-      "explanation": "否定副词 Barely 位于句首，且句型为 Barely... when...（刚一……就……），主句动作发生在 went/broke out 之前，表示“过去的过去”，主句须用过去完成时并采用部分倒装 had they stepped。"
+      "level": "Primary (P4-P6)",
+      "type": "fill_in_the_blank",
+      "question": "They decided _____ (go) to the park this Sunday.",
+      "options": null,
+      "answer": "to go",
+      "explanation": "decide 后面接动词不定式作宾语，固定搭配为 decide to do sth.（决定做某事）。"
     },
     {
       "id": 5,
+      "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Were it not for the emergency relief package, thousands of families ______ homeless today.",
+      "question": "This cartoon is so _____. All the kids love it.",
       "options": {
-        "A": "would be",
-        "B": "would have been",
-        "C": "will be",
-        "D": "are"
+        "A": "interest",
+        "B": "interesting",
+        "C": "interested",
+        "D": "to interest"
       },
-      "answer": "A",
-      "explanation": "本题考查混合时间虚拟语气。从句 'Were it not for...'（要不是有……）是对现在/一般情况的虚拟倒装，主句带有时间状语 today，表示对现在结果的假设，故主句谓语用 'would + 动词原形'（would be）。"
+      "answer": "B",
+      "explanation": "interesting 是现在分词修饰物，表示“令人感兴趣的/有趣的”；interested 修饰人，表示“感兴趣的”。"
     },
     {
       "id": 6,
-      "type": "multiple_choice",
-      "question": "The witness insisted that he ______ the suspect near the bank at midnight, though the defense disputed this.",
-      "options": {
-        "A": "see",
-        "B": "had seen",
-        "C": "should see",
-        "D": "be seen"
-      },
-      "answer": "B",
-      "explanation": "易错题！当 insist 意为“坚持认为/坚持宣称某种客观事实”时，从句不用虚拟语气，而用陈述语气。目击者坚持宣称的是过去已发生的事实，故用过去完成时 had seen。"
+      "level": "Primary (P4-P6)",
+      "type": "fill_in_the_blank",
+      "question": "Thank you for _____ (help) me with my English homework.",
+      "options": null,
+      "answer": "helping",
+      "explanation": "for 是介词，介词后面接动词时必须使用动名词形式 doing。"
     },
     {
       "id": 7,
+      "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Only when all security protocols have been thoroughly verified ______ access to the server room.",
+      "question": "Don't forget _____ the windows before leaving the classroom.",
       "options": {
-        "A": "the engineers will gain",
-        "B": "will the engineers gain",
-        "C": "did the engineers gain",
-        "D": "the engineers gained"
+        "A": "close",
+        "B": "closing",
+        "C": "to close",
+        "D": "closed"
       },
-      "answer": "B",
-      "explanation": "'Only + 状语从句' 置于句首时，主句须采用部分倒装。从句用现在完成时（have been verified）表示未来完成的事，主句应用一般将来时倒装：will the engineers gain。"
+      "answer": "C",
+      "explanation": "forget to do sth. 表示“忘记去做某事（未做）”；forget doing sth. 表示“忘记做过某事（已做）”。离开教室前提醒去关窗，用 to close。"
     },
     {
       "id": 8,
-      "type": "multiple_choice",
-      "question": "The technician double-checked the wiring lest the system ______ during the launch sequence.",
-      "options": {
-        "A": "malfunctioned",
-        "B": "should malfunction",
-        "C": "will malfunction",
-        "D": "malfunctions"
-      },
-      "answer": "B",
-      "explanation": "连词 lest（唯恐、以防）引导的状语从句中，谓语动词须使用虚拟语气，形式为 '(should) + 动词原形'，故选 should malfunction（或 malfunction）。"
+      "level": "Primary (P4-P6)",
+      "type": "error_correction",
+      "question": "Correct the error in the sentence: 'My little brother stopped to cry when he saw the toy.' (Meaning: he stopped crying)",
+      "options": null,
+      "answer": "My little brother stopped crying when he saw the toy.",
+      "explanation": "stop doing sth. 表示“停止正在做的事”；stop to do sth. 表示“停下来去执行另一件事”。表达“停止哭泣”应用 crying。"
     },
     {
       "id": 9,
+      "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "So overwhelming ______ the public response that the committee decided to extend the deadline.",
+      "question": "It is important for students _____ good health.",
       "options": {
-        "A": "was",
-        "B": "it was",
-        "C": "did it be",
-        "D": "were"
+        "A": "keep",
+        "B": "keeping",
+        "C": "to keep",
+        "D": "kept"
       },
-      "answer": "A",
-      "explanation": "'So + 表语/形容词' 置于句首时，主句结构倒装（So + adj. + 系动词/助动词 + 主语...）。主语为单数名词 the public response，谓语用过去时系动词 was。"
+      "answer": "C",
+      "explanation": "考查句型 'It is + adj. + for sb. + to do sth.'，其中 It 为形式主语，真正的主语是动词不定式短语 to keep..."
     },
     {
       "id": 10,
-      "type": "multiple_choice",
-      "question": "Would that I ______ the offer when it was first presented to me last year!",
-      "options": {
-        "A": "accepted",
-        "B": "had accepted",
-        "C": "accept",
-        "D": "would accept"
-      },
-      "answer": "B",
-      "explanation": "固定句型 'Would that...' 表达强烈的愿望（意为“但愿……”），后接虚拟语气。此处是对过去情况（last year）的虚拟与遗憾，故谓语动词需用过去完成时 had accepted。"
+      "level": "Primary (P4-P6)",
+      "type": "sentence_transformation",
+      "question": "Rewrite the sentence: Tom plans that he will learn French next term. (Use 'plans to')",
+      "options": null,
+      "answer": "Tom plans to learn French next term.",
+      "explanation": "plan 即可以接从句也可以接不定式，plan to do sth. 表示“计划做某事”。"
     },
     {
       "id": 11,
-      "type": "multiple_choice",
-      "question": "Little ______ how profoundly his discovery would alter the trajectory of modern physics.",
-      "options": {
-        "A": "did the young scientist know",
-        "B": "the young scientist knew",
-        "C": "had the young scientist known",
-        "D": "knew the young scientist"
-      },
-      "answer": "A",
-      "explanation": "否定副词 Little 置于句首，全句主句需采用部分倒装。陈述过去的事实，助动词用 did，主语后接动词原形 know。"
+      "level": "Primary (P4-P6)",
+      "type": "fill_in_the_blank",
+      "question": "Have you finished _____ (write) your postcard?",
+      "options": null,
+      "answer": "writing",
+      "explanation": "finish 属于后接动名词作宾语的动词，固定短语为 finish doing sth.（完成做某事）。"
     },
     {
       "id": 12,
+      "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "It is high time that the government ______ decisive measures to curb environmental degradation.",
+      "question": "The crying baby needs a cup of warm milk. In this sentence, what does 'crying' act as?",
       "options": {
-        "A": "enacts",
-        "B": "enacted",
-        "C": "has enacted",
-        "D": "should enact"
+        "A": "Main verb (谓语)",
+        "B": "Adjective / Modifier (定语/形容词作用)",
+        "C": "Noun (主语)",
+        "D": "Adverb (状语)"
       },
       "answer": "B",
-      "explanation": "在 'It is (high) time that...' 句型中，定语从句必须使用虚拟语气，谓语动词常用“过去时”（enacted）或“should + 动词原形（should不可省略）”。选项中没有 should enacted/enact，故选项 B（enacted）为唯一正确标准答案。"
+      "explanation": "crying 在这里作前置定语修饰 baby，相当于形容词，表示“正在哭泣的”。"
     },
     {
       "id": 13,
-      "type": "multiple_choice",
-      "question": "Should any technical difficulties ______, please contact our support team immediately.",
-      "options": {
-        "A": "arise",
-        "B": "arose",
-        "C": "arisen",
-        "D": "would arise"
-      },
-      "answer": "A",
-      "explanation": "省略连词 if 的将来/可能虚拟语气条件句倒装：'Should + 主语 + 动词原形'。原本为 'If any technical difficulties should arise...'，倒装后为 Should any technical difficulties arise。"
+      "level": "Primary (P4-P6)",
+      "type": "fill_in_the_blank",
+      "question": "My mom spent two hours _____ (cook) a delicious dinner for us.",
+      "options": null,
+      "answer": "cooking",
+      "explanation": "spend time (in) doing sth. 是固定句型，表示“花费时间做某事”，填 cooking。"
     },
     {
       "id": 14,
-      "type": "multiple_choice",
-      "question": "No sooner ______ the negotiation than both parties issued a joint public declaration.",
-      "options": {
-        "A": "they concluded",
-        "B": "had they concluded",
-        "C": "did they conclude",
-        "D": "have they concluded"
-      },
-      "answer": "B",
-      "explanation": "'No sooner... than...' 句型中，No sooner 位于句首时主句必须部分倒装，且 No sooner 主句用过去完成时（had they concluded），than 引导的从句用一般过去时（issued）。"
+      "level": "Primary (P4-P6)",
+      "type": "error_correction",
+      "question": "Correct the error in the sentence: 'I am interested in read books about space.'",
+      "options": null,
+      "answer": "I am interested in reading books about space.",
+      "explanation": "be interested in 中 in 为介词，介词后应用动名词 reading。"
     },
     {
       "id": 15,
-      "type": "multiple_choice",
-      "question": "The CEO spoke about the expansion plan as though it ______ already a guaranteed success.",
-      "options": {
-        "A": "is",
-        "B": "were",
-        "C": "will be",
-        "D": "has been"
-      },
-      "answer": "B",
-      "explanation": "as though / as if 引导方式状语从句，表达与事实不符的假设时需用虚拟语气。与现在/当时事实相反，be 动词统一使用 were。"
+      "level": "Primary (P4-P6)",
+      "type": "sentence_transformation",
+      "question": "Rewrite the sentence: Eating too many sweets is bad for your teeth. (Start with 'It is bad...')",
+      "options": null,
+      "answer": "It is bad for your teeth to eat too many sweets.",
+      "explanation": "将动名词主语 Eating... 转换为形式主语 It... 引导的动词不定式结构 It is... to eat..."
     },
     {
       "id": 16,
-      "type": "fill_in_the_blank",
-      "question": "Had the research team ________ (realize) the potential risk earlier, they would have modified the procedure.",
-      "options": null,
-      "answer": "realized",
-      "explanation": "本题考查省略 if 的虚拟条件句倒装。倒装结构为 Had + 主语 + 过去分词，故填充 realized。"
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_____ from the top of the tower, the city looks even more beautiful.",
+      "options": {
+        "A": "Seeing",
+        "B": "Seen",
+        "C": "To see",
+        "D": "Having seen"
+      },
+      "answer": "B",
+      "explanation": "分词作状语，逻辑主语是 the city。city 与 see 之间是被动关系（城市被观看），故用过去分词 Seen。"
     },
     {
       "id": 17,
+      "level": "Secondary (Form 1-5)",
       "type": "fill_in_the_blank",
-      "question": "It is imperative that every candidate ________ (submit) their application credentials prior to the deadline.",
+      "question": "The teacher sat at her desk, _____ (surround) by piles of exam papers.",
       "options": null,
-      "answer": "submit",
-      "explanation": "在 'It is imperative that...' 主语从句中，需使用指令性虚拟语气，动词形式为 '(should) + 动词原形'，故填 submit。"
+      "answer": "surrounded",
+      "explanation": "过去分词短语 surrounded by... 作伴随状语，表示主语 teacher 处于“被试卷包围”的状态。"
     },
     {
       "id": 18,
-      "type": "fill_in_the_blank",
-      "question": "Not only ________ (be) the dataset corrupted during the transfer, but the redundant servers also failed completely.",
-      "options": null,
-      "answer": "was",
-      "explanation": "Not only 位于句首要求主句倒装。后面的动作 failed 说明发生在过去，且 dataset 为不可数名词，故系动词倒装为 was。"
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "We regret _____ you that your application has been unsuccessful.",
+      "options": {
+        "A": "to inform",
+        "B": "informing",
+        "C": "inform",
+        "D": "informed"
+      },
+      "answer": "A",
+      "explanation": "regret to do sth. 表示“遗憾/抱歉要宣布/做某事（未做）”；regret doing sth. 表示“后悔做了某事（已做）”。正式通知拒绝申请，用 to inform。"
     },
     {
       "id": 19,
-      "type": "fill_in_the_blank",
-      "question": "Were the economic situation to deteriorate further, the central bank ________ (intervene) without hesitation.",
+      "level": "Secondary (Form 1-5)",
+      "type": "error_correction",
+      "question": "Correct the error in the sentence: 'Walking along the beach, a beautiful seashell was found by Lily.'",
       "options": null,
-      "answer": "would intervene",
-      "explanation": "从句 'Were... to deteriorate' 是对将来情况的虚拟条件句倒装，主句谓语动词形式应为 'would / could / might + 动词原形'，故填 would intervene。"
+      "answer": "Walking along the beach, Lily found a beautiful seashell.",
+      "explanation": "垂悬分词错误。Walking 的逻辑主语必须是句子的主语。seashell（贝壳）不能散步，主语必须改为 Lily。"
     },
     {
       "id": 20,
-      "type": "fill_in_the_blank",
-      "question": "Hardly had the controversial policy been announced when protests ________ (begin) in major cities.",
+      "level": "Secondary (Form 1-5)",
+      "type": "sentence_transformation",
+      "question": "Rewrite using a participle phrase: Because he felt exhausted, Jack went to bed early.",
       "options": null,
-      "answer": "began",
-      "explanation": "在 'Hardly had... when...' 结构中，Hardly 主句使用过去完成时倒装，when 引导的从句使用一般过去时（正装），故填 began。"
+      "answer": "Feeling exhausted, Jack went to bed early.",
+      "explanation": "将原因状语从句转换为现在分词短语 Feeling exhausted 作原因状语。"
     },
     {
       "id": 21,
-      "type": "error_correction",
-      "question": "找出句中的错误并改正：Not until did the manager arrive, the annual shareholder meeting began.",
-      "options": null,
-      "answer": "将 'Not until did the manager arrive, the annual shareholder meeting began.' 修改为 'Not until the manager arrived did the annual shareholder meeting begin.'",
-      "explanation": "Not until 引导从句置于句首时，until 从句本身保持陈述语序（the manager arrived），主句进行部分倒装（did the annual shareholder meeting begin）。原句倒装位置颠倒。"
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The manager had his assistant _____ all the documents before the meeting.",
+      "options": {
+        "A": "print",
+        "B": "to print",
+        "C": "printed",
+        "D": "printing"
+      },
+      "answer": "A",
+      "explanation": "使役动词 have sb. do sth. 表示“让某人做某事”，接省略 to 的不定式作宾语补足语。"
     },
     {
       "id": 22,
-      "type": "error_correction",
-      "question": "找出句中的错误并改正：The auditor recommended that the CFO is held accountable for the accounting discrepancy.",
+      "level": "Secondary (Form 1-5)",
+      "type": "fill_in_the_blank",
+      "question": "He worked hard for months, only _____ (find) that the project had been cancelled.",
       "options": null,
-      "answer": "将 'is' 改为 'be' (或 'should be')",
-      "explanation": "recommend 后的宾语从句必须使用虚拟语气 (should) + 动词原形。被动语态应为 (should) be held，而不是陈述语气的 is held。"
+      "answer": "to find",
+      "explanation": "only to do sth. 作结果状语，通常表示意料之外、令人遗憾的结果。"
     },
     {
       "id": 23,
-      "type": "error_correction",
-      "question": "找出句中的错误并改正：Had I known your contact details last week, I would write to you immediately.",
-      "options": null,
-      "answer": "将 'would write' 改为 'would have written'",
-      "explanation": "从句 Had I known... 与时间状语 last week 均表明是对过去事实的虚拟假设，主句也必须对应过去虚拟，形式为 would have + 过去分词（would have written）。"
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "With all the work _____, the staff left the office with a sigh of relief.",
+      "options": {
+        "A": "finish",
+        "B": "finished",
+        "C": "finishing",
+        "D": "to finish"
+      },
+      "answer": "B",
+      "explanation": "With 复合结构：With + n. + Done。work 与 finish 之间是被动且已完成关系，故用过去分词 finished。"
     },
     {
       "id": 24,
+      "level": "Secondary (Form 1-5)",
       "type": "error_correction",
-      "question": "找出句中的错误并改正：Only when she completed the exhaustive report she turned off her office lights.",
+      "question": "Correct the error in the sentence: 'I heard someone to knock on the door twice last night.'",
       "options": null,
-      "answer": "将 'she turned' 改为 'did she turn'",
-      "explanation": "'Only + 时间状语从句' 位于句首时，主句必须采用部分倒装语序。过去时态的倒装应借助于助动词 did，即 did she turn。"
+      "answer": "I heard someone knock on the door twice last night.",
+      "explanation": "感官动词 hear/see/watch 后的宾补用省略 to 的不定式（hear sb. do）或现在分词（hear sb. doing）。敲了两次强调全过程，用 knock。"
     },
     {
       "id": 25,
-      "type": "error_correction",
-      "question": "找出句中的错误并改正：It is essential that every committee member attends the emergency session tomorrow morning.",
+      "level": "Secondary (Form 1-5)",
+      "type": "sentence_transformation",
+      "question": "Rewrite using 'With + noun + participle': As the snow was falling heavily outside, we stayed by the fireplace.",
       "options": null,
-      "answer": "将 'attends' 改为 'attend' (或 'should attend')",
-      "explanation": "在 'It is essential that...' 结构中，从句需用虚拟语气，谓语动词用原形 attend，不受第三人称单数主语的影响。"
+      "answer": "With snow falling heavily outside, we stayed by the fireplace.",
+      "explanation": "将原因状语从句改写为 With 引导的独立主格/复合结构，snow 与 fall 之间为主动关系，用现在分词 falling。"
     },
     {
       "id": 26,
-      "type": "sentence_transformation",
-      "question": "句型重写（改写为省略 if 的倒装句）：If the engineering team had detected the fault sooner, the accident could have been avoided.",
-      "options": null,
-      "answer": "Had the engineering team detected the fault sooner, the accident could have been avoided.",
-      "explanation": "虚拟条件句中省略 if 时，需将助动词 Had 置于主语 the engineering team 之前构成倒装。"
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The problem _____ at tomorrow's conference is of great significance to local environment.",
+      "options": {
+        "A": "discussed",
+        "B": "to be discussed",
+        "C": "discussing",
+        "D": "having discussed"
+      },
+      "answer": "B",
+      "explanation": "根据时间状语 tomorrow，说明问题将被讨论（将来+被动），使用不定式的被动形式 to be discussed 作后置定语。"
     },
     {
       "id": 27,
-      "type": "sentence_transformation",
-      "question": "句型重写（以否定副词 Rarely 开头重构全句）：We rarely see such extraordinary talent combined with such relentless dedication.",
+      "level": "Secondary (Form 1-5)",
+      "type": "fill_in_the_blank",
+      "question": "Generally _____ (speak), online learning requires a higher degree of self-discipline.",
       "options": null,
-      "answer": "Rarely do we see such extraordinary talent combined with such relentless dedication.",
-      "explanation": "将否定副词 Rarely 置于句首，全句使用一般现在时的部分倒装，借用助动词 do 提到主语 we 之前。"
+      "answer": "speaking",
+      "explanation": "Generally speaking 为固定插入语结构（独立分词），意为“总体而言/一般地说”。"
     },
     {
       "id": 28,
-      "type": "sentence_transformation",
-      "question": "句型重写（改写为省略 if 的倒装句）：If it were not for your unwavering support, our venture would not be thriving now.",
-      "options": null,
-      "answer": "Were it not for your unwavering support, our venture would not be thriving now.",
-      "explanation": "虚拟条件句 If it were not for... 省略 if 时，将系动词 Were 提到主语 it 之前，写为 Were it not for..."
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "She was seen _____ out of the room quietly during the speech.",
+      "options": {
+        "A": "walk",
+        "B": "to walk",
+        "C": "walked",
+        "D": "to be walked"
+      },
+      "answer": "B",
+      "explanation": "主动语态中 see sb. do sth. 变为被动语态时，原本省略的 to 必须还原，即 sb. is seen to do sth."
     },
     {
       "id": 29,
-      "type": "sentence_transformation",
-      "question": "句型重写（以 Not until 开头重写句子）：She realized the significance of the document only after she left the conference.",
+      "level": "Secondary (Form 1-5)",
+      "type": "error_correction",
+      "question": "Correct the error in the sentence: 'Compare with traditional cars, electric vehicles produce zero tailpipe emissions.'",
       "options": null,
-      "answer": "Not until she left the conference did she realize the significance of the document.",
-      "explanation": "Not until 引导状语从句置于句首，从句保持正装 (she left...)，主句进行部分倒装 (did she realize...)"
+      "answer": "Compared with traditional cars, electric vehicles produce zero tailpipe emissions.",
+      "explanation": "固定分词短语作状语：Compared with/to... 表示“与……相比”。"
     },
     {
       "id": 30,
+      "level": "Secondary (Form 1-5)",
       "type": "sentence_transformation",
-      "question": "句型重写（使用虚拟语气改写）： The manager said: 'You must sign the agreement before Friday.' (Rewritten as: The manager insisted that...)",
+      "question": "Rewrite using a non-finite verb: The girl who is playing the violin on stage is my cousin.",
       "options": null,
-      "answer": "The manager insisted that he/she sign the agreement before Friday. (或 ...that the agreement be signed...)",
-      "explanation": "insist 表示要求/命令时，引导宾语从句需使用虚拟语气 (should) + 动词原形，故用 sign 或 be signed。"
+      "answer": "The girl playing the violin on stage is my cousin.",
+      "explanation": "将定语从句 who is playing... 精简为现在分词短语 playing the violin on stage 作后置定语。"
     }
   ]
 }
