@@ -1,307 +1,322 @@
 {
   "date": "2026-11-06",
-  "topic": "高级虚拟语气与句法倒装的综合应用 (Advanced Subjunctive Mood and Syntactic Inversion)",
-  "teaching_notes": "1. 核心概念定义：虚拟语气（Subjunctive Mood）用于表达非客观事实的假设、愿望、猜想或建议；句法倒装（Inversion）分为完全倒装与部分倒装，常用于修辞强调或特殊句法结构中。当虚拟条件句省略连接词 *if* 时，必须触发部分倒装。\n\n2. 底层逻辑与结构体系：\n- 虚拟条件句倒装：省略 *if* 后，将 *Had*、*Were* 或 *Should* 提至主语前。例如：*Had I known...* = *If I had known...*。\n- 否定及半否定词置于句首倒装：*Never*, *Seldom*, *Hardly*, *Scarcely*, *Little*, *Not only*, *Not until* 等置于句首时，主句使用部分倒装（助动词/情态动词 + 主语 + 动词原形）。\n- 错综时间条件句（Mixed Conditionals）：从句与主句时间不一致，须按各自对应的时间基准（过去 vs. 现在/将来）变位。\n- 名词性从句中的命令性虚拟（Mandative Subjunctive）：在表示建议、要求、命令的动词/名词/形容词从句中，谓语动词一律使用 *(should) + 动词原形*。\n\n3. 典型易错陷阱（Pitfalls）：\n- 陷阱一：否定倒装句中误将否定词后移，或在倒装后重复使用助动词/否定否定交叠。\n- 陷阱二：错综时间虚拟中混淆主从句的时态推移规则。\n- 陷阱三：*Not until* 引导状语从句置于句首时，*Not until* 从句本身不倒装，只有主句才倒装。\n\n4. 经典高阶例句：\n- Ex 1: Had the policy been implemented sooner, the crisis would have been effectively contained.（若该政策早些实施，危机本可得到有效控制。）\n- Ex 2: Seldom has the scientific community witnessed such a rapid consensus on a controversial issue.（科学界鲜少对某一争议性议题如此迅速地达成共识。）\n- Ex 3: It is essential that every delegate be informed of the modified schedule prior to the opening ceremony.（每位代表都必须在开幕式前获知调整后的日程安排。）\n- Ex 4: Not until the investigation was completed did the regulatory board issue its final report.（直到调查结束，监管委员会才发布最终报告。）",
+  "topic": "高级虚拟语气与倒装结构在复杂嵌套从句中的综合运用",
+  "teaching_notes": "1. 核心定义：虚拟语气（Subjunctive Mood）用于表达假想、愿望、建议或与客观事实相反的状况；倒装（Inversion）分为完全倒装与部分倒装，常用于否定副词前置、so/neither前置或省略连词 if 的条件句中。\n2. 底层逻辑原理：在高级英语中，虚拟与倒装常交织出现。当省去 if 时，Had / Were / Should 必须提至主语前构成部分倒装（如 Had I known...）。在由 demand, insist, essential 等触发的指令性虚拟（Mandative Subjunctive）中，从句谓语必须使用“(should) + 动词原形”；若表达对过去事实的推测/确认而非命令，则恢复陈述语气。在混合时间虚拟句中，主从句时态须根据各自的时间基准分别推移。\n3. 典型易错陷阱（Pitfalls）：\n- 陷阱一（误用语气）：错把表“坚持认为事实”的 insist 句型一律套用虚拟语气（如：He insisted that he had seen the thief 不是 *he see）。\n- 陷阱二（从句倒装位置错乱）：否定副词（如 Not until / Only when）引导主从复合句位于句首时，仅主句倒装，从句保持正装。\n- 陷阱三（时态与助动词遗漏）：省略 if 倒装时错用 did 替代 had（如错写为 Did I know，正确为 Had I known）。\n4. 经典例句：\n- Had the board of directors accepted the proposal earlier, the company would not be facing insolvency today.（若董事会早些采纳该方案，公司今日便不会面临破产。）[混合时间虚拟倒装]\n- Scarcely had the novel initiative been launched when the research team realized it imperative that every protocol be re-evaluated.（新方案刚一启动，研究团队就意识到重新评估每一项协议势在必行。）[否定倒装 + 名词性从句虚拟]\n- Only by adhering to these strict guidelines can the integrity of the experiment be maintained, should any unforeseen anomalies arise.（唯有遵循这些严格的标准，实验的完整性才能得到维护，万一出现任何意料之外的异常。）[Only倒装 + should省略if倒装]",
   "questions": [
     {
       "id": 1,
       "type": "multiple_choice",
-      "question": "Had the board of directors _______ the impending market downturn, they would not have authorized the costly merger last year.",
+      "question": "______ the proposal been submitted on time, the board would have considered funding the venture.",
       "options": {
-        "A": "foreseen",
-        "B": "foreseeing",
-        "C": "foresee",
-        "D": "to foresee"
+        "A": "If",
+        "B": "Had",
+        "C": "Should",
+        "D": "Were"
       },
-      "answer": "A",
-      "explanation": "本题考查省略 if 的虚拟条件句倒装。原句为 'If the board of directors had foreseen...'，省略 if 后将助动词 Had 提前，后接动词的过去分词 foreseen。"
+      "answer": "B",
+      "explanation": "本题考查省略连词 if 的虚拟条件句倒装。从句表示与过去事实相反的假设，原本为 'If the proposal had been submitted...'，省去 if 后将助动词 had 提前至主语前构成倒装 'Had the proposal been...'。"
     },
     {
       "id": 2,
       "type": "multiple_choice",
-      "question": "Only after the chief financial officer audited the ledgers _______ the discrepancies in the annual statement.",
+      "question": "Not until the results of the second trial were published ______ the public fully understand the breakthrough.",
       "options": {
-        "A": "he discovered",
-        "B": "did he discover",
-        "C": "he had discovered",
-        "D": "had he discovered"
+        "A": "did",
+        "B": "had",
+        "C": "would",
+        "D": "does"
       },
-      "answer": "B",
-      "explanation": "‘Only + 状语从句’位于句首时，主句需使用部分倒装。根据句意，主句动作发生在过去，助动词应用 did，后接主语 he 及动词原形 discover。"
+      "answer": "A",
+      "explanation": "否定词组 Not until 置于句首时，主句须采用部分倒装。时间状语从句表达过去发生的事（were published），主句发生在过去，故使用助动词 did 引导主句部分倒装。"
     },
     {
       "id": 3,
       "type": "multiple_choice",
-      "question": "The committee recommended that the proposal _______ immediately to prevent further revenue losses.",
+      "question": "The regulatory body requested that the company ______ its financial records immediately.",
       "options": {
-        "A": "is revised",
-        "B": "be revised",
-        "C": "was revised",
-        "D": "would be revised"
+        "A": "audits",
+        "B": "audited",
+        "C": "audit",
+        "D": "would audit"
       },
-      "answer": "B",
-      "explanation": "在动词 recommend 后的宾语从句中，需使用命令性虚拟语气（(should) + 动词原形）。因为主语 proposal 与 revise 是被动关系，故填 be revised。"
+      "answer": "C",
+      "explanation": "动词 request（要求）后的宾语从句需使用虚拟语气，谓语形式为 '(should) + 动词原形'，因此正确选项为 audit。"
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "question": "Scarcely _______ onto the stage when the power grid failed, plunging the auditorium into darkness.",
+      "question": "Barely ______ into the venue when the storm broke out, causing widespread power outages.",
       "options": {
-        "A": "the speaker had stepped",
-        "B": "had the speaker stepped",
-        "C": "did the speaker step",
-        "D": "the speaker stepped"
+        "A": "they had stepped",
+        "B": "had they stepped",
+        "C": "did they step",
+        "D": "were they stepping"
       },
       "answer": "B",
-      "explanation": "‘Scarcely... when...’ 句型中，否定副词 Scarcely 置于句首，主句须用过去完成时的部分倒装（had + 主语 + 过去分词）。"
+      "explanation": "否定副词 Barely 位于句首，且句型为 Barely... when...（刚一……就……），主句动作发生在 went/broke out 之前，表示“过去的过去”，主句须用过去完成时并采用部分倒装 had they stepped。"
     },
     {
       "id": 5,
       "type": "multiple_choice",
-      "question": "If you had taken the prophylactic medication as prescribed, you _______ suffering from these severe complications today.",
+      "question": "Were it not for the emergency relief package, thousands of families ______ homeless today.",
       "options": {
-        "A": "would not have been",
-        "B": "will not be",
-        "C": "would not be",
-        "D": "were not"
+        "A": "would be",
+        "B": "would have been",
+        "C": "will be",
+        "D": "are"
       },
-      "answer": "C",
-      "explanation": "本题考查错综时间虚拟条件句。从句条件是对过去的假设（had taken），而主句结果包含 today，是对现在的假设，主句谓语应使用 'would/could/might + 动词原形'（would not be）。"
+      "answer": "A",
+      "explanation": "本题考查混合时间虚拟语气。从句 'Were it not for...'（要不是有……）是对现在/一般情况的虚拟倒装，主句带有时间状语 today，表示对现在结果的假设，故主句谓语用 'would + 动词原形'（would be）。"
     },
     {
       "id": 6,
       "type": "multiple_choice",
-      "question": "Be it _______ so humble, there is no place like home.",
+      "question": "The witness insisted that he ______ the suspect near the bank at midnight, though the defense disputed this.",
       "options": {
-        "A": "ever",
-        "B": "never",
-        "C": "even",
-        "D": "however"
+        "A": "see",
+        "B": "had seen",
+        "C": "should see",
+        "D": "be seen"
       },
-      "answer": "A",
-      "explanation": "‘Be it ever so + 形容词’ 是固定让步虚拟倒装句型，意为‘纵使无论多么……’，相当于 ‘However humble it may be’。"
+      "answer": "B",
+      "explanation": "易错题！当 insist 意为“坚持认为/坚持宣称某种客观事实”时，从句不用虚拟语气，而用陈述语气。目击者坚持宣称的是过去已发生的事实，故用过去完成时 had seen。"
     },
     {
       "id": 7,
       "type": "multiple_choice",
-      "question": "Under no circumstances _______ without authorization from the compliance officer.",
+      "question": "Only when all security protocols have been thoroughly verified ______ access to the server room.",
       "options": {
-        "A": "classified documents should be released",
-        "B": "should classified documents be released",
-        "C": "classified documents ought to release",
-        "D": "should be released classified documents"
+        "A": "the engineers will gain",
+        "B": "will the engineers gain",
+        "C": "did the engineers gain",
+        "D": "the engineers gained"
       },
       "answer": "B",
-      "explanation": "否定介词短语 Under no circumstances 置于句首时，句子需部分倒装。助动词/情态动词 should 应置于主语 classified documents 之前。"
+      "explanation": "'Only + 状语从句' 置于句首时，主句须采用部分倒装。从句用现在完成时（have been verified）表示未来完成的事，主句应用一般将来时倒装：will the engineers gain。"
     },
     {
       "id": 8,
       "type": "multiple_choice",
-      "question": "Were the university to lower its admission standards, its academic reputation _______ irrevocably damaged.",
+      "question": "The technician double-checked the wiring lest the system ______ during the launch sequence.",
       "options": {
-        "A": "will be",
-        "B": "would be",
-        "C": "is to be",
-        "D": "had been"
+        "A": "malfunctioned",
+        "B": "should malfunction",
+        "C": "will malfunction",
+        "D": "malfunctions"
       },
       "answer": "B",
-      "explanation": "从句 ‘Were the university to lower...’ 为表示对将来情况假设的省略 if 条件句倒装。主句相应地应使用 ‘would/could/might + 动词原形’（would be）。"
+      "explanation": "连词 lest（唯恐、以防）引导的状语从句中，谓语动词须使用虚拟语气，形式为 '(should) + 动词原形'，故选 should malfunction（或 malfunction）。"
     },
     {
       "id": 9,
       "type": "multiple_choice",
-      "question": "Not until the late 20th century _______ fully acknowledge the environmental ramifications of industrialization.",
+      "question": "So overwhelming ______ the public response that the committee decided to extend the deadline.",
       "options": {
-        "A": "did global policymakers",
-        "B": "global policymakers did",
-        "C": "had global policymakers",
-        "D": "global policymakers had"
+        "A": "was",
+        "B": "it was",
+        "C": "did it be",
+        "D": "were"
       },
       "answer": "A",
-      "explanation": "‘Not until + 时间点/从句’ 位于句首时，主句采用部分倒装。一般过去时的助动词 did 放在主语 global policymakers 之前。"
+      "explanation": "'So + 表语/形容词' 置于句首时，主句结构倒装（So + adj. + 系动词/助动词 + 主语...）。主语为单数名词 the public response，谓语用过去时系动词 was。"
     },
     {
       "id": 10,
       "type": "multiple_choice",
-      "question": "It is high time that the international coalition _______ concrete measures to curb carbon emissions.",
+      "question": "Would that I ______ the offer when it was first presented to me last year!",
       "options": {
-        "A": "adopts",
-        "B": "adopted",
-        "C": "has adopted",
-        "D": "will adopt"
+        "A": "accepted",
+        "B": "had accepted",
+        "C": "accept",
+        "D": "would accept"
       },
       "answer": "B",
-      "explanation": "在 ‘It is (high/about) time that...’ 结构中，定语从句谓语动词常用过去式（表示对现状的不满或迫切建议），故选 adopted。"
+      "explanation": "固定句型 'Would that...' 表达强烈的愿望（意为“但愿……”），后接虚拟语气。此处是对过去情况（last year）的虚拟与遗憾，故谓语动词需用过去完成时 had accepted。"
     },
     {
       "id": 11,
       "type": "multiple_choice",
-      "question": "So persuasive _______ that even the most skeptical members of the jury were convinced.",
+      "question": "Little ______ how profoundly his discovery would alter the trajectory of modern physics.",
       "options": {
-        "A": "the prosecutor's argument was",
-        "B": "was the prosecutor's argument",
-        "C": "the prosecutor's argument had been",
-        "D": "had been the prosecutor's argument"
+        "A": "did the young scientist know",
+        "B": "the young scientist knew",
+        "C": "had the young scientist known",
+        "D": "knew the young scientist"
       },
-      "answer": "B",
-      "explanation": "‘So + 形容词/副词’ 置于句首时，主句需要部分倒装。此处为系表倒装：So persuasive + was (系动词) + the prosecutor's argument (主语)。"
+      "answer": "A",
+      "explanation": "否定副词 Little 置于句首，全句主句需采用部分倒装。陈述过去的事实，助动词用 did，主语后接动词原形 know。"
     },
     {
       "id": 12,
       "type": "multiple_choice",
-      "question": "I would rather you _______ me about the restructuring decisions before announcing them to the whole staff yesterday.",
+      "question": "It is high time that the government ______ decisive measures to curb environmental degradation.",
       "options": {
-        "A": "consulted",
-        "B": "have consulted",
-        "C": "had consulted",
-        "D": "would consult"
+        "A": "enacts",
+        "B": "enacted",
+        "C": "has enacted",
+        "D": "should enact"
       },
-      "answer": "C",
-      "explanation": "‘would rather + 主语 + 从句’ 表达对过去事实的虚拟或遗憾时，从句谓语用过去完成时（had consulted）。"
+      "answer": "B",
+      "explanation": "在 'It is (high) time that...' 句型中，定语从句必须使用虚拟语气，谓语动词常用“过去时”（enacted）或“should + 动词原形（should不可省略）”。选项中没有 should enacted/enact，故选项 B（enacted）为唯一正确标准答案。"
     },
     {
       "id": 13,
       "type": "multiple_choice",
-      "question": "Lest the confidential data _______ intercepted, the network engineer encrypted all outbound communication channels.",
+      "question": "Should any technical difficulties ______, please contact our support team immediately.",
       "options": {
-        "A": "is",
-        "B": "was",
-        "C": "be",
-        "D": "would be"
+        "A": "arise",
+        "B": "arose",
+        "C": "arisen",
+        "D": "would arise"
       },
-      "answer": "C",
-      "explanation": "引导词 lest（唯恐/以免）引导的状语从句中，谓语动词需用虚拟语气 `(should) + 动词原形`。被动形式即为 `(should) be intercepted`。"
+      "answer": "A",
+      "explanation": "省略连词 if 的将来/可能虚拟语气条件句倒装：'Should + 主语 + 动词原形'。原本为 'If any technical difficulties should arise...'，倒装后为 Should any technical difficulties arise。"
     },
     {
       "id": 14,
       "type": "multiple_choice",
-      "question": "Little _______ that the algorithm he developed would eventually revolutionize global logistics.",
+      "question": "No sooner ______ the negotiation than both parties issued a joint public declaration.",
       "options": {
-        "A": "the programmer suspected",
-        "B": "did the programmer suspect",
-        "C": "had the programmer suspected",
-        "D": "was the programmer suspecting"
+        "A": "they concluded",
+        "B": "had they concluded",
+        "C": "did they conclude",
+        "D": "have they concluded"
       },
       "answer": "B",
-      "explanation": "否定副词 Little 位于句首，后接主句部分倒装。叙述过去发生的具体事实用一般过去时助动词 did + 主语 + 动词原形 suspect。"
+      "explanation": "'No sooner... than...' 句型中，No sooner 位于句首时主句必须部分倒装，且 No sooner 主句用过去完成时（had they concluded），than 引导的从句用一般过去时（issued）。"
     },
     {
       "id": 15,
       "type": "multiple_choice",
-      "question": "The CEO demanded that the audit committee _______ its findings to the board by Monday morning.",
+      "question": "The CEO spoke about the expansion plan as though it ______ already a guaranteed success.",
       "options": {
-        "A": "present",
-        "B": "presents",
-        "C": "presented",
-        "D": "will present"
+        "A": "is",
+        "B": "were",
+        "C": "will be",
+        "D": "has been"
       },
-      "answer": "A",
-      "explanation": "demand 后的宾语从句使用命令性虚拟语气，谓语用 (should) + 动词原形，即 present。"
+      "answer": "B",
+      "explanation": "as though / as if 引导方式状语从句，表达与事实不符的假设时需用虚拟语气。与现在/当时事实相反，be 动词统一使用 were。"
     },
     {
       "id": 16,
       "type": "fill_in_the_blank",
-      "question": "Complete the sentence with the correct form of the verb in brackets:\n______ (be) it not for your timely intervention, the contractual negotiations would have collapsed completely.",
-      "answer": "Were",
-      "explanation": "考查与现在/一般情况假设相关的条件句省略 if 倒装。'If it were not for...' 省略 if 后变成 'Were it not for...'。"
+      "question": "Had the research team ________ (realize) the potential risk earlier, they would have modified the procedure.",
+      "options": null,
+      "answer": "realized",
+      "explanation": "本题考查省略 if 的虚拟条件句倒装。倒装结构为 Had + 主语 + 过去分词，故填充 realized。"
     },
     {
       "id": 17,
       "type": "fill_in_the_blank",
-      "question": "Complete the sentence with the correct inverted word order:\nNo sooner ______ ______ ______ (the plane / take) off than an engine malfunction was detected by the flight crew.",
-      "answer": "had the plane taken",
-      "explanation": "‘No sooner... than...’ 结构位于句首时，主句采用过去完成时的部分倒装：had + 主语 (the plane) + 过去分词 (taken)。"
+      "question": "It is imperative that every candidate ________ (submit) their application credentials prior to the deadline.",
+      "options": null,
+      "answer": "submit",
+      "explanation": "在 'It is imperative that...' 主语从句中，需使用指令性虚拟语气，动词形式为 '(should) + 动词原形'，故填 submit。"
     },
     {
       "id": 18,
       "type": "fill_in_the_blank",
-      "question": "Complete the sentence with the appropriate verb form:\nIt is imperative that every medical professional ______ (adhere) to strict ethical guidelines during clinical trials.",
-      "answer": "adhere",
-      "explanation": "在 'It is imperative that...' 主语从句中，谓语使用 (should) + 动词原形，故填 adhere。"
+      "question": "Not only ________ (be) the dataset corrupted during the transfer, but the redundant servers also failed completely.",
+      "options": null,
+      "answer": "was",
+      "explanation": "Not only 位于句首要求主句倒装。后面的动作 failed 说明发生在过去，且 dataset 为不可数名词，故系动词倒装为 was。"
     },
     {
       "id": 19,
       "type": "fill_in_the_blank",
-      "question": "Complete the sentence with the appropriate verb form:\n______ (should) you require any further clarification regarding the legal agreement, do not hesitate to contact our counsel.",
-      "answer": "Should",
-      "explanation": "对将来可能性的条件假设倒装。原句 'If you should require...' 省略 if 后将 Should 置于句首。"
+      "question": "Were the economic situation to deteriorate further, the central bank ________ (intervene) without hesitation.",
+      "options": null,
+      "answer": "would intervene",
+      "explanation": "从句 'Were... to deteriorate' 是对将来情况的虚拟条件句倒装，主句谓语动词形式应为 'would / could / might + 动词原形'，故填 would intervene。"
     },
     {
       "id": 20,
       "type": "fill_in_the_blank",
-      "question": "Complete the sentence with the inverted auxiliary and pronoun:\nNot only ______ ______ (she / excel) in quantum physics, but she also speaks four foreign languages fluently.",
-      "answer": "does she excel",
-      "explanation": "‘Not only... but also...’ 引导句首时，前一个分句部分倒装。一般现在时主语 she 搭配助动词 does，动词恢复原形 excel。"
+      "question": "Hardly had the controversial policy been announced when protests ________ (begin) in major cities.",
+      "options": null,
+      "answer": "began",
+      "explanation": "在 'Hardly had... when...' 结构中，Hardly 主句使用过去完成时倒装，when 引导的从句使用一般过去时（正装），故填 began。"
     },
     {
       "id": 21,
       "type": "error_correction",
-      "question": "Identify and correct the grammatical error in the following sentence:\n'Rarely the research team has encountered such an unexpected anomaly during their laboratory simulations.'",
-      "answer": "Rarely has the research team encountered such an unexpected anomaly during their laboratory simulations.",
-      "explanation": "否定频度副词 Rarely 置于句首时，句子未按要求进行部分倒装。应将助动词 has 调至主语 the research team 之前。"
+      "question": "找出句中的错误并改正：Not until did the manager arrive, the annual shareholder meeting began.",
+      "options": null,
+      "answer": "将 'Not until did the manager arrive, the annual shareholder meeting began.' 修改为 'Not until the manager arrived did the annual shareholder meeting begin.'",
+      "explanation": "Not until 引导从句置于句首时，until 从句本身保持陈述语序（the manager arrived），主句进行部分倒装（did the annual shareholder meeting begin）。原句倒装位置颠倒。"
     },
     {
       "id": 22,
       "type": "error_correction",
-      "question": "Identify and correct the grammatical error in the following sentence:\n'The judge insisted that the defendant was kept in custody until the trial commenced next month.'",
-      "answer": "The judge insisted that the defendant be kept in custody until the trial commenced next month.",
-      "explanation": "动词 insist 表达‘坚决要求’时，宾语从句须用虚拟语气 `(should) + 动词原形`。was kept 属于直陈式过去时，应改为 be kept（或 should be kept）。"
+      "question": "找出句中的错误并改正：The auditor recommended that the CFO is held accountable for the accounting discrepancy.",
+      "options": null,
+      "answer": "将 'is' 改为 'be' (或 'should be')",
+      "explanation": "recommend 后的宾语从句必须使用虚拟语气 (should) + 动词原形。被动语态应为 (should) be held，而不是陈述语气的 is held。"
     },
     {
       "id": 23,
       "type": "error_correction",
-      "question": "Identify and correct the grammatical error in the following sentence:\n'Had I knew about the unexpected flight delay earlier, I would have rescheduled my accommodation in Tokyo.'",
-      "answer": "Had I known about the unexpected flight delay earlier, I would have rescheduled my accommodation in Tokyo.",
-      "explanation": "虚拟语气条件句倒装形式为 `Had + 主语 + 过去分词`。knew 为过去式，应改为过去分词 known。"
+      "question": "找出句中的错误并改正：Had I known your contact details last week, I would write to you immediately.",
+      "options": null,
+      "answer": "将 'would write' 改为 'would have written'",
+      "explanation": "从句 Had I known... 与时间状语 last week 均表明是对过去事实的虚拟假设，主句也必须对应过去虚拟，形式为 would have + 过去分词（would have written）。"
     },
     {
       "id": 24,
       "type": "error_correction",
-      "question": "Identify and correct the grammatical error in the following sentence:\n'Only by implementing rigorous safety checks we can prevent potential industrial disasters.'",
-      "answer": "Only by implementing rigorous safety checks can we prevent potential industrial disasters.",
-      "explanation": "‘Only + 介词短语状语’ 位于句首，主句须采用部分倒装。应将情态动词 can 置于主语 we 之前。"
+      "question": "找出句中的错误并改正：Only when she completed the exhaustive report she turned off her office lights.",
+      "options": null,
+      "answer": "将 'she turned' 改为 'did she turn'",
+      "explanation": "'Only + 时间状语从句' 位于句首时，主句必须采用部分倒装语序。过去时态的倒装应借助于助动词 did，即 did she turn。"
     },
     {
       "id": 25,
       "type": "error_correction",
-      "question": "Identify and correct the grammatical error in the following sentence:\n'Not until did the press release go public the shareholders realized the extent of the financial losses.'",
-      "answer": "Not until the press release went public did the shareholders realize the extent of the financial losses.",
-      "explanation": "‘Not until’ 引导状语从句时，从句本身保持正常语序（went public），只有主句才进行部分倒装（did the shareholders realize）。原句错把从句倒装而主句未倒装。"
+      "question": "找出句中的错误并改正：It is essential that every committee member attends the emergency session tomorrow morning.",
+      "options": null,
+      "answer": "将 'attends' 改为 'attend' (或 'should attend')",
+      "explanation": "在 'It is essential that...' 结构中，从句需用虚拟语气，谓语动词用原形 attend，不受第三人称单数主语的影响。"
     },
     {
       "id": 26,
       "type": "sentence_transformation",
-      "question": "Rewrite the sentence starting with 'Had...':\n'If the lead engineer had not identified the structural flaw, the building might have collapsed during the earthquake.'",
-      "answer": "Had the lead engineer not identified the structural flaw, the building might have collapsed during the earthquake.",
-      "explanation": "省略 if 的倒装句中，否定词 not 仍然保留在主语之后，即 'Had + 主语 + not + 过去分词'。"
+      "question": "句型重写（改写为省略 if 的倒装句）：If the engineering team had detected the fault sooner, the accident could have been avoided.",
+      "options": null,
+      "answer": "Had the engineering team detected the fault sooner, the accident could have been avoided.",
+      "explanation": "虚拟条件句中省略 if 时，需将助动词 Had 置于主语 the engineering team 之前构成倒装。"
     },
     {
       "id": 27,
       "type": "sentence_transformation",
-      "question": "Rewrite the sentence starting with 'Under no circumstances...':\n'Employees must not share their security access credentials with unauthorized personnel under any circumstances.'",
-      "answer": "Under no circumstances must employees share their security access credentials with unauthorized personnel.",
-      "explanation": "否定介词短语 Under no circumstances 移至句首，情态动词 must 提前形成部分倒装。"
+      "question": "句型重写（以否定副词 Rarely 开头重构全句）：We rarely see such extraordinary talent combined with such relentless dedication.",
+      "options": null,
+      "answer": "Rarely do we see such extraordinary talent combined with such relentless dedication.",
+      "explanation": "将否定副词 Rarely 置于句首，全句使用一般现在时的部分倒装，借用助动词 do 提到主语 we 之前。"
     },
     {
       "id": 28,
       "type": "sentence_transformation",
-      "question": "Rewrite the sentence starting with 'Were...':\n'If the government were to raise corporate tax rates unexpectedly, many foreign investors would relocate their capital.'",
-      "answer": "Were the government to raise corporate tax rates unexpectedly, many foreign investors would relocate their capital.",
-      "explanation": "将来虚拟条件句 'If + 主语 + were to do' 省略 if 时，将 Were 提至句首并倒装。"
+      "question": "句型重写（改写为省略 if 的倒装句）：If it were not for your unwavering support, our venture would not be thriving now.",
+      "options": null,
+      "answer": "Were it not for your unwavering support, our venture would not be thriving now.",
+      "explanation": "虚拟条件句 If it were not for... 省略 if 时，将系动词 Were 提到主语 it 之前，写为 Were it not for..."
     },
     {
       "id": 29,
       "type": "sentence_transformation",
-      "question": "Rewrite the sentence using 'It is vital that...':\n'The managing director must review the quarterly audit report prior to the board meeting.'",
-      "answer": "It is vital that the managing director review the quarterly audit report prior to the board meeting.",
-      "explanation": "利用 'It is vital that...' 结构的命令性虚拟语气重写，从句谓语采用原形动词 review（即省略 should）。"
+      "question": "句型重写（以 Not until 开头重写句子）：She realized the significance of the document only after she left the conference.",
+      "options": null,
+      "answer": "Not until she left the conference did she realize the significance of the document.",
+      "explanation": "Not until 引导状语从句置于句首，从句保持正装 (she left...)，主句进行部分倒装 (did she realize...)"
     },
     {
       "id": 30,
       "type": "sentence_transformation",
-      "question": "Rewrite the sentence starting with 'Hardly...':\n'As soon as the new software update was deployed, a critical system error occurred.'",
-      "answer": "Hardly had the new software update been deployed when a critical system error occurred.",
-      "explanation": "将 'As soon as...' 改写为 'Hardly... when...' 结构，句首否定副词 Hardly 触发过去完成时的部分倒装（had + 主语 + 过去分词）。"
+      "question": "句型重写（使用虚拟语气改写）： The manager said: 'You must sign the agreement before Friday.' (Rewritten as: The manager insisted that...)",
+      "options": null,
+      "answer": "The manager insisted that he/she sign the agreement before Friday. (或 ...that the agreement be signed...)",
+      "explanation": "insist 表示要求/命令时，引导宾语从句需使用虚拟语气 (should) + 动词原形，故用 sign 或 be signed。"
     }
   ]
 }
