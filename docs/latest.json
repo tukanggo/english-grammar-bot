@@ -1,14 +1,14 @@
 {
   "date": "2026-11-06",
   "target_audience": "Primary & Secondary School (Ages 9-17)",
-  "topic": "非谓语动词全能突破（Non-finite Verbs: Infinitive, Gerund & Participles）",
-  "teaching_notes": "1. 【核心概念】：非谓语动词就像是动词变身成的“斜杠青年”。在英语中，一个句子通常只能有一个主句谓语动词。如果还想表达其他动作，这些动词就必须“变身”为非谓语动词——不定式(to do)、动名词(doing)或分词(doing/done)，分别充当主语、宾语、定语或状语。\n2. 【语法公式与口诀】\n - 不定式 (to do)：表“目的、将来、未发生”；\n - 动名词 (doing)：表“习惯、常态、抽象名词化”；\n - 现在分词 (doing)：表“主动、正在进行”；\n - 过去分词 (done)：表“被动、已经完成”。\n - 考场口诀：“一句一谓语，多动非谓补！主用ing，被用ed，目的未做to do立！”\n3. 【中小学生易错点】\n - 错点1：双谓语冲突。错误：I like play games. (应为 like playing / to play)\n - 错点2：介词后面误用动词原形。如 look forward to 里的 to 是介词，后面必须加 doing！\n - 错点3：分词作状语时逻辑主语不一致（悬垂分词）。错误：Walking in the park, the bell rang. (树和钟不会走路，逻辑主语必须与句子主语一致)。\n4. 【经典例句】\n ① I decided to study hard for the coming exam. (我决定为即将到来的考试努力学习。—— to do表目的/将来)\n ② She enjoys reading storybooks after school. (她喜欢放学后读故事书。—— enjoy后固定接doing)\n ③ Seeing the big dog, the little boy felt scared. (看到大狗，小男孩感到害怕。—— doing作状语，boy与see是主动关系)",
+  "topic": "非谓语动词综合进阶大闯关 (Non-Finite Verbs: To-do, Doing & Done)",
+  "teaching_notes": "1. 【核心概念】：把动词想象成超级英雄！在一句话里，只能有一个“正牌主角”（主句谓语动词）。如果还想加入其他动词，它们就必须戴上“面具”变身为非谓语动词（to do, doing, done），去扮演名词、形容词或副词的角色。\n2. 【公式与口诀】：结构公式：主语 + 谓语动词 + 非谓语动词 (to do / doing / done)。口诀：“一句不容二谓语，非谓变身来打工；to do 目的未发生，doing 主动进行中，done 字一出被动成！”\n3. 【避坑指南】：① 介词后面要接动名词（如 good at swimming，切忌用原形）；② 混淆 stop to do（停下来去做另一件事）与 stop doing（停止正在做的事）；③ 中学压轴题中分词作状语时，容易忽略逻辑主语必须与主句主语保持一致（防止出现“悬垂分词”）。\n4. 【经典例句】：\n① She decided to study hard for the upcoming English exam.（她决定为了即将到来的英语考试努力学习。—— to do 表将来与目的）\n② My brother enjoys listening to music after doing his homework.（我弟弟喜欢在做完作业后听音乐。—— doing 介词后及固定搭配）\n③ Encouraged by his teacher, Tim passed the tough challenge.（受到老师的鼓励，蒂姆通过了艰难的挑战。—— done 表被动与完成）",
   "questions": [
     {
       "id": 1,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My younger brother enjoys _____ English storybooks before going to sleep.",
+      "question": "My sister enjoys ________ storybooks before going to bed every night.",
       "options": {
         "A": "read",
         "B": "reading",
@@ -16,338 +16,323 @@
         "D": "reads"
       },
       "answer": "B",
-      "explanation": "考查动名词作宾语。enjoy 后面必须接动词的 -ing 形式（enjoy doing sth.），表示“喜欢做某事”。故选 B。"
+      "explanation": "【考点：固定搭配】enjoy 后面接动词时，必须使用动名词形式 enjoy doing sth.，意为“喜欢做某事”。"
     },
     {
       "id": 2,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "It is very important for students _____ healthy food every day.",
+      "question": "The weather is very cold outside. Remember ________ your heavy coat when you leave.",
       "options": {
-        "A": "eating",
-        "B": "eat",
-        "C": "to eat",
-        "D": "ate"
+        "A": "put on",
+        "B": "putting on",
+        "C": "to put on",
+        "D": "puts on"
       },
       "answer": "C",
-      "explanation": "考查动词不定式作真正主语。句型结构为“It is + adj. + for sb. + to do sth.”，其中的 It 是形式主语，真正的主语是后面的不定式 to eat。故选 C。"
+      "explanation": "【考点：remember的用法】记住“将要做某事”（动作尚未发生）用 remember to do sth.；如表示“记得做过某事”则用 doing。"
     },
     {
       "id": 3,
       "level": "Primary (P4-P6)",
-      "type": "multiple_choice",
-      "question": "Don't forget _____ off the lights when you leave the classroom.",
-      "options": {
-        "A": "turning",
-        "B": "to turn",
-        "C": "turn",
-        "D": "turned"
-      },
-      "answer": "B",
-      "explanation": "考查 forget 的用法。forget to do sth. 表示“忘记要做某事（事情尚未做）”；forget doing sth. 表示“忘记做过某事（事情已做）”。根据句意“离开教室时别忘了关灯”，动作尚未发生，应用 to turn。故选 B。"
+      "type": "fill_in_the_blank",
+      "question": "He was so tired that he stopped ________ (have) a short break under the tree.",
+      "options": null,
+      "answer": "to have",
+      "explanation": "【考点：stop的用法】stop to do sth. 表示“停下手中的事情，去开展另一件事（休息）”。"
     },
     {
       "id": 4,
       "level": "Primary (P4-P6)",
-      "type": "fill_in_the_blank",
-      "question": "The English teacher made all the students _____ (clean) the classroom together.",
-      "options": null,
-      "answer": "clean",
-      "explanation": "考查使役动词 make 的用法。make sb. do sth. 表示“让/使某人做某事”，后接不带 to 的动词不定式（即动词原形 clean）。"
+      "type": "multiple_choice",
+      "question": "Thank you for ________ me with my math homework yesterday.",
+      "options": {
+        "A": "help",
+        "B": "helping",
+        "C": "to help",
+        "D": "helped"
+      },
+      "answer": "B",
+      "explanation": "【考点：介词后接doing】for 是介词，介词后面接动词时要用 V-ing 形式（动名词）。"
     },
     {
       "id": 5,
       "level": "Primary (P4-P6)",
-      "type": "multiple_choice",
-      "question": "Lucy stopped _____ the flowers because it suddenly began to rain.",
-      "options": {
-        "A": "watering",
-        "B": "to water",
-        "C": "watered",
-        "D": "waters"
-      },
-      "answer": "A",
-      "explanation": "考查 stop 的用法。stop doing sth. 表示“停止正在做的事情”；stop to do sth. 表示“停下来去干另一件事”。因为下雨了，所以是停止“浇花”这一动作，用 watering。故选 A。"
+      "type": "error_correction",
+      "question": "【改错题】Please line up and avoid to make noise in the school library.",
+      "options": null,
+      "answer": "将 to make 改为 making",
+      "explanation": "【考点：avoid的用法】avoid 属于“只能接动名词”的动词词组（avoid doing sth.），意为“避免做某事”。"
     },
     {
       "id": 6,
       "level": "Primary (P4-P6)",
-      "type": "error_correction",
-      "question": "Tom would like playing soccer with his classmates this Saturday afternoon.",
-      "options": null,
-      "answer": "playing -> to play",
-      "explanation": "考查 would like 的固定搭配。would like 后接动词不定式（would like to do sth.），表示“想要做某事”。应将 playing 改为 to play。"
+      "type": "multiple_choice",
+      "question": "Our English teacher decided ________ a spelling contest next Friday.",
+      "options": {
+        "A": "to hold",
+        "B": "holding",
+        "C": "hold",
+        "D": "held"
+      },
+      "answer": "A",
+      "explanation": "【考点：decide的用法】decide 后面固定接动词不定式（decide to do sth.），表示“决定做某事”。"
     },
     {
       "id": 7,
       "level": "Primary (P4-P6)",
-      "type": "multiple_choice",
-      "question": "My parents agreed _____ me a new bike if I pass the exam.",
-      "options": {
-        "A": "buying",
-        "B": "buy",
-        "C": "to buy",
-        "D": "bought"
-      },
-      "answer": "C",
-      "explanation": "考查 agree 的用法。agree to do sth. 是固定搭配，意为“同意做某事”。故选 C。"
+      "type": "fill_in_the_blank",
+      "question": "My little brother is interested in ________ (play) chess with my father.",
+      "options": null,
+      "answer": "playing",
+      "explanation": "【考点：be interested in结构】in 是介词，后面需使用动词的 -ing 形式 playing。"
     },
     {
       "id": 8,
       "level": "Primary (P4-P6)",
-      "type": "fill_in_the_blank",
-      "question": "Thank you so much for _____ (help) me with my English homework.",
+      "type": "sentence_transformation",
+      "question": "【句型转换】It is very important to brush your teeth every morning. (改为同义句)\n________ your teeth every morning is very important.",
       "options": null,
-      "answer": "helping",
-      "explanation": "考查介词后接动名词。for 是介词，介词后面后接动词时须使用动名词形式 (doing)，因此填写 helping。"
+      "answer": "Brushing",
+      "explanation": "【考点：动名词作主语】不定式作形式主语时，可改写为动名词（Brushing your teeth...）在句首作主语。"
     },
     {
       "id": 9,
       "level": "Primary (P4-P6)",
-      "type": "sentence_transformation",
-      "question": "Rewrite using an infinitive (不定式): Tim went to the library. He wanted to borrow some science books.\n-> Tim went to the library _____ borrow some science books.",
-      "options": null,
-      "answer": "to",
-      "explanation": "考查动词不定式表目的。用 to borrow 做目的状语，连接两句话。"
+      "type": "multiple_choice",
+      "question": "The coffee is too hot for the little boy ________ right now.",
+      "options": {
+        "A": "drink",
+        "B": "drinking",
+        "C": "to drink",
+        "D": "drank"
+      },
+      "answer": "C",
+      "explanation": "【考点：too...to...句型】too + 形容词/副词 + for sb. + to do sth. 表示“太……以至于某人不能做某事”。"
     },
     {
       "id": 10,
       "level": "Primary (P4-P6)",
-      "type": "multiple_choice",
-      "question": "We saw a colorful bird _____ in the tree when we walked in the park.",
-      "options": {
-        "A": "singing",
-        "B": "to sing",
-        "C": "sang",
-        "D": "sung"
-      },
-      "answer": "A",
-      "explanation": "考查感官动词 see 的用法。see sb./sth. doing sth. 表示“看见某人/某物正在做某事（强调动作正在进行）”。故选 A。"
+      "type": "fill_in_the_blank",
+      "question": "The police officer asked the driver ________ (show) his driving license.",
+      "options": null,
+      "answer": "to show",
+      "explanation": "【考点：ask sb. to do】ask 属于要求类动词，常用结构为 ask somebody to do something（要求某人做某事）。"
     },
     {
       "id": 11,
       "level": "Primary (P4-P6)",
       "type": "error_correction",
-      "question": "All the children are looking forward to visit the science museum.",
+      "question": "【改错题】The children spent two hours to clean the playground yesterday.",
       "options": null,
-      "answer": "visit -> visiting",
-      "explanation": "考查高频避坑点：look forward to 中的 to 是介词，后面必须接名词或动名词（doing）。因此应将 visit 改为 visiting。"
+      "answer": "将 to clean 改为 cleaning",
+      "explanation": "【考点：spend句型】spend time (in) doing sth. 表示“花费时间做某事”，介词 in 可省略，动词须用 V-ing。"
     },
     {
       "id": 12,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "This box is too heavy for the little girl _____.",
+      "question": "Would you like ________ to the amusement park with us this Saturday?",
       "options": {
-        "A": "carrying",
-        "B": "to carry",
-        "C": "carry",
-        "D": "carried"
+        "A": "go",
+        "B": "going",
+        "C": "to go",
+        "D": "goes"
       },
-      "answer": "B",
-      "explanation": "考查 too... to... 结构。句型“too + adj. + for sb. + to do sth.”意为“太……以至于某人不能做某事”。故选 B。"
+      "answer": "C",
+      "explanation": "【考点：would like的用法】would like 后面要接动词不定式（would like to do sth.），意为“想要做某事”。"
     },
     {
       "id": 13,
       "level": "Primary (P4-P6)",
-      "type": "fill_in_the_blank",
-      "question": "Please remember _____ (lock) the door when you go out.",
+      "type": "sentence_transformation",
+      "question": "【句型转换】Why don't we go camping near the lake this afternoon? (改为同义句)\nHow about ________ camping near the lake this afternoon?",
       "options": null,
-      "answer": "to lock",
-      "explanation": "考查 remember to do sth. 表示“记住要做某事（尚未发生）”。出门前提醒“记得关门”，需填 to lock。"
+      "answer": "going",
+      "explanation": "【考点：建议句型转换】How about / What about 后面须接动名词 V-ing。"
     },
     {
       "id": 14,
       "level": "Primary (P4-P6)",
-      "type": "sentence_transformation",
-      "question": "Combine into one sentence using a gerund (动名词): Drawing pictures is fun. Lily likes it.\n-> Lily likes _____ (draw) pictures.",
+      "type": "fill_in_the_blank",
+      "question": "Don't forget ________ (turn) off the lights before you leave the classroom.",
       "options": null,
-      "answer": "drawing",
-      "explanation": "考查动名词做宾语。like doing sth. 表示“喜欢做某事”，将 draw 变为 drawing。"
+      "answer": "to turn",
+      "explanation": "【考点：forget的用法】forget to do sth. 表示“不要忘记去实施尚未发生的动作”。"
     },
     {
       "id": 15,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "What about _____ to the seaside by bike this Sunday?",
+      "question": "I saw Tom ________ basketball on the playground when I walked past.",
       "options": {
-        "A": "go",
-        "B": "going",
-        "C": "to go",
-        "D": "went"
+        "A": "play",
+        "B": "playing",
+        "C": "to play",
+        "D": "played"
       },
       "answer": "B",
-      "explanation": "考查提建议句式。What about / How about 其中的 about 为介词，后面跟随动词的 -ing 形式。故选 B。"
+      "explanation": "【考点：感官动词+doing】see sb. doing sth. 表示“看见某人正在做某事”（强调动作正在发生进行）。"
     },
     {
       "id": 16,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "_____ the bad news that her dog was lost, the girl could not help crying.",
+      "question": "________ the loud knock at the front door, the dog started barking fiercely.",
       "options": {
-        "A": "Heard",
-        "B": "Hearing",
-        "C": "To hear",
-        "D": "Having heard"
+        "A": "Hear",
+        "B": "To hear",
+        "C": "Hearing",
+        "D": "Heard"
       },
-      "answer": "B",
-      "explanation": "考查现在分词作时间状语。句子主语 the girl 与 hear 是主动关系，且动作几乎同时发生，使用现在分词 Hearing 表示“一听到……”。故选 B。"
+      "answer": "C",
+      "explanation": "【考点：现在分词作时间状语】逻辑主语 the dog 与 hear 之间是主动关系，用现在分词 Hearing 表示“一听到……”。"
     },
     {
       "id": 17,
       "level": "Secondary (Form 1-5)",
       "type": "fill_in_the_blank",
-      "question": "The ceramic vase _____ (break) by the playful cat yesterday was an expensive antique.",
+      "question": "________ (finish) all the required documents, the manager signed his name on the contract.",
       "options": null,
-      "answer": "broken",
-      "explanation": "考查过去分词作后置定语。vase（花瓶）与 break（打碎）是被动关系，且动作已完成，故用过去分词 broken。"
+      "answer": "Having finished",
+      "explanation": "【考点：现在分词的完成式】finish 动作发生在主句谓语 signed 之前，且主语 manager 是主动发出者，故填 Having finished。"
     },
     {
       "id": 18,
       "level": "Secondary (Form 1-5)",
-      "type": "multiple_choice",
-      "question": "The renowned scientist stepped onto the stage, _____ by a group of passionate students.",
-      "options": {
-        "A": "following",
-        "B": "followed",
-        "C": "to follow",
-        "D": "follow"
-      },
-      "answer": "B",
-      "explanation": "考查分词作伴随状语。主语 The scientist 与 follow 之间是被动关系（科学家被学生跟随），故用过去分词 followed。故选 B。"
+      "type": "error_correction",
+      "question": "【改错题】Comparing with last year's sales figures, our company has made significant progress.",
+      "options": null,
+      "answer": "将 Comparing 改为 Compared",
+      "explanation": "【考点：过去分词作状语】主语 our company 与 compare 之间是被动关系（“与……相比”），应使用过去分词 Compared with。"
     },
     {
       "id": 19,
       "level": "Secondary (Form 1-5)",
-      "type": "error_correction",
-      "question": "Walking down the street, the heavy rain started to fall down.",
+      "type": "sentence_transformation",
+      "question": "【句型转换】Because he was deeply moved by the film, the boy could not stop crying. (改为分词短语作状语)\n________ by the film, the boy could not stop crying.",
       "options": null,
-      "answer": "Walking down the street -> As I was walking down the street (or change main clause to: I was caught in the heavy rain)",
-      "explanation": "考查压轴避坑点“悬垂分词（Dangling Participle）”。Walking 的逻辑主语不能是 heavy rain（雨不能在街上走）。必须修改为状语从句或调整主句主语使其逻辑一致。"
+      "answer": "Deeply moved",
+      "explanation": "【考点：过去分词作原因状语】省略从句主语和连词，动词 move 与主语 the boy 呈被动关系，保留过去分词短语 Deeply moved。"
     },
     {
       "id": 20,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "He deeply regrets _____ hard when he was studying at secondary school.",
+      "question": "With all the preparations ________, the annual science festival will begin on time.",
       "options": {
-        "A": "not to study",
-        "B": "not studying",
-        "C": "having not studied",
-        "D": "to not study"
+        "A": "completing",
+        "B": "completed",
+        "C": "to complete",
+        "D": "complete"
       },
       "answer": "B",
-      "explanation": "考查 regret 的用法及非谓语动词的否定形式。regret doing sth. 表示“后悔做过某事”；非谓语动词的否定要在非谓语前加 not，即 not doing。故选 B。"
+      "explanation": "【考点：With复合结构】“with + 宾语 + 宾补”，preparations（准备工作）与 complete 之间是被动且已完成关系，故用过去分词 completed。"
     },
     {
       "id": 21,
       "level": "Secondary (Form 1-5)",
-      "type": "sentence_transformation",
-      "question": "Transform the adverbial clause into a participle phrase:\nBecause he felt exhausted, Mark went to sleep immediately.\n-> _____ (feel) exhausted, Mark went to sleep immediately.",
+      "type": "fill_in_the_blank",
+      "question": "The doctor strongly advised him to give up ________ (smoke) to improve his health.",
       "options": null,
-      "answer": "Feeling",
-      "explanation": "考查现在分词短语作原因状语。主语 Mark 与 feel 是主动关系，将原因状语从句改写为分词短语 Feeling exhausted。"
+      "answer": "smoking",
+      "explanation": "【考点：短语动词+doing】give up 属于“动词+介词”短语，介词 up 后接动名词 smoking。"
     },
     {
       "id": 22,
       "level": "Secondary (Form 1-5)",
-      "type": "fill_in_the_blank",
-      "question": "With all the tasks _____ (finish), the project team decided to celebrate their success.",
-      "options": null,
-      "answer": "finished",
-      "explanation": "考查 with 的复合结构（with + 宾语 + 宾补）。tasks 与 finish 之间是被动且已完成关系，故用过去分词 finished 充当宾语补足语。"
+      "type": "multiple_choice",
+      "question": "All the students are looking forward to ________ the famous scientist at the auditorium.",
+      "options": {
+        "A": "meet",
+        "B": "meeting",
+        "C": "be met",
+        "D": "met"
+      },
+      "answer": "B",
+      "explanation": "【考点：look forward to中to为介词】look forward to 中的 to 是介词而非不定式符号，后面必须接 V-ing（meeting）。"
     },
     {
       "id": 23,
       "level": "Secondary (Form 1-5)",
-      "type": "multiple_choice",
-      "question": "The suspect was noticed _____ out of the bank with a black bag in his hand.",
-      "options": {
-        "A": "run",
-        "B": "to run",
-        "C": "running",
-        "D": "ran"
-      },
-      "answer": "C",
-      "explanation": "考查感官动词被动语态中的补足语。notice sb. doing 被动语态为 sb. be noticed doing（被注意到正在做某事），强调动作正在进行。故选 C。"
+      "type": "error_correction",
+      "question": "【改错题】Seeing from the top of the tower, the city looks like a huge chessboard.",
+      "options": null,
+      "answer": "将 Seeing 改为 Seen",
+      "explanation": "【考点：分词逻辑主语一致性】主语是 the city，城市是被看（be seen），故分词必须用过去分词 Seen，避免悬垂分词错误。"
     },
     {
       "id": 24,
       "level": "Secondary (Form 1-5)",
-      "type": "multiple_choice",
-      "question": "Have you ever considered _____ abroad to pursue a master's degree?",
-      "options": {
-        "A": "going",
-        "B": "to go",
-        "C": "go",
-        "D": "gone"
-      },
-      "answer": "A",
-      "explanation": "考查 consider 的用法。consider 表示“考虑”时，后面必须跟动名词作宾语（consider doing sth.）。故选 A。"
+      "type": "sentence_transformation",
+      "question": "【句型转换】Though he was tired, he kept on working to meet the deadline. (改为形容词/分词作状语)\n________, he kept on working to meet the deadline.",
+      "options": null,
+      "answer": "Tired",
+      "explanation": "【考点：分词/形容词作让步状语】省去状语从句主语和 be 动词，直接保留形容词/过去分词 Tired 作状语。"
     },
     {
       "id": 25,
       "level": "Secondary (Form 1-5)",
-      "type": "error_correction",
-      "question": "The annual report to complete next Friday requires careful reviewing.",
-      "options": null,
-      "answer": "to complete -> to be completed",
-      "explanation": "考查不定式的被动语态作定语。report（报告）与 complete（完成）是被动关系，且表将来（next Friday），因此需用不定式的被动语态 to be completed。"
+      "type": "multiple_choice",
+      "question": "The problem is so complex that it leaves us no choice but ________ for professional help.",
+      "options": {
+        "A": "ask",
+        "B": "asking",
+        "C": "to ask",
+        "D": "asked"
+      },
+      "answer": "C",
+      "explanation": "【考点：have no choice but to do】have no choice but to do sth. 为固定搭配，意为“别无选择只能做某事”。"
     },
     {
       "id": 26,
       "level": "Secondary (Form 1-5)",
-      "type": "sentence_transformation",
-      "question": "Rewrite using 'so as to':\nShe woke up early so that she could catch the first bus.\n-> She woke up early so as _____ (catch) the first bus.",
+      "type": "fill_in_the_blank",
+      "question": "I deeply regret ________ (not listen) to my parent's advice when choosing my major.",
       "options": null,
-      "answer": "to catch",
-      "explanation": "考查目的状语转换。so that + 句子 可转换为 so as to do sth.，表示“为了……”。"
+      "answer": "not listening / not having listened",
+      "explanation": "【考点：regret+doing否定式】regret (not) doing / having done sth. 表示“后悔（没有）做过某事”。"
     },
     {
       "id": 27,
       "level": "Secondary (Form 1-5)",
-      "type": "fill_in_the_blank",
-      "question": "Strictly _____ (speak), your answer is not entirely accurate according to the rule.",
-      "options": null,
-      "answer": "speaking",
-      "explanation": "考查分词的独立领域固定表达。strictly speaking 为固定短语，意为“严格来说”。"
+      "type": "multiple_choice",
+      "question": "The boy ________ under the banyan tree with a book in his hand is our class monitor.",
+      "options": {
+        "A": "sitting",
+        "B": "sat",
+        "C": "is sitting",
+        "D": "to sit"
+      },
+      "answer": "A",
+      "explanation": "【考点：现在分词作后置定语】The boy 与 sit 为主动且正在进行的动作，作后置定语修饰 the boy，相当于 who is sitting。"
     },
     {
       "id": 28,
       "level": "Secondary (Form 1-5)",
-      "type": "multiple_choice",
-      "question": "There is no point _____ over spilled milk; we need to find a solution now.",
-      "options": {
-        "A": "to cry",
-        "B": "crying",
-        "C": "in cry",
-        "D": "cried"
-      },
-      "answer": "B",
-      "explanation": "考查固定句型“There is no point (in) doing sth.”，意为“做某事是没有意义的”。故选 B。"
+      "type": "error_correction",
+      "question": "【改错题】To tell you the truth, there is nothing for us to be worried about.",
+      "options": null,
+      "answer": "将 to be worried about 改为 to worry about",
+      "explanation": "【考点：不定式作后置定语的主被动】there is nothing to worry about 中，不定式在逻辑上修饰 nothing，约定俗成用主动形式表达被动含义。"
     },
     {
       "id": 29,
       "level": "Secondary (Form 1-5)",
-      "type": "multiple_choice",
-      "question": "The complex issue _____ at yesterday's meeting will be resolved soon.",
-      "options": {
-        "A": "discussed",
-        "B": "being discussed",
-        "C": "to be discussed",
-        "D": "discussing"
-      },
-      "answer": "A",
-      "explanation": "考查分词作定语的时态与语态区分。issue 与 discuss 是被动关系，且发生在昨天（yesterday's meeting，已完成），故用过去分词 discussed。being discussed 表示“正在被讨论”，to be discussed 表示“将要被讨论”。故选 A。"
+      "type": "sentence_transformation",
+      "question": "【句型转换】After she had completed the project, she was granted a two-week holiday. (用现在分词完成式改写)\n________ the project, she was granted a two-week holiday.",
+      "options": null,
+      "answer": "Having completed",
+      "explanation": "【考点：分词完成式作时间状语】Having completed 明确表达了动作发生的主从先后顺序。"
     },
     {
       "id": 30,
       "level": "Secondary (Form 1-5)",
-      "type": "error_correction",
-      "question": "Compare with traditional teaching method, online learning offers more flexibility.",
+      "type": "fill_in_the_blank",
+      "question": "Weather ________ (permit), the outdoor graduation ceremony will be held on the central lawn tomorrow.",
       "options": null,
-      "answer": "Compare -> Compared",
-      "explanation": "考查固定分词状语“Compared with/to...”（与……相比）。online learning 与 compare 是被动关系，必须使用过去分词 Compared 开头。"
+      "answer": "permitting",
+      "explanation": "【考点：独立主格结构】Weather 是 permitting 的逻辑主语，与主句主语不一致且属于主动关系，构成 Weather permitting 独立主格作条件状语。"
     }
   ]
 }
