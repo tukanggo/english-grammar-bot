@@ -1,428 +1,428 @@
 {
-  "date": "2026-11-07",
+  "date": "2026-11-08",
   "target_audience": "Primary & Secondary School (Ages 9-17)",
-  "topic": "非谓语动词核心破译与考纲进阶（To do / Doing / Done）",
-  "teaching_notes": "1. 【核心概念】：非谓语动词就像是动词变身成了“变形金刚”。一句话里通常只能有一个核心“保镖”（谓语动词）。如果还想加入其他动作，这些动词就必须变身为名词、形容词或副词，去干别的活儿（做主语、宾语、定语或状语）！\n2. 【语法公式与口诀】：\n- To do（动词不定式）：表“将来、未发生、具体目的”；\n- Doing（动名词/现在分词）：表“习惯、正在进行、主动”；\n- Done（过去分词）：表“被动、已经完成”。\n- 记忆口诀：“一句不容二谓语，非谓变身来补位；To表将来与目的，Doing正在与主动，Done表被动已完成！”\n3. 【中小学生易错点】：\n- 易错1：双谓语冲突。如 *I like play games*（❌） -> 应改为 *I like playing games*（✔️）。\n- 易错2：分词混淆（-ing修饰物/表令人...，-ed修饰人/表感到...）。如 *I am boring*（❌，意为我是个无趣的人） -> 应改为 *I am bored*（✔️，感到无聊）。\n- 易错3：介词to与不定式符号to混淆。如 *look forward to do*（❌） -> 应改为 *look forward to doing*（✔️）。\n4. 【经典例句】：\n- She decided to study hard for the exam.（她决定为考试努力学习。- 不定式表目的/未发生）\n- Learning English is fun and useful.（学习英语既有趣又有用。- 动名词作主语）\n- Encouraged by the teacher, he made rapid progress.（受到老师的鼓励，他进步迅速。- 过去分词表被动状语）",
+  "topic": "被动语态全程突破 (The Passive Voice: From Basics to Advanced)",
+  "teaching_notes": "1. 【核心概念】：被动语态就像英语里的“变身术”！当动作的“承受者”（如小猫、作业、苹果）想要走到句首做主角，或者不需要/不知道谁是动作的执行者时，句子的谓语动词就要穿上“被动外套”。\n2. 【公式与口诀】：被动语态核心公式：be + 动词过去分词 (V-ed/V3)。记忆口诀：“被动语态 be 动词，时态变化看 be 身；过去分词紧跟后，动作承受者做主人！”\n3. 【避坑指南】：① 漏写 be 动词（如错写成 'The book written by me'，遗漏了was/is）；② 混淆过去式与过去分词（如把 eaten 错写成 ate）；③ 忽略主谓一致（不可数名词或复数主语对应的 be 动词形式错误）。\n4. 【经典例句】：\n- Primary: The homework is finished by Tom every day. (每天作业都被汤姆完成。)\n- Middle School: A new bridge was built over the river last year. (去年这条河上建起了一座新桥。)\n- High School: The problem must be solved before the meeting starts. (这个问题必须在会议开始前被解决。)",
   "questions": [
     {
       "id": 1,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Tom wants ________ a new bicycle for his 10th birthday.",
+      "question": "English _______ by millions of people all over the world.",
       "options": {
-        "A": "buy",
-        "B": "to buy",
-        "C": "buying",
-        "D": "bought"
+        "A": "speaks",
+        "B": "is spoken",
+        "C": "spoke",
+        "D": "was spoken"
       },
       "answer": "B",
-      "explanation": "考查固定搭配 want to do sth.（想要做某事），不定式 to buy 作宾语，表示未发生的动作。"
+      "explanation": "考查一般现在时的被动语态。主语 English 为不可数名词，且表示客观事实，谓语用 is spoken。"
     },
     {
       "id": 2,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My sister enjoys ________ storybooks in the school library after class.",
+      "question": "The classroom _______ by the students every afternoon.",
       "options": {
-        "A": "read",
-        "B": "to read",
-        "C": "reading",
-        "D": "reads"
+        "A": "cleans",
+        "B": "is cleaned",
+        "C": "cleaned",
+        "D": "was cleaned"
       },
-      "answer": "C",
-      "explanation": "考查固定搭配 enjoy doing sth.（喜欢做某事），后接动名词 reading 作宾语。"
+      "answer": "B",
+      "explanation": "根据时间状语 every afternoon 可知用一般现在时，主语 The classroom 是动作承受者，故用 is cleaned。"
     },
     {
       "id": 3,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "We need to stop ________ now because our English teacher is coming in.",
+      "question": "Yesterday, a beautiful picture _______ by Lucy in the park.",
       "options": {
-        "A": "talking",
-        "B": "to talk",
-        "C": "talked",
-        "D": "talks"
+        "A": "is painted",
+        "B": "paints",
+        "C": "was painted",
+        "D": "painted"
       },
-      "answer": "A",
-      "explanation": "考查 stop doing 与 stop to do 的区别。根据后半句“老师进来了”，可知是“停止正在做的事（说话）”，用 stop talking。"
+      "answer": "C",
+      "explanation": "时间状语 Yesterday 提示用一般过去时，画是被画出来的，故用过去时的被动语态 was painted。"
     },
     {
       "id": 4,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Don't forget ________ your homework before going to bed tonight.",
+      "question": "These library books _______ tomorrow afternoon.",
       "options": {
-        "A": "turn in",
-        "B": "to turn in",
-        "C": "turning in",
-        "D": "turned in"
+        "A": "will return",
+        "B": "will be returned",
+        "C": "returned",
+        "D": "are returned"
       },
       "answer": "B",
-      "explanation": "forget to do sth. 表示“忘记要做某事（未做）”；forget doing sth. 表示“忘记做过某事（已做）”。此处提醒睡觉前去交作业，应用不定式 to turn in。"
+      "explanation": "时间状语 tomorrow 提示一般将来时，书是被归还的，将来时被动语态结构为 will be + 过去分词。"
     },
     {
       "id": 5,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The box is too heavy for the little girl ________ .",
+      "question": "Milk _______ in the fridge to keep it fresh.",
       "options": {
-        "A": "carry",
-        "B": "carrying",
-        "C": "to carry",
-        "D": "carried"
+        "A": "must keep",
+        "B": "must be kept",
+        "C": "keeps",
+        "D": "is keeping"
       },
-      "answer": "C",
-      "explanation": "考查经典句型 too... to...（太……以至于不能……），不定式 to carry 在句中作结果状语。"
+      "answer": "B",
+      "explanation": "考查情态动词的被动语态。结构为“情态动词 + be + 过去分词”，keep 的过去分词是 kept。"
     },
     {
       "id": 6,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Thank you for ________ me with my English homework yesterday.",
+      "question": "Many trees _______ in our school every spring.",
       "options": {
-        "A": "help",
-        "B": "to help",
-        "C": "helping",
-        "D": "helped"
+        "A": "plant",
+        "B": "were planted",
+        "C": "are planted",
+        "D": "are planting"
       },
       "answer": "C",
-      "explanation": "for 为介词，介词后面接动词时要用动名词形式（doing），故选 helping。"
+      "explanation": "时间状语 every spring 表示经常性动作用一般现在时，主语 Many trees 为复数，故用 are planted。"
     },
     {
       "id": 7,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My mother finished ________ the dishes ten minutes ago.",
+      "question": "The lost key _______ under the sofa ten minutes ago.",
       "options": {
-        "A": "wash",
-        "B": "to wash",
-        "C": "washing",
-        "D": "washed"
+        "A": "is found",
+        "B": "was found",
+        "C": "finds",
+        "D": "found"
       },
-      "answer": "C",
-      "explanation": "考查固定搭配 finish doing sth.（完成做某事），后接动名词 washing。"
+      "answer": "B",
+      "explanation": "ten minutes ago 提示一般过去时，主语 The lost key 是单数，使用 was found。"
     },
     {
       "id": 8,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "They decided ________ a picnic in the park this weekend.",
+      "question": "Can this difficult math problem _______ by a primary student?",
       "options": {
-        "A": "have",
-        "B": "to have",
-        "C": "having",
-        "D": "had"
+        "A": "solve",
+        "B": "be solved",
+        "C": "solved",
+        "D": "is solved"
       },
       "answer": "B",
-      "explanation": "考查固定搭配 decide to do sth.（决定做某事），动词不定式表将来的动作。"
+      "explanation": "含有情态动词 can 的疑问句被动语态：Can + 主语 + be + 过去分词？"
     },
     {
       "id": 9,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Lucy is very interested in ________ beautiful flowers in her garden.",
+      "question": "A lot of rubbish _______ into the sea every year.",
       "options": {
-        "A": "plant",
-        "B": "to plant",
-        "C": "planting",
-        "D": "planted"
+        "A": "is thrown",
+        "B": "are thrown",
+        "C": "throws",
+        "D": "was thrown"
       },
-      "answer": "C",
-      "explanation": "考查短语 be interested in doing sth.（对做某事感兴趣），in 是介词，后接动名词 planting。"
+      "answer": "A",
+      "explanation": "rubbish 是不可数名词，谓语动词用单数 is，结合 every year 选择 is thrown。"
     },
     {
       "id": 10,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The boy practices ________ the piano for one hour every afternoon.",
+      "question": "The delicious cake _______ by my mother last night.",
       "options": {
-        "A": "play",
-        "B": "playing",
-        "C": "to play",
-        "D": "played"
+        "A": "is made",
+        "B": "was made",
+        "C": "makes",
+        "D": "made"
       },
       "answer": "B",
-      "explanation": "考查固定搭配 practice doing sth.（练习做某事），后接动名词 playing。"
+      "explanation": "last night 提示一般过去时，主语 cake 动作承受者，用 was made。"
     },
     {
       "id": 11,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "I remember ________ the key on the desk, but now it is missing!",
+      "question": "Interesting stories _______ to the kids by the teacher every Friday.",
       "options": {
-        "A": "put",
-        "B": "to put",
-        "C": "putting",
-        "D": "puts"
+        "A": "read",
+        "B": "are read",
+        "C": "were read",
+        "D": "will read"
       },
-      "answer": "C",
-      "explanation": "remember doing sth. 表示“记得做过某事（已发生）”；remember to do 表示“记得要做某事（未发生）”。语境为“记得把钥匙放桌上了”，故选 putting。"
+      "answer": "B",
+      "explanation": "stories 是复数，every Friday 表示一般现在时，故选 are read (read 的过去分词拼写不变，发音为 /red/)。"
     },
     {
       "id": 12,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "We plan ________ Paris during the coming summer holiday.",
+      "question": "The broken bike _______ by Dad yesterday afternoon.",
       "options": {
-        "A": "visit",
-        "B": "to visit",
-        "C": "visiting",
-        "D": "visited"
+        "A": "repaired",
+        "B": "was repaired",
+        "C": "is repaired",
+        "D": "repairs"
       },
       "answer": "B",
-      "explanation": "考查固定搭配 plan to do sth.（计划做某事），后接不定式 to visit。"
+      "explanation": "yesterday afternoon 提示一般过去时，结合单数主语 bike，使用 was repaired。"
     },
     {
       "id": 13,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Our English teacher keeps ________ us to read more books.",
+      "question": "Young drivers _______ to wear seat belts at all times.",
       "options": {
-        "A": "tell",
-        "B": "to tell",
-        "C": "telling",
-        "D": "told"
+        "A": "are told",
+        "B": "tell",
+        "C": "told",
+        "D": "were telling"
       },
-      "answer": "C",
-      "explanation": "考查固定搭配 keep doing sth.（坚持/不断做某事），后接动名词 telling。"
+      "answer": "A",
+      "explanation": "表示常规规则用一般现在时，驾驶员被告知，用复数形式 are told。"
     },
     {
       "id": 14,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Sam hopes ________ a great scientist like Albert Einstein in the future.",
+      "question": "Your homework should _______ before you watch TV.",
       "options": {
-        "A": "become",
-        "B": "to become",
-        "C": "becoming",
-        "D": "became"
+        "A": "finish",
+        "B": "be finished",
+        "C": "finished",
+        "D": "finishes"
       },
       "answer": "B",
-      "explanation": "考查固定搭配 hope to do sth.（希望做某事），注意 hope 不能直接接 hope sb to do，此处接不定式 to become 作宾语。"
+      "explanation": "情态动词 should 后接动词原形，被动语态为 should be finished。"
     },
     {
       "id": 15,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My brother spent two hours ________ his broken bicycle yesterday.",
+      "question": "The song 'Happy Birthday' _______ in almost every country.",
       "options": {
-        "A": "fix",
-        "B": "fixing",
-        "C": "to fix",
-        "D": "fixed"
+        "A": "sings",
+        "B": "is sung",
+        "C": "was sung",
+        "D": "sang"
       },
       "answer": "B",
-      "explanation": "考查固定句型 spend time (in) doing sth.（花费时间做某事），介词 in 可省略，动词用 fixing。"
+      "explanation": "歌曲被演唱，用被动语态；sing 的过去分词是 sung，结合一般现在时选 is sung。"
     },
     {
       "id": 16,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The sudden loud noise made the sleeping baby ________ violently.",
+      "question": "A new high-speed railway line _______ in our province at present.",
       "options": {
-        "A": "cry",
-        "B": "to cry",
-        "C": "crying",
-        "D": "cried"
+        "A": "is building",
+        "B": "is being built",
+        "C": "built",
+        "D": "has built"
       },
-      "answer": "A",
-      "explanation": "考查使役动词 make 的用法：make sb. do sth.（让某人做某事），接不带 to 的不定式作宾语补足语。"
+      "answer": "B",
+      "explanation": "考查现在进行时的被动语态。根据 at present 可知正处于进行状态，结构为 is/are being + 过去分词。"
     },
     {
       "id": 17,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "As I walked past the playground, I saw a group of students ________ basketball enthusiastically.",
+      "question": "By the time we arrived at the cinema, all the tickets _______.",
       "options": {
-        "A": "play",
-        "B": "playing",
-        "C": "played",
-        "D": "to play"
+        "A": "had been sold",
+        "B": "have been sold",
+        "C": "were sold",
+        "D": "would sell"
       },
-      "answer": "B",
-      "explanation": "考查感官动词 see 的用法。see sb. doing sth. 表示“看到某人正在做某事（强调动作正在进行）”；see sb. do sth. 强调全过程。此处表示走过时看到正在打球，故选 playing。"
+      "answer": "A",
+      "explanation": "考查过去完成时的被动语态。By the time + 过去时，主句动作发生在“过去的过去”，用 had been + 过去分词。"
     },
     {
       "id": 18,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The young girl ________ next to the window is the top student in our grade.",
+      "question": "The sick child needs _______ to the hospital immediately.",
       "options": {
-        "A": "sit",
-        "B": "sitting",
-        "C": "sat",
-        "D": "to sit"
+        "A": "sending",
+        "B": "to be sent",
+        "C": "both A and B",
+        "D": "send"
       },
-      "answer": "B",
-      "explanation": "考查现在分词作后置定语。girl 与 sit 之间是主动关系且表示状态，故用现在分词 sitting 修饰 the young girl。"
+      "answer": "C",
+      "explanation": "考查 need 表示“需要被做”的用法：need doing（用主动表被动）与 need to be done 等价，故选 C。"
     },
     {
       "id": 19,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The smartphone ________ by my uncle last week works exceptionally well.",
+      "question": "The thief was seen _______ into the bank by a pedestrian just now.",
       "options": {
-        "A": "repairing",
-        "B": "repaired",
-        "C": "to repair",
-        "D": "repair"
+        "A": "enter",
+        "B": "to enter",
+        "C": "entered",
+        "D": "enters"
       },
       "answer": "B",
-      "explanation": "考查过去分词作后置定语。smartphone 与 repair 之间是被动关系且动作已完成，故用过去分词 repaired。"
+      "explanation": "感官动词 see sb do sth 变为被动语态时，省略的 to 必须还原，即 be seen to do sth。"
     },
     {
       "id": 20,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "________ the tragic news on TV, the heartbroken woman burst into tears.",
+      "question": "The injured soldier was well _______ by the doctor in the clinic.",
       "options": {
-        "A": "Hear",
-        "B": "Heard",
-        "C": "Hearing",
-        "D": "To hear"
+        "A": "looked after",
+        "B": "looked",
+        "C": "looking after",
+        "D": "look after"
       },
-      "answer": "C",
-      "explanation": "考查现在分词作时间/原因状语。主语 the woman 与 hear 之间是主动关系，用现在分词 Hearing 相当于 When she heard..."
+      "answer": "A",
+      "explanation": "考查短语动词的被动语态。look after 作为固定短语，变被动时介词 after 不能漏掉。"
     },
     {
       "id": 21,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "________ by his teacher's inspiring words, the student redoubled his efforts.",
+      "question": "Great changes _______ in my hometown over the past ten years.",
       "options": {
-        "A": "Encouraging",
-        "B": "Encouraged",
-        "C": "Encourage",
-        "D": "To encourage"
+        "A": "have taken place",
+        "B": "have been taken place",
+        "C": "took place",
+        "D": "were taken place"
       },
-      "answer": "B",
-      "explanation": "考查过去分词作状语。逻辑主语 the student 与 encourage 之间是被动关系（受到鼓励），故用过去分词 Encouraged。"
+      "answer": "A",
+      "explanation": "易错题！take place 为不及物动词短语，没有被动语态；结合 over the past ten years 用现在完成时主动形式。"
     },
     {
       "id": 22,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The health expert suggested ________ at least eight glasses of water every day.",
+      "question": "The car broke down on the highway and had to _______ to the garage.",
       "options": {
-        "A": "drink",
-        "B": "drinking",
-        "C": "to drink",
-        "D": "drank"
+        "A": "tow",
+        "B": "be towed",
+        "C": "being towed",
+        "D": "towed"
       },
       "answer": "B",
-      "explanation": "考查 suggest 的用法。suggest 后可直接接动名词 doing 作宾语（suggest doing sth.），不能直接接 suggest sb to do。"
+      "explanation": "had to 后面加动词原形，车是被拖走的，故用不定式的被动语态 be towed。"
     },
     {
       "id": 23,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "All the students are looking forward to ________ the famous scientist at the summit.",
+      "question": "With all the work _______, we went out to have lunch together.",
       "options": {
-        "A": "meet",
-        "B": "meeting",
-        "C": "met",
-        "D": "to meet"
+        "A": "finished",
+        "B": "finishing",
+        "C": "to finish",
+        "D": "finish"
       },
-      "answer": "B",
-      "explanation": "考查高频易错点：look forward to 中的 to 是介词，后接动名词 meeting，而非动词原形。"
+      "answer": "A",
+      "explanation": "考查 with 复合结构。work 与 finish 之间是被动关系，故用过去分词 finished 做宾语补足语。"
     },
     {
       "id": 24,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "To avoid ________ careless mistakes in the exam, you should check your answers carefully.",
+      "question": "It is reported that a new science museum _______ in our city next year.",
       "options": {
-        "A": "make",
-        "B": "making",
-        "C": "to make",
-        "D": "made"
+        "A": "will build",
+        "B": "is to be built",
+        "C": "was built",
+        "D": "has been built"
       },
       "answer": "B",
-      "explanation": "考查动名词作宾语。avoid 只能接动名词做宾语（avoid doing sth. 避免做某事）。"
+      "explanation": "表示按计划或安排将要被发生的动作，可用 is/are to be + 过去分词。"
     },
     {
       "id": 25,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The team had great difficulty ________ a practical solution to the crisis.",
+      "question": "Never before _______ such an inspiring speech delivered in public.",
       "options": {
-        "A": "find",
-        "B": "finding",
-        "C": "to find",
-        "D": "found"
+        "A": "I have heard",
+        "B": "have I heard",
+        "C": "did I hear",
+        "D": "I heard"
       },
       "answer": "B",
-      "explanation": "考查句型 have difficulty (in) doing sth.（做某事有困难），in 被省略，动词需用动名词形式 finding。"
+      "explanation": "否定副词 Never 前置引导部分倒装句，完成时态结构为 Have + 主语 + 过去分词；后半句为过去分词短语作定语修饰 speech。"
     },
     {
       "id": 26,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "________ all his tasks ahead of schedule, the manager left the office with satisfaction.",
+      "question": "The house _______ window was broken in the hurricane has been repaired.",
       "options": {
-        "A": "Having finished",
-        "B": "Finishing",
-        "C": "Finished",
-        "D": "To finish"
+        "A": "whose",
+        "B": "which",
+        "C": "of which",
+        "D": "that"
       },
       "answer": "A",
-      "explanation": "考查完成时分词（Having done）。主语 the manager 与 finish 是主动关系，且“完成任务”明显发生在“离开办公室”之前，故用 Having finished。"
+      "explanation": "考查定语从句。whose 在从句中充当定语，表示“房子的”窗户被打破（was broken 被动语态）。"
     },
     {
       "id": 27,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "This urgent issue needs ________ thoroughly before any final decision is made.",
+      "question": "He spoke so quietly that his voice could hardly _______.",
       "options": {
-        "A": "discuss",
-        "B": "to discuss",
-        "C": "to be discussed",
-        "D": "discussed"
+        "A": "hear",
+        "B": "be heard",
+        "C": "being heard",
+        "D": "heard"
       },
-      "answer": "C",
-      "explanation": "考查不定式的被动语态。主语 issue 与 discuss 是被动关系，need to be done 表示“需要被做”；（注：若用动名词则为 needs discussing）。"
+      "answer": "B",
+      "explanation": "情态动词 could + 否定副词 hardly 后接原形 be + 过去分词 heard，表示“几乎不能被听见”。"
     },
     {
       "id": 28,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "With all the preparations ________ , the concert started right on time.",
+      "question": "The missing child was reported _______ safe and sound in a neighboring town.",
       "options": {
-        "A": "finish",
-        "B": "finishing",
-        "C": "completed",
-        "D": "to complete"
+        "A": "to find",
+        "B": "to have been found",
+        "C": "finding",
+        "D": "having found"
       },
-      "answer": "C",
-      "explanation": "考查 With 复合结构（With + 宾语 + 宾补）。preparations 与 complete 是被动且已完成关系，用过去分词 completed 作宾补。"
+      "answer": "B",
+      "explanation": "be reported to have been done 表示“据报道已经被……”，不定式完成态被动语态表示动作发生在报道之前且是被动发生。"
     },
     {
       "id": 29,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The suspect was observed ________ out of the building carrying a heavy briefcase.",
+      "question": "The headmaster demanded that all rules _______ by the students without exception.",
       "options": {
-        "A": "run",
-        "B": "to run",
-        "C": "ran",
-        "D": "running"
+        "A": "be followed",
+        "B": "follow",
+        "C": "are followed",
+        "D": "were followed"
       },
-      "answer": "B",
-      "explanation": "考查感官动词/使役动词在被动语态中的还原现象。主动语态为 see/observe sb. do sth.（省略 to），变被动语态时必须还原 to，即 be observed to do sth.。"
+      "answer": "A",
+      "explanation": "demand 引导宾语从句用虚拟语气 (should) + 动词原形，规则是被遵循的，故用 (should) be followed，should 可省略。"
     },
     {
       "id": 30,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "________ several times about the hidden risks, he still decided to invest in the project.",
+      "question": "Having _______ twice, the young writer finally got his novel published.",
       "options": {
-        "A": "Having warned",
-        "B": "Having been warned",
-        "C": "Warning",
-        "D": "Warned"
+        "A": "rejected",
+        "B": "been rejected",
+        "C": "rejecting",
+        "D": "be rejected"
       },
       "answer": "B",
-      "explanation": "考查分词的完成被动式（Having been done）。主语 he 与 warn 是被动关系（被警告），且警告发生在决定投资之前，故用 Having been warned 作状语。"
+      "explanation": "考查分词完成态的被动形式。作状语的逻辑主语是 writer，writer 与 reject 是被动关系，且发生在谓语动词 got 之前，用 Having been + 过去分词。"
     }
   ]
 }
