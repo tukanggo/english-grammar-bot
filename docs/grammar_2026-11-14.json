@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-14",
+  "target_audience": "Primary & Secondary School (Ages 9-17)",
+  "topic": "非谓语动词 (Non-finite Verbs: Infinitives, Gerunds & Participles)",
+  "teaching_notes": "1. 【核心概念】：句子的“独生子女法则”——在英语的一个简单句中，只能有一个真正的谓语动词（主角）。如果还想使用其他动作，就必须让它们穿上“变身衣”，变为非谓语动词（to do, doing, done），充当名词、形容词或副词。\n2. 【语法公式与口诀】：\n- 目的将来用 to do（打算/目的：want to do, decide to do）\n- 兴趣习惯用 doing（动名词/正在：enjoy doing, spend time doing）\n- 主动进行用 doing，被动完成用 done（分词做修饰/状语）\n3. 【中小学生易错点】：\n- 易错1：一句话出现双谓语（如：*I like play football.* ❌ 应为 I like playing/to play football.）\n- 易错2：介词后面忘记加 -ing（如：*He is good at swim.* ❌ 介词后必接动名词 swimming！）\n- 易错3：中学分词状语的主语不一致/主被动混淆（如：*Looking out of the window, the tree was green.* ❌ 树不能“看”，应为 *Seen from the window...*）。\n4. 【经典例句】：\n- P4-P6: She decided to study hard for the English test.（她决定努力学习备考英语。）\n- P4-P6: My younger brother enjoys playing basketball after school.（我弟弟喜欢放学后打篮球。）\n- Form 1-5: Tired after a long day of work, Tom went to bed early.（工作了一天感到疲倦，汤姆早早睡觉了。）",
+  "questions": [
+    {
+      "id": 1,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "My sister decided _______ her bedroom this weekend.",
+      "options": {
+        "A": "clean",
+        "B": "to clean",
+        "C": "cleaning",
+        "D": "cleaned"
+      },
+      "answer": "B",
+      "explanation": "动词 decide 后接不定式作宾语，固定搭配为 decide to do sth.（决定做某事）。"
+    },
+    {
+      "id": 2,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Do you enjoy _______ storybooks in your free time?",
+      "options": {
+        "A": "read",
+        "B": "reading",
+        "C": "to read",
+        "D": "reads"
+      },
+      "answer": "B",
+      "explanation": "动词 enjoy 后接动名词作宾语，固定搭配为 enjoy doing sth.（喜欢/享受做某事）。"
+    },
+    {
+      "id": 3,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The students finished _______ their homework before 7:00 PM.",
+      "options": {
+        "A": "do",
+        "B": "doing",
+        "C": "to do",
+        "D": "did"
+      },
+      "answer": "B",
+      "explanation": "动词 finish 表示“完成”，后面必须接动名词形式 finish doing sth.。"
+    },
+    {
+      "id": 4,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Our English teacher asked us _______ English every morning.",
+      "options": {
+        "A": "speak",
+        "B": "to speak",
+        "C": "speaking",
+        "D": "spoke"
+      },
+      "answer": "B",
+      "explanation": "考查 ask sb. to do sth. 结构，意为“要求/叫某人做某事”，不定式作宾语补足语。"
+    },
+    {
+      "id": 5,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Thank you for _______ me with my science project.",
+      "options": {
+        "A": "help",
+        "B": "to help",
+        "C": "helping",
+        "D": "helped"
+      },
+      "answer": "C",
+      "explanation": "for 是介词，介词后面接动词时，必须使用动名词形式（V-ing）。"
+    },
+    {
+      "id": 6,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Peter is very good at _______ badminton.",
+      "options": {
+        "A": "play",
+        "B": "playing",
+        "C": "to play",
+        "D": "played"
+      },
+      "answer": "B",
+      "explanation": "be good at 意为“擅长”，at 为介词，后接动名词 playing。"
+    },
+    {
+      "id": 7,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "My mother told me _______ too late on school nights.",
+      "options": {
+        "A": "not to sleep",
+        "B": "don't sleep",
+        "C": "not sleeping",
+        "D": "to not sleep"
+      },
+      "answer": "A",
+      "explanation": "tell sb. not to do sth. 意为“告诉某人不要做某事”，不定式的否定形式是在 to 前面加 not。"
+    },
+    {
+      "id": 8,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "We are planning _______ a picnic near the lake next Sunday.",
+      "options": {
+        "A": "have",
+        "B": "to have",
+        "C": "having",
+        "D": "had"
+      },
+      "answer": "B",
+      "explanation": "plan to do sth. 意为“计划做某事”，用不定式表示将要发生的动作。"
+    },
+    {
+      "id": 9,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "What about _______ a chocolate cake for your birthday?",
+      "options": {
+        "A": "make",
+        "B": "making",
+        "C": "to make",
+        "D": "made"
+      },
+      "answer": "B",
+      "explanation": "What about / How about 用于提出建议，about 是介词，后接动名词 making。"
+    },
+    {
+      "id": 10,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Lily spent two hours _______ her new model plane yesterday.",
+      "options": {
+        "A": "to build",
+        "B": "building",
+        "C": "build",
+        "D": "built"
+      },
+      "answer": "B",
+      "explanation": "spend time (in) doing sth. 意为“花费时间做某事”，后接动名词形式。"
+    },
+    {
+      "id": 11,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Don't forget _______ your umbrella; it looks like rain.",
+      "options": {
+        "A": "bring",
+        "B": "to bring",
+        "C": "bringing",
+        "D": "brought"
+      },
+      "answer": "B",
+      "explanation": "forget to do sth. 表示“记得要做某事（未做）”；forget doing sth. 表示“忘记做过某事（已做）”。根据句意，带伞是未发生的动作，用 to bring。"
+    },
+    {
+      "id": 12,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The little boy wants _______ an astronaut when he grows up.",
+      "options": {
+        "A": "to be",
+        "B": "being",
+        "C": "be",
+        "D": "is"
+      },
+      "answer": "A",
+      "explanation": "want to be / do sth. 意为“想要成为/做某事”。"
+    },
+    {
+      "id": 13,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The runner stopped _______ some water because he was very thirsty.",
+      "options": {
+        "A": "drink",
+        "B": "to drink",
+        "C": "drinking",
+        "D": "drank"
+      },
+      "answer": "B",
+      "explanation": "stop to do sth. 意为“停下来去干另一件事”；stop doing sth. 意为“停止正在干的事”。运动员停下来是为了喝水，用 to drink。"
+    },
+    {
+      "id": 14,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "It is important for us _______ fresh water in our daily life.",
+      "options": {
+        "A": "save",
+        "B": "to save",
+        "C": "saving",
+        "D": "saved"
+      },
+      "answer": "B",
+      "explanation": "句型：It is + adj. + for sb. + to do sth.，其中 It 为形式主语，动词不定式 to save 作真正主语。"
+    },
+    {
+      "id": 15,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Look! The children are busy _______ for the Christmas party.",
+      "options": {
+        "A": "prepare",
+        "B": "to prepare",
+        "C": "preparing",
+        "D": "prepared"
+      },
+      "answer": "C",
+      "explanation": "be busy doing sth. 意为“忙于做某事”，后接动名词形式。"
+    },
+    {
+      "id": 16,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_______ the bad news, she burst into tears and could not say a word.",
+      "options": {
+        "A": "Hearing",
+        "B": "Heard",
+        "C": "To hear",
+        "D": "Having heard"
+      },
+      "answer": "A",
+      "explanation": "现在分词 Hearing 作时间/原因状语，表示“一听到……”，动作与主语 she 是主动关系，且与主句动作几乎同时发生。"
+    },
+    {
+      "id": 17,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "You had better have your broken smartphone _______ before traveling.",
+      "options": {
+        "A": "repair",
+        "B": "repaired",
+        "C": "repairing",
+        "D": "to repair"
+      },
+      "answer": "B",
+      "explanation": "have sth. done 结构表示“使某事被做 / 让别人做某事”，smartphone 与 repair 是被动关系，用过去分词 repaired 作宾补。"
+    },
+    {
+      "id": 18,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_______ the competition, the young athlete trained five hours every day.",
+      "options": {
+        "A": "Winning",
+        "B": "Won",
+        "C": "To win",
+        "D": "Having won"
+      },
+      "answer": "C",
+      "explanation": "动词不定式短语放在句首作目的状语（To win = In order to win），意为“为了赢得比赛”。"
+    },
+    {
+      "id": 19,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The suspect was seen _______ into the building at around midnight.",
+      "options": {
+        "A": "enter",
+        "B": "to enter",
+        "C": "entered",
+        "D": "enters"
+      },
+      "answer": "B",
+      "explanation": "感官动词 see sb. do sth. 改为被动语态时，省略的 to 必须还原，变为 sb. be seen to do sth.。"
+    },
+    {
+      "id": 20,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_______ all his tasks ahead of time, David felt relaxed and went for a coffee.",
+      "options": {
+        "A": "Finishing",
+        "B": "Having finished",
+        "C": "Finished",
+        "D": "To finish"
+      },
+      "answer": "B",
+      "explanation": "现在分词的完成式 Having finished 作状语，强调“完成任务”这一动作发生在主句谓语动词 felt relaxed 之前。"
+    },
+    {
+      "id": 21,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "All the members are looking forward to _______ the new museum next month.",
+      "options": {
+        "A": "visit",
+        "B": "visiting",
+        "C": "visited",
+        "D": "to visit"
+      },
+      "answer": "B",
+      "explanation": "look forward to 中的 to 是介词而非不定式符号，后面必须接动名词 visiting。"
+    },
+    {
+      "id": 22,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The man _______ next to the principal is our new mathematics professor.",
+      "options": {
+        "A": "standing",
+        "B": "stood",
+        "C": "to stand",
+        "D": "stands"
+      },
+      "answer": "A",
+      "explanation": "现在分词 standing 短语作后置定语修饰 The man，相当于定语从句 who is standing..."
+    },
+    {
+      "id": 23,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Most of the classic novels _______ by Jin Yong are extraordinarily popular.",
+      "options": {
+        "A": "writing",
+        "B": "written",
+        "C": "wrote",
+        "D": "to write"
+      },
+      "answer": "B",
+      "explanation": "过去分词 written 作后置定语修饰 novels，表被动与完成，相当于 which were written by..."
+    },
+    {
+      "id": 24,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "He has devoted his whole life to _______ healthcare conditions in rural areas.",
+      "options": {
+        "A": "improve",
+        "B": "improving",
+        "C": "improved",
+        "D": "to improve"
+      },
+      "answer": "B",
+      "explanation": "devote... to... 结构中，to 为介词，后接动名词 improving 作宾语。"
+    },
+    {
+      "id": 25,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_______ from the peak of the mountain, the entire city looks magnificent.",
+      "options": {
+        "A": "Seeing",
+        "B": "Seen",
+        "C": "To see",
+        "D": "Having seen"
+      },
+      "answer": "B",
+      "explanation": "分词作状语时逻辑主语是 the entire city。城市是被观看（Seen from...），故用过去分词表示被动含义。"
+    },
+    {
+      "id": 26,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "With all the necessary preparations _______, the conference officially began.",
+      "options": {
+        "A": "complete",
+        "B": "completing",
+        "C": "completed",
+        "D": "to complete"
+      },
+      "answer": "C",
+      "explanation": "With 复合结构：With + 名词(preparations) + 过去分词(completed)。preparations 与 complete 为被动关系。"
+    },
+    {
+      "id": 27,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The task is _______ complicated for a beginner to accomplish in one day.",
+      "options": {
+        "A": "so",
+        "B": "too",
+        "C": "very",
+        "D": "such"
+      },
+      "answer": "B",
+      "explanation": "too... to... 结构表示“太……以至于不能做某事”。"
+    },
+    {
+      "id": 28,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The concert seems _______ before we even stepped into the stadium.",
+      "options": {
+        "A": "to start",
+        "B": "to have started",
+        "C": "starting",
+        "D": "having started"
+      },
+      "answer": "B",
+      "explanation": "seem 后接不定式。由 before we stepped 可知“开始”这一动作发生在主句谓语之前，故使用不定式的完成式 to have started。"
+    },
+    {
+      "id": 29,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_______ regular physical exercise into your daily routine reduces stress effectively.",
+      "options": {
+        "A": "Incorporate",
+        "B": "Incorporating",
+        "C": "Incorporated",
+        "D": "To incorporating"
+      },
+      "answer": "B",
+      "explanation": "动名词短语 Incorporating... 作句子的主语，谓语动词为单数形式 reduces。"
+    },
+    {
+      "id": 30,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_______ of the potential cybersecurity risks, the company updated its system.",
+      "options": {
+        "A": "Warning",
+        "B": "Having warned",
+        "C": "Having been warned",
+        "D": "To warn"
+      },
+      "answer": "C",
+      "explanation": "考查分词状语的完成被动式。主语 the company 与 warn 是被动关系（被警告），且“被警告”发生在“更新系统”之前，故用 Having been warned。"
+    }
+  ]
+}

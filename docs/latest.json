@@ -1,428 +1,428 @@
 {
-  "date": "2026-11-13",
+  "date": "2026-11-14",
   "target_audience": "Primary & Secondary School (Ages 9-17)",
-  "topic": "中小学核心语法：定语从句 (Attributive / Relative Clauses)",
-  "teaching_notes": "1. 【核心概念】：定语从句就像给名词穿上的“定制外套”（形容词性从句），专门用来修饰、限定前面的名词（先行词）。引导从句的连接词叫“关系词”，它既是连接路标，又是从句里的“替身角色”。\n2. 【语法公式与口诀】：\n公式：先行词（人/物） + 关系词（who/which/that/whose/where/when） + 从句。\n口诀：修饰名词找先行，关系词选择看两样：一看先行是人物，二看从句缺啥岗（主/宾/定/状）！\n3. 【中小学生易错点】：\n① 关系词与代词重复：从句中已有关系代词，切记不能再加人称代词（错：The book that I bought it... 正确：去掉it）。\n② 介词后面用错词：介词后面只用 which（物）或 whom（人），绝对不能用 that 或 who！\n③ 忽略抽象地点：situation, stage, point 等抽象名词作先行词且从句完整时，需用关系副词 where。\n4. 【经典例句】：\n① The girl who is playing the piano over there is my best friend. (在边上弹钢琴的那个女孩是我最好的朋友。)\n② Harry Potter is a magic book which brings endless joy to kids. (《哈利·波特》是一本带给孩子无限乐趣的魔法书。)\n③ This is the quiet town where my grandfather spent his childhood. (这就是我祖父度过童年的宁静小镇。)",
+  "topic": "非谓语动词 (Non-finite Verbs: Infinitives, Gerunds & Participles)",
+  "teaching_notes": "1. 【核心概念】：句子的“独生子女法则”——在英语的一个简单句中，只能有一个真正的谓语动词（主角）。如果还想使用其他动作，就必须让它们穿上“变身衣”，变为非谓语动词（to do, doing, done），充当名词、形容词或副词。\n2. 【语法公式与口诀】：\n- 目的将来用 to do（打算/目的：want to do, decide to do）\n- 兴趣习惯用 doing（动名词/正在：enjoy doing, spend time doing）\n- 主动进行用 doing，被动完成用 done（分词做修饰/状语）\n3. 【中小学生易错点】：\n- 易错1：一句话出现双谓语（如：*I like play football.* ❌ 应为 I like playing/to play football.）\n- 易错2：介词后面忘记加 -ing（如：*He is good at swim.* ❌ 介词后必接动名词 swimming！）\n- 易错3：中学分词状语的主语不一致/主被动混淆（如：*Looking out of the window, the tree was green.* ❌ 树不能“看”，应为 *Seen from the window...*）。\n4. 【经典例句】：\n- P4-P6: She decided to study hard for the English test.（她决定努力学习备考英语。）\n- P4-P6: My younger brother enjoys playing basketball after school.（我弟弟喜欢放学后打篮球。）\n- Form 1-5: Tired after a long day of work, Tom went to bed early.（工作了一天感到疲倦，汤姆早早睡觉了。）",
   "questions": [
     {
       "id": 1,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The boy ______ is running on the playground is my brother.",
+      "question": "My sister decided _______ her bedroom this weekend.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "where"
+        "A": "clean",
+        "B": "to clean",
+        "C": "cleaning",
+        "D": "cleaned"
       },
-      "answer": "A",
-      "explanation": "先行词是“The boy”（人），从句缺少主语，因此用关系代词 who 指代人。"
+      "answer": "B",
+      "explanation": "动词 decide 后接不定式作宾语，固定搭配为 decide to do sth.（决定做某事）。"
     },
     {
       "id": 2,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "I like the storybook ______ has many colorful pictures.",
+      "question": "Do you enjoy _______ storybooks in your free time?",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whom",
-        "D": "where"
+        "A": "read",
+        "B": "reading",
+        "C": "to read",
+        "D": "reads"
       },
       "answer": "B",
-      "explanation": "先行词是“storybook”（物），在从句中充当主语，故使用关系代词 which。"
+      "explanation": "动词 enjoy 后接动名词作宾语，固定搭配为 enjoy doing sth.（喜欢/享受做某事）。"
     },
     {
       "id": 3,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Look at the dog ______ is sitting under the big tree.",
+      "question": "The students finished _______ their homework before 7:00 PM.",
       "options": {
-        "A": "who",
-        "B": "that",
-        "C": "whom",
-        "D": "whose"
+        "A": "do",
+        "B": "doing",
+        "C": "to do",
+        "D": "did"
       },
       "answer": "B",
-      "explanation": "先行词是“the dog”（动物/物），从句缺少主语，选项中只有 that 可以修饰物并充当主语。"
+      "explanation": "动词 finish 表示“完成”，后面必须接动名词形式 finish doing sth.。"
     },
     {
       "id": 4,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Do you know the teacher ______ teaches us English?",
+      "question": "Our English teacher asked us _______ English every morning.",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "who",
-        "D": "when"
+        "A": "speak",
+        "B": "to speak",
+        "C": "speaking",
+        "D": "spoke"
       },
-      "answer": "C",
-      "explanation": "先行词是“the teacher”（人），在从句中作主语，故选择关系代词 who。"
+      "answer": "B",
+      "explanation": "考查 ask sb. to do sth. 结构，意为“要求/叫某人做某事”，不定式作宾语补足语。"
     },
     {
       "id": 5,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The apples ______ grow on this tree are very sweet.",
+      "question": "Thank you for _______ me with my science project.",
       "options": {
-        "A": "that",
-        "B": "who",
-        "C": "whom",
-        "D": "where"
+        "A": "help",
+        "B": "to help",
+        "C": "helping",
+        "D": "helped"
       },
-      "answer": "A",
-      "explanation": "先行词是“The apples”（物），在从句中做主语，可以使用 that 或 which 指代。"
+      "answer": "C",
+      "explanation": "for 是介词，介词后面接动词时，必须使用动名词形式（V-ing）。"
     },
     {
       "id": 6,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My sister bought a toy robot ______ can dance and sing.",
+      "question": "Peter is very good at _______ badminton.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whom",
-        "D": "whose"
+        "A": "play",
+        "B": "playing",
+        "C": "to play",
+        "D": "played"
       },
       "answer": "B",
-      "explanation": "先行词是“a toy robot”（物），从句中缺主语，用关系代词 which。"
+      "explanation": "be good at 意为“擅长”，at 为介词，后接动名词 playing。"
     },
     {
       "id": 7,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The man ______ car was damaged called the police.",
+      "question": "My mother told me _______ too late on school nights.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "that"
+        "A": "not to sleep",
+        "B": "don't sleep",
+        "C": "not sleeping",
+        "D": "to not sleep"
       },
-      "answer": "C",
-      "explanation": "从句中的 car 与先行词 The man 是所属关系（那个人的汽车），故用关系代词 whose。"
+      "answer": "A",
+      "explanation": "tell sb. not to do sth. 意为“告诉某人不要做某事”，不定式的否定形式是在 to 前面加 not。"
     },
     {
       "id": 8,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "This is the nice pencil case ______ my aunt gave me as a birthday present.",
+      "question": "We are planning _______ a picnic near the lake next Sunday.",
       "options": {
-        "A": "which",
-        "B": "who",
-        "C": "whom",
-        "D": "where"
+        "A": "have",
+        "B": "to have",
+        "C": "having",
+        "D": "had"
       },
-      "answer": "A",
-      "explanation": "先行词是“pencil case”（物），在从句中作 gave 的宾语，故选 which。"
+      "answer": "B",
+      "explanation": "plan to do sth. 意为“计划做某事”，用不定式表示将要发生的动作。"
     },
     {
       "id": 9,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The students ______ won the basketball game felt very excited.",
+      "question": "What about _______ a chocolate cake for your birthday?",
       "options": {
-        "A": "which",
-        "B": "who",
-        "C": "where",
-        "D": "when"
+        "A": "make",
+        "B": "making",
+        "C": "to make",
+        "D": "made"
       },
       "answer": "B",
-      "explanation": "先行词是“The students”（人），在从句中作主语，应填入 who。"
+      "explanation": "What about / How about 用于提出建议，about 是介词，后接动名词 making。"
     },
     {
       "id": 10,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "I have a clever parrot ______ can speak a few English words.",
+      "question": "Lily spent two hours _______ her new model plane yesterday.",
       "options": {
-        "A": "who",
-        "B": "that",
-        "C": "whom",
-        "D": "where"
+        "A": "to build",
+        "B": "building",
+        "C": "build",
+        "D": "built"
       },
       "answer": "B",
-      "explanation": "先行词“a clever parrot”是动物，用关系代词 that 或 which 引导从句。"
+      "explanation": "spend time (in) doing sth. 意为“花费时间做某事”，后接动名词形式。"
     },
     {
       "id": 11,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The doctor ______ looked after my grandfather is very patient.",
+      "question": "Don't forget _______ your umbrella; it looks like rain.",
       "options": {
-        "A": "which",
-        "B": "who",
-        "C": "whose",
-        "D": "where"
+        "A": "bring",
+        "B": "to bring",
+        "C": "bringing",
+        "D": "brought"
       },
       "answer": "B",
-      "explanation": "先行词“The doctor”为人，从句缺少主语，填入 who。"
+      "explanation": "forget to do sth. 表示“记得要做某事（未做）”；forget doing sth. 表示“忘记做过某事（已做）”。根据句意，带伞是未发生的动作，用 to bring。"
     },
     {
       "id": 12,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Is this the photo ______ you took during your holiday in Beijing?",
+      "question": "The little boy wants _______ an astronaut when he grows up.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whose",
-        "D": "whom"
+        "A": "to be",
+        "B": "being",
+        "C": "be",
+        "D": "is"
       },
-      "answer": "B",
-      "explanation": "先行词是“the photo”（物），从句中 took 缺少宾语，用关系代词 which。"
+      "answer": "A",
+      "explanation": "want to be / do sth. 意为“想要成为/做某事”。"
     },
     {
       "id": 13,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The girl ______ mother is a nurse is my classmate.",
+      "question": "The runner stopped _______ some water because he was very thirsty.",
       "options": {
-        "A": "who",
-        "B": "whom",
-        "C": "whose",
-        "D": "that"
+        "A": "drink",
+        "B": "to drink",
+        "C": "drinking",
+        "D": "drank"
       },
-      "answer": "C",
-      "explanation": "从句中的 mother 与先行词 The girl 为所属关系（女孩的妈妈），故选 whose。"
+      "answer": "B",
+      "explanation": "stop to do sth. 意为“停下来去干另一件事”；stop doing sth. 意为“停止正在干的事”。运动员停下来是为了喝水，用 to drink。"
     },
     {
       "id": 14,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "We visited the museum ______ was built ten years ago.",
+      "question": "It is important for us _______ fresh water in our daily life.",
       "options": {
-        "A": "that",
-        "B": "who",
-        "C": "whom",
-        "D": "where"
+        "A": "save",
+        "B": "to save",
+        "C": "saving",
+        "D": "saved"
       },
-      "answer": "A",
-      "explanation": "先行词“the museum”是物，且在从句中作主语（was built），故选用关系代词 that。"
+      "answer": "B",
+      "explanation": "句型：It is + adj. + for sb. + to do sth.，其中 It 为形式主语，动词不定式 to save 作真正主语。"
     },
     {
       "id": 15,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The cake ______ my mom made yesterday tasted delicious.",
+      "question": "Look! The children are busy _______ for the Christmas party.",
       "options": {
-        "A": "who",
-        "B": "which",
-        "C": "whom",
-        "D": "whose"
+        "A": "prepare",
+        "B": "to prepare",
+        "C": "preparing",
+        "D": "prepared"
       },
-      "answer": "B",
-      "explanation": "先行词“The cake”指物，从句中 made 缺少宾语，故用 which。"
+      "answer": "C",
+      "explanation": "be busy doing sth. 意为“忙于做某事”，后接动名词形式。"
     },
     {
       "id": 16,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The house in ______ my grandparents live was built fifty years ago.",
+      "question": "_______ the bad news, she burst into tears and could not say a word.",
       "options": {
-        "A": "that",
-        "B": "which",
-        "C": "where",
-        "D": "whose"
+        "A": "Hearing",
+        "B": "Heard",
+        "C": "To hear",
+        "D": "Having heard"
       },
-      "answer": "B",
-      "explanation": "考查“介词+关系代词”。介词 in 后不能跟 that，先行词 house 指物，故用 in which。"
+      "answer": "A",
+      "explanation": "现在分词 Hearing 作时间/原因状语，表示“一听到……”，动作与主语 she 是主动关系，且与主句动作几乎同时发生。"
     },
     {
       "id": 17,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "This is the primary reason ______ he was late for the important meeting.",
+      "question": "You had better have your broken smartphone _______ before traveling.",
       "options": {
-        "A": "which",
-        "B": "why",
-        "C": "that",
-        "D": "where"
+        "A": "repair",
+        "B": "repaired",
+        "C": "repairing",
+        "D": "to repair"
       },
       "answer": "B",
-      "explanation": "先行词是 the reason，从句中不缺主谓宾，表示“……的原因”，用关系副词 why 引导。"
+      "explanation": "have sth. done 结构表示“使某事被做 / 让别人做某事”，smartphone 与 repair 是被动关系，用过去分词 repaired 作宾补。"
     },
     {
       "id": 18,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "China is a great country with a long history, ______ attracts millions of tourists every year.",
+      "question": "_______ the competition, the young athlete trained five hours every day.",
       "options": {
-        "A": "that",
-        "B": "which",
-        "C": "where",
-        "D": "what"
+        "A": "Winning",
+        "B": "Won",
+        "C": "To win",
+        "D": "Having won"
       },
-      "answer": "B",
-      "explanation": "考查非限制性定语从句（有逗号隔离）。that 不能引导非限制性定语从句，先行词指物，用 which。"
+      "answer": "C",
+      "explanation": "动词不定式短语放在句首作目的状语（To win = In order to win），意为“为了赢得比赛”。"
     },
     {
       "id": 19,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "All ______ can be done to protect the rare animals has been done.",
+      "question": "The suspect was seen _______ into the building at around midnight.",
       "options": {
-        "A": "which",
-        "B": "that",
-        "C": "what",
-        "D": "as"
+        "A": "enter",
+        "B": "to enter",
+        "C": "entered",
+        "D": "enters"
       },
       "answer": "B",
-      "explanation": "当先行词为不定代词 All 时，关系代词只能用 that，不能用 which。"
+      "explanation": "感官动词 see sb. do sth. 改为被动语态时，省略的 to 必须还原，变为 sb. be seen to do sth.。"
     },
     {
       "id": 20,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Do you still remember the exact day ______ we first met on campus?",
+      "question": "_______ all his tasks ahead of time, David felt relaxed and went for a coffee.",
       "options": {
-        "A": "which",
-        "B": "when",
-        "C": "where",
-        "D": "why"
+        "A": "Finishing",
+        "B": "Having finished",
+        "C": "Finished",
+        "D": "To finish"
       },
       "answer": "B",
-      "explanation": "先行词是 the exact day（表示具体时间），且从句成分完整，故用关系副词 when。"
+      "explanation": "现在分词的完成式 Having finished 作状语，强调“完成任务”这一动作发生在主句谓语动词 felt relaxed 之前。"
     },
     {
       "id": 21,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The scientist ______ achievements changed modern medicine received an honor.",
+      "question": "All the members are looking forward to _______ the new museum next month.",
       "options": {
-        "A": "who",
-        "B": "whose",
-        "C": "whom",
-        "D": "which"
+        "A": "visit",
+        "B": "visiting",
+        "C": "visited",
+        "D": "to visit"
       },
       "answer": "B",
-      "explanation": "achievements（成就）与先行词 The scientist 是所属关系（科学家的成就），用 whose 作定语。"
+      "explanation": "look forward to 中的 to 是介词而非不定式符号，后面必须接动名词 visiting。"
     },
     {
       "id": 22,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Mr. Smith is the very teacher ______ inspired me to learn computer science.",
+      "question": "The man _______ next to the principal is our new mathematics professor.",
       "options": {
-        "A": "that",
-        "B": "which",
-        "C": "whom",
-        "D": "where"
+        "A": "standing",
+        "B": "stood",
+        "C": "to stand",
+        "D": "stands"
       },
       "answer": "A",
-      "explanation": "当先行词被 the very（正是那个）修饰时，关系代词优先选用 that。"
+      "explanation": "现在分词 standing 短语作后置定语修饰 The man，相当于定语从句 who is standing..."
     },
     {
       "id": 23,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "This is the mountain village ______ I spent my memorable summer vacation.",
+      "question": "Most of the classic novels _______ by Jin Yong are extraordinarily popular.",
       "options": {
-        "A": "which",
-        "B": "where",
-        "C": "that",
-        "D": "when"
+        "A": "writing",
+        "B": "written",
+        "C": "wrote",
+        "D": "to write"
       },
       "answer": "B",
-      "explanation": "先行词为 mountain village（地点），从句“I spent my vacation”结构完整，故用关系副词 where。"
+      "explanation": "过去分词 written 作后置定语修饰 novels，表被动与完成，相当于 which were written by..."
     },
     {
       "id": 24,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "She brought two smartphones with her, both of ______ were damaged during the trip.",
+      "question": "He has devoted his whole life to _______ healthcare conditions in rural areas.",
       "options": {
-        "A": "them",
-        "B": "that",
-        "C": "which",
-        "D": "those"
+        "A": "improve",
+        "B": "improving",
+        "C": "improved",
+        "D": "to improve"
       },
-      "answer": "C",
-      "explanation": "考查“代词/数词 + of + 关系代词”结构。修饰物且跟在介词 of 后面，用 which。"
+      "answer": "B",
+      "explanation": "devote... to... 结构中，to 为介词，后接动名词 improving 作宾语。"
     },
     {
       "id": 25,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "______ is reported in the news, renewable energy is gaining popularity worldwide.",
+      "question": "_______ from the peak of the mountain, the entire city looks magnificent.",
       "options": {
-        "A": "As",
-        "B": "Which",
-        "C": "That",
-        "D": "What"
+        "A": "Seeing",
+        "B": "Seen",
+        "C": "To see",
+        "D": "Having seen"
       },
-      "answer": "A",
-      "explanation": "As 引导非限制性定语从句可置于句首，意为“正如……”，代表主句整句话的内容。"
+      "answer": "B",
+      "explanation": "分词作状语时逻辑主语是 the entire city。城市是被观看（Seen from...），故用过去分词表示被动含义。"
     },
     {
       "id": 26,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The senior engineer with ______ I discussed the project yesterday will give a talk.",
+      "question": "With all the necessary preparations _______, the conference officially began.",
       "options": {
-        "A": "who",
-        "B": "whom",
-        "C": "that",
-        "D": "whose"
+        "A": "complete",
+        "B": "completing",
+        "C": "completed",
+        "D": "to complete"
       },
-      "answer": "B",
-      "explanation": "考查“介词 + 关系代词”。介词 with 后面指代人时，只能用宾格形式 whom。"
+      "answer": "C",
+      "explanation": "With 复合结构：With + 名词(preparations) + 过去分词(completed)。preparations 与 complete 为被动关系。"
     },
     {
       "id": 27,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "We are facing a complex situation ______ effective measures must be taken.",
+      "question": "The task is _______ complicated for a beginner to accomplish in one day.",
       "options": {
-        "A": "which",
-        "B": "that",
-        "C": "where",
-        "D": "when"
+        "A": "so",
+        "B": "too",
+        "C": "very",
+        "D": "such"
       },
-      "answer": "C",
-      "explanation": "先行词为 situation（抽象地点名词），从句主谓宾齐全，关系副词应用 where。"
+      "answer": "B",
+      "explanation": "too... to... 结构表示“太……以至于不能做某事”。"
     },
     {
       "id": 28,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Is there anything ______ you would like to add before we finish the meeting?",
+      "question": "The concert seems _______ before we even stepped into the stadium.",
       "options": {
-        "A": "which",
-        "B": "that",
-        "C": "what",
-        "D": "whose"
+        "A": "to start",
+        "B": "to have started",
+        "C": "starting",
+        "D": "having started"
       },
       "answer": "B",
-      "explanation": "先行词是不定代词 anything 时，关系代词只能用 that。"
+      "explanation": "seem 后接不定式。由 before we stepped 可知“开始”这一动作发生在主句谓语之前，故使用不定式的完成式 to have started。"
     },
     {
       "id": 29,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "He failed his driving test again, ______ disappointed his parents deeply.",
+      "question": "_______ regular physical exercise into your daily routine reduces stress effectively.",
       "options": {
-        "A": "that",
-        "B": "what",
-        "C": "which",
-        "D": "as"
+        "A": "Incorporate",
+        "B": "Incorporating",
+        "C": "Incorporated",
+        "D": "To incorporating"
       },
-      "answer": "C",
-      "explanation": "非限制性定语从句中，用 which 替代前面整句话所描述的事情（他再次挂科）。"
+      "answer": "B",
+      "explanation": "动名词短语 Incorporating... 作句子的主语，谓语动词为单数形式 reduces。"
     },
     {
       "id": 30,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "This is the first time ______ our school team has won the national championship.",
+      "question": "_______ of the potential cybersecurity risks, the company updated its system.",
       "options": {
-        "A": "that",
-        "B": "when",
-        "C": "which",
-        "D": "where"
+        "A": "Warning",
+        "B": "Having warned",
+        "C": "Having been warned",
+        "D": "To warn"
       },
-      "answer": "A",
-      "explanation": "在“This is the first/second time that...”固定句型中，从句通常由 that 引导（经常可省略，且从句用完成时态）。"
+      "answer": "C",
+      "explanation": "考查分词状语的完成被动式。主语 the company 与 warn 是被动关系（被警告），且“被警告”发生在“更新系统”之前，故用 Having been warned。"
     }
   ]
 }
