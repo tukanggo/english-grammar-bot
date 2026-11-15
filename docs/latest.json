@@ -1,428 +1,428 @@
 {
-  "date": "2026-11-14",
-  "target_audience": "Primary & Secondary School (Ages 9-17 / P4 - Sec 5)",
-  "topic": "动词时态与被动语态综合全能突破 (Mastery of Verb Tenses and Passive Voice)",
-  "teaching_notes": "1. 【核心概念】：把时态想象成‘时间胶囊+动作摄像机’！‘时间胶囊’决定动作发生的时刻（过去、现在、将来），‘动作摄像机’决定动作的状态（一般、进行、完成）。而‘被动语态’则是把摄像机镜头对准了‘动作的承受者’（被……）。\n2. 【语法公式与口诀】：\n- 主动语态黄金公式：主语 + 动词时态变化 + 宾语\n- 被动语态万能公式：主语 + be + 动词过去分词 (V-ed) + (by 动作实施者)\n- 记忆口诀：‘被动 be 动不能少，过去分词紧跟跑；时态全在 be 上变，主谓一致看前端！’\n3. 【中小学生易错点】：\n- 陷阱一：单三漏写 -s/-es（如：He play football ❌ -> He plays football ✔️）。\n- 陷阱二：被动语态漏掉 be 动词（如：The book written by me ❌ -> The book was written by me ✔️）。\n- 陷阱三：状语从句忘记‘主将从现’原则（如：If it will rain tomorrow... ❌ -> If it rains tomorrow... ✔️）。\n4. 【经典例句】：\n- 小学基础：Look! Tim is playing basketball on the playground.（看！蒂姆正在操场上打篮球。）\n- 初中进阶：By the time we arrived at the cinema, the movie had already started.（当我们到达电影院时，电影已经开始了。）\n- 高中压轴：The groundbreaking paper was being written by the scientist when the power cut occurred.（当断电发生时，那位科学家正在撰写那篇突破性的论文。）",
+  "date": "2026-11-15",
+  "target_audience": "Primary & Secondary School (Ages 9-17)",
+  "topic": "条件状语从句与虚拟语气 (Conditionals and Subjunctive Mood)",
+  "teaching_notes": "1.【核心概念】：条件句就像一个“逻辑开关”！如果触发了“条件”（If从句），就会产生“结果”（主句）。小学阶段我们学习“真实条件句”（现实中极可能发生的事或客观真理）；中学阶段进阶到“平行宇宙/虚拟语气”（假设与现实相反的遗憾或幻想）。\n2.【口诀与公式】：\n- 小学核心【主将从现】：If 从句用一般现在时，主句用一般将来时（will/can + 动词原形）。\n- 中学进阶【时态降格降阶法】：\n  ① 与现在相反：从句用过去式（be动词全用were），主句用 would/could + 动词原形；\n  ② 与过去相反：从句用 had + done，主句用 would/could + have + done；\n  ③ 倒装省略句：省略 if，把 Had / Were / Should 提前置于句首！\n3.【中小学生避坑指南】：\n- 坑1：If 从句千万不要加 will！（错：If it will rain tomorrow... ❌ 对：If it rains tomorrow... ✅）\n- 坑2：unless 意思是“除非”（等于 if... not），后面绝对不能再接否定词 not，否则就变成了“双重否定”！\n- 坑3：虚拟语气中，与现在相反时，无论主语是 I/he/she，be 动词一律优先用 were。\n4.【经典例句】：\n- ① If you heat ice, it melts.（零级条件/客观真理：如果你加热冰，它就会融化。）\n- ② If it rains tomorrow, we will stay at home.（一级真实条件：如果明天下雨，我们就留在家。）\n- ③ If I had studied harder last semester, I would have passed the exam.（三级虚拟条件：如果我上学期更努力一点，我就通过考试了。）",
   "questions": [
     {
       "id": 1,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Tom _____ his bicycle every Sunday morning.",
+      "question": "If it _____ tomorrow, we will cancel our outdoor picnic.",
       "options": {
-        "A": "wash",
-        "B": "washes",
-        "C": "is washing",
-        "D": "washed"
+        "A": "rains",
+        "B": "rained",
+        "C": "will rain",
+        "D": "is raining"
       },
-      "answer": "B",
-      "explanation": "考查一般现在时。时间状语 every Sunday morning 表经常性习惯，主语 Tom 为第三人称单数，谓语动词 wash 应变为 washes。"
+      "answer": "A",
+      "explanation": "考查【主将从现】规则。在 if 引导的条件状语从句中，主句用一般将来时（will cancel），从句必须用一般现在时（rains）表示将来。"
     },
     {
       "id": 2,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Look! The children _____ kites in the park.",
+      "question": "You will get good marks in the exam if you _____ hard every day.",
       "options": {
-        "A": "fly",
-        "B": "flew",
-        "C": "are flying",
-        "D": "have flown"
+        "A": "worked",
+        "B": "work",
+        "C": "will work",
+        "D": "have worked"
       },
-      "answer": "C",
-      "explanation": "考查现在进行时。提示词 'Look!' 表明动作正在进行，结构为 be + V-ing，主语 The children 是复数，故选 are flying。"
+      "answer": "B",
+      "explanation": "考查【主将从现】。主句是 will get，if 从句使用一般现在时 work，主语为 you 用动词原形。"
     },
     {
       "id": 3,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My mother _____ a delicious cake for my birthday yesterday.",
+      "question": "If water reaches 100 degrees Celsius, it _____.",
       "options": {
-        "A": "makes",
-        "B": "made",
-        "C": "is making",
-        "D": "will make"
+        "A": "boiled",
+        "B": "will boil",
+        "C": "boils",
+        "D": "is boiling"
       },
-      "answer": "B",
-      "explanation": "考查一般过去时。时间状语 yesterday 表示过去发生的事，make 的过去式为不规则变化 made。"
+      "answer": "C",
+      "explanation": "考查【零级条件句（客观真理）】。描述客观科学事实时，主句和从句都使用一般现在时（reaches ... boils）。"
     },
     {
       "id": 4,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "We _____ the Shanghai Science and Technology Museum next Saturday.",
+      "question": "Unless you _____, you will be late for the morning assembly.",
       "options": {
-        "A": "visited",
-        "B": "visit",
-        "C": "will visit",
-        "D": "have visited"
+        "A": "hurry",
+        "B": "won't hurry",
+        "C": "don't hurry",
+        "D": "hurried"
       },
-      "answer": "C",
-      "explanation": "考查一般将来时。时间状语 next Saturday 表示将来的动作，用 will + 动词原形。"
+      "answer": "A",
+      "explanation": "考查【unless 辨析】。unless 意为“除非”，本身已包含否定意味（if you don't），从句需用肯定形式 hurry。"
     },
     {
       "id": 5,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Lucy usually _____ up at 6:30 in the morning.",
+      "question": "What will you do if your computer _____ down during the test?",
       "options": {
-        "A": "get",
-        "B": "gets",
-        "C": "got",
-        "D": "is getting"
+        "A": "will break",
+        "B": "broke",
+        "C": "breaks",
+        "D": "breaking"
       },
-      "answer": "B",
-      "explanation": "考查频度副词与一般现在时。频度副词 usually 表习惯，主语 Lucy 是第三人称单数，故用 gets。"
+      "answer": "C",
+      "explanation": "考查【主将从现】。特殊疑问句主句用了 will do，if 从句主语是第三人称单数 your computer，动词用 breaks。"
     },
     {
       "id": 6,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Listen! Someone _____ the piano in the music room.",
+      "question": "If Lily _____ her homework early tonight, she can watch cartoons.",
       "options": {
-        "A": "plays",
-        "B": "is playing",
-        "C": "played",
-        "D": "will play"
+        "A": "finish",
+        "B": "finishes",
+        "C": "will finish",
+        "D": "finished"
       },
       "answer": "B",
-      "explanation": "考查现在进行时。提示词 'Listen!' 表明听到此时此刻正在发生的动作，Someone 看作单数，用 is playing。"
+      "explanation": "考查【主情从现】。主句带有情态动词 can，if 从句同样用一般现在时，Lily 为第三人称单数，填 finishes。"
     },
     {
       "id": 7,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "I have already _____ my homework, so I can watch TV now.",
+      "question": "Please call your mother as soon as you _____ at the train station.",
       "options": {
-        "A": "finish",
-        "B": "finishing",
-        "C": "finished",
-        "D": "finishes"
+        "A": "arrive",
+        "B": "will arrive",
+        "C": "arrived",
+        "D": "are arriving"
       },
-      "answer": "C",
-      "explanation": "考查现在完成时。结构为 have/has + 过去分词（V-ed），finish 的过去分词是 finished。"
+      "answer": "A",
+      "explanation": "考查【时间状语从句主祈从现】。as soon as（一……就……）引导的时间状语从句中，主句是祈使句（Please call），从句用一般现在时 arrive。"
     },
     {
       "id": 8,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "They _____ to the zoo last weekend because it rained heavily.",
+      "question": "We won't go swimming if the sea water _____ too cold.",
       "options": {
-        "A": "don't go",
-        "B": "didn't go",
-        "C": "won't go",
-        "D": "haven't gone"
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
       },
-      "answer": "B",
-      "explanation": "考查一般过去时的否定句。时间状语 last weekend 表过去，一般过去时的否定借助于助动词 didn't，后接动词原形 go。"
+      "answer": "C",
+      "explanation": "考查【主将从现】。主句是 won't go，if 从句主语 sea water 是不可数名词，be 动词一般现在时形式为 is。"
     },
     {
       "id": 9,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "English _____ by millions of people all over the world.",
+      "question": "If you don't eat a proper breakfast, you _____ hungry later in the afternoon.",
       "options": {
-        "A": "speaks",
-        "B": "is spoken",
-        "C": "was spoken",
-        "D": "is speaking"
+        "A": "feel",
+        "B": "will feel",
+        "C": "felt",
+        "D": "have felt"
       },
       "answer": "B",
-      "explanation": "考查一般现在时的被动语态。英语是被人们说的，主语 English 为不可数名词，用 is + 过去分词 spoken。"
+      "explanation": "考查【主将从现】。从句使用了否定形式 don't eat，主句应用一般将来时 will feel。"
     },
     {
       "id": 10,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "_____ you _____ your art teacher in the hallway two hours ago?",
+      "question": "Don't open the door for anyone unless you _____ who is outside.",
       "options": {
-        "A": "Do; see",
-        "B": "Did; saw",
-        "C": "Did; see",
-        "D": "Have; seen"
+        "A": "know",
+        "B": "don't know",
+        "C": "will know",
+        "D": "knew"
       },
-      "answer": "C",
-      "explanation": "考查一般过去时的疑问句。借助助动词 Did，置于句首，后面的实义动词要还原为原形 see。"
+      "answer": "A",
+      "explanation": "考查【祈使句 + unless】。unless 本身表否定，后接一般现在时肯定形式 know。"
     },
     {
       "id": 11,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Look at those dark clouds! It _____ rain soon.",
+      "question": "If Tim _____ enough pocket money, he will buy that comic book.",
       "options": {
-        "A": "is going to",
-        "B": "will be",
-        "C": "is",
-        "D": "was going to"
+        "A": "have",
+        "B": "will have",
+        "C": "has",
+        "D": "had"
       },
-      "answer": "A",
-      "explanation": "考查 be going to 表示基于眼前的迹象对将来进行预测（看那些乌云，马上要下雨了）。"
+      "answer": "C",
+      "explanation": "考查【主将从现】。Tim 是单数第三人称，have 的一般现在时三单形式为 has。"
     },
     {
       "id": 12,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "This sweet birthday cake _____ by my elder sister yesterday.",
+      "question": "If it is fine this Sunday, my family _____ camping near the lake.",
       "options": {
-        "A": "is made",
-        "B": "was made",
-        "C": "makes",
-        "D": "made"
+        "A": "went",
+        "B": "will go",
+        "C": "go",
+        "D": "had gone"
       },
       "answer": "B",
-      "explanation": "考查一般过去时的被动语态。根据 yesterday 可知是过去发生的被动动作，主语 cake 单数，用 was made。"
+      "explanation": "考查【主将从现】。从句是一般现在时 is fine，主句需补齐一般将来时 will go。"
     },
     {
       "id": 13,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The Browns _____ for Beijing by train tomorrow morning.",
+      "question": "You should wear a heavy jacket when it _____ cold outside.",
       "options": {
-        "A": "left",
-        "B": "leaves",
-        "C": "are leaving",
-        "D": "have left"
+        "A": "gets",
+        "B": "will get",
+        "C": "got",
+        "D": "getting"
       },
-      "answer": "C",
-      "explanation": "考查现在进行时表将来。位移动词如 leave, go, come 等可以用现在进行时表示按计划即将发生的动作。"
+      "answer": "A",
+      "explanation": "考查【时间状语从句】。when 引导的时间状语从句中，主句用情态动词 should wear，从句用一般现在时 gets。"
     },
     {
       "id": 14,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Mr. Li has taught in our primary school _____ 2015.",
+      "question": "If you mix red and yellow, you _____ orange.",
       "options": {
-        "A": "for",
-        "B": "since",
-        "C": "in",
-        "D": "at"
+        "A": "got",
+        "B": "will get",
+        "C": "get",
+        "D": "are getting"
       },
-      "answer": "B",
-      "explanation": "考查现在完成时的介词搭配。since 后接具体的时间点（如 2015），表示“自……以来”，与现在完成时连用。"
+      "answer": "C",
+      "explanation": "考查【零级条件句】。颜色的混合属于客观科学事实，主从句均用一般现在时（mix ... get）。"
     },
     {
       "id": 15,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "He usually walks to school, but today he _____ a bicycle.",
+      "question": "Unless he _____ for his mistake, I will not talk to him again.",
       "options": {
-        "A": "rides",
-        "B": "is riding",
-        "C": "rode",
-        "D": "has ridden"
+        "A": "apologize",
+        "B": "apologizes",
+        "C": "doesn't apologize",
+        "D": "will apologize"
       },
       "answer": "B",
-      "explanation": "考查习惯性动作与临时性动作对比。usually 用一般现在时，but today 表暂时的特殊动作，用现在进行时 is riding。"
+      "explanation": "考查【unless 语法细节】。unless 从句用一般现在时，主语 he 为三单，因此使用 apologizes。"
     },
     {
       "id": 16,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "By the end of last year, the engineering team _____ the bridge across the river.",
+      "question": "If I _____ a bird, I would fly across the vast ocean.",
       "options": {
-        "A": "completed",
-        "B": "has completed",
-        "C": "had completed",
-        "D": "would complete"
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "be"
       },
       "answer": "C",
-      "explanation": "考查过去完成时。标志性短语 'By the end of + 过去时间' 表示“截至到过去某时已经完成”，用过去完成时 had completed。"
+      "explanation": "考查【与现在事实相反的虚拟语气】。从句谓语动词用过去式，若为 be 动词，无论主语单复数，标准语法中一律用 were。"
     },
     {
       "id": 17,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "I will give you a call as soon as I _____ at the airport tomorrow.",
+      "question": "If he had woken up ten minutes earlier this morning, he _____ the school bus.",
       "options": {
-        "A": "arrive",
-        "B": "will arrive",
-        "C": "arrived",
-        "D": "am arriving"
+        "A": "wouldn't miss",
+        "B": "wouldn't have missed",
+        "C": "didn't miss",
+        "D": "won't miss"
       },
-      "answer": "A",
-      "explanation": "考查时间状语从句的“主将从现”原则。在 as soon as 引导的时间状语从句中，用一般现在时表示将来。"
+      "answer": "B",
+      "explanation": "考查【与过去事实相反的虚拟语气】。从句用 had + done，主句结构为 would/could/should/might + have + done，故选 wouldn't have missed。"
     },
     {
       "id": 18,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "While Mary was doing her homework, her younger brother _____ computer games.",
+      "question": "I wish I _____ the answer to this complex physics problem right now.",
       "options": {
-        "A": "plays",
-        "B": "was playing",
-        "C": "had played",
-        "D": "has played"
+        "A": "know",
+        "B": "knew",
+        "C": "have known",
+        "D": "had known"
       },
       "answer": "B",
-      "explanation": "考查过去进行时。while 引导的从句与主句动作在过去某一时间内同时发生并持续进行，主句也用过去进行时 was playing。"
+      "explanation": "考查【wish 后的虚拟语气】。表示对“现在”情况的虚拟假设，宾语从句动词需用一般过去时 knew。"
     },
     {
       "id": 19,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "He looked exhausted because he _____ in the laboratory all night.",
+      "question": "If you _____ harder last semester, you would be at the top of the class now.",
       "options": {
-        "A": "has worked",
-        "B": "had been working",
-        "C": "works",
-        "D": "is working"
+        "A": "studied",
+        "B": "study",
+        "C": "had studied",
+        "D": "would study"
       },
-      "answer": "B",
-      "explanation": "考查过去完成进行时。描述在过去某个时刻（looked exhausted）之前一直在持续进行的动作并对当时产生影响，用 had been working。"
+      "answer": "C",
+      "explanation": "考查【错综时间条件句（混合虚拟）】。从句是对过去发生的假设（last semester），用 had studied；主句是对现在结果的假设（now），用 would be。"
     },
     {
       "id": 20,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "A new modern gymnasium _____ in our school by the end of next month.",
+      "question": "Supposing it _____ tomorrow, what would we do about the open-air concert?",
       "options": {
-        "A": "will build",
-        "B": "will be built",
-        "C": "has been built",
-        "D": "is built"
+        "A": "were to rain",
+        "B": "will rain",
+        "C": "rains",
+        "D": "has rained"
       },
-      "answer": "B",
-      "explanation": "考查将来时态的被动语态。主语 gymnasium（体育馆）是动作承受者，配合时间状语 next month，结构为 will be + 过去分词 (built)。"
+      "answer": "A",
+      "explanation": "考查【与将来事实相反的虚拟语气】。从句表示对将来不可能或可能性极小情况的假设，可用 were to + 动词原形/did/should + 动词原形。故选 were to rain。"
     },
     {
       "id": 21,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Mobile phones must not _____ during the formal examination.",
+      "question": "_____ I known that you were ill in hospital, I would have visited you immediately.",
       "options": {
-        "A": "use",
-        "B": "be used",
-        "C": "being used",
-        "D": "been used"
+        "A": "If",
+        "B": "Had",
+        "C": "Were",
+        "D": "Should"
       },
       "answer": "B",
-      "explanation": "考查含情态动词的被动语态。结构为：情态动词 (must not) + be + 过去分词 (used)。"
+      "explanation": "考查【虚拟语气倒装省略句】。当虚拟条件句省略 if 时，必须将 had, were 或 should 提到句首。原句为 If I had known... 倒装为 Had I known..."
     },
     {
       "id": 22,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "When I stepped into the classroom, the blackboard _____ by the monitor.",
+      "question": "If the sun _____ to stop shining, all living organisms on Earth would perish.",
       "options": {
-        "A": "was cleaned",
-        "B": "was being cleaned",
-        "C": "had cleaned",
-        "D": "is being cleaned"
+        "A": "is",
+        "B": "was",
+        "C": "were",
+        "D": "be"
       },
-      "answer": "B",
-      "explanation": "考查过去进行时的被动语态。表示过去某一具体时刻（当我走进教室时）黑板正在被擦，结构为 was/were + being + 过去分词。"
+      "answer": "C",
+      "explanation": "考查【将来虚拟 (were to)】。太阳停止发光是极不可能发生的将来假设，用 If ... were to stop结构。"
     },
     {
       "id": 23,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Great achievements _____ in space exploration over the past few decades.",
+      "question": "She talks about Paris as if she _____ there for years, but in fact she has never been abroad.",
       "options": {
-        "A": "have achieved",
-        "B": "have been achieved",
-        "C": "were achieved",
-        "D": "are achieved"
+        "A": "lived",
+        "B": "lives",
+        "C": "had lived",
+        "D": "has lived"
       },
-      "answer": "B",
-      "explanation": "考查现在完成时的被动语态。标志词 'over the past few decades'（在过去几十年间）配合现在完成时，成就（achievements）是被取得的，用 have been achieved。"
+      "answer": "C",
+      "explanation": "考查【as if/as though 虚拟语气】。表示对过去事实的虚拟假设（她从未出国，却说得好像过去在那里住过很多年一样），从句动词用过去完成时 had lived。"
     },
     {
       "id": 24,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "If it _____ tomorrow, we will have to postpone the outdoor sports meet.",
+      "question": "_____ you require any further technical assistance, please do not hesitate to contact us.",
       "options": {
-        "A": "rains",
-        "B": "will rain",
-        "C": "rained",
-        "D": "is raining"
+        "A": "Should",
+        "B": "Were",
+        "C": "Had",
+        "D": "If"
       },
       "answer": "A",
-      "explanation": "考查条件状语从句的主将从现。在 if 引导的真实条件句中，从句用一般现在时 rains 替代将来时。"
+      "explanation": "考查【正式公文中的条件句倒装】。原句为 If you should require... 省略 if 后将情态动词 Should 提至句首，常用于商务信函。"
     },
     {
       "id": 25,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The manager announced that the meeting _____ until next Friday.",
+      "question": "It is high time that we _____ effective measures to protect endangered species.",
       "options": {
-        "A": "postpones",
-        "B": "had postponed",
-        "C": "would be postponed",
-        "D": "is postponed"
+        "A": "take",
+        "B": "took",
+        "C": "will take",
+        "D": "have taken"
       },
-      "answer": "C",
-      "explanation": "考查过去将来时的被动语态。主句 announced 为过去时，宾语从句中动作发生在主句之后（未来），且“会议是被推迟的”，用 would be postponed。"
+      "answer": "B",
+      "explanation": "考查【It is high time (that)... 句型】。该句型从句谓语动词需用一般过去时（took）或 should + 动词原形（should 绝对不可省略）。"
     },
     {
       "id": 26,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The urgent report needs _____ to the principal before 5:00 PM today.",
+      "question": "If the surgeon had not performed the operation immediately, the patient _____.",
       "options": {
-        "A": "to hand in",
-        "B": "to be handed in",
-        "C": "handing in",
-        "D": "Both B and C"
+        "A": "would die",
+        "B": "would have died",
+        "C": "died",
+        "D": "will die"
       },
-      "answer": "D",
-      "explanation": "考查 need 表示“需要被处理”时的两种结构：need to be done 或 need doing。因此 to be handed in 和 handing in 均符合语法规则。"
+      "answer": "B",
+      "explanation": "考查【与过去相反的虚拟主句】。从句 had not performed，主句对过去的虚拟应为 would have died。"
     },
     {
       "id": 27,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Don't phone me between 8:00 and 10:00 tomorrow morning; I _____ an important exam.",
+      "question": "I would rather you _____ anyone about our private conversation yesterday.",
       "options": {
-        "A": "will take",
-        "B": "will be taking",
-        "C": "am taking",
-        "D": "have taken"
+        "A": "didn't tell",
+        "B": "haven't told",
+        "C": "had not told",
+        "D": "don't tell"
       },
-      "answer": "B",
-      "explanation": "考查将来进行时。表示在将来某一确切的时间段内（明天上午8:00-10:00）正在进行的动作，用 will be taking。"
+      "answer": "C",
+      "explanation": "考查【would rather 虚拟语气】。would rather 后接宾语从句，若针对“过去发生的事（yesterday）”，从句动词必须用过去完成时 had not told。"
     },
     {
       "id": 28,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "I wish I _____ harder when I was at senior high school.",
+      "question": "Without your generous financial support, our non-profit project _____ last year.",
       "options": {
-        "A": "worked",
-        "B": "have worked",
-        "C": "had worked",
-        "D": "would work"
+        "A": "couldn't be completed",
+        "B": "couldn't have been completed",
+        "C": "won't be completed",
+        "D": "hasn't been completed"
       },
-      "answer": "C",
-      "explanation": "考查 wish 引导的虚拟语气。是对过去事实（when I was at senior high school）的遗憾与假设，谓语动词需向前推一个时态，用 had worked。"
+      "answer": "B",
+      "explanation": "考查【含蓄条件句（介词介导虚拟）】。介词 Without 代替了条件从句，针对过去时间（last year），主句谓语用 couldn't have been completed。"
     },
     {
       "id": 29,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "It is reported that a breakthrough in renewable energy _____ by scientists recently.",
+      "question": "_____ it not been for the heavy morning traffic, we would have arrived at the airport on time.",
       "options": {
-        "A": "has made",
-        "B": "has been made",
-        "C": "was made",
-        "D": "had been made"
+        "A": "Were",
+        "B": "Had",
+        "C": "If",
+        "D": "Should"
       },
       "answer": "B",
-      "explanation": "考查形式主语句型及现在完成时被动语态。从句中近期发生的动作（recently）对现在产生影响，突破（breakthrough）是被做出的，用 has been made。"
+      "explanation": "考查【固定虚拟句型倒装】。原句为 If it had not been for...（要不是因为……），省略 if 后倒装为 Had it not been for..."
     },
     {
       "id": 30,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The damaged highway _____ right now, so drivers are advised to take an alternative route.",
+      "question": "If the Universe _____ at a slightly different rate after the Big Bang, life as we know it could never have emerged.",
       "options": {
-        "A": "is repaired",
-        "B": "is being repaired",
-        "C": "was being repaired",
-        "D": "has repaired"
+        "A": "expanded",
+        "B": "expands",
+        "C": "had expanded",
+        "D": "would expand"
       },
-      "answer": "B",
-      "explanation": "考查现在进行时的被动语态。时间副词 'right now' 表明此时此刻正在发生，且公路是被修复的，用 is being repaired。"
+      "answer": "C",
+      "explanation": "考查【高考/考纲压轴级过去虚拟】。大爆炸（Big Bang）是发生在过去的确定历史事件，假设其以不同速率膨胀是对过去的虚拟，故从句使用过去完成时 had expanded。"
     }
   ]
 }

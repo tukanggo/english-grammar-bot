@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-15",
+  "target_audience": "Primary & Secondary School (Ages 9-17)",
+  "topic": "条件状语从句与虚拟语气 (Conditionals and Subjunctive Mood)",
+  "teaching_notes": "1.【核心概念】：条件句就像一个“逻辑开关”！如果触发了“条件”（If从句），就会产生“结果”（主句）。小学阶段我们学习“真实条件句”（现实中极可能发生的事或客观真理）；中学阶段进阶到“平行宇宙/虚拟语气”（假设与现实相反的遗憾或幻想）。\n2.【口诀与公式】：\n- 小学核心【主将从现】：If 从句用一般现在时，主句用一般将来时（will/can + 动词原形）。\n- 中学进阶【时态降格降阶法】：\n  ① 与现在相反：从句用过去式（be动词全用were），主句用 would/could + 动词原形；\n  ② 与过去相反：从句用 had + done，主句用 would/could + have + done；\n  ③ 倒装省略句：省略 if，把 Had / Were / Should 提前置于句首！\n3.【中小学生避坑指南】：\n- 坑1：If 从句千万不要加 will！（错：If it will rain tomorrow... ❌ 对：If it rains tomorrow... ✅）\n- 坑2：unless 意思是“除非”（等于 if... not），后面绝对不能再接否定词 not，否则就变成了“双重否定”！\n- 坑3：虚拟语气中，与现在相反时，无论主语是 I/he/she，be 动词一律优先用 were。\n4.【经典例句】：\n- ① If you heat ice, it melts.（零级条件/客观真理：如果你加热冰，它就会融化。）\n- ② If it rains tomorrow, we will stay at home.（一级真实条件：如果明天下雨，我们就留在家。）\n- ③ If I had studied harder last semester, I would have passed the exam.（三级虚拟条件：如果我上学期更努力一点，我就通过考试了。）",
+  "questions": [
+    {
+      "id": 1,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "If it _____ tomorrow, we will cancel our outdoor picnic.",
+      "options": {
+        "A": "rains",
+        "B": "rained",
+        "C": "will rain",
+        "D": "is raining"
+      },
+      "answer": "A",
+      "explanation": "考查【主将从现】规则。在 if 引导的条件状语从句中，主句用一般将来时（will cancel），从句必须用一般现在时（rains）表示将来。"
+    },
+    {
+      "id": 2,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "You will get good marks in the exam if you _____ hard every day.",
+      "options": {
+        "A": "worked",
+        "B": "work",
+        "C": "will work",
+        "D": "have worked"
+      },
+      "answer": "B",
+      "explanation": "考查【主将从现】。主句是 will get，if 从句使用一般现在时 work，主语为 you 用动词原形。"
+    },
+    {
+      "id": 3,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "If water reaches 100 degrees Celsius, it _____.",
+      "options": {
+        "A": "boiled",
+        "B": "will boil",
+        "C": "boils",
+        "D": "is boiling"
+      },
+      "answer": "C",
+      "explanation": "考查【零级条件句（客观真理）】。描述客观科学事实时，主句和从句都使用一般现在时（reaches ... boils）。"
+    },
+    {
+      "id": 4,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Unless you _____, you will be late for the morning assembly.",
+      "options": {
+        "A": "hurry",
+        "B": "won't hurry",
+        "C": "don't hurry",
+        "D": "hurried"
+      },
+      "answer": "A",
+      "explanation": "考查【unless 辨析】。unless 意为“除非”，本身已包含否定意味（if you don't），从句需用肯定形式 hurry。"
+    },
+    {
+      "id": 5,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "What will you do if your computer _____ down during the test?",
+      "options": {
+        "A": "will break",
+        "B": "broke",
+        "C": "breaks",
+        "D": "breaking"
+      },
+      "answer": "C",
+      "explanation": "考查【主将从现】。特殊疑问句主句用了 will do，if 从句主语是第三人称单数 your computer，动词用 breaks。"
+    },
+    {
+      "id": 6,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "If Lily _____ her homework early tonight, she can watch cartoons.",
+      "options": {
+        "A": "finish",
+        "B": "finishes",
+        "C": "will finish",
+        "D": "finished"
+      },
+      "answer": "B",
+      "explanation": "考查【主情从现】。主句带有情态动词 can，if 从句同样用一般现在时，Lily 为第三人称单数，填 finishes。"
+    },
+    {
+      "id": 7,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Please call your mother as soon as you _____ at the train station.",
+      "options": {
+        "A": "arrive",
+        "B": "will arrive",
+        "C": "arrived",
+        "D": "are arriving"
+      },
+      "answer": "A",
+      "explanation": "考查【时间状语从句主祈从现】。as soon as（一……就……）引导的时间状语从句中，主句是祈使句（Please call），从句用一般现在时 arrive。"
+    },
+    {
+      "id": 8,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "We won't go swimming if the sea water _____ too cold.",
+      "options": {
+        "A": "will be",
+        "B": "was",
+        "C": "is",
+        "D": "being"
+      },
+      "answer": "C",
+      "explanation": "考查【主将从现】。主句是 won't go，if 从句主语 sea water 是不可数名词，be 动词一般现在时形式为 is。"
+    },
+    {
+      "id": 9,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "If you don't eat a proper breakfast, you _____ hungry later in the afternoon.",
+      "options": {
+        "A": "feel",
+        "B": "will feel",
+        "C": "felt",
+        "D": "have felt"
+      },
+      "answer": "B",
+      "explanation": "考查【主将从现】。从句使用了否定形式 don't eat，主句应用一般将来时 will feel。"
+    },
+    {
+      "id": 10,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Don't open the door for anyone unless you _____ who is outside.",
+      "options": {
+        "A": "know",
+        "B": "don't know",
+        "C": "will know",
+        "D": "knew"
+      },
+      "answer": "A",
+      "explanation": "考查【祈使句 + unless】。unless 本身表否定，后接一般现在时肯定形式 know。"
+    },
+    {
+      "id": 11,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "If Tim _____ enough pocket money, he will buy that comic book.",
+      "options": {
+        "A": "have",
+        "B": "will have",
+        "C": "has",
+        "D": "had"
+      },
+      "answer": "C",
+      "explanation": "考查【主将从现】。Tim 是单数第三人称，have 的一般现在时三单形式为 has。"
+    },
+    {
+      "id": 12,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "If it is fine this Sunday, my family _____ camping near the lake.",
+      "options": {
+        "A": "went",
+        "B": "will go",
+        "C": "go",
+        "D": "had gone"
+      },
+      "answer": "B",
+      "explanation": "考查【主将从现】。从句是一般现在时 is fine，主句需补齐一般将来时 will go。"
+    },
+    {
+      "id": 13,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "You should wear a heavy jacket when it _____ cold outside.",
+      "options": {
+        "A": "gets",
+        "B": "will get",
+        "C": "got",
+        "D": "getting"
+      },
+      "answer": "A",
+      "explanation": "考查【时间状语从句】。when 引导的时间状语从句中，主句用情态动词 should wear，从句用一般现在时 gets。"
+    },
+    {
+      "id": 14,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "If you mix red and yellow, you _____ orange.",
+      "options": {
+        "A": "got",
+        "B": "will get",
+        "C": "get",
+        "D": "are getting"
+      },
+      "answer": "C",
+      "explanation": "考查【零级条件句】。颜色的混合属于客观科学事实，主从句均用一般现在时（mix ... get）。"
+    },
+    {
+      "id": 15,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Unless he _____ for his mistake, I will not talk to him again.",
+      "options": {
+        "A": "apologize",
+        "B": "apologizes",
+        "C": "doesn't apologize",
+        "D": "will apologize"
+      },
+      "answer": "B",
+      "explanation": "考查【unless 语法细节】。unless 从句用一般现在时，主语 he 为三单，因此使用 apologizes。"
+    },
+    {
+      "id": 16,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "If I _____ a bird, I would fly across the vast ocean.",
+      "options": {
+        "A": "am",
+        "B": "was",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "C",
+      "explanation": "考查【与现在事实相反的虚拟语气】。从句谓语动词用过去式，若为 be 动词，无论主语单复数，标准语法中一律用 were。"
+    },
+    {
+      "id": 17,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "If he had woken up ten minutes earlier this morning, he _____ the school bus.",
+      "options": {
+        "A": "wouldn't miss",
+        "B": "wouldn't have missed",
+        "C": "didn't miss",
+        "D": "won't miss"
+      },
+      "answer": "B",
+      "explanation": "考查【与过去事实相反的虚拟语气】。从句用 had + done，主句结构为 would/could/should/might + have + done，故选 wouldn't have missed。"
+    },
+    {
+      "id": 18,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "I wish I _____ the answer to this complex physics problem right now.",
+      "options": {
+        "A": "know",
+        "B": "knew",
+        "C": "have known",
+        "D": "had known"
+      },
+      "answer": "B",
+      "explanation": "考查【wish 后的虚拟语气】。表示对“现在”情况的虚拟假设，宾语从句动词需用一般过去时 knew。"
+    },
+    {
+      "id": 19,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "If you _____ harder last semester, you would be at the top of the class now.",
+      "options": {
+        "A": "studied",
+        "B": "study",
+        "C": "had studied",
+        "D": "would study"
+      },
+      "answer": "C",
+      "explanation": "考查【错综时间条件句（混合虚拟）】。从句是对过去发生的假设（last semester），用 had studied；主句是对现在结果的假设（now），用 would be。"
+    },
+    {
+      "id": 20,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Supposing it _____ tomorrow, what would we do about the open-air concert?",
+      "options": {
+        "A": "were to rain",
+        "B": "will rain",
+        "C": "rains",
+        "D": "has rained"
+      },
+      "answer": "A",
+      "explanation": "考查【与将来事实相反的虚拟语气】。从句表示对将来不可能或可能性极小情况的假设，可用 were to + 动词原形/did/should + 动词原形。故选 were to rain。"
+    },
+    {
+      "id": 21,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_____ I known that you were ill in hospital, I would have visited you immediately.",
+      "options": {
+        "A": "If",
+        "B": "Had",
+        "C": "Were",
+        "D": "Should"
+      },
+      "answer": "B",
+      "explanation": "考查【虚拟语气倒装省略句】。当虚拟条件句省略 if 时，必须将 had, were 或 should 提到句首。原句为 If I had known... 倒装为 Had I known..."
+    },
+    {
+      "id": 22,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "If the sun _____ to stop shining, all living organisms on Earth would perish.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "C",
+      "explanation": "考查【将来虚拟 (were to)】。太阳停止发光是极不可能发生的将来假设，用 If ... were to stop结构。"
+    },
+    {
+      "id": 23,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "She talks about Paris as if she _____ there for years, but in fact she has never been abroad.",
+      "options": {
+        "A": "lived",
+        "B": "lives",
+        "C": "had lived",
+        "D": "has lived"
+      },
+      "answer": "C",
+      "explanation": "考查【as if/as though 虚拟语气】。表示对过去事实的虚拟假设（她从未出国，却说得好像过去在那里住过很多年一样），从句动词用过去完成时 had lived。"
+    },
+    {
+      "id": 24,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_____ you require any further technical assistance, please do not hesitate to contact us.",
+      "options": {
+        "A": "Should",
+        "B": "Were",
+        "C": "Had",
+        "D": "If"
+      },
+      "answer": "A",
+      "explanation": "考查【正式公文中的条件句倒装】。原句为 If you should require... 省略 if 后将情态动词 Should 提至句首，常用于商务信函。"
+    },
+    {
+      "id": 25,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "It is high time that we _____ effective measures to protect endangered species.",
+      "options": {
+        "A": "take",
+        "B": "took",
+        "C": "will take",
+        "D": "have taken"
+      },
+      "answer": "B",
+      "explanation": "考查【It is high time (that)... 句型】。该句型从句谓语动词需用一般过去时（took）或 should + 动词原形（should 绝对不可省略）。"
+    },
+    {
+      "id": 26,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "If the surgeon had not performed the operation immediately, the patient _____.",
+      "options": {
+        "A": "would die",
+        "B": "would have died",
+        "C": "died",
+        "D": "will die"
+      },
+      "answer": "B",
+      "explanation": "考查【与过去相反的虚拟主句】。从句 had not performed，主句对过去的虚拟应为 would have died。"
+    },
+    {
+      "id": 27,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "I would rather you _____ anyone about our private conversation yesterday.",
+      "options": {
+        "A": "didn't tell",
+        "B": "haven't told",
+        "C": "had not told",
+        "D": "don't tell"
+      },
+      "answer": "C",
+      "explanation": "考查【would rather 虚拟语气】。would rather 后接宾语从句，若针对“过去发生的事（yesterday）”，从句动词必须用过去完成时 had not told。"
+    },
+    {
+      "id": 28,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Without your generous financial support, our non-profit project _____ last year.",
+      "options": {
+        "A": "couldn't be completed",
+        "B": "couldn't have been completed",
+        "C": "won't be completed",
+        "D": "hasn't been completed"
+      },
+      "answer": "B",
+      "explanation": "考查【含蓄条件句（介词介导虚拟）】。介词 Without 代替了条件从句，针对过去时间（last year），主句谓语用 couldn't have been completed。"
+    },
+    {
+      "id": 29,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_____ it not been for the heavy morning traffic, we would have arrived at the airport on time.",
+      "options": {
+        "A": "Were",
+        "B": "Had",
+        "C": "If",
+        "D": "Should"
+      },
+      "answer": "B",
+      "explanation": "考查【固定虚拟句型倒装】。原句为 If it had not been for...（要不是因为……），省略 if 后倒装为 Had it not been for..."
+    },
+    {
+      "id": 30,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "If the Universe _____ at a slightly different rate after the Big Bang, life as we know it could never have emerged.",
+      "options": {
+        "A": "expanded",
+        "B": "expands",
+        "C": "had expanded",
+        "D": "would expand"
+      },
+      "answer": "C",
+      "explanation": "考查【高考/考纲压轴级过去虚拟】。大爆炸（Big Bang）是发生在过去的确定历史事件，假设其以不同速率膨胀是对过去的虚拟，故从句使用过去完成时 had expanded。"
+    }
+  ]
+}
