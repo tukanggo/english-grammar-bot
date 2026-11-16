@@ -142,7 +142,7 @@
                 let optionsHtml = '';
                 for (let key in q.options) {
                     optionsHtml += `
-                        <label class="flex items-center space-x-3 p-3 rounded-lg border border-slate-200 hover:bg-slate-50 cursor-pointer transition">
+                        <label id="label_${index}_${key}" class="flex items-center space-x-3 p-3 rounded-lg border border-slate-200 hover:bg-slate-50 cursor-pointer transition">
                             <input type="radio" name="question_${index}" value="${key}" class="w-4 h-4 text-indigo-600 focus:ring-indigo-500">
                             <span class="font-medium text-slate-700">${key}. ${q.options[key]}</span>
                         </label>
@@ -171,13 +171,35 @@
                 const expDiv = document.getElementById(`explanation-${index}`);
                 expDiv.classList.remove('hidden');
 
+                // 获取正确答案的完整文本（例如：A. went）
+                const correctText = q.options[q.answer] ? `${q.answer}. ${q.options[q.answer]}` : q.answer;
+
+                // 高亮正确选项的标签边框与背景
+                const correctLabel = document.getElementById(`label_${index}_${q.answer}`);
+                if (correctLabel) {
+                    correctLabel.classList.remove('border-slate-200', 'hover:bg-slate-50');
+                    correctLabel.classList.add('border-green-500', 'bg-green-50');
+                }
+
                 if (selected && selected.value === q.answer) {
                     score++;
-                    expDiv.innerHTML = `<span class="font-bold text-green-700">回答正确！</span> 正确答案: ${q.answer}。<br><strong>解析:</strong> ${q.explanation}`;
+                    expDiv.innerHTML = `<span class="font-bold text-green-700">回答正确！</span> 正确答案: <strong>${correctText}</strong>。<br><strong>解析:</strong> ${q.explanation}`;
                     expDiv.className = "mt-3 p-3 bg-green-50 border-l-4 border-green-500 text-sm text-green-900 rounded";
                 } else {
-                    const userAns = selected ? selected.value : '未作答';
-                    expDiv.innerHTML = `<span class="font-bold text-red-700">回答错误。</span> 你的选择: ${userAns}，正确答案: ${q.answer}。<br><strong>解析:</strong> ${q.explanation}`;
+                    let userAnsText = '未作答';
+                    if (selected) {
+                        const val = selected.value;
+                        userAnsText = q.options[val] ? `${val}. ${q.options[val]}` : val;
+
+                        // 高亮用户选错的选项标签
+                        const wrongLabel = document.getElementById(`label_${index}_${val}`);
+                        if (wrongLabel) {
+                            wrongLabel.classList.remove('border-slate-200', 'hover:bg-slate-50');
+                            wrongLabel.classList.add('border-red-500', 'bg-red-50');
+                        }
+                    }
+
+                    expDiv.innerHTML = `<span class="font-bold text-red-700">回答错误。</span> 你的选择: ${userAnsText}，正确答案: <strong>${correctText}</strong>。<br><strong>解析:</strong> ${q.explanation}`;
                     expDiv.className = "mt-3 p-3 bg-red-50 border-l-4 border-red-500 text-sm text-red-900 rounded";
                 }
             });
