@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-19",
+  "target_audience": "Primary & Secondary School (Ages 9-17)",
+  "topic": "主谓一致 (Subject-Verb Agreement)",
+  "teaching_notes": "1. 【核心概念】：主谓一致就像是英语里的“双人舞”——主语是领舞，谓语动词是跟舞者。主语是单数，谓语就用单数（如 holds/is/has）；主语是复数，谓语就用复数（如 hold/are/have）。两者步调一致，句子才协调！\n2. 【公式与口诀】：\n   ① 语法一致：单对单，复对复（He walks / They walk）。\n   ② 就近原则：Neither...nor / Either...or / Not only...but also 选近邻。\n   ③ 意义一致：a number of（许多）带复数，the number of（数量）带单数；时间/金钱/距离整体看作单数。\n3. 【避坑指南】：\n   ① 忽视介词短语干扰：*The boy with two dogs is (不是 are) running.*（主语是 The boy，介词短语 with two dogs 是修饰成分）。\n   ② 混淆复合不定代词：Everyone / Something / Each 做主语时，谓语动词一律用单数！\n4. 【经典例句】：\n   ① Either you or Tom **is** going to clean the room.（要么你要么汤姆去打扫房间。）\n   ② The number of students in our school **is** growing.（我们学校的学生数量正在增加。）\n   ③ Ten kilometres **is** a long distance to walk.（十公里是一段很长的步行距离。）",
+  "questions": [
+    {
+      "id": 1,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "My brother _____ to school every day.",
+      "options": {
+        "A": "walk",
+        "B": "walks",
+        "C": "walking",
+        "D": "is walk"
+      },
+      "answer": "B",
+      "explanation": "主语 My brother 是第三人称单数，一般现在时谓语动词需用单数形式 walks。"
+    },
+    {
+      "id": 2,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "There _____ some orange juice in the bottle.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "orange juice 是不可数名词，There be 句型中谓语动词用单数 is。"
+    },
+    {
+      "id": 3,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Tom and Jerry _____ good friends.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "Tom and Jerry 由 and 连接构成复数主语，谓语动词用复数 are。"
+    },
+    {
+      "id": 4,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Every student in our class _____ a school uniform.",
+      "options": {
+        "A": "have",
+        "B": "has",
+        "C": "having",
+        "D": "are having"
+      },
+      "answer": "B",
+      "explanation": "Every修饰单数名词 student 做主语时，谓语动词用单数 has。"
+    },
+    {
+      "id": 5,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The news on TV _____ very exciting today.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "news（新闻）是不可数名词，谓语动词用单数 is。"
+    },
+    {
+      "id": 6,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "She _____ like playing basketball after class.",
+      "options": {
+        "A": "don't",
+        "B": "doesn't",
+        "C": "isn't",
+        "D": "aren't"
+      },
+      "answer": "B",
+      "explanation": "主语 She 是第三人称单数，否定句借助于助动词 doesn't。"
+    },
+    {
+      "id": 7,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Maths _____ my favorite subject at school.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
+      },
+      "answer": "A",
+      "explanation": "Maths 形复实单，表示学科名称，谓语动词用单数 is。"
+    },
+    {
+      "id": 8,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "A girl with two dogs _____ running in the park.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "句子真实主语是 A girl（单数），with two dogs 为介词短语修饰主语，谓语用 is。"
+    },
+    {
+      "id": 9,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Neither Mike nor his classmates _____ at school yesterday.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "answer": "B",
+      "explanation": "Neither...nor... 遵循就近原则，离动词最近的主语是 his classmates（复数），结合 yesterday 选 were。"
+    },
+    {
+      "id": 10,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "My little sister _____ drawing pictures very much.",
+      "options": {
+        "A": "like",
+        "B": "likes",
+        "C": "liking",
+        "D": "is like"
+      },
+      "answer": "B",
+      "explanation": "My little sister 为第三人称单数主语，一般现在时动词用 likes。"
+    },
+    {
+      "id": 11,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Bread and butter _____ his regular breakfast.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "Bread and butter 指“黄油面包”这一整体食物概念，视为单数，谓语用 is。"
+    },
+    {
+      "id": 12,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Both of my parents _____ English teachers.",
+      "options": {
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
+      },
+      "answer": "C",
+      "explanation": "Both of... 表示“两者都”，作主语时谓语动词用复数 are。"
+    },
+    {
+      "id": 13,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "One of the boys _____ absent from class yesterday morning.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
+      },
+      "answer": "A",
+      "explanation": "One of + 复数名词 结构做主语，核心主语是 One（单数），结合 yesterday morning 选 was。"
+    },
+    {
+      "id": 14,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "There _____ a pen and three books on the table.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "There be 句型遵循“就近原则”，最靠近 be 动词的是单数名词 a pen，因此用 is。"
+    },
+    {
+      "id": 15,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Each boy and each girl _____ a gift on Children's Day.",
+      "options": {
+        "A": "gets",
+        "B": "get",
+        "C": "getting",
+        "D": "have got"
+      },
+      "answer": "A",
+      "explanation": "Each... and each... 连接单数名词作主语时，谓语动词仍用单数形式 gets。"
+    },
+    {
+      "id": 16,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Not only the students but also the teacher _____ looking forward to the field trip.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "Not only... but also... 遵循就近原则，邻近主语 the teacher 为单数，谓语动词选 is。"
+    },
+    {
+      "id": 17,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "A number of students _____ absent, but the number of students in our class _____ still 40.",
+      "options": {
+        "A": "is; is",
+        "B": "are; are",
+        "C": "are; is",
+        "D": "is; are"
+      },
+      "answer": "C",
+      "explanation": "a number of 指“许多”，后接复数谓语 are；the number of 指“……的数量”，做主语谓语用单数 is。"
+    },
+    {
+      "id": 18,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Three-fourths of the information _____ verified by the research team last night.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
+      },
+      "answer": "A",
+      "explanation": "分数/百分数 + of + 名词 作主语，谓语动词取决于 of 后的名词。information 为不可数名词，结合 last night 选 was。"
+    },
+    {
+      "id": 19,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "My family _____ all big fans of football; we often watch matches together.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "be"
+      },
+      "answer": "B",
+      "explanation": "family 属于集合名词，此处强调“家庭各个成员”，表示复数概念，谓语动词用 are。"
+    },
+    {
+      "id": 20,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The famous writer and singer _____ going to give a speech at our school hall tomorrow.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "The famous writer and singer 只有一个冠词 The，指“同一个人既是作家又是歌手”，谓语动词用单数 is。"
+    },
+    {
+      "id": 21,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "He is one of the students who _____ selected for the national math Olympiad.",
+      "options": {
+        "A": "has been",
+        "B": "have been",
+        "C": "is",
+        "D": "was"
+      },
+      "answer": "B",
+      "explanation": "在“one of + 复数名词 + 定语从句”中，关系代词 who 指代复数名词 students，从句谓语动词用复数 have been。"
+    },
+    {
+      "id": 22,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "He is the only one of the students who _____ full marks in the physics contest.",
+      "options": {
+        "A": "has got",
+        "B": "have got",
+        "C": "get",
+        "D": "are getting"
+      },
+      "answer": "A",
+      "explanation": "在“the only one of + 复数名词 + 定语从句”中，强调“唯一的那一个”，从句谓语动词用单数 has got。"
+    },
+    {
+      "id": 23,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Fifty dollars _____ too high a price for such a simple plastic toy.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "表示金钱、时间、距离等的复数名词短语作主语，通常看作一个整体，谓语动词用单数 is。"
+    },
+    {
+      "id": 24,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "More than one student _____ failed the chemistry exam this term.",
+      "options": {
+        "A": "has",
+        "B": "have",
+        "C": "is",
+        "D": "are"
+      },
+      "answer": "A",
+      "explanation": "More than one + 单数名词 结构作主语，谓语动词遵循语法一致用单数 has。"
+    },
+    {
+      "id": 25,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Neither the project manager nor the software developers _____ satisfied with the new update.",
+      "options": {
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
+      },
+      "answer": "B",
+      "explanation": "Neither...nor... 遵循就近原则，靠近谓语的是复数名词 developers，故选用复数 were。"
+    },
+    {
+      "id": 26,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Between the two tall mountains _____ a quiet and peaceful ancient village.",
+      "options": {
+        "A": "lies",
+        "B": "lie",
+        "C": "lying",
+        "D": "is lied"
+      },
+      "answer": "A",
+      "explanation": "倒装句型：介词短语置于句首，主语为后面的 a quiet and peaceful ancient village（单数），谓语动词用单数 lies。"
+    },
+    {
+      "id": 27,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The committee _____ divided in their opinions regarding the proposed policy change.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has"
+      },
+      "answer": "B",
+      "explanation": "committee 整体为集合名词，此处由其后物主代词 their 提示，表示委员会内部各个成员意见分歧（复数概念），谓语用 are。"
+    },
+    {
+      "id": 28,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Taking regular physical exercise and eating balanced meals _____ crucial for health.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "was"
+      },
+      "answer": "B",
+      "explanation": "两个动名词短语由 and 连接，表示两件独立的事情，主语为复数概念，谓语用 are。"
+    },
+    {
+      "id": 29,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Not the doctor but the nurses _____ to blame for the tragic medical mistake.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has"
+      },
+      "answer": "B",
+      "explanation": "Not...but...（不是……而是……）遵循就近原则，靠近谓语的主语是 the nurses（复数），谓语用 are。"
+    },
+    {
+      "id": 30,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "What the school management urgently needs _____ more qualified English teachers.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "was"
+      },
+      "answer": "B",
+      "explanation": "What 引导的主语从句，若表语为复数名词（more qualified English teachers），谓语动词通常用复数 are。"
+    }
+  ]
+}

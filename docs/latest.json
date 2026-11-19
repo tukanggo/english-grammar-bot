@@ -1,428 +1,428 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-19",
   "target_audience": "Primary & Secondary School (Ages 9-17)",
-  "topic": "非谓语动词 (Non-finite Verbs: To do, Doing, Done)",
-  "teaching_notes": "1. 【核心概念】：非谓语动词就是动词的“变装秀”！在一个完整的英语句子中，主角（谓语动词）只有一个。如果别的动词也想加入句子，就必须卸下“主唱”身份，穿上变装服（变成 to do、doing 或 done），去充当定语、状语、宾语等角色，绝对不能再抢主角的位置。\n2. 【语法公式与口诀】：\n- to do（不定式）：表示“将来、目的、未发生”（去干某事）。\n- doing（动名词/现在分词）：表示“正在进行、习惯体验、主动动作”。\n- done（过去分词）：表示“被动完成、某种状态”。\n- 记口诀：一句不纳二主动，非谓变装显神通；将来目的用 to do，正在习惯用 doing，被动完成 done 搞定！\n3. 【中小学生易错点】：\n- 错点1：双谓语冲突。如误写 *I like play football*（正确应为 like playing 或 like to play）。\n- 错点2：混淆 stop/remember/forget 后接 to do 和 doing 的含义（如 stop to do 是停下来去做另一件事，stop doing 是停止正在做的事）。\n- 错点3：分词作状语时忽视逻辑主语的一致性（中学考纲高频压轴陷阱）。\n4. 【经典例句】：\n- She decided to study hard for the test. (她决定为考试努力学习。——表未来/目的)\n- My brother enjoys playing basketball. (我弟弟喜欢打篮球。——表习惯/体验)\n- Seen from the hill, the city looks beautiful. (从山上俯瞰，城市看起来很美。——表被动完成)",
+  "topic": "主谓一致 (Subject-Verb Agreement)",
+  "teaching_notes": "1. 【核心概念】：主谓一致就像是英语里的“双人舞”——主语是领舞，谓语动词是跟舞者。主语是单数，谓语就用单数（如 holds/is/has）；主语是复数，谓语就用复数（如 hold/are/have）。两者步调一致，句子才协调！\n2. 【公式与口诀】：\n   ① 语法一致：单对单，复对复（He walks / They walk）。\n   ② 就近原则：Neither...nor / Either...or / Not only...but also 选近邻。\n   ③ 意义一致：a number of（许多）带复数，the number of（数量）带单数；时间/金钱/距离整体看作单数。\n3. 【避坑指南】：\n   ① 忽视介词短语干扰：*The boy with two dogs is (不是 are) running.*（主语是 The boy，介词短语 with two dogs 是修饰成分）。\n   ② 混淆复合不定代词：Everyone / Something / Each 做主语时，谓语动词一律用单数！\n4. 【经典例句】：\n   ① Either you or Tom **is** going to clean the room.（要么你要么汤姆去打扫房间。）\n   ② The number of students in our school **is** growing.（我们学校的学生数量正在增加。）\n   ③ Ten kilometres **is** a long distance to walk.（十公里是一段很长的步行距离。）",
   "questions": [
     {
       "id": 1,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "I want ______ a new bicycle for my ninth birthday.",
+      "question": "My brother _____ to school every day.",
       "options": {
-        "A": "buy",
-        "B": "to buy",
-        "C": "buying",
-        "D": "bought"
+        "A": "walk",
+        "B": "walks",
+        "C": "walking",
+        "D": "is walk"
       },
       "answer": "B",
-      "explanation": "want 后接动词不定式做宾语，固定搭配为 want to do sth.（想要做某事）。"
+      "explanation": "主语 My brother 是第三人称单数，一般现在时谓语动词需用单数形式 walks。"
     },
     {
       "id": 2,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Lucy enjoys ______ storybooks in the school library after class.",
+      "question": "There _____ some orange juice in the bottle.",
       "options": {
-        "A": "read",
-        "B": "to read",
-        "C": "reading",
-        "D": "reads"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
       },
-      "answer": "C",
-      "explanation": "enjoy 表示“喜爱”，后接动词必须用动名词形式，即 enjoy doing sth.。"
+      "answer": "A",
+      "explanation": "orange juice 是不可数名词，There be 句型中谓语动词用单数 is。"
     },
     {
       "id": 3,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Would you like ______ some hot milk before going to bed?",
+      "question": "Tom and Jerry _____ good friends.",
       "options": {
-        "A": "drink",
-        "B": "to drink",
-        "C": "drinking",
-        "D": "drank"
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
       },
       "answer": "B",
-      "explanation": "would like 表示“想要”，后面习惯接不定式，即 would like to do sth.。"
+      "explanation": "Tom and Jerry 由 and 连接构成复数主语，谓语动词用复数 are。"
     },
     {
       "id": 4,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My little brother is very good at ______ football.",
+      "question": "Every student in our class _____ a school uniform.",
       "options": {
-        "A": "play",
-        "B": "to play",
-        "C": "playing",
-        "D": "played"
+        "A": "have",
+        "B": "has",
+        "C": "having",
+        "D": "are having"
       },
-      "answer": "C",
-      "explanation": "at 是介词，介词后面遇到动词时，动词要变成动名词形式（-ing 形式）。"
+      "answer": "B",
+      "explanation": "Every修饰单数名词 student 做主语时，谓语动词用单数 has。"
     },
     {
       "id": 5,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The weather was sunny, so we decided ______ a walk in the park.",
+      "question": "The news on TV _____ very exciting today.",
       "options": {
-        "A": "take",
-        "B": "to take",
-        "C": "taking",
-        "D": "took"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
       },
-      "answer": "B",
-      "explanation": "decide 表示“决定”，后接动词不定式作宾语，固定结构为 decide to do sth.。"
+      "answer": "A",
+      "explanation": "news（新闻）是不可数名词，谓语动词用单数 is。"
     },
     {
       "id": 6,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Please wash your hands after you finish ______ your drawing.",
+      "question": "She _____ like playing basketball after class.",
       "options": {
-        "A": "do",
-        "B": "to do",
-        "C": "doing",
-        "D": "did"
+        "A": "don't",
+        "B": "doesn't",
+        "C": "isn't",
+        "D": "aren't"
       },
-      "answer": "C",
-      "explanation": "finish 表示“完成”，后面接动词的 -ing 形式，即 finish doing sth.。"
+      "answer": "B",
+      "explanation": "主语 She 是第三人称单数，否定句借助于助动词 doesn't。"
     },
     {
       "id": 7,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The teacher came into the classroom, so the students stopped ______.",
+      "question": "Maths _____ my favorite subject at school.",
       "options": {
-        "A": "talk",
-        "B": "to talk",
-        "C": "talking",
-        "D": "talked"
+        "A": "is",
+        "B": "are",
+        "C": "am",
+        "D": "be"
       },
-      "answer": "C",
-      "explanation": "stop doing sth. 表示“停止正在做的事情”；stop to do sth. 表示“停下来去做另一件事”。根据语境，学生们是停止讲话，故选 C。"
+      "answer": "A",
+      "explanation": "Maths 形复实单，表示学科名称，谓语动词用单数 is。"
     },
     {
       "id": 8,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Listening to cheerful music always makes me ______ happy.",
+      "question": "A girl with two dogs _____ running in the park.",
       "options": {
-        "A": "feel",
-        "B": "to feel",
-        "C": "feeling",
-        "D": "felt"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
       },
       "answer": "A",
-      "explanation": "make 是使役动词，后接省略 to 的不定式作宾语补足语，即 make sb. do sth.。"
+      "explanation": "句子真实主语是 A girl（单数），with two dogs 为介词短语修饰主语，谓语用 is。"
     },
     {
       "id": 9,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Tom practices ______ English every morning to improve his oral skills.",
+      "question": "Neither Mike nor his classmates _____ at school yesterday.",
       "options": {
-        "A": "speak",
-        "B": "to speak",
-        "C": "speaking",
-        "D": "spoke"
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
       },
-      "answer": "C",
-      "explanation": "practice 表示“练习”，后面只能接动名词做宾语，即 practice doing sth.。"
+      "answer": "B",
+      "explanation": "Neither...nor... 遵循就近原则，离动词最近的主语是 his classmates（复数），结合 yesterday 选 were。"
     },
     {
       "id": 10,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "It is raining heavily outside. You need ______ an umbrella with you.",
+      "question": "My little sister _____ drawing pictures very much.",
       "options": {
-        "A": "take",
-        "B": "to take",
-        "C": "taking",
-        "D": "took"
+        "A": "like",
+        "B": "likes",
+        "C": "liking",
+        "D": "is like"
       },
       "answer": "B",
-      "explanation": "need 作实义动词且主语为人时，后接不定式，表示“需要做某事”，即 need to do sth.。"
+      "explanation": "My little sister 为第三人称单数主语，一般现在时动词用 likes。"
     },
     {
       "id": 11,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Keep ______, and you will surely succeed in the competition.",
+      "question": "Bread and butter _____ his regular breakfast.",
       "options": {
-        "A": "try",
-        "B": "to try",
-        "C": "trying",
-        "D": "tried"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
       },
-      "answer": "C",
-      "explanation": "keep doing sth. 是固定短语，意为“坚持做某事 / 不断做某事”。"
+      "answer": "A",
+      "explanation": "Bread and butter 指“黄油面包”这一整体食物概念，视为单数，谓语用 is。"
     },
     {
       "id": 12,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Our family plans ______ a movie together this coming Sunday.",
+      "question": "Both of my parents _____ English teachers.",
       "options": {
-        "A": "watch",
-        "B": "to watch",
-        "C": "watching",
-        "D": "watched"
+        "A": "is",
+        "B": "am",
+        "C": "are",
+        "D": "be"
       },
-      "answer": "B",
-      "explanation": "plan 表示“计划”，后接不定式作宾语，表示将要进行的动作，即 plan to do sth.。"
+      "answer": "C",
+      "explanation": "Both of... 表示“两者都”，作主语时谓语动词用复数 are。"
     },
     {
       "id": 13,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "I am really looking forward to ______ my grandparents in Beijing.",
+      "question": "One of the boys _____ absent from class yesterday morning.",
       "options": {
-        "A": "visit",
-        "B": "to visit",
-        "C": "visiting",
-        "D": "visited"
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "are"
       },
-      "answer": "C",
-      "explanation": "look forward to 中的 to 是介词（非不定式符号），后面必须跟动名词，即 look forward to doing sth.。"
+      "answer": "A",
+      "explanation": "One of + 复数名词 结构做主语，核心主语是 One（单数），结合 yesterday morning 选 was。"
     },
     {
       "id": 14,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Don't forget ______ the door when you leave the house.",
+      "question": "There _____ a pen and three books on the table.",
       "options": {
-        "A": "lock",
-        "B": "to lock",
-        "C": "locking",
-        "D": "locked"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
       },
-      "answer": "B",
-      "explanation": "forget to do sth. 表示“忘记去做某事（还没做）”；forget doing sth. 表示“忘记做过某事（已做）”。出门前提醒锁门是未做的事，选 B。"
+      "answer": "A",
+      "explanation": "There be 句型遵循“就近原则”，最靠近 be 动词的是单数名词 a pen，因此用 is。"
     },
     {
       "id": 15,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My sister spent two hours ______ this cute Lego castle.",
+      "question": "Each boy and each girl _____ a gift on Children's Day.",
       "options": {
-        "A": "build",
-        "B": "to build",
-        "C": "building",
-        "D": "built"
+        "A": "gets",
+        "B": "get",
+        "C": "getting",
+        "D": "have got"
       },
-      "answer": "C",
-      "explanation": "spend time (in) doing sth. 是固定搭配，意为“花费时间做某事”。"
+      "answer": "A",
+      "explanation": "Each... and each... 连接单数名词作主语时，谓语动词仍用单数形式 gets。"
     },
     {
       "id": 16,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "______ along the quiet river bank, I suddenly heard someone calling my name.",
+      "question": "Not only the students but also the teacher _____ looking forward to the field trip.",
       "options": {
-        "A": "Walk",
-        "B": "Walked",
-        "C": "Walking",
-        "D": "To walk"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
       },
-      "answer": "C",
-      "explanation": "现在分词短语作时间/伴随状语。逻辑主语是 I，与 walk 之间是主动关联且动作正在发生，故用 Walking。"
+      "answer": "A",
+      "explanation": "Not only... but also... 遵循就近原则，邻近主语 the teacher 为单数，谓语动词选 is。"
     },
     {
       "id": 17,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "______ by the sudden loud noise, the young child burst into tears immediately.",
+      "question": "A number of students _____ absent, but the number of students in our class _____ still 40.",
       "options": {
-        "A": "Frightening",
-        "B": "Frightened",
-        "C": "To frighten",
-        "D": "Frighten"
+        "A": "is; is",
+        "B": "are; are",
+        "C": "are; is",
+        "D": "is; are"
       },
-      "answer": "B",
-      "explanation": "过去分词作原因状语。逻辑主语 the young child 与 frighten 之间是被动关系（被吓到），用过去分词 Frightened。"
+      "answer": "C",
+      "explanation": "a number of 指“许多”，后接复数谓语 are；the number of 指“……的数量”，做主语谓语用单数 is。"
     },
     {
       "id": 18,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "______ all his homework, Peter was allowed to go outside and play football with his friends.",
+      "question": "Three-fourths of the information _____ verified by the research team last night.",
       "options": {
-        "A": "Finishing",
-        "B": "Having finished",
-        "C": "Finished",
-        "D": "To finish"
+        "A": "was",
+        "B": "were",
+        "C": "are",
+        "D": "have been"
       },
-      "answer": "B",
-      "explanation": "现在分词的完成式（Having done）作状语，表示该动作发生在主句谓语动作（was allowed）之前。"
+      "answer": "A",
+      "explanation": "分数/百分数 + of + 名词 作主语，谓语动词取决于 of 后的名词。information 为不可数名词，结合 last night 选 was。"
     },
     {
       "id": 19,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "With all the lights ______, the dark room looked a bit spooky.",
+      "question": "My family _____ all big fans of football; we often watch matches together.",
       "options": {
-        "A": "turn off",
-        "B": "turning off",
-        "C": "turned off",
-        "D": "to turn off"
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "be"
       },
-      "answer": "C",
-      "explanation": "With 复合结构（with + 宾语 + 宾补）。lights 与 turn off 之间是被动且已完成的关系，故宾补用过去分词 turned off。"
+      "answer": "B",
+      "explanation": "family 属于集合名词，此处强调“家庭各个成员”，表示复数概念，谓语动词用 are。"
     },
     {
       "id": 20,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "There are still several complex issues ______ before the agreement can be signed.",
+      "question": "The famous writer and singer _____ going to give a speech at our school hall tomorrow.",
       "options": {
-        "A": "to discuss",
-        "B": "to be discussed",
-        "C": "discussing",
-        "D": "discussed"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
       },
-      "answer": "B",
-      "explanation": "不定式的被动语态（to be done）作后置定语。issues 与 discuss 之间是被动关系，且表示将来发生的动作。"
+      "answer": "A",
+      "explanation": "The famous writer and singer 只有一个冠词 The，指“同一个人既是作家又是歌手”，谓语动词用单数 is。"
     },
     {
       "id": 21,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "I saw him ______ across the street just now, but he vanished into the crowd within seconds.",
+      "question": "He is one of the students who _____ selected for the national math Olympiad.",
       "options": {
-        "A": "run",
-        "B": "running",
-        "C": "ran",
-        "D": "to run"
+        "A": "has been",
+        "B": "have been",
+        "C": "is",
+        "D": "was"
       },
       "answer": "B",
-      "explanation": "see sb. doing sth. 表示看见某人“正在做某事”（强调过程或瞬间进行）；see sb. do sth. 强调全过程。此处表示看到他在跑着穿过街道，选 running。"
+      "explanation": "在“one of + 复数名词 + 定语从句”中，关系代词 who 指代复数名词 students，从句谓语动词用复数 have been。"
     },
     {
       "id": 22,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "He rushed all the way to the railway station, only ______ that the train had already departed.",
+      "question": "He is the only one of the students who _____ full marks in the physics contest.",
       "options": {
-        "A": "finding",
-        "B": "to find",
-        "C": "found",
-        "D": "find"
+        "A": "has got",
+        "B": "have got",
+        "C": "get",
+        "D": "are getting"
       },
-      "answer": "B",
-      "explanation": "only to do sth. 作结果状语，常表示令人出乎意料或遗憾的“不好的结果”。"
+      "answer": "A",
+      "explanation": "在“the only one of + 复数名词 + 定语从句”中，强调“唯一的那一个”，从句谓语动词用单数 has got。"
     },
     {
       "id": 23,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "______ the severe weather conditions, the organizers decided to postpone the outdoor sports event.",
+      "question": "Fifty dollars _____ too high a price for such a simple plastic toy.",
       "options": {
-        "A": "Considering",
-        "B": "Considered",
-        "C": "To consider",
-        "D": "Consider"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "were"
       },
       "answer": "A",
-      "explanation": "Considering... 属于分词转化为介词/状语的固定用法，意为“考虑到……”、“鉴于……”。"
+      "explanation": "表示金钱、时间、距离等的复数名词短语作主语，通常看作一个整体，谓语动词用单数 is。"
     },
     {
       "id": 24,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The suspect claimed ______ at home watching television when the crime took place.",
+      "question": "More than one student _____ failed the chemistry exam this term.",
       "options": {
-        "A": "to be",
-        "B": "being",
-        "C": "to have been",
-        "D": "having been"
+        "A": "has",
+        "B": "have",
+        "C": "is",
+        "D": "are"
       },
-      "answer": "C",
-      "explanation": "claim 后接不定式作宾语；由于“在家里看电视”发生在“声称（claimed）”之前，故需用不定式的完成式 to have been。"
+      "answer": "A",
+      "explanation": "More than one + 单数名词 结构作主语，谓语动词遵循语法一致用单数 has。"
     },
     {
       "id": 25,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Deeply ______ by the doctor's selfless dedication, all the patients expressed their sincere gratitude.",
+      "question": "Neither the project manager nor the software developers _____ satisfied with the new update.",
       "options": {
-        "A": "moving",
-        "B": "moved",
-        "C": "to move",
-        "D": "move"
+        "A": "was",
+        "B": "were",
+        "C": "is",
+        "D": "has"
       },
       "answer": "B",
-      "explanation": "过去分词作状语。逻辑主语是 all the patients，表示“深受感动”（被动心理状态），故使用过去分词 moved。"
+      "explanation": "Neither...nor... 遵循就近原则，靠近谓语的是复数名词 developers，故选用复数 were。"
     },
     {
       "id": 26,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "______ independently in an unfamiliar environment requires courage, patience, and resilience.",
+      "question": "Between the two tall mountains _____ a quiet and peaceful ancient village.",
       "options": {
-        "A": "Live",
-        "B": "Living",
-        "C": "Lived",
-        "D": "To be lived"
+        "A": "lies",
+        "B": "lie",
+        "C": "lying",
+        "D": "is lied"
       },
-      "answer": "B",
-      "explanation": "动名词（Living）作句子的主语，表达抽象或一般性的行为，谓语动词 requires 动词单数形式。"
+      "answer": "A",
+      "explanation": "倒装句型：介词短语置于句首，主语为后面的 a quiet and peaceful ancient village（单数），谓语动词用单数 lies。"
     },
     {
       "id": 27,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "______ for three consecutive weeks, the patient was finally allowed to leave the hospital.",
+      "question": "The committee _____ divided in their opinions regarding the proposed policy change.",
       "options": {
-        "A": "Treating",
-        "B": "Treated",
-        "C": "Having been treated",
-        "D": "Having treated"
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has"
       },
-      "answer": "C",
-      "explanation": "现在分词的完成被动式（Having been done）作状语。逻辑主语 the patient 与 treat 之间是被动关系，且“治疗”发生在“出院（was allowed）”之前。"
+      "answer": "B",
+      "explanation": "committee 整体为集合名词，此处由其后物主代词 their 提示，表示委员会内部各个成员意见分歧（复数概念），谓语用 are。"
     },
     {
       "id": 28,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Before going to the job interview, David went to the hair salon to have his hair ______.",
+      "question": "Taking regular physical exercise and eating balanced meals _____ crucial for health.",
       "options": {
-        "A": "cut",
-        "B": "cutting",
-        "C": "to cut",
-        "D": "cuts"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "was"
       },
-      "answer": "A",
-      "explanation": "have sth. done 为固定致使结构，表示“让/请别人做某事”。hair 与 cut 是被动关系，故用过去分词 cut。"
+      "answer": "B",
+      "explanation": "两个动名词短语由 and 连接，表示两件独立的事情，主语为复数概念，谓语用 are。"
     },
     {
       "id": 29,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The moment I entered the kitchen, I could smell something ______ in the oven.",
+      "question": "Not the doctor but the nurses _____ to blame for the tragic medical mistake.",
       "options": {
-        "A": "burn",
-        "B": "burning",
-        "C": "burnt",
-        "D": "to burn"
+        "A": "is",
+        "B": "are",
+        "C": "was",
+        "D": "has"
       },
       "answer": "B",
-      "explanation": "smell sth. doing 结构，表示“闻到某物正在（发出烧焦等）动作”，用现在分词表示动作正在进行。"
+      "explanation": "Not...but...（不是……而是……）遵循就近原则，靠近谓语的主语是 the nurses（复数），谓语用 are。"
     },
     {
       "id": 30,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "______ the peak of the mountain after a tough six-hour hike, the climbers let out a cheer.",
+      "question": "What the school management urgently needs _____ more qualified English teachers.",
       "options": {
-        "A": "Reached",
-        "B": "To reach",
-        "C": "Having reached",
-        "D": "Reach"
+        "A": "is",
+        "B": "are",
+        "C": "be",
+        "D": "was"
       },
-      "answer": "C",
-      "explanation": "现在分词完成式（Having reached）作状语。逻辑主语是 the climbers，登顶动作发生在欢呼（let out a cheer）之前，强调先后顺序。"
+      "answer": "B",
+      "explanation": "What 引导的主语从句，若表语为复数名词（more qualified English teachers），谓语动词通常用复数 are。"
     }
   ]
 }
