@@ -1,428 +1,428 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "target_audience": "Primary & Secondary School (Ages 9-17)",
-  "topic": "主谓一致 (Subject-Verb Agreement)",
-  "teaching_notes": "1. 【核心概念】：主谓一致就像是英语里的“双人舞”——主语是领舞，谓语动词是跟舞者。主语是单数，谓语就用单数（如 holds/is/has）；主语是复数，谓语就用复数（如 hold/are/have）。两者步调一致，句子才协调！\n2. 【公式与口诀】：\n   ① 语法一致：单对单，复对复（He walks / They walk）。\n   ② 就近原则：Neither...nor / Either...or / Not only...but also 选近邻。\n   ③ 意义一致：a number of（许多）带复数，the number of（数量）带单数；时间/金钱/距离整体看作单数。\n3. 【避坑指南】：\n   ① 忽视介词短语干扰：*The boy with two dogs is (不是 are) running.*（主语是 The boy，介词短语 with two dogs 是修饰成分）。\n   ② 混淆复合不定代词：Everyone / Something / Each 做主语时，谓语动词一律用单数！\n4. 【经典例句】：\n   ① Either you or Tom **is** going to clean the room.（要么你要么汤姆去打扫房间。）\n   ② The number of students in our school **is** growing.（我们学校的学生数量正在增加。）\n   ③ Ten kilometres **is** a long distance to walk.（十公里是一段很长的步行距离。）",
+  "topic": "定语从句 (Attributive Clauses)",
+  "teaching_notes": "1. 【核心概念】：定语从句就像给名词穿上了“功能性外套”。被修饰的名词叫“先行词”，身后的定语从句就像一个“大形容词”，专门用来具体说明“哪一个”或“什么样的”人或物。\n2. 【公式与口诀】：结构 = 先行词 + 关系词 (who/which/that/whose/where/when/why) + 从句。\n   记忆口诀：人用 who，物用 which，that 人物皆可替；“谁的”所属用 whose，状语 where/when/why 看仔细。先看从句缺不缺主宾：缺主/宾选关系代词，不缺主宾选关系副词！\n3. 【避坑指南】：\n   ① 混淆 where/when 与 which/that：从句谓语如果是及物动词且缺宾语，必须用 which/that，千万别一看到地点/时间就盲目选 where/when！\n   ② 从句成分重复：关系词已经在从句中充当了主语或宾语，从句内部绝对不能再写 redundant 代词（如：The boy who I met him 错！去掉 him）。\n   ③ 限定与非限定：非限制性定语从句（有逗号隔开）以及介词后，绝对不能使用 that！\n4. 【经典例句】：\n   ① The boy who is wearing a red hat is my brother. (那个戴红帽子的男孩是我弟弟。)\n   ② This is the interesting book which I bought yesterday. (这是我昨天买的那本有趣的书。)\n   ③ I still remember the school where we studied five years ago. (我仍然记得我们五年前学习过的学校。)",
   "questions": [
     {
       "id": 1,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My brother _____ to school every day.",
+      "question": "The girl _____ is singing on the stage is my younger sister.",
       "options": {
-        "A": "walk",
-        "B": "walks",
-        "C": "walking",
-        "D": "is walk"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "when"
       },
-      "answer": "B",
-      "explanation": "主语 My brother 是第三人称单数，一般现在时谓语动词需用单数形式 walks。"
+      "answer": "A",
+      "explanation": "考查关系代词的基础用法。先行词是 The girl（人），且从句中缺少主语，因此用关系代词 who。"
     },
     {
       "id": 2,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "There _____ some orange juice in the bottle.",
+      "question": "Look at the cute dog _____ is playing with a yellow ball in the garden.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "were"
+        "A": "who",
+        "B": "which",
+        "C": "whom",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "orange juice 是不可数名词，There be 句型中谓语动词用单数 is。"
+      "answer": "B",
+      "explanation": "先行词是 dog（动物/物），从句缺少主语，应用关系代词 which。"
     },
     {
       "id": 3,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Tom and Jerry _____ good friends.",
+      "question": "The toy robot _____ my uncle sent me yesterday is very cool.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "am",
-        "D": "be"
+        "A": "who",
+        "B": "whose",
+        "C": "that",
+        "D": "where"
       },
-      "answer": "B",
-      "explanation": "Tom and Jerry 由 and 连接构成复数主语，谓语动词用复数 are。"
+      "answer": "C",
+      "explanation": "先行词是 The toy robot（物），在从句中作宾语，既可以用 which 也可以用 that。"
     },
     {
       "id": 4,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Every student in our class _____ a school uniform.",
+      "question": "Do you know the friendly teacher _____ teaches us science?",
       "options": {
-        "A": "have",
-        "B": "has",
-        "C": "having",
-        "D": "are having"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "when"
       },
-      "answer": "B",
-      "explanation": "Every修饰单数名词 student 做主语时，谓语动词用单数 has。"
+      "answer": "A",
+      "explanation": "先行词为 teacher（人），从句缺少主语，指人时优先使用 who。"
     },
     {
       "id": 5,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The news on TV _____ very exciting today.",
+      "question": "The movie _____ we watched together last night was very exciting.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "were"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "news（新闻）是不可数名词，谓语动词用单数 is。"
+      "answer": "C",
+      "explanation": "先行词为 The movie（物），从句动词 watched 后面缺少宾语，填关系代词 which。"
     },
     {
       "id": 6,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "She _____ like playing basketball after class.",
+      "question": "I lost the lucky pen _____ my mother gave me on my birthday.",
       "options": {
-        "A": "don't",
-        "B": "doesn't",
-        "C": "isn't",
-        "D": "aren't"
+        "A": "who",
+        "B": "that",
+        "C": "whom",
+        "D": "where"
       },
       "answer": "B",
-      "explanation": "主语 She 是第三人称单数，否定句借助于助动词 doesn't。"
+      "explanation": "先行词是 lucky pen（物），从句中缺宾语，选项中只有 that 符合条件。"
     },
     {
       "id": 7,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Maths _____ my favorite subject at school.",
+      "question": "This is the schoolboy _____ schoolbag was lost on the school bus.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "am",
-        "D": "be"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "that"
       },
-      "answer": "A",
-      "explanation": "Maths 形复实单，表示学科名称，谓语动词用单数 is。"
+      "answer": "B",
+      "explanation": "考查所属关系。先行词是 schoolboy，且从句名词 schoolbag 与先行词是“男孩的书包”所属关系（whose schoolbag），因此填 whose。"
     },
     {
       "id": 8,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "A girl with two dogs _____ running in the park.",
+      "question": "The park _____ is near my house has a beautiful wooden bridge.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "were"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "句子真实主语是 A girl（单数），with two dogs 为介词短语修饰主语，谓语用 is。"
+      "answer": "B",
+      "explanation": "先行词为 The park，但注意从句缺少的是主语（is near my house），而非地点状语，因此选关系代词 which。"
     },
     {
       "id": 9,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Neither Mike nor his classmates _____ at school yesterday.",
+      "question": "The doctor _____ saved the old man's life is very brave and kind.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "is",
-        "D": "are"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "B",
-      "explanation": "Neither...nor... 遵循就近原则，离动词最近的主语是 his classmates（复数），结合 yesterday 选 were。"
+      "answer": "A",
+      "explanation": "先行词是 doctor（人），在从句中作主语，故用 who。"
     },
     {
       "id": 10,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My little sister _____ drawing pictures very much.",
+      "question": "I really like the storybook _____ has many colorful pictures in it.",
       "options": {
-        "A": "like",
-        "B": "likes",
-        "C": "liking",
-        "D": "is like"
+        "A": "who",
+        "B": "that",
+        "C": "whom",
+        "D": "where"
       },
       "answer": "B",
-      "explanation": "My little sister 为第三人称单数主语，一般现在时动词用 likes。"
+      "explanation": "先行词是 storybook（物），从句缺主语，可选 that 或 which。"
     },
     {
       "id": 11,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Bread and butter _____ his regular breakfast.",
+      "question": "A doctor is a healthcare worker _____ helps sick people get better.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "were"
+        "A": "which",
+        "B": "who",
+        "C": "where",
+        "D": "when"
       },
-      "answer": "A",
-      "explanation": "Bread and butter 指“黄油面包”这一整体食物概念，视为单数，谓语用 is。"
+      "answer": "B",
+      "explanation": "先行词为 worker（人），从句缺少主语，填关系代词 who。"
     },
     {
       "id": 12,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Both of my parents _____ English teachers.",
+      "question": "The little cat _____ tail is very long is sleeping on the armchair.",
       "options": {
-        "A": "is",
-        "B": "am",
-        "C": "are",
-        "D": "be"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "that"
       },
-      "answer": "C",
-      "explanation": "Both of... 表示“两者都”，作主语时谓语动词用复数 are。"
+      "answer": "B",
+      "explanation": "先行词是 cat，和后面的 tail 是“猫的尾巴”所有格关系，故用 whose。"
     },
     {
       "id": 13,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "One of the boys _____ absent from class yesterday morning.",
+      "question": "The delicious cake _____ my grandmother baked was shared by all of us.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "is",
-        "D": "are"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "whom"
       },
-      "answer": "A",
-      "explanation": "One of + 复数名词 结构做主语，核心主语是 One（单数），结合 yesterday morning 选 was。"
+      "answer": "B",
+      "explanation": "先行词为 cake（物），在 baked 后充当宾语，应用关系代词 which。"
     },
     {
       "id": 14,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "There _____ a pen and three books on the table.",
+      "question": "Please show me the picture _____ you drew in art class yesterday.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "were"
+        "A": "who",
+        "B": "that",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "There be 句型遵循“就近原则”，最靠近 be 动词的是单数名词 a pen，因此用 is。"
+      "answer": "B",
+      "explanation": "先行词是 picture（物），从句及物动词 drew 缺少宾语，用关系代词 that。"
     },
     {
       "id": 15,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Each boy and each girl _____ a gift on Children's Day.",
+      "question": "My father knows the driver _____ car broke down near the highway.",
       "options": {
-        "A": "gets",
-        "B": "get",
-        "C": "getting",
-        "D": "have got"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "Each... and each... 连接单数名词作主语时，谓语动词仍用单数形式 gets。"
+      "answer": "B",
+      "explanation": "先行词为 driver，与从句中的 car 构成“司机的汽车”所有关系，因此选 whose。"
     },
     {
       "id": 16,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Not only the students but also the teacher _____ looking forward to the field trip.",
+      "question": "Is this the exact chemical factory _____ your father worked ten years ago?",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "were"
+        "A": "which",
+        "B": "that",
+        "C": "where",
+        "D": "whom"
       },
-      "answer": "A",
-      "explanation": "Not only... but also... 遵循就近原则，邻近主语 the teacher 为单数，谓语动词选 is。"
+      "answer": "C",
+      "explanation": "【辨析易错点】先行词是 chemical factory，从句 work 为不及物动词，从句结构完整（你的父亲在那里工作），缺少地点状语，因此填关系副词 where (在从句中相当于 in which)。"
     },
     {
       "id": 17,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "A number of students _____ absent, but the number of students in our class _____ still 40.",
+      "question": "I will never forget the unforgettable day _____ I first entered this secondary school.",
       "options": {
-        "A": "is; is",
-        "B": "are; are",
-        "C": "are; is",
-        "D": "is; are"
+        "A": "when",
+        "B": "which",
+        "C": "where",
+        "D": "why"
       },
-      "answer": "C",
-      "explanation": "a number of 指“许多”，后接复数谓语 are；the number of 指“……的数量”，做主语谓语用单数 is。"
+      "answer": "A",
+      "explanation": "先行词是 time/day（时间），从句成分完整缺时间状语（on that day），因此使用关系副词 when。"
     },
     {
       "id": 18,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Three-fourths of the information _____ verified by the research team last night.",
+      "question": "The principal gave a convincing speech, explaining the main reason _____ the school rule was modified.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "are",
-        "D": "have been"
+        "A": "which",
+        "B": "why",
+        "C": "where",
+        "D": "how"
       },
-      "answer": "A",
-      "explanation": "分数/百分数 + of + 名词 作主语，谓语动词取决于 of 后的名词。information 为不可数名词，结合 last night 选 was。"
+      "answer": "B",
+      "explanation": "先行词是 reason（原因），从句成分完整且缺原因状语（for the reason），故选关系副词 why。"
     },
     {
       "id": 19,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "My family _____ all big fans of football; we often watch matches together.",
+      "question": "The scientific project on _____ our research group spent three months was finally approved.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "was",
-        "D": "be"
+        "A": "that",
+        "B": "which",
+        "C": "whom",
+        "D": "where"
       },
       "answer": "B",
-      "explanation": "family 属于集合名词，此处强调“家庭各个成员”，表示复数概念，谓语动词用 are。"
+      "explanation": "【考纲重点】“介词 + 关系代词”结构中，先行词是 project（物），介词 on 后面绝对不能接 that，必须使用 which。"
     },
     {
       "id": 20,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The famous writer and singer _____ going to give a speech at our school hall tomorrow.",
+      "question": "Mr. Roberts, _____ daughter is an internationally famous pianist, will move to London next week.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "were"
+        "A": "who",
+        "B": "whose",
+        "C": "whom",
+        "D": "that"
       },
-      "answer": "A",
-      "explanation": "The famous writer and singer 只有一个冠词 The，指“同一个人既是作家又是歌手”，谓语动词用单数 is。"
+      "answer": "B",
+      "explanation": "非限制性定语从句。先行词是 Mr. Roberts，与 daughter 为所属关系（罗伯茨先生的女儿），故填 whose。"
     },
     {
       "id": 21,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "He is one of the students who _____ selected for the national math Olympiad.",
+      "question": "All _____ glitters is not gold, as the classic proverb says.",
       "options": {
-        "A": "has been",
-        "B": "have been",
-        "C": "is",
-        "D": "was"
+        "A": "which",
+        "B": "that",
+        "C": "what",
+        "D": "who"
       },
       "answer": "B",
-      "explanation": "在“one of + 复数名词 + 定语从句”中，关系代词 who 指代复数名词 students，从句谓语动词用复数 have been。"
+      "explanation": "【考纲限定词考点】当先行词为不定代词 all, everything, nothing, anything 等时，关系代词只能用 that，不能用 which。"
     },
     {
       "id": 22,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "He is the only one of the students who _____ full marks in the physics contest.",
+      "question": "The historic hotel, _____ stood near the peaceful lake, was severely damaged in the fire.",
       "options": {
-        "A": "has got",
-        "B": "have got",
-        "C": "get",
-        "D": "are getting"
+        "A": "that",
+        "B": "which",
+        "C": "where",
+        "D": "who"
       },
-      "answer": "A",
-      "explanation": "在“the only one of + 复数名词 + 定语从句”中，强调“唯一的那一个”，从句谓语动词用单数 has got。"
+      "answer": "B",
+      "explanation": "【非限制性定语从句考点】逗号隔开的非限制性定语从句中修饰物，且在从句中作主语，不能使用 that，必须使用 which。"
     },
     {
       "id": 23,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Fifty dollars _____ too high a price for such a simple plastic toy.",
+      "question": "This is by far the most impressive art museum _____ I have ever visited in Asia.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "were"
+        "A": "which",
+        "B": "that",
+        "C": "where",
+        "D": "what"
       },
-      "answer": "A",
-      "explanation": "表示金钱、时间、距离等的复数名词短语作主语，通常看作一个整体，谓语动词用单数 is。"
+      "answer": "B",
+      "explanation": "【最高级修饰考点】当先行词被形容词最高级（the most impressive）修饰时，关系代词只能选 that。"
     },
     {
       "id": 24,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "More than one student _____ failed the chemistry exam this term.",
+      "question": "He failed to submit his assignment on time, _____ disappointed his English teacher greatly.",
       "options": {
-        "A": "has",
-        "B": "have",
-        "C": "is",
-        "D": "are"
+        "A": "that",
+        "B": "which",
+        "C": "what",
+        "D": "where"
       },
-      "answer": "A",
-      "explanation": "More than one + 单数名词 结构作主语，谓语动词遵循语法一致用单数 has。"
+      "answer": "B",
+      "explanation": "【整句指代考点】which 在非限制性定语从句中可指代主句整句话的内容（“他没按时交作业这件事”），作从句的主语。"
     },
     {
       "id": 25,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Neither the project manager nor the software developers _____ satisfied with the new update.",
+      "question": "The senior consultant with _____ I discussed the career plan yesterday offered me insightful advice.",
       "options": {
-        "A": "was",
-        "B": "were",
-        "C": "is",
-        "D": "has"
+        "A": "who",
+        "B": "whom",
+        "C": "that",
+        "D": "whose"
       },
       "answer": "B",
-      "explanation": "Neither...nor... 遵循就近原则，靠近谓语的是复数名词 developers，故选用复数 were。"
+      "explanation": "【介词+人考点】“介词 + 关系代词”结构中，先行词是 consultant（人），介词 with 后面指代人时只能使用宾格形式 whom。"
     },
     {
       "id": 26,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Between the two tall mountains _____ a quiet and peaceful ancient village.",
+      "question": "Great changes have taken place in our hometown, _____ was expected by all the local residents.",
       "options": {
-        "A": "lies",
-        "B": "lie",
-        "C": "lying",
-        "D": "is lied"
+        "A": "as",
+        "B": "which",
+        "C": "that",
+        "D": "what"
       },
       "answer": "A",
-      "explanation": "倒装句型：介词短语置于句首，主语为后面的 a quiet and peaceful ancient village（单数），谓语动词用单数 lies。"
+      "explanation": "【as vs which】表示“正如……所预料的那样”，习惯用 as 引导非限制性定语从句，常用于 as is expected / as was expected 结构中。"
     },
     {
       "id": 27,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The committee _____ divided in their opinions regarding the proposed policy change.",
+      "question": "I still fondly cherish the memorable days _____ we spent together in the summer camp.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "was",
-        "D": "has"
+        "A": "when",
+        "B": "which",
+        "C": "where",
+        "D": "why"
       },
       "answer": "B",
-      "explanation": "committee 整体为集合名词，此处由其后物主代词 their 提示，表示委员会内部各个成员意见分歧（复数概念），谓语用 are。"
+      "explanation": "【中考/高考经典陷阱】先行词虽然是表示时间的 days，但从句谓语动词 spent（度过）是及物动词，后面缺少宾语（spent the days），因此不能选 when，而应选 which/that！"
     },
     {
       "id": 28,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Taking regular physical exercise and eating balanced meals _____ crucial for health.",
+      "question": "Is there anything else _____ you would like to clarify before we move on to the next topic?",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "was"
+        "A": "which",
+        "B": "that",
+        "C": "who",
+        "D": "where"
       },
       "answer": "B",
-      "explanation": "两个动名词短语由 and 连接，表示两件独立的事情，主语为复数概念，谓语用 are。"
+      "explanation": "先行词是不定代词 anything，关系代词限定使用 that。"
     },
     {
       "id": 29,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Not the doctor but the nurses _____ to blame for the tragic medical mistake.",
+      "question": "We paid a visit to the small cottage in _____ the world-famous novelist was born in 1890.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "was",
-        "D": "has"
+        "A": "where",
+        "B": "which",
+        "C": "that",
+        "D": "what"
       },
       "answer": "B",
-      "explanation": "Not...but...（不是……而是……）遵循就近原则，靠近谓语的主语是 the nurses（复数），谓语用 are。"
+      "explanation": "介词 in 后面引导修饰物（cottage）的定语从句，只能用 which。in which 在此处相当于关系副词 where。"
     },
     {
       "id": 30,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "What the school management urgently needs _____ more qualified English teachers.",
+      "question": "The brilliant student _____ research paper won first prize in the national competition will give a speech tomorrow.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "be",
-        "D": "was"
+        "A": "who",
+        "B": "whose",
+        "C": "whom",
+        "D": "of which"
       },
       "answer": "B",
-      "explanation": "What 引导的主语从句，若表语为复数名词（more qualified English teachers），谓语动词通常用复数 are。"
+      "explanation": "先行词是 student，与后面的名词短语 research paper 是所有格关系（该学生的论文），故选 whose。"
     }
   ]
 }
