@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-23",
+  "target_audience": "Primary & Secondary School (Ages 9-17)",
+  "topic": "被动语态 (Passive Voice) 基础到进阶全景解析",
+  "teaching_notes": "1. 【核心概念】：被动语态就像是“主角互换”。主语不再是动作的发出者（施动者），而是动作的承受者（受体）。当你不知道动作是谁做的，或者想强调被影响的对象/结果时，被动语态就派上用场啦！\n2. 【语法公式与口诀】：核心公式为“be + 动词过去分词 (V-ed/V3)”。口诀：“被动语态 be加过分，时态变化看 be 身；宾变主，主变宾，by 带施动跟后边。”（一般现在时：am/is/are + done；一般过去时：was/were + done；含情态动词：modal + be + done）。\n3. 【中小学生易错点】：① 遗漏 be 动词（错写为 The cake eaten by Tom）；② 不及物动词误用被动（happen, disappear, take place 等绝无被动语态）；③ 使役/感官动词主动省 to，被动须还原 to（如 make sb do 变为 be made to do）。\n4. 【经典例句】：① Primary: The green apple is eaten by the cute monkey.（这个青苹果被可爱的小猴子吃了。） ② Junior: Our homework must be finished before 9 o'clock.（我们的作业必须在9点前完成。） ③ Senior: It is reported that a futuristic library will be built in our school.（据报道，我们学校将建一座未来感图书馆。）",
+  "questions": [
+    {
+      "id": 1,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "English _____ in many countries around the world as a global language.",
+      "options": {
+        "A": "is spoken",
+        "B": "speaks",
+        "C": "is speaking",
+        "D": "spoke"
+      },
+      "answer": "A",
+      "explanation": "考查一般现在时的被动语态。主语 English 是动作 speak 的承受者，且表示客观事实，用“is + 过去分词 spoken”。"
+    },
+    {
+      "id": 2,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Yesterday, the broken window _____ by Mr. Green after school.",
+      "options": {
+        "A": "fixed",
+        "B": "was fixed",
+        "C": "fixes",
+        "D": "is fixing"
+      },
+      "answer": "B",
+      "explanation": "考查一般过去时的被动语态。由时间状语 yesterday 可知用过去时，单数主语 window 后接 was fixed。"
+    },
+    {
+      "id": 3,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "A new modern playground _____ built in our primary school next month.",
+      "options": {
+        "A": "is built",
+        "B": "was built",
+        "C": "will be",
+        "D": "has been"
+      },
+      "answer": "C",
+      "explanation": "考查一般将来时的被动语态。时间状语 next month 提示将来时，结构为 will be + built。"
+    },
+    {
+      "id": 4,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "These interesting storybooks _____ be borrowed from the school library.",
+      "options": {
+        "A": "can",
+        "B": "is",
+        "C": "must to",
+        "D": "can be"
+      },
+      "answer": "D",
+      "explanation": "考查含情态动词的被动语态。“情态动词 + be + 过去分词”，故选 can be。"
+    },
+    {
+      "id": 5,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Look! The colorful flowers are _____ watered by the young gardener.",
+      "options": {
+        "A": "be",
+        "B": "being",
+        "C": "been",
+        "D": "were"
+      },
+      "answer": "B",
+      "explanation": "考查现在进行时的被动语态。Look! 提示正在发生，结构为 am/is/are being + V-ed。"
+    },
+    {
+      "id": 6,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "That famous song was _____ sweetly by the school choir last night.",
+      "options": {
+        "A": "sing",
+        "B": "sang",
+        "C": "sung",
+        "D": "singing"
+      },
+      "answer": "C",
+      "explanation": "考查不规则动词过去分词。sing 的过去分词是 sung，was sung 构成一般过去时的被动。"
+    },
+    {
+      "id": 7,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Paper is _____ from wood in large factories.",
+      "options": {
+        "A": "made",
+        "B": "make",
+        "C": "making",
+        "D": "makes"
+      },
+      "answer": "A",
+      "explanation": "考查固定被动搭配 be made from（由……制成，看不出原材料）。"
+    },
+    {
+      "id": 8,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "My yellow bike was taken _____ mistake by somebody yesterday afternoon.",
+      "options": {
+        "A": "with",
+        "B": "by",
+        "C": "for",
+        "D": "from"
+      },
+      "answer": "B",
+      "explanation": "考查介词搭配。by mistake 为固定短语意为“错误地/无意中”。"
+    },
+    {
+      "id": 9,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The computer room _____ cleaned by the students every Friday.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "will",
+        "D": "were"
+      },
+      "answer": "A",
+      "explanation": "考查一般现在时单数主语的被动语态。every Friday 表示常态习惯，room 为单数，用 is cleaned。"
+    },
+    {
+      "id": 10,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "All the delicious chocolate cakes _____ eaten up before the party ended.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "are",
+        "D": "were"
+      },
+      "answer": "D",
+      "explanation": "考查复数主语的过去时被动。cakes 为复数，根据 ended 可知为过去时，选 were。"
+    },
+    {
+      "id": 11,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Traffic laws must _____ carefully by both drivers and pedestrians.",
+      "options": {
+        "A": "follow",
+        "B": "followed",
+        "C": "be followed",
+        "D": "being followed"
+      },
+      "answer": "C",
+      "explanation": "考查情态动词 must 后的被动形式：must + be + 过去分词 (followed)。"
+    },
+    {
+      "id": 12,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Fresh milk _____ usually kept in the refrigerator to keep it cool.",
+      "options": {
+        "A": "is",
+        "B": "are",
+        "C": "were",
+        "D": "be"
+      },
+      "answer": "A",
+      "explanation": "考查不可数名词作主语的被动语态。milk 为不可数名词，谓语动词用单数 is。"
+    },
+    {
+      "id": 13,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "A lovely birthday present was _____ to Alice by her parents.",
+      "options": {
+        "A": "drew",
+        "B": "given",
+        "C": "give",
+        "D": "giving"
+      },
+      "answer": "B",
+      "explanation": "考查双宾语结构中的被动语态。give sth to sb 变为 sth was given to sb。"
+    },
+    {
+      "id": 14,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "These old photographs _____ taken twenty years ago in Beijing.",
+      "options": {
+        "A": "is",
+        "B": "was",
+        "C": "were",
+        "D": "have been"
+      },
+      "answer": "C",
+      "explanation": "考查复数主语与过去时间状语搭配。photographs 为复数，twenty years ago 提示一般过去时，用 were。"
+    },
+    {
+      "id": 15,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Plastic bottles should not _____ into the river.",
+      "options": {
+        "A": "throw",
+        "B": "thrown",
+        "C": "be throwing",
+        "D": "be thrown"
+      },
+      "answer": "D",
+      "explanation": "考查含情态动词否定句的被动语态：should not + be + 过去分词 (thrown)。"
+    },
+    {
+      "id": 16,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Great changes _____ in my hometown over the past ten years.",
+      "options": {
+        "A": "have been taken place",
+        "B": "have taken place",
+        "C": "were taken place",
+        "D": "are taken place"
+      },
+      "answer": "B",
+      "explanation": "考查不及物动词陷阱。take place（发生）是不及物动词短语，没有被动语态。over the past ten years 用现在完成时主动形式。"
+    },
+    {
+      "id": 17,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The suspect was seen _____ into the commercial bank at midnight.",
+      "options": {
+        "A": "sneak",
+        "B": "sneaked",
+        "C": "to sneak",
+        "D": "sneaks"
+      },
+      "answer": "C",
+      "explanation": "考查感官/使役动词被动语态还原 to 的规则。主动结构 see sb do sth 变为被动结构 be seen to do sth。"
+    },
+    {
+      "id": 18,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "A new high-speed railway line _____ in this region, and it will be completed next spring.",
+      "options": {
+        "A": "is being",
+        "B": "has built",
+        "C": "was built",
+        "D": "is building"
+      },
+      "answer": "A",
+      "explanation": "考查现在进行时的被动语态（is being built）。句意为“一条新的高铁线路正在被建设”。"
+    },
+    {
+      "id": 19,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "By the end of last month, the ancient temple _____ completely restored.",
+      "options": {
+        "A": "has been",
+        "B": "was",
+        "C": "is",
+        "D": "had been"
+      },
+      "answer": "D",
+      "explanation": "考查过去完成时的被动语态。By the end of last month 对应“过去的过去”，结构为 had been + V-ed。"
+    },
+    {
+      "id": 20,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "He was offered a prestigious scholarship, but it _____ down by him due to personal reasons.",
+      "options": {
+        "A": "turned",
+        "B": "was turned",
+        "C": "was turning",
+        "D": "turns"
+      },
+      "answer": "B",
+      "explanation": "考查动词短语的被动语态。turn down（拒绝）在被动句中介词 down 不能省略，结构为 was turned down。"
+    },
+    {
+      "id": 21,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The lost toddler was well _____ by the local police officers until her parents arrived.",
+      "options": {
+        "A": "looked after",
+        "B": "looked",
+        "C": "looking after",
+        "D": "look after"
+      },
+      "answer": "A",
+      "explanation": "考查成组动词短语被动语态。look after 作为一个整体，变被动时 after 不可遗漏。"
+    },
+    {
+      "id": 22,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_____ is widely reported that artificial intelligence will transform secondary education.",
+      "options": {
+        "A": "That",
+        "B": "As",
+        "C": "It",
+        "D": "What"
+      },
+      "answer": "C",
+      "explanation": "考查“It + be + 过去分词 + that 从句”固定被动句型。It 作形式主语，that 从句为真正主语。"
+    },
+    {
+      "id": 23,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "This newly designed cotton jacket _____ easily and sells well in the local market.",
+      "options": {
+        "A": "is washed",
+        "B": "was washed",
+        "C": "is washing",
+        "D": "washes"
+      },
+      "answer": "D",
+      "explanation": "考查主动形式表被动含义的特殊动词。wash, sell, read, write 等动词与副词 (easily, well) 连用表示主语的内在特性时，用主动表被动。"
+    },
+    {
+      "id": 24,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The old bridge is in danger of collapsing and urgently needs _____.",
+      "options": {
+        "A": "repairing it",
+        "B": "to be repaired",
+        "C": "repaired",
+        "D": "repair"
+      },
+      "answer": "B",
+      "explanation": "考查 need 的被动表达。need to be done 或 need doing 均表被动含义。选项中只有 to be repaired 正确。"
+    },
+    {
+      "id": 25,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Having _____ about the change in the exam syllabus, the students immediately revised their plans.",
+      "options": {
+        "A": "been informed",
+        "B": "informed",
+        "C": "being informed",
+        "D": "to be informed"
+      },
+      "answer": "A",
+      "explanation": "考查非谓语动词的分词完成被动式。Having been informed 是现在分词完成被动式，表示在主句动作前已被告知。"
+    },
+    {
+      "id": 26,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Why wasn't the proposal approved? It should _____ discussed more thoroughly before voting.",
+      "options": {
+        "A": "be",
+        "B": "have",
+        "C": "have been",
+        "D": "being"
+      },
+      "answer": "C",
+      "explanation": "考查情态动词对过去的虚拟/推测被动形式。“should have been + V-ed”表示“本应该被……（但实际上没有）”。"
+    },
+    {
+      "id": 27,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The young scientist whose innovative research _____ with the award was praised by the principal.",
+      "options": {
+        "A": "was honored",
+        "B": "honored",
+        "C": "is honoring",
+        "D": "has honored"
+      },
+      "answer": "A",
+      "explanation": "考查定语从句中的被动语态。从句主语 research 与 honor 之间是被动关系，结合全句过去时态，选 was honored。"
+    },
+    {
+      "id": 28,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The patient _____ operated on when the hospital's backup power system suddenly kicked in.",
+      "options": {
+        "A": "is being",
+        "B": "has been",
+        "C": "had been",
+        "D": "was being"
+      },
+      "answer": "D",
+      "explanation": "考查过去进行时的被动语态。when 引导的从句用一般过去时，主句表示过去某一时刻正在被进行的操作，用 was being operated on。"
+    },
+    {
+      "id": 29,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Never before _____ such a magnificent drone light show in our city.",
+      "options": {
+        "A": "has such a magnificent drone light show been seen",
+        "B": "such a magnificent drone light show has been seen",
+        "C": "was such a magnificent drone light show seen",
+        "D": "such a magnificent drone light show was seen"
+      },
+      "answer": "A",
+      "explanation": "考查否定词前置引起的倒装+被动语态。Never before 位于句首时需部分倒装，把助动词 has 提到主语前，加上现在完成时被动语态 been seen。"
+    },
+    {
+      "id": 30,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The project supervisor insisted that all the official documents _____ before Friday afternoon.",
+      "options": {
+        "A": "are submitted",
+        "B": "were submitted",
+        "C": "be submitted",
+        "D": "will be submitted"
+      },
+      "answer": "C",
+      "explanation": "考查虚拟语气中的被动语态。insist（坚持要求）后面的宾语从句谓语动词用“(should) + 动词原形”，被动形式即为 (should) be submitted。"
+    }
+  ]
+}
