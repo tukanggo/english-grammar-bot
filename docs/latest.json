@@ -1,428 +1,428 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "target_audience": "Primary & Secondary School (Ages 9-17)",
-  "topic": "被动语态 (Passive Voice) 基础到进阶全景解析",
-  "teaching_notes": "1. 【核心概念】：被动语态就像是“主角互换”。主语不再是动作的发出者（施动者），而是动作的承受者（受体）。当你不知道动作是谁做的，或者想强调被影响的对象/结果时，被动语态就派上用场啦！\n2. 【语法公式与口诀】：核心公式为“be + 动词过去分词 (V-ed/V3)”。口诀：“被动语态 be加过分，时态变化看 be 身；宾变主，主变宾，by 带施动跟后边。”（一般现在时：am/is/are + done；一般过去时：was/were + done；含情态动词：modal + be + done）。\n3. 【中小学生易错点】：① 遗漏 be 动词（错写为 The cake eaten by Tom）；② 不及物动词误用被动（happen, disappear, take place 等绝无被动语态）；③ 使役/感官动词主动省 to，被动须还原 to（如 make sb do 变为 be made to do）。\n4. 【经典例句】：① Primary: The green apple is eaten by the cute monkey.（这个青苹果被可爱的小猴子吃了。） ② Junior: Our homework must be finished before 9 o'clock.（我们的作业必须在9点前完成。） ③ Senior: It is reported that a futuristic library will be built in our school.（据报道，我们学校将建一座未来感图书馆。）",
+  "topic": "定语从句（Attributive Clauses）全阶突破与实战",
+  "teaching_notes": "1. 【核心概念】：定语从句就像给名词穿上的“专属定制小外套”或贴上的“说明标签”。用来修饰和限定前面的名词（先行词）。\n2. 【语法公式与口诀】：\n   - 基本结构：先行词（人/物）+ 关系词（who/which/that/whose/where/when...）+ 从句。\n   - 记忆口诀：人用 who，物用 which，that 广适用；关系代词做主宾，whose 后面紧跟名；介词后面看清人，whom/which 才能跟；标点逗号隔离时，that 绝对要隐身！\n3. 【避坑指南】：\n   - 错误1：关系词与代词重复叠加（如：The boy who he is running... 错！应删去 he）。\n   - 错误2：介词后误用 that（如：The house in that I live... 错！介词后指物必须用 which）。\n   - 错误3：忽视主谓一致（如：The books that is on the desk... 错！先行词 books 为复数，从句谓语应为 are）。\n4. 【经典例句】：\n   - The girl who is reading under the big tree is my best friend.（在树下看书的那个女孩是我最好的朋友。）\n   - I lost the shiny watch which my dad gave me for my birthday.（我弄丢了我爸爸送我的生日手表。）\n   - This is the ancient castle whose roof is covered with white snow.（这就是那座屋顶覆盖着白雪的古老城堡。）",
   "questions": [
     {
       "id": 1,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "English _____ in many countries around the world as a global language.",
+      "question": "The boy _____ lives next door is a talented pianist.",
       "options": {
-        "A": "is spoken",
-        "B": "speaks",
-        "C": "is speaking",
-        "D": "spoke"
+        "A": "who",
+        "B": "which",
+        "C": "where",
+        "D": "when"
       },
       "answer": "A",
-      "explanation": "考查一般现在时的被动语态。主语 English 是动作 speak 的承受者，且表示客观事实，用“is + 过去分词 spoken”。"
+      "explanation": "考查关系代词。先行词是 The boy（人），在从句中作主语，故用 who。"
     },
     {
       "id": 2,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Yesterday, the broken window _____ by Mr. Green after school.",
+      "question": "This is the storybook _____ I borrowed from the school library yesterday.",
       "options": {
-        "A": "fixed",
-        "B": "was fixed",
-        "C": "fixes",
-        "D": "is fixing"
+        "A": "who",
+        "B": "which",
+        "C": "whom",
+        "D": "whose"
       },
       "answer": "B",
-      "explanation": "考查一般过去时的被动语态。由时间状语 yesterday 可知用过去时，单数主语 window 后接 was fixed。"
+      "explanation": "考查关系代词。先行词是 storybook（物），从句缺少宾语，故用 which（或 that）。"
     },
     {
       "id": 3,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "A new modern playground _____ built in our primary school next month.",
+      "question": "Look at the cute puppy _____ tail is short and fluffy!",
       "options": {
-        "A": "is built",
-        "B": "was built",
-        "C": "will be",
-        "D": "has been"
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "that"
       },
       "answer": "C",
-      "explanation": "考查一般将来时的被动语态。时间状语 next month 提示将来时，结构为 will be + built。"
+      "explanation": "考查关系代词。先行词是 puppy，与 tail 构成所属关系（小狗的尾巴），故用 whose。"
     },
     {
       "id": 4,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "These interesting storybooks _____ be borrowed from the school library.",
+      "question": "Mr. Li is the teacher _____ teaches us Science this term.",
       "options": {
-        "A": "can",
-        "B": "is",
-        "C": "must to",
-        "D": "can be"
+        "A": "which",
+        "B": "who",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "D",
-      "explanation": "考查含情态动词的被动语态。“情态动词 + be + 过去分词”，故选 can be。"
+      "answer": "B",
+      "explanation": "考查关系代词。先行词是 teacher（人），从句中作主语，故选 who。"
     },
     {
       "id": 5,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Look! The colorful flowers are _____ watered by the young gardener.",
+      "question": "The apples _____ fell from the tree are sweet and juicy.",
       "options": {
-        "A": "be",
-        "B": "being",
-        "C": "been",
-        "D": "were"
+        "A": "who",
+        "B": "that",
+        "C": "whom",
+        "D": "whose"
       },
       "answer": "B",
-      "explanation": "考查现在进行时的被动语态。Look! 提示正在发生，结构为 am/is/are being + V-ed。"
+      "explanation": "考查关系代词。先行词是 apples（物），在从句中作主语，可以用 that 或 which。"
     },
     {
       "id": 6,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "That famous song was _____ sweetly by the school choir last night.",
+      "question": "Do you know the girl _____ is wearing a red hat over there?",
       "options": {
-        "A": "sing",
-        "B": "sang",
-        "C": "sung",
-        "D": "singing"
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "where"
       },
-      "answer": "C",
-      "explanation": "考查不规则动词过去分词。sing 的过去分词是 sung，was sung 构成一般过去时的被动。"
+      "answer": "B",
+      "explanation": "考查关系代词。先行词是 girl（人），从句中缺少主语，故选 who。"
     },
     {
       "id": 7,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Paper is _____ from wood in large factories.",
+      "question": "The toy robot _____ my uncle built for me can dance.",
       "options": {
-        "A": "made",
-        "B": "make",
-        "C": "making",
-        "D": "makes"
+        "A": "who",
+        "B": "which",
+        "C": "whom",
+        "D": "whose"
       },
-      "answer": "A",
-      "explanation": "考查固定被动搭配 be made from（由……制成，看不出原材料）。"
+      "answer": "B",
+      "explanation": "考查关系代词。先行词是 toy robot（物），从句中作 build 的宾语，故选 which。"
     },
     {
       "id": 8,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "My yellow bike was taken _____ mistake by somebody yesterday afternoon.",
+      "question": "I have a classmate _____ dream is to become an astronaut.",
       "options": {
-        "A": "with",
-        "B": "by",
-        "C": "for",
-        "D": "from"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "that"
       },
       "answer": "B",
-      "explanation": "考查介词搭配。by mistake 为固定短语意为“错误地/无意中”。"
+      "explanation": "考查关系代词。先行词 classmate 与从句名词 dream 是所属关系（同学的梦想），用 whose。"
     },
     {
       "id": 9,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "The computer room _____ cleaned by the students every Friday.",
+      "question": "Is this the computer _____ your father bought last week?",
       "options": {
-        "A": "is",
-        "B": "was",
-        "C": "will",
-        "D": "were"
+        "A": "who",
+        "B": "whose",
+        "C": "that",
+        "D": "whom"
       },
-      "answer": "A",
-      "explanation": "考查一般现在时单数主语的被动语态。every Friday 表示常态习惯，room 为单数，用 is cleaned。"
+      "answer": "C",
+      "explanation": "考查关系代词。先行词是 computer（物），从句中作 bought 的宾语，选 that。"
     },
     {
       "id": 10,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "All the delicious chocolate cakes _____ eaten up before the party ended.",
+      "question": "The children _____ are playing soccer in the playground look very happy.",
       "options": {
-        "A": "is",
-        "B": "was",
-        "C": "are",
-        "D": "were"
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
       },
-      "answer": "D",
-      "explanation": "考查复数主语的过去时被动。cakes 为复数，根据 ended 可知为过去时，选 were。"
+      "answer": "A",
+      "explanation": "考查关系代词。先行词是 children（人），从句中作主语，选 who。"
     },
     {
       "id": 11,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Traffic laws must _____ carefully by both drivers and pedestrians.",
+      "question": "Here is the beautiful picture _____ my sister painted yesterday.",
       "options": {
-        "A": "follow",
-        "B": "followed",
-        "C": "be followed",
-        "D": "being followed"
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
       },
       "answer": "C",
-      "explanation": "考查情态动词 must 后的被动形式：must + be + 过去分词 (followed)。"
+      "explanation": "考查关系代词。先行词是 picture（物），在从句中作 painted 的宾语，用 which。"
     },
     {
       "id": 12,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Fresh milk _____ usually kept in the refrigerator to keep it cool.",
+      "question": "The student _____ parents are both doctors always studies very hard.",
       "options": {
-        "A": "is",
-        "B": "are",
-        "C": "were",
-        "D": "be"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "that"
       },
-      "answer": "A",
-      "explanation": "考查不可数名词作主语的被动语态。milk 为不可数名词，谓语动词用单数 is。"
+      "answer": "B",
+      "explanation": "考查关系代词。先行词是 student，表示“学生的父母”，使用所属关系的 whose。"
     },
     {
       "id": 13,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "A lovely birthday present was _____ to Alice by her parents.",
+      "question": "I like reading cartoon books _____ have funny drawings.",
       "options": {
-        "A": "drew",
-        "B": "given",
-        "C": "give",
-        "D": "giving"
+        "A": "who",
+        "B": "whose",
+        "C": "which",
+        "D": "where"
       },
-      "answer": "B",
-      "explanation": "考查双宾语结构中的被动语态。give sth to sb 变为 sth was given to sb。"
+      "answer": "C",
+      "explanation": "考查关系代词。先行词是 books（物），在从句中作主语，用 which。"
     },
     {
       "id": 14,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "These old photographs _____ taken twenty years ago in Beijing.",
+      "question": "The lady _____ helped me find my lost bag was very friendly.",
       "options": {
-        "A": "is",
-        "B": "was",
-        "C": "were",
-        "D": "have been"
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
       },
-      "answer": "C",
-      "explanation": "考查复数主语与过去时间状语搭配。photographs 为复数，twenty years ago 提示一般过去时，用 were。"
+      "answer": "A",
+      "explanation": "考查关系代词。先行词是 lady（人），从句中缺主语，用 who。"
     },
     {
       "id": 15,
       "level": "Primary (P4-P6)",
       "type": "multiple_choice",
-      "question": "Plastic bottles should not _____ into the river.",
+      "question": "Where is the blue pen _____ was on my desk just now?",
       "options": {
-        "A": "throw",
-        "B": "thrown",
-        "C": "be throwing",
-        "D": "be thrown"
+        "A": "who",
+        "B": "whom",
+        "C": "that",
+        "D": "whose"
       },
-      "answer": "D",
-      "explanation": "考查含情态动词否定句的被动语态：should not + be + 过去分词 (thrown)。"
+      "answer": "C",
+      "explanation": "考查关系代词。先行词是 pen（物），在从句中作主语，选项中只有 that 符合要求。"
     },
     {
       "id": 16,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Great changes _____ in my hometown over the past ten years.",
+      "question": "The historic building in _____ my grandparents lived for half a century was restored last year.",
       "options": {
-        "A": "have been taken place",
-        "B": "have taken place",
-        "C": "were taken place",
-        "D": "are taken place"
+        "A": "that",
+        "B": "which",
+        "C": "where",
+        "D": "what"
       },
       "answer": "B",
-      "explanation": "考查不及物动词陷阱。take place（发生）是不及物动词短语，没有被动语态。over the past ten years 用现在完成时主动形式。"
+      "explanation": "考查“介词 + 关系代词”结构。介词 in 后面指物时不能用 that 或 where，必须用 which。"
     },
     {
       "id": 17,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The suspect was seen _____ into the commercial bank at midnight.",
+      "question": "Our headmaster, _____ all the students respect deeply, will deliver a speech at the ceremony.",
       "options": {
-        "A": "sneak",
-        "B": "sneaked",
-        "C": "to sneak",
-        "D": "sneaks"
+        "A": "whom",
+        "B": "which",
+        "C": "that",
+        "D": "whose"
       },
-      "answer": "C",
-      "explanation": "考查感官/使役动词被动语态还原 to 的规则。主动结构 see sb do sth 变为被动结构 be seen to do sth。"
+      "answer": "A",
+      "explanation": "考查非限制性定语从句。先行词是 headmaster（人），在从句中作 respect 的宾语，非限制性从句中指人作宾语用 whom（不能用 that）。"
     },
     {
       "id": 18,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "A new high-speed railway line _____ in this region, and it will be completed next spring.",
+      "question": "The reason _____ he gave for being late to the competition sounded ridiculous.",
       "options": {
-        "A": "is being",
-        "B": "has built",
-        "C": "was built",
-        "D": "is building"
+        "A": "why",
+        "B": "which",
+        "C": "where",
+        "D": "how"
       },
-      "answer": "A",
-      "explanation": "考查现在进行时的被动语态（is being built）。句意为“一条新的高铁线路正在被建设”。"
+      "answer": "B",
+      "explanation": "考查考纲常考陷阱。虽然先行词是 reason，但从句 gave 缺少宾语（gave the reason），因此必须填关系代词 which/that，而非关系副词 why。"
     },
     {
       "id": 19,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "By the end of last month, the ancient temple _____ completely restored.",
+      "question": "This is the very laboratory _____ our research team conducted the physics experiment.",
       "options": {
-        "A": "has been",
-        "B": "was",
-        "C": "is",
-        "D": "had been"
+        "A": "which",
+        "B": "that",
+        "C": "where",
+        "D": "whose"
       },
-      "answer": "D",
-      "explanation": "考查过去完成时的被动语态。By the end of last month 对应“过去的过去”，结构为 had been + V-ed。"
+      "answer": "C",
+      "explanation": "考查关系副词。先行词是 laboratory（地点），在从句中作地点状语（in the laboratory），故用关系副词 where。"
     },
     {
       "id": 20,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "He was offered a prestigious scholarship, but it _____ down by him due to personal reasons.",
+      "question": "He managed to pass the final exam with high marks, _____ delighted his parents immensely.",
       "options": {
-        "A": "turned",
-        "B": "was turned",
-        "C": "was turning",
-        "D": "turns"
+        "A": "that",
+        "B": "which",
+        "C": "who",
+        "D": "it"
       },
       "answer": "B",
-      "explanation": "考查动词短语的被动语态。turn down（拒绝）在被动句中介词 down 不能省略，结构为 was turned down。"
+      "explanation": "考查非限制性定语从句。which 指代前面整个主句的情况（他期末考得高分这件事），在从句中作主语。"
     },
     {
       "id": 21,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The lost toddler was well _____ by the local police officers until her parents arrived.",
+      "question": "All _____ can be done to protect the ancient cultural heritage has already been completed.",
       "options": {
-        "A": "looked after",
-        "B": "looked",
-        "C": "looking after",
-        "D": "look after"
+        "A": "which",
+        "B": "that",
+        "C": "what",
+        "D": "as"
       },
-      "answer": "A",
-      "explanation": "考查成组动词短语被动语态。look after 作为一个整体，变被动时 after 不可遗漏。"
+      "answer": "B",
+      "explanation": "考查只能用 that 的情况。当先行词是不定代词 All 时，关系代词只能用 that，不能用 which。"
     },
     {
       "id": 22,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "_____ is widely reported that artificial intelligence will transform secondary education.",
+      "question": "The mountain village, the name of _____ I cannot recall at the moment, is surrounded by lakes.",
       "options": {
-        "A": "That",
-        "B": "As",
-        "C": "It",
-        "D": "What"
+        "A": "which",
+        "B": "whose",
+        "C": "it",
+        "D": "that"
       },
-      "answer": "C",
-      "explanation": "考查“It + be + 过去分词 + that 从句”固定被动句型。It 作形式主语，that 从句为真正主语。"
+      "answer": "A",
+      "explanation": "考查“the + 名词 + of + which”结构。the name of which 相当于 whose name，介词 of 后用 which。"
     },
     {
       "id": 23,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "This newly designed cotton jacket _____ easily and sells well in the local market.",
+      "question": "2026 is the memorable year _____ our school will celebrate its 100th anniversary.",
       "options": {
-        "A": "is washed",
-        "B": "was washed",
-        "C": "is washing",
-        "D": "washes"
+        "A": "which",
+        "B": "when",
+        "C": "that",
+        "D": "where"
       },
-      "answer": "D",
-      "explanation": "考查主动形式表被动含义的特殊动词。wash, sell, read, write 等动词与副词 (easily, well) 连用表示主语的内在特性时，用主动表被动。"
+      "answer": "B",
+      "explanation": "考查关系副词。先行词是 year（时间），从句结构完整，缺少时间状语（in the year），故用 when。"
     },
     {
       "id": 24,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The old bridge is in danger of collapsing and urgently needs _____.",
+      "question": "Is there anything else _____ needs to be discussed before we conclude the meeting?",
       "options": {
-        "A": "repairing it",
-        "B": "to be repaired",
-        "C": "repaired",
-        "D": "repair"
+        "A": "which",
+        "B": "that",
+        "C": "who",
+        "D": "what"
       },
       "answer": "B",
-      "explanation": "考查 need 的被动表达。need to be done 或 need doing 均表被动含义。选项中只有 to be repaired 正确。"
+      "explanation": "考查只能用 that 的情况。当先行词是被 anything, everything, nothing 等不定代词修饰或本身就是不定代词时，关系代词只能用 that。"
     },
     {
       "id": 25,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Having _____ about the change in the exam syllabus, the students immediately revised their plans.",
+      "question": "The famous scientist to _____ the Nobel Prize was awarded gave an inspiring speech.",
       "options": {
-        "A": "been informed",
-        "B": "informed",
-        "C": "being informed",
-        "D": "to be informed"
+        "A": "who",
+        "B": "whom",
+        "C": "whose",
+        "D": "which"
       },
-      "answer": "A",
-      "explanation": "考查非谓语动词的分词完成被动式。Having been informed 是现在分词完成被动式，表示在主句动作前已被告知。"
+      "answer": "B",
+      "explanation": "考查“介词 + 关系代词”。介词 to 后修饰人时，只能用宾格形式 whom。"
     },
     {
       "id": 26,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Why wasn't the proposal approved? It should _____ discussed more thoroughly before voting.",
+      "question": "The coastal city, _____ lies in the south of China, attracts millions of tourists each summer.",
       "options": {
-        "A": "be",
-        "B": "have",
-        "C": "have been",
-        "D": "being"
+        "A": "that",
+        "B": "which",
+        "C": "where",
+        "D": "in which"
       },
-      "answer": "C",
-      "explanation": "考查情态动词对过去的虚拟/推测被动形式。“should have been + V-ed”表示“本应该被……（但实际上没有）”。"
+      "answer": "B",
+      "explanation": "考查非限制性定语从句。从句缺少主语，先行词是 city（物），且有逗号隔开，只能用 which（逗号后绝对不用 that）。"
     },
     {
       "id": 27,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The young scientist whose innovative research _____ with the award was praised by the principal.",
+      "question": "This is the very dictionary _____ I have been searching for in all local bookstores.",
       "options": {
-        "A": "was honored",
-        "B": "honored",
-        "C": "is honoring",
-        "D": "has honored"
+        "A": "which",
+        "B": "that",
+        "C": "what",
+        "D": "who"
       },
-      "answer": "A",
-      "explanation": "考查定语从句中的被动语态。从句主语 research 与 honor 之间是被动关系，结合全句过去时态，选 was honored。"
+      "answer": "B",
+      "explanation": "考查只能用 that 的情况。当先行词被 the very（恰好的、正是那个）修饰时，关系代词只能用 that。"
     },
     {
       "id": 28,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The patient _____ operated on when the hospital's backup power system suddenly kicked in.",
+      "question": "The author wrote a long novel, the main characters of _____ were based on real historical figures.",
       "options": {
-        "A": "is being",
-        "B": "has been",
-        "C": "had been",
-        "D": "was being"
+        "A": "which",
+        "B": "whom",
+        "C": "whose",
+        "D": "that"
       },
-      "answer": "D",
-      "explanation": "考查过去进行时的被动语态。when 引导的从句用一般过去时，主句表示过去某一时刻正在被进行的操作，用 was being operated on。"
+      "answer": "A",
+      "explanation": "考查“the + 名词 + of + 关系代词”。指代先行词 novel（物），介词 of 后面填 which。"
     },
     {
       "id": 29,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "Never before _____ such a magnificent drone light show in our city.",
+      "question": "The robotics workshop is a place _____ students can put theoretical knowledge into practice.",
       "options": {
-        "A": "has such a magnificent drone light show been seen",
-        "B": "such a magnificent drone light show has been seen",
-        "C": "was such a magnificent drone light show seen",
-        "D": "such a magnificent drone light show was seen"
+        "A": "which",
+        "B": "where",
+        "C": "that",
+        "D": "when"
       },
-      "answer": "A",
-      "explanation": "考查否定词前置引起的倒装+被动语态。Never before 位于句首时需部分倒装，把助动词 has 提到主语前，加上现在完成时被动语态 been seen。"
+      "answer": "B",
+      "explanation": "考查关系副词。先行词是 a place，在从句中作地点状语（in the place），故用关系副词 where。"
     },
     {
       "id": 30,
       "level": "Secondary (Form 1-5)",
       "type": "multiple_choice",
-      "question": "The project supervisor insisted that all the official documents _____ before Friday afternoon.",
+      "question": "He wrote a detailed report, _____ contents were thoroughly examined by the committee.",
       "options": {
-        "A": "are submitted",
-        "B": "were submitted",
-        "C": "be submitted",
-        "D": "will be submitted"
+        "A": "which",
+        "B": "whose",
+        "C": "of which",
+        "D": "that"
       },
-      "answer": "C",
-      "explanation": "考查虚拟语气中的被动语态。insist（坚持要求）后面的宾语从句谓语动词用“(should) + 动词原形”，被动形式即为 (should) be submitted。"
+      "answer": "B",
+      "explanation": "考查非限制性定语从句中的所属关系。whose contents 相当于 the contents of which，表示“报告的内容”，作从句主语。"
     }
   ]
 }
