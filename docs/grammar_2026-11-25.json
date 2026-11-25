@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-25",
+  "target_audience": "Primary & Secondary School (Ages 9-17 / P4-S5)",
+  "topic": "定语从句 (Attributive / Relative Clauses)",
+  "teaching_notes": "1. 【核心概念】：定语从句就像贴在名词（先行词）身后的“说明书贴纸”。当简单形容词不够用时，我们就用一个句子来具体修饰限定前面的名词。\n\n2. 【语法公式与口诀】：\n- 公式：先行词 + 关系词（who / which / that / whose / where / when / why） + 从句\n- 口诀：先行词是人用 who / whom，是物用 which；that 万能但有禁忌；谁的要用 whose；从句缺主宾选代词（who/which/that），缺状语选副词（where/when/why）！\n\n3. 【中小学易错点】：\n① 关系代词 vs 关系副词混淆：如 \"The place where I visited\" 是错误的！visit 后面接宾语，缺少宾语应用 which/that；若从句主谓宾完整，才用 where/when/why。\n② 介词后误用 that/who：介词直接加关系代词时，指人只能用 whom，指物只能用 which（如 with whom / in which）。\n③ 逗号后的非限制性定语从句中，绝对不可使用 that。\n\n4. 【经典例句】：\n① The girl who is singing on stage is my classmate. (在舞台上唱歌的那个女孩是我的同班同学。)\n② I bought a new computer which runs very fast. (我买了一台运行速度非常快的电脑。)\n③ Hangzhou is a beautiful city where I spent my childhood. (杭州是一座漂亮的城市，我在那里度过了童年。)",
+  "questions": [
+    {
+      "id": 1,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The boy _____ won the first prize in the running race is my classmate.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "先行词是 the boy（人），在从句中作主语，关系代词用 who。"
+    },
+    {
+      "id": 2,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "I love the storybook _____ my aunt bought for me yesterday.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whom",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "先行词是 the storybook（物），在从句中作宾语，关系代词用 which 或 that。"
+    },
+    {
+      "id": 3,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Look at that dog _____ ears are very long and fluffy!",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "that"
+      },
+      "answer": "C",
+      "explanation": "从句中 ears（耳朵）属于 that dog，表示所属关系“……的”，应选关系代词 whose。"
+    },
+    {
+      "id": 4,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The English teacher _____ taught us last year has moved to Beijing.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "先行词是 The English teacher（人），从句缺少主语，用 who。"
+    },
+    {
+      "id": 5,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Do you know the girl _____ is wearing a yellow dress over there?",
+      "options": {
+        "A": "which",
+        "B": "who",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "先行词是 the girl（人），指人用 who。"
+    },
+    {
+      "id": 6,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "This is the big tablet _____ my dad uses for his daily work.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "that",
+        "D": "whose"
+      },
+      "answer": "C",
+      "explanation": "先行词是 table（物），用 that 或 which 在从句中作宾语。"
+    },
+    {
+      "id": 7,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "I met a friendly doctor _____ daughter plays the piano very well.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "that"
+      },
+      "answer": "C",
+      "explanation": "先行词是 doctor，表示“医生的女儿”，体现所属关系，填 whose。"
+    },
+    {
+      "id": 8,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Pass me the red pencil _____ is lying on the teacher's desk, please.",
+      "options": {
+        "A": "who",
+        "B": "that",
+        "C": "whom",
+        "D": "whose"
+      },
+      "answer": "B",
+      "explanation": "先行词是 the red pencil（物），从句缺主语，用 that 或 which。"
+    },
+    {
+      "id": 9,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The nurse _____ lives next door is always ready to help others.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "先行词指人（The nurse），在从句中担当主语，选 who。"
+    },
+    {
+      "id": 10,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Here is the nice photo _____ we took during our autumn field trip.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "which",
+        "D": "whose"
+      },
+      "answer": "C",
+      "explanation": "先行词是 photo（物），takes the photo，从句中做宾语，选 which。"
+    },
+    {
+      "id": 11,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "We visited a green park _____ has a big lotus pond in the middle.",
+      "options": {
+        "A": "who",
+        "B": "that",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "注意从句缺主语（has ...），先行词是 park（物），因此用关系代词 that/which，不能选地点副词 where。"
+    },
+    {
+      "id": 12,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The little student _____ lost his schoolbag is waiting in the office.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "先行词是 student（人），从句缺主语，用 who。"
+    },
+    {
+      "id": 13,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "My uncle lives in a modern house _____ roof is painted bright red.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "that"
+      },
+      "answer": "C",
+      "explanation": "“房子的屋顶”，表示物的所有关系，用 whose 形容名词 roof。"
+    },
+    {
+      "id": 14,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "That is the smart robot _____ can clean the kitchen floor automatically.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whom",
+        "D": "whose"
+      },
+      "answer": "B",
+      "explanation": "先行词为 robot（物），从句缺少主语，用 which。"
+    },
+    {
+      "id": 15,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Anyone _____ wants to join the school choir should sign up today.",
+      "options": {
+        "A": "who",
+        "B": "which",
+        "C": "whose",
+        "D": "where"
+      },
+      "answer": "A",
+      "explanation": "Anyone 指人，后面跟关系代词 who。"
+    },
+    {
+      "id": 16,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "This is the ancient water town in _____ my grandparents lived for forty years.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "where",
+        "D": "what"
+      },
+      "answer": "B",
+      "explanation": "介词 in 放在关系代词前，先行词是 town（物），介词后只能用 which，不能用 that，且 in which 已相当于 where，因此不能重复加 in where。"
+    },
+    {
+      "id": 17,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Hangzhou is the city _____ I visited two years ago, not the one _____ I spent my childhood.",
+      "options": {
+        "A": "where; which",
+        "B": "which; where",
+        "C": "that; that",
+        "D": "where; where"
+      },
+      "answer": "B",
+      "explanation": "第一个从句 visited 是及物动词，缺宾语，用 which/that；第二个从句 spent my childhood 主谓宾完整，缺地点状语，用 where。"
+    },
+    {
+      "id": 18,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "He failed to pass the final physics exam, _____ surprised all of his teachers.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "who",
+        "D": "what"
+      },
+      "answer": "B",
+      "explanation": "非限制性定语从句（有逗号），指代前面整句话的内容“他期末物理没考过”，只能用 which，不能用 that。"
+    },
+    {
+      "id": 19,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The science museum to _____ we paid a visit last Saturday is undergoing renovation now.",
+      "options": {
+        "A": "which",
+        "B": "that",
+        "C": "where",
+        "D": "whom"
+      },
+      "answer": "A",
+      "explanation": "固定短语 pay a visit to...，当介词 to 提至关系代词前且先行词为物（museum）时，只用 which。"
+    },
+    {
+      "id": 20,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "This is the most inspiring speech _____ I have ever heard in my secondary school life.",
+      "options": {
+        "A": "which",
+        "B": "that",
+        "C": "who",
+        "D": "as"
+      },
+      "answer": "B",
+      "explanation": "当先行词被最高级（the most inspiring）修饰时，关系代词只能用 that，不用 which。"
+    },
+    {
+      "id": 21,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The gentleman with _____ my father is shaking hands is a renowned professor.",
+      "options": {
+        "A": "who",
+        "B": "whom",
+        "C": "that",
+        "D": "which"
+      },
+      "answer": "B",
+      "explanation": "介词 with 提前且先行词为人（The gentleman）时，关系代词必须用宾格 whom。"
+    },
+    {
+      "id": 22,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "I still remember the exact day _____ we first met at the entrance of the school library.",
+      "options": {
+        "A": "which",
+        "B": "when",
+        "C": "where",
+        "D": "why"
+      },
+      "answer": "B",
+      "explanation": "先行词是 the exact day（时间），从句主谓宾完整（we first met），缺少时间状语，用关系副词 when。"
+    },
+    {
+      "id": 23,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Could you please tell me the reason _____ you were absent from the rehearsal yesterday?",
+      "options": {
+        "A": "which",
+        "B": "why",
+        "C": "that",
+        "D": "where"
+      },
+      "answer": "B",
+      "explanation": "先行词是 the reason，从句中不缺主语或宾语，缺少原因状语，使用关系副词 why。"
+    },
+    {
+      "id": 24,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "_____ is clearly reported in the news, artificial intelligence is reshaping education rapidly.",
+      "options": {
+        "A": "Which",
+        "B": "As",
+        "C": "That",
+        "D": "It"
+      },
+      "answer": "B",
+      "explanation": "As 引导非限制性定语从句置于句首，表示“正如……那样”。Which 引导的非限制性定语从句不能放在句首。"
+    },
+    {
+      "id": 25,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "We ought to read such beneficial books _____ can broaden our horizons and enrich our minds.",
+      "options": {
+        "A": "as",
+        "B": "which",
+        "C": "that",
+        "D": "what"
+      },
+      "answer": "A",
+      "explanation": "固定搭配 such... as...，此处 as 作关系代词引导定语从句，在从句中做主语。"
+    },
+    {
+      "id": 26,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Is there anything else _____ you would like to add before we wrap up today's lesson?",
+      "options": {
+        "A": "which",
+        "B": "that",
+        "C": "who",
+        "D": "whose"
+      },
+      "answer": "B",
+      "explanation": "当先行词为不定代词（anything, everything, nothing 等）时，关系代词只能用 that。"
+    },
+    {
+      "id": 27,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "They constructed a high-tech bridge, the length of _____ exceeds 2,000 meters.",
+      "options": {
+        "A": "that",
+        "B": "which",
+        "C": "whose",
+        "D": "it"
+      },
+      "answer": "B",
+      "explanation": "介词结构 + 关系代词，“the length of which” 相当于 “whose length”，指代 bridge 的长度，介词 of 后用 which。"
+    },
+    {
+      "id": 28,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "He is the only student in our school _____ achieved full marks in the International Olympiad.",
+      "options": {
+        "A": "which",
+        "B": "who",
+        "C": "that",
+        "D": "whom"
+      },
+      "answer": "C",
+      "explanation": "先行词被 the only 修饰时，无论指人还是指物，关系代词优先使用 that。"
+    },
+    {
+      "id": 29,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "China is a country with a long history, _____ rich cultural heritage attracts millions of tourists.",
+      "options": {
+        "A": "which",
+        "B": "whose",
+        "C": "where",
+        "D": "that"
+      },
+      "answer": "B",
+      "explanation": "先行词是 China，从句名词 heritage（遗产）前缺定语，“中国的文化遗产”，因此用 whose。"
+    },
+    {
+      "id": 30,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The eco-friendly hotel _____ we stayed during our trip to Hainan was right next to the beach.",
+      "options": {
+        "A": "which",
+        "B": "where",
+        "C": "that",
+        "D": "when"
+      },
+      "answer": "B",
+      "explanation": "stay 为不及物动词（stay at/in the hotel），从句不缺宾语，缺少地点状语，应填关系副词 where（相当于 at which）。"
+    }
+  ]
+}
