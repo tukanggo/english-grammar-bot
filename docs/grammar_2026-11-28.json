@@ -1,0 +1,428 @@
+{
+  "date": "2026-11-28",
+  "target_audience": "Primary & Secondary School (Ages 9-17)",
+  "topic": "被动语态全景突破（从基础动作到高阶综合考点）",
+  "teaching_notes": "1. 【核心概念】：被动语态就像是给句子换了个“主角”！主动语态强调“动作的发出者”（如：小明吃了苹果），而被动语态强调“动作的承受者”（如：苹果被小明吃了）。当不知道施动者是谁，或者需要突出承受对象时，被动语态就登场啦！\n2. 【口诀/公式】：核心公式：主语 + be + 过去分词 (V-ed/V3) (+ by 施动者)。记忆口诀：“被动语态 be 开头，过去分词紧跟后；时态变化看 be 动，主谓一致不能忘！”\n3. 【避坑指南】：① 误用原形或过去式：be 动词后面必须用过去分词（如 is eaten，不能用 is eat 或 is ate）；② 遗漏短语动词的介词：短语动词变被动时介词不能丢（如 look after 变被动为 be looked after）；③ 不及物动词误用被动：happen, disappear 等不及物动词没有被动语态，绝不能写 was happened！\n4. 【经典例句】：① Primary: The bedroom is cleaned by Tom every day.（卧室每天都被汤姆打扫。） ② Secondary: A new school will be built in our town next year.（明年我们镇上将建一所新学校。） ③ Advanced: He was seen to enter the building late last night.（有人看到他昨晚很晚进了这栋楼。）",
+  "questions": [
+    {
+      "id": 1,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "English _______ by millions of people in many countries every day.",
+      "options": {
+        "A": "speaks",
+        "B": "is spoken",
+        "C": "was spoken",
+        "D": "is speaking"
+      },
+      "answer": "B",
+      "explanation": "本题考查一般现在时的被动语态。主语 English 是动作 speak 的承受者，且根据时间状语 every day 可知用一般现在时，结构为 is + 过去分词 spoken。"
+    },
+    {
+      "id": 2,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The classroom _______ by the students yesterday afternoon.",
+      "options": {
+        "A": "cleaned",
+        "B": "is cleaned",
+        "C": "was cleaned",
+        "D": "was cleaning"
+      },
+      "answer": "C",
+      "explanation": "本题考查一般过去时的被动语态。主语 The classroom 单数，时间标志词 yesterday afternoon 表明是过去，因此用 was + cleaned。"
+    },
+    {
+      "id": 3,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Many beautiful flowers _______ in our school garden every spring.",
+      "options": {
+        "A": "are planted",
+        "B": "is planted",
+        "C": "were planted",
+        "D": "plant"
+      },
+      "answer": "A",
+      "explanation": "本题考查一般现在时复数主语的被动语态。主语 flowers 为复数，动词应用 are planted。"
+    },
+    {
+      "id": 4,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "These sweet photos _______ during our trip to Beijing last summer.",
+      "options": {
+        "A": "take",
+        "B": "took",
+        "C": "were taken",
+        "D": "are taken"
+      },
+      "answer": "C",
+      "explanation": "照片是被拍摄的（be taken），且发生时间为 last summer（过去），主语 photos 为复数，故选 were taken。"
+    },
+    {
+      "id": 5,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "This simple math problem _______ easily by a primary school student.",
+      "options": {
+        "A": "can solve",
+        "B": "can be solved",
+        "C": "can solved",
+        "D": "is solved"
+      },
+      "answer": "B",
+      "explanation": "本题考查含情态动词 can 的被动语态。结构为：情态动词 + be + 过去分词 (can be solved)。"
+    },
+    {
+      "id": 6,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Mobile phones _______ in the exam rooms.",
+      "options": {
+        "A": "are not allowed",
+        "B": "do not allow",
+        "C": "is not allowed",
+        "D": "are not allowing"
+      },
+      "answer": "A",
+      "explanation": "手机“不被允许”（be not allowed）带入考场。主语 Mobile phones 为复数，故选 are not allowed。"
+    },
+    {
+      "id": 7,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "_______ this delicious birthday cake made by your mum yesterday?",
+      "options": {
+        "A": "Is",
+        "B": "Was",
+        "C": "Did",
+        "D": "Does"
+      },
+      "answer": "B",
+      "explanation": "本题考查一般过去时被动语态的一般疑问句。句尾有 yesterday，且动词是 made，疑问句将 be 动词 Was 提到句首。"
+    },
+    {
+      "id": 8,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Lunch _______ at 12:00 every day in our school cafeteria.",
+      "options": {
+        "A": "serves",
+        "B": "served",
+        "C": "is served",
+        "D": "was served"
+      },
+      "answer": "C",
+      "explanation": "午饭是“被供应/提供”的，结合 every day（一般现在时）与不可数名词 Lunch（单数），应填 is served。"
+    },
+    {
+      "id": 9,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The classic story Harry Potter _______ by J.K. Rowling.",
+      "options": {
+        "A": "wrote",
+        "B": "was written",
+        "C": "is writing",
+        "D": "was writing"
+      },
+      "answer": "B",
+      "explanation": "《哈利·波特》是被罗琳写作出来的，动作发生在过去，选 was written。"
+    },
+    {
+      "id": 10,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "All the trash _______ into the correct bins before we leave.",
+      "options": {
+        "A": "must put",
+        "B": "must be put",
+        "C": "must be putted",
+        "D": "must puts"
+      },
+      "answer": "B",
+      "explanation": "考查含情态动词 must 的被动语态。put 的过去分词仍为 put（put-put-put），因此为 must be put。"
+    },
+    {
+      "id": 11,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "The missing keys _______ by Lucy under the sofa this morning.",
+      "options": {
+        "A": "were found",
+        "B": "found",
+        "C": "was found",
+        "D": "are found"
+      },
+      "answer": "A",
+      "explanation": "主语 keys 为复数，时间为 this morning（过去），钥匙被找到，故选 were found。"
+    },
+    {
+      "id": 12,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Paper _______ from wood, so we should save paper.",
+      "options": {
+        "A": "makes",
+        "B": "is made",
+        "C": "was made",
+        "D": "is making"
+      },
+      "answer": "B",
+      "explanation": "考查客观事实的一般现在时被动语态。be made from 表示“由……制成”（看不出原料），纸张不可数，用 is made。"
+    },
+    {
+      "id": 13,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "We _______ to the teacher's office after the class yesterday.",
+      "options": {
+        "A": "called",
+        "B": "were called",
+        "C": "are called",
+        "D": "were calling"
+      },
+      "answer": "B",
+      "explanation": "句意为“昨天课后我们被叫到了老师办公室”。人是被叫的，时间是过去，用 were called。"
+    },
+    {
+      "id": 14,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "A terrible traffic accident _______ near the park yesterday.",
+      "options": {
+        "A": "was happened",
+        "B": "happened",
+        "C": "is happened",
+        "D": "happening"
+      },
+      "answer": "B",
+      "explanation": "【避坑易错题】happen 是不及物动词，没有被动语态！绝对不能说 was happened。直接用过去式 happened。"
+    },
+    {
+      "id": 15,
+      "level": "Primary (P4-P6)",
+      "type": "multiple_choice",
+      "question": "Fresh water _______ by everyone in our daily life.",
+      "options": {
+        "A": "should save",
+        "B": "should be saved",
+        "C": "should saved",
+        "D": "is saved"
+      },
+      "answer": "B",
+      "explanation": "句意：每个人在日常生活中都应该节约淡水。水是被节约的，含有情态动词 should，故用 should be saved。"
+    },
+    {
+      "id": 16,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "A brand new modern library _______ in our school since last month.",
+      "options": {
+        "A": "is built",
+        "B": "was built",
+        "C": "has been built",
+        "D": "had been built"
+      },
+      "answer": "C",
+      "explanation": "考查现在完成时的被动语态。时间状语 since last month 配合现在完成时，结构为 has/have been + 过去分词。"
+    },
+    {
+      "id": 17,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Listen! A beautiful melody _______ on the piano by someone in the music room.",
+      "options": {
+        "A": "is played",
+        "B": "is being played",
+        "C": "was being played",
+        "D": "has played"
+      },
+      "answer": "B",
+      "explanation": "考查现在进行时的被动语态。由提示词 Listen! 可知动作正在进行，结构为 is/are being + 过去分词 (is being played)。"
+    },
+    {
+      "id": 18,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The sick puppy was well _______ by the volunteers at the animal shelter.",
+      "options": {
+        "A": "looked after",
+        "B": "looked",
+        "C": "looking after",
+        "D": "look after"
+      },
+      "answer": "A",
+      "explanation": "考查短语动词的被动形式。look after 是固定短语，变被动语态时介词 after 绝不能遗漏，即 was looked after。"
+    },
+    {
+      "id": 19,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "When I walked past the hall, the stage _______ for the evening concert.",
+      "options": {
+        "A": "was prepared",
+        "B": "was being prepared",
+        "C": "is being prepared",
+        "D": "had prepared"
+      },
+      "answer": "B",
+      "explanation": "考查过去进行时的被动语态。表示过去某一具体时刻（When I walked past...）正在被进行的动作，结构为 was/were being + V3。"
+    },
+    {
+      "id": 20,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "By the time the firefighters arrived, the old wooden building _______ down completely.",
+      "options": {
+        "A": "has been burnt",
+        "B": "was burnt",
+        "C": "had been burnt",
+        "D": "would be burnt"
+      },
+      "answer": "C",
+      "explanation": "考查过去完成时的被动语态。By the time + 过去时从句，主句用过去完成时（过去的过去），表达“已经被烧毁”，故选 had been burnt。"
+    },
+    {
+      "id": 21,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "She _______ a valuable golden watch on her 18th birthday by her grandparents.",
+      "options": {
+        "A": "gave",
+        "B": "was given",
+        "C": "was give",
+        "D": "has given"
+      },
+      "answer": "B",
+      "explanation": "考查双宾语动词的被动语态。give sb sth 变为被动后，人做主语用 sb be given sth，故选 was given。"
+    },
+    {
+      "id": 22,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The final results of the national competition _______ on the official website next Monday.",
+      "options": {
+        "A": "will publish",
+        "B": "will be published",
+        "C": "are publishing",
+        "D": "have been published"
+      },
+      "answer": "B",
+      "explanation": "考查一般将来时的被动语态。时间为 next Monday，主语 results 被公布，用 will be published。"
+    },
+    {
+      "id": 23,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The talented young pianist expects _______ to perform at the royal concert hall.",
+      "options": {
+        "A": "to invite",
+        "B": "to be invited",
+        "C": "being invited",
+        "D": "inviting"
+      },
+      "answer": "B",
+      "explanation": "考查不定式的被动语态。expect to do sth（期待做某事），由于“她”是被邀请，故用不定式的被动结构 expect to be invited。"
+    },
+    {
+      "id": 24,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "It _______ that regular exercise combined with good sleep improves academic performance.",
+      "options": {
+        "A": "is believed",
+        "B": "believes",
+        "C": "was believing",
+        "D": "has believed"
+      },
+      "answer": "A",
+      "explanation": "考查固定被动句型 It is believed that...（人们相信……/据信……），It 为形式主语，that 从句为真正主语。"
+    },
+    {
+      "id": 25,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The mischievous boy was made _______ the whole classroom after school by his teacher.",
+      "options": {
+        "A": "clean",
+        "B": "to clean",
+        "C": "cleaned",
+        "D": "cleaning"
+      },
+      "answer": "B",
+      "explanation": "【高频考点】使役动词 make 在主动语态中用不带 to 的不定式（make sb do sth），但变为被动语态时必须补上 to（be made to do sth）。"
+    },
+    {
+      "id": 26,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The urgent letter was supposed to arrive yesterday; it _______ two days ago.",
+      "options": {
+        "A": "should send",
+        "B": "should be sent",
+        "C": "should have been sent",
+        "D": "must be sent"
+      },
+      "answer": "C",
+      "explanation": "考查情态动词对过去的虚拟/被动推测。should have been done 表示“本应该在过去被做却未做”，符合本句对过去事实的遗憾与指责。"
+    },
+    {
+      "id": 27,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "Nobody enjoys _______ at in public when they make a silly mistake.",
+      "options": {
+        "A": "laughing",
+        "B": "being laughed",
+        "C": "to be laughed",
+        "D": "being laughed at"
+      },
+      "answer": "D",
+      "explanation": "考查动名词的被动语态及短语介词保留。enjoy 后接 V-ing 形式，laugh at 为固定短语变被动介词 at 不能漏掉，故选 being laughed at。"
+    },
+    {
+      "id": 28,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "These safety regulations must be strictly _______ by all employees.",
+      "options": {
+        "A": "complied with",
+        "B": "complied",
+        "C": "complying with",
+        "D": "comply"
+      },
+      "answer": "A",
+      "explanation": "考查短语动词 comply with（遵守）的被动语态。情态动词 must + be + 过去分词短语，介词 with 必须保留。"
+    },
+    {
+      "id": 29,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The roasted chicken smells so delicious that my mouth _______ water.",
+      "options": {
+        "A": "is made to",
+        "B": "makes to",
+        "C": "is making",
+        "D": "makes"
+      },
+      "answer": "D",
+      "explanation": "【陷阱辨析】make one's mouth water（令人流口水）是固定主动习惯表达。此外表示感官/属性的动词如 smell, taste 常用主动形式表示被动或状态。"
+    },
+    {
+      "id": 30,
+      "level": "Secondary (Form 1-5)",
+      "type": "multiple_choice",
+      "question": "The ancient glass artifact is extremely delicate; it needs to _______ with extreme care.",
+      "options": {
+        "A": "be handled",
+        "B": "handle",
+        "C": "have handled",
+        "D": "being handled"
+      },
+      "answer": "A",
+      "explanation": "考查 need to be done 结构。主语 it（文物）与 handle（拿取/处理）是被动关系，need to 后接不定式被动结构 to be handled。"
+    }
+  ]
+}
